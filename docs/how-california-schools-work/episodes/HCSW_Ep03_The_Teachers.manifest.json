@@ -3,12 +3,12 @@
   "show": "how-california-schools-work",
   "episode": 3,
   "title": "The Teachers",
-  "release_version": "2026.2",
-  "release_tag": "how-california-schools-work-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "how-california-schools-work-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep03_The_Teachers.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep03_The_Teachers.mp3",
     "bytes": 4485958,
-    "sha256": "0d602cb4352cce53d45de3a453957ef5a94c08093c1e64868fedd17d9cc29a4c"
+    "sha256": "2e2bb80bfb0c038ab83a87a2fec93313745fad42ad512d6606a0cff0579fb568"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep03_The_Teachers.html",

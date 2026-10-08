@@ -25,7 +25,7 @@
       <link>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep10_So_Now_What.html</link>
       <guid isPermaLink="false">133c0297-bc8a-5362-a0bb-bb1b93f817c8</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep10_So_Now_What.mp3" length="3725483" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep10_So_Now_What.mp3" length="3725483" type="audio/mpeg" />
       <itunes:episode>10</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:duration>322</itunes:duration>
@@ -39,8 +39,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep10_So_Now_What.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep10_So_Now_What.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep10_So_Now_What.provenance.json</podhost:provenance>
-      <podhost:sha256>b250ecc00e0b97bcbeb87291169b69b35d8d57a4d11fe4336db94dfa0eea2242</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>dfd3d482fdcef9e3a5a52bb38aa019fdbf02e2fb7c578363fd37f6465b2da40f</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>Measuring Success</title>
@@ -48,7 +48,7 @@
       <link>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep09_Measuring_Success.html</link>
       <guid isPermaLink="false">736299af-4f08-5e0b-92fd-46a0014c71df</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep09_Measuring_Success.mp3" length="6623661" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep09_Measuring_Success.mp3" length="6623661" type="audio/mpeg" />
       <itunes:episode>9</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:duration>580</itunes:duration>
@@ -62,8 +62,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep09_Measuring_Success.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep09_Measuring_Success.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep09_Measuring_Success.provenance.json</podhost:provenance>
-      <podhost:sha256>e15b6d8cc774b8f4cdc5b68276eb4edbb70692524e7ffd6f3ac273aa8b883465</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>adf9915fe91c3f18bf093a845bb4a68c1b176e5192380ed781d818097c4f6c2c</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>Follow the Money</title>
@@ -71,7 +71,7 @@
       <link>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep08_Follow_the_Money.html</link>
       <guid isPermaLink="false">63772d88-d2eb-5ff5-b311-d19b5547d79d</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep08_Follow_the_Money.mp3" length="4917364" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep08_Follow_the_Money.mp3" length="4917364" type="audio/mpeg" />
       <itunes:episode>8</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:duration>430</itunes:duration>
@@ -85,8 +85,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep08_Follow_the_Money.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep08_Follow_the_Money.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep08_Follow_the_Money.provenance.json</podhost:provenance>
-      <podhost:sha256>99afbd9cccc307fd340c332907271601c40f37913497fe16bec69321e5a59893</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>a99b653c8fdaff3931c39b116bbc5737ee9bac4110ab1643aba967c475ce3bde</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>The System</title>
@@ -94,7 +94,7 @@
       <link>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep07_The_System.html</link>
       <guid isPermaLink="false">c0bfc783-9a8e-547a-9e77-c55501c69cc7</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep07_The_System.mp3" length="4310610" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep07_The_System.mp3" length="4310610" type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:duration>376</itunes:duration>
@@ -108,8 +108,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep07_The_System.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep07_The_System.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep07_The_System.provenance.json</podhost:provenance>
-      <podhost:sha256>7f7e751ecefa08ee63d1f3db34625b8b4d763a0b64348ee80ef28484ac52bff2</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>7b44718de51f7fd206ae8dfc22533d3b8fe7b295eafa7efa78077314f60c08da</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>The Right Stuff</title>
@@ -117,7 +117,7 @@
       <link>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep06_The_Right_Stuff.html</link>
       <guid isPermaLink="false">d8e2b113-826c-5d63-8c12-03e9cb77c3b8</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep06_The_Right_Stuff.mp3" length="4660252" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep06_The_Right_Stuff.mp3" length="4660252" type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:duration>406</itunes:duration>
@@ -131,8 +131,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep06_The_Right_Stuff.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep06_The_Right_Stuff.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep06_The_Right_Stuff.provenance.json</podhost:provenance>
-      <podhost:sha256>d8b94a8da1777edddbb73fac98a4fd9da39f18e46d98a15447263605e74a0166</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>c4d5aa8fab48ebc761e2569b03843f1e69af2394c8a0d46b29ac0aaabb14c5f3</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>Places for Learning</title>
@@ -140,7 +140,7 @@
       <link>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep05_Places_for_Learning.html</link>
       <guid isPermaLink="false">450c4113-431f-5955-b045-f5839f4be831</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep05_Places_for_Learning.mp3" length="4305315" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep05_Places_for_Learning.mp3" length="4305315" type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:duration>374</itunes:duration>
@@ -154,8 +154,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep05_Places_for_Learning.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep05_Places_for_Learning.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep05_Places_for_Learning.provenance.json</podhost:provenance>
-      <podhost:sha256>a30095daf93fe45271601d002e58a0d04645287851471541b7e274b22b68ce96</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>0b2d3b7fe8b69ead63ad6c505233673976f93ab1750291f094205a802596d7c9</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>Time to Learn</title>
@@ -163,7 +163,7 @@
       <link>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep04_Time_to_Learn.html</link>
       <guid isPermaLink="false">c540d15c-f55f-54c6-acb8-8ec03283adff</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep04_Time_to_Learn.mp3" length="4047111" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep04_Time_to_Learn.mp3" length="4047111" type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:duration>353</itunes:duration>
@@ -177,8 +177,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep04_Time_to_Learn.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep04_Time_to_Learn.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep04_Time_to_Learn.provenance.json</podhost:provenance>
-      <podhost:sha256>08683ba5671e205c68c2ac5bae1152c3f0319741291d23f69a1ab6d839c82533</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>50944724fad688ce8785713691617a3110056d7e3fdf0a18f6792a2e9e05bc72</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>The Teachers</title>
@@ -186,7 +186,7 @@
       <link>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep03_The_Teachers.html</link>
       <guid isPermaLink="false">8481908f-d427-5456-b905-48a4666dcda8</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep03_The_Teachers.mp3" length="4485958" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep03_The_Teachers.mp3" length="4485958" type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:duration>390</itunes:duration>
@@ -200,8 +200,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep03_The_Teachers.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep03_The_Teachers.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep03_The_Teachers.provenance.json</podhost:provenance>
-      <podhost:sha256>0d602cb4352cce53d45de3a453957ef5a94c08093c1e64868fedd17d9cc29a4c</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>2e2bb80bfb0c038ab83a87a2fec93313745fad42ad512d6606a0cff0579fb568</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>The Students</title>
@@ -209,7 +209,7 @@
       <link>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep02_The_Students.html</link>
       <guid isPermaLink="false">c14b7e86-f9ad-5866-9c12-b376898beb4f</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep02_The_Students.mp3" length="4053719" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep02_The_Students.mp3" length="4053719" type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:duration>353</itunes:duration>
@@ -223,8 +223,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep02_The_Students.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep02_The_Students.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep02_The_Students.provenance.json</podhost:provenance>
-      <podhost:sha256>4f5b4c960f8ed84f863c62f2260c3dd98242b74682a3846ee6575fee7c5a8e19</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>9c210e0c62e6fcf9a960e1762d539f1696913ec4228fcd13e9f762a00d5a184f</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>Why Schools Matter</title>
@@ -232,7 +232,7 @@
       <link>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep01_Why_Schools_Matter.html</link>
       <guid isPermaLink="false">994b20e6-5c10-59a9-974e-2c6b43a160c3</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep01_Why_Schools_Matter.mp3" length="4422737" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep01_Why_Schools_Matter.mp3" length="4422737" type="audio/mpeg" />
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:duration>383</itunes:duration>
@@ -246,8 +246,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep01_Why_Schools_Matter.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep01_Why_Schools_Matter.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep01_Why_Schools_Matter.provenance.json</podhost:provenance>
-      <podhost:sha256>fe92e8d13edf3d5b21545c9b6537c0b28d391f0dd8360c6e69da45e0ee0337ae</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>73ea14cba67af87013f54e4531356921b9371f4757b9559fc39d23b521d90f9f</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
   </channel>
 </rss>

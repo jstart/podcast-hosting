@@ -3,12 +3,12 @@
   "show": "how-california-schools-work",
   "episode": 9,
   "title": "Measuring Success",
-  "release_version": "2026.2",
-  "release_tag": "how-california-schools-work-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "how-california-schools-work-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep09_Measuring_Success.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep09_Measuring_Success.mp3",
     "bytes": 6623661,
-    "sha256": "e15b6d8cc774b8f4cdc5b68276eb4edbb70692524e7ffd6f3ac273aa8b883465"
+    "sha256": "adf9915fe91c3f18bf093a845bb4a68c1b176e5192380ed781d818097c4f6c2c"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep09_Measuring_Success.html",

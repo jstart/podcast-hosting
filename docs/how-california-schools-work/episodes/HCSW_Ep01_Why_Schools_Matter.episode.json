@@ -6,19 +6,19 @@
   "explicit": false,
   "duration_seconds": 383.471,
   "enclosure_bytes": 4422737,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep01_Why_Schools_Matter.mp3",
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep01_Why_Schools_Matter.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep01_Why_Schools_Matter.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep01_Why_Schools_Matter.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/artwork/ep01.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep01_Why_Schools_Matter.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "381f901cd3488d628e90068381aba8b0d85b2f6f8e6e002b4868a00762db71cc",
-    "audio_sha256": "fe92e8d13edf3d5b21545c9b6537c0b28d391f0dd8360c6e69da45e0ee0337ae"
+    "transcript_sha256": "04fd43298ad14a4eb21162de82dd011fd38e966e651e107fd28d3dd8ff9b06a0",
+    "audio_sha256": "73ea14cba67af87013f54e4531356921b9371f4757b9559fc39d23b521d90f9f"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep01_Why_Schools_Matter.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep01_Why_Schools_Matter.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep01_Why_Schools_Matter.provenance.json",
-  "release_tag": "how-california-schools-work-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "how-california-schools-work-v2026.3",
+  "release_version": "2026.3"
 }

@@ -3,12 +3,12 @@
   "show": "how-california-schools-work",
   "episode": 10,
   "title": "So Now What?",
-  "release_version": "2026.2",
-  "release_tag": "how-california-schools-work-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "how-california-schools-work-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep10_So_Now_What.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep10_So_Now_What.mp3",
     "bytes": 3725483,
-    "sha256": "b250ecc00e0b97bcbeb87291169b69b35d8d57a4d11fe4336db94dfa0eea2242"
+    "sha256": "dfd3d482fdcef9e3a5a52bb38aa019fdbf02e2fb7c578363fd37f6465b2da40f"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep10_So_Now_What.html",

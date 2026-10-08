@@ -16,6 +16,29 @@
       "transcript_sha256": "6bcfc35062ae4b6f5b30cf05e1b094c946be4cfd7f6239e44dcac811946564f3",
       "audio_sha256": "99afbd9cccc307fd340c332907271601c40f37913497fe16bec69321e5a59893",
       "supersedes": null
+    },
+    {
+      "production_version": "2026.3",
+      "tts_model": {
+        "repo": "thewh1teagle/kokoro-onnx",
+        "revision": "model-files-v1.0"
+      },
+      "asr_model": {
+        "repo": "Systran/faster-whisper-small.en",
+        "revision": "d1d751a5f8271d482d14ca55d9e2deeebbae577f"
+      },
+      "audio_source": "Kokoro narration generated and ASR-verified through the 2026.2 shared pipeline",
+      "source_retrieval_date": "2026-10-08",
+      "transcript_sha256": "6bcfc35062ae4b6f5b30cf05e1b094c946be4cfd7f6239e44dcac811946564f3",
+      "audio_sha256": "a99b653c8fdaff3931c39b116bbc5737ee9bac4110ab1643aba967c475ce3bde",
+      "supersedes": "2026.2",
+      "voice_reference": null,
+      "render": {
+        "tts_device": null,
+        "tts_cache_key": null,
+        "asr_enabled": true,
+        "max_asr_attempts": 3
+      }
     }
   ]
 }

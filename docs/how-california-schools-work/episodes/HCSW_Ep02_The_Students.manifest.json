@@ -3,12 +3,12 @@
   "show": "how-california-schools-work",
   "episode": 2,
   "title": "The Students",
-  "release_version": "2026.2",
-  "release_tag": "how-california-schools-work-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "how-california-schools-work-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep02_The_Students.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep02_The_Students.mp3",
     "bytes": 4053719,
-    "sha256": "4f5b4c960f8ed84f863c62f2260c3dd98242b74682a3846ee6575fee7c5a8e19"
+    "sha256": "9c210e0c62e6fcf9a960e1762d539f1696913ec4228fcd13e9f762a00d5a184f"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep02_The_Students.html",

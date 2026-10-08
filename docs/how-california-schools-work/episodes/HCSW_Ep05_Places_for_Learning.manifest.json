@@ -3,12 +3,12 @@
   "show": "how-california-schools-work",
   "episode": 5,
   "title": "Places for Learning",
-  "release_version": "2026.2",
-  "release_tag": "how-california-schools-work-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "how-california-schools-work-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep05_Places_for_Learning.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep05_Places_for_Learning.mp3",
     "bytes": 4305315,
-    "sha256": "a30095daf93fe45271601d002e58a0d04645287851471541b7e274b22b68ce96"
+    "sha256": "0b2d3b7fe8b69ead63ad6c505233673976f93ab1750291f094205a802596d7c9"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep05_Places_for_Learning.html",

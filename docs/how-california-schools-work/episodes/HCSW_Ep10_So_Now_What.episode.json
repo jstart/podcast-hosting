@@ -6,19 +6,19 @@
   "explicit": false,
   "duration_seconds": 321.844,
   "enclosure_bytes": 3725483,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep10_So_Now_What.mp3",
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep10_So_Now_What.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep10_So_Now_What.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep10_So_Now_What.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/artwork/ep10.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep10_So_Now_What.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "e6f8fa4c0ce53da3164e2318bb94618d7b1c4bbe60532349110ea92e6e4fdf5d",
-    "audio_sha256": "b250ecc00e0b97bcbeb87291169b69b35d8d57a4d11fe4336db94dfa0eea2242"
+    "transcript_sha256": "46a2a9ed1a0550d9ef80c2efd4788c09012cb17cfa9abcd9052e854a170ba308",
+    "audio_sha256": "dfd3d482fdcef9e3a5a52bb38aa019fdbf02e2fb7c578363fd37f6465b2da40f"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep10_So_Now_What.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep10_So_Now_What.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep10_So_Now_What.provenance.json",
-  "release_tag": "how-california-schools-work-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "how-california-schools-work-v2026.3",
+  "release_version": "2026.3"
 }

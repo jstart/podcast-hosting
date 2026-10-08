@@ -3,12 +3,12 @@
   "show": "how-california-schools-work",
   "episode": 1,
   "title": "Why Schools Matter",
-  "release_version": "2026.2",
-  "release_tag": "how-california-schools-work-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "how-california-schools-work-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep01_Why_Schools_Matter.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.3/HCSW_Ep01_Why_Schools_Matter.mp3",
     "bytes": 4422737,
-    "sha256": "fe92e8d13edf3d5b21545c9b6537c0b28d391f0dd8360c6e69da45e0ee0337ae"
+    "sha256": "73ea14cba67af87013f54e4531356921b9371f4757b9559fc39d23b521d90f9f"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep01_Why_Schools_Matter.html",
