@@ -1,0 +1,22 @@
+{
+  "stable_guid": "1348acd2-e397-5733-8c59-924ac188f2e1",
+  "show": "census-academy",
+  "episode": 6,
+  "title": "Find Tables and Profiles",
+  "release_version": "2026.2",
+  "release_tag": "census-academy-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep06_Find_Tables_and_Profiles.mp3",
+    "bytes": 1409023,
+    "sha256": "b2f42da81e7b5fe6bf77e333b5e20c1a2c3720b1e698a008ceb7ad541ae7e1a7"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep06.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.provenance.json"
+  }
+}

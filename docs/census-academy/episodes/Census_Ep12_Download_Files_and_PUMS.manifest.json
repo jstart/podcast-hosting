@@ -1,0 +1,22 @@
+{
+  "stable_guid": "cb5f15b5-d89a-5486-b89c-30df0976f969",
+  "show": "census-academy",
+  "episode": 12,
+  "title": "Download Files and PUMS",
+  "release_version": "2026.2",
+  "release_tag": "census-academy-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep12_Download_Files_and_PUMS.mp3",
+    "bytes": 1482262,
+    "sha256": "1324026fd6635c158db1a1d59c79fcee41d5a546e3c79f996d54b241069f2295"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep12.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.provenance.json"
+  }
+}

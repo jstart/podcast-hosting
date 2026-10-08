@@ -1,0 +1,26 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Transportation Land Use Modeling and Policy",
+      "author": "Qisheng Pan; Soheil Sharifi",
+      "cover_author": "Qisheng Pan & Soheil Sharifi",
+      "publisher": "Mavs Open Press, University of Texas at Arlington",
+      "url": "https://uta.pressbooks.pub/oertransportlanduse/",
+      "license": "Adapted under CC BY-NC-SA 4.0; \u00a9 2024 Qisheng Pan and Soheil Sharifi; excludes third-party items noted in the source"
+    },
+    {
+      "title": "Transportation Analysis Requirements for Private Development",
+      "author": "City of Torrance",
+      "publisher": "City of Torrance",
+      "url": "https://www.torranceca.gov/Government/Departments-Offices/Departments-Offices/Public-Works/Traffic-Engineering/Transportation-Analysis-Requirements-for-Private-Development",
+      "license": "No broad open license identified; current public requirements summarized in original language with attribution"
+    }
+  ]
+}

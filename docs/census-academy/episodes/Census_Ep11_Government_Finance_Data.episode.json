@@ -1,0 +1,24 @@
+{
+  "guid": "9e30b141-8579-5685-8f89-8720e26d3a25",
+  "publication_date": "2026-10-08T04:00:00Z",
+  "season": 1,
+  "episode": 11,
+  "explicit": false,
+  "duration_seconds": 119.519,
+  "enclosure_bytes": 1471931,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep11_Government_Finance_Data.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep11.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "ce01be8083461176ed7456cda8223e0bed1971f8477e01504d561188e661014f",
+    "audio_sha256": "0a6c2cc6b1ba592b09a5d9fd36573ad7c151fea30238584b32d892cf0a2b48a0"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.provenance.json",
+  "release_tag": "census-academy-v2026.2",
+  "release_version": "2026.2"
+}

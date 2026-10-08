@@ -1,0 +1,337 @@
+{
+  "id": "transportation-land-use-modeling",
+  "title": "Transportation and Land Use Models",
+  "album": "Transportation and Land Use Models: A Thirteen-Episode Course",
+  "description": "A 13-episode course on integrated transportation and land-use modeling, data, scenarios, trip generation, mode choice, and feedback.",
+  "version": "2026.2",
+  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "stable_feed_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/feed.xml",
+  "release_url": "https://github.com/jstart/podcast-hosting/releases/tag/transportation-land-use-modeling-v2026.2",
+  "episodes": [
+    {
+      "stable_guid": "60ce8706-079c-5665-aadd-89312a5e86b1",
+      "show": "transportation-land-use-modeling",
+      "episode": 1,
+      "title": "Why Integrate Transportation and Land Use",
+      "release_version": "2026.2",
+      "release_tag": "transportation-land-use-modeling-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.mp3",
+        "bytes": 2082023,
+        "sha256": "e9d124fe19bcf645b4a864f75bc068dd5ca59895b1eaec5d3469687d6e1cff77"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep01.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.provenance.json"
+      },
+      "summary": "Introduces integrated modeling, mobility, accessibility, externalities, equity, and scenario analysis, with a Torrance application.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 169.273
+    },
+    {
+      "stable_guid": "e5f00e71-44da-5ac4-a374-8f456a99b441",
+      "show": "transportation-land-use-modeling",
+      "episode": 2,
+      "title": "How Urban Transportation Planning Evolved",
+      "release_version": "2026.2",
+      "release_tag": "transportation-land-use-modeling-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.mp3",
+        "bytes": 2092414,
+        "sha256": "9b46f200a0ea1215356b0aec789294bbee10597b994192207968f9e313a833b4"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep02.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.provenance.json"
+      },
+      "summary": "Connects transport technologies, urban form, automobile growth, and contemporary planning issues before applying the history to Torrance.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 172.342
+    },
+    {
+      "stable_guid": "1a720dde-379d-5cce-864f-6de8601c3f34",
+      "show": "transportation-land-use-modeling",
+      "episode": 3,
+      "title": "The Integrated Modeling Process",
+      "release_version": "2026.2",
+      "release_tag": "transportation-land-use-modeling-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep03_The_Integrated_Modeling_Process.mp3",
+        "bytes": 2076224,
+        "sha256": "d9076649fa42abec832b1efe9a311f668dd9b2d4300a71e83d670447b2070655"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep03_The_Integrated_Modeling_Process.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep03.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep03_The_Integrated_Modeling_Process.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep03_The_Integrated_Modeling_Process.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep03_The_Integrated_Modeling_Process.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep03_The_Integrated_Modeling_Process.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep03_The_Integrated_Modeling_Process.provenance.json"
+      },
+      "summary": "Explains feedback, model components, evaluation criteria, and scenario workflows, with a separate Torrance application.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 170.637
+    },
+    {
+      "stable_guid": "a63bf568-ecae-5d24-9275-54ef1aa226f2",
+      "show": "transportation-land-use-modeling",
+      "episode": 4,
+      "title": "Urban Form and Transportation Interaction",
+      "release_version": "2026.2",
+      "release_tag": "transportation-land-use-modeling-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.mp3",
+        "bytes": 2064721,
+        "sha256": "04042914a5cefd24b5a674ca3eb209811418b80ce958a6ce535987f266edc316"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep04.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.provenance.json"
+      },
+      "summary": "Examines density, centers, networks, accessibility, job matching, and travel patterns, followed by a Torrance application.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 169.32
+    },
+    {
+      "stable_guid": "3aa0c569-8ed8-57f1-8801-5c668d5c55f5",
+      "show": "transportation-land-use-modeling",
+      "episode": 5,
+      "title": "Land Suitability Analysis",
+      "release_version": "2026.2",
+      "release_tag": "transportation-land-use-modeling-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep05_Land_Suitability_Analysis.mp3",
+        "bytes": 1992486,
+        "sha256": "84ff9d28d95b93e23e3b1fa1b7970eb6ac94c87772fe17072eabae050847102d"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep05.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.provenance.json"
+      },
+      "summary": "Builds a transparent suitability workflow from criteria, spatial data, weighting, overlays, and sensitivity testing, with a Torrance example.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 164.159
+    },
+    {
+      "stable_guid": "2720e030-8eb9-5ebe-9cea-0929575fde0c",
+      "show": "transportation-land-use-modeling",
+      "episode": 6,
+      "title": "The Lowry Model",
+      "release_version": "2026.2",
+      "release_tag": "transportation-land-use-modeling-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep06_The_Lowry_Model.mp3",
+        "bytes": 1917597,
+        "sha256": "e37f76cb63bd30e499515eec9758505f4acea6ae690e492e464047872e26db72"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep06.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.provenance.json"
+      },
+      "summary": "Explains basic and service employment, household allocation, accessibility, iteration, calibration, and limits, then applies the concepts locally.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 159.619
+    },
+    {
+      "stable_guid": "7b2d4962-5a0a-58ca-b9af-6d8009c99bf9",
+      "show": "transportation-land-use-modeling",
+      "episode": 7,
+      "title": "The Southern California Planning Model",
+      "release_version": "2026.2",
+      "release_tag": "transportation-land-use-modeling-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep07_The_Southern_California_Planning_Model.mp3",
+        "bytes": 1957939,
+        "sha256": "e599c683ca4b439b71ef7ca79f5e2a592662a53fb00f1fe8cd44fecd77df4852"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep07.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.provenance.json"
+      },
+      "summary": "Studies the regional Southern California Planning Model and scenario uses while distinguishing it from an official Torrance forecast.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 158.797
+    },
+    {
+      "stable_guid": "4065717a-b054-5fed-a295-5b770c151d54",
+      "show": "transportation-land-use-modeling",
+      "episode": 8,
+      "title": "MEPLAN, TRANUS, TELUM, and PECAS",
+      "release_version": "2026.2",
+      "release_tag": "transportation-land-use-modeling-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.mp3",
+        "bytes": 2016063,
+        "sha256": "ee0028a8ad2eb9806095414d51365aede7d676d2c194c1d5b00c6605d141b122"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep08.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.provenance.json"
+      },
+      "summary": "Compares four integrated land-use and transport model families, their structures, data needs, and policy uses, with a Torrance scoping exercise.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 166.039
+    },
+    {
+      "stable_guid": "cdb15b2a-6323-54f7-af90-06ffa830d1a0",
+      "show": "transportation-land-use-modeling",
+      "episode": 9,
+      "title": "Travel Demand Modeling and Data",
+      "release_version": "2026.2",
+      "release_tag": "transportation-land-use-modeling-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep09_Travel_Demand_Modeling_and_Data.mp3",
+        "bytes": 1927463,
+        "sha256": "33ef422acb346e4f0c3ae8a7f1b60c2b601f92ee360f88a87ff80ef6d5b1ba60"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep09_Travel_Demand_Modeling_and_Data.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep09.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep09_Travel_Demand_Modeling_and_Data.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep09_Travel_Demand_Modeling_and_Data.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep09_Travel_Demand_Modeling_and_Data.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep09_Travel_Demand_Modeling_and_Data.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep09_Travel_Demand_Modeling_and_Data.provenance.json"
+      },
+      "summary": "Introduces travel-demand frameworks, zones, networks, surveys, observed data, validation, and uncertainty, followed by a Torrance application.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 156.35
+    },
+    {
+      "stable_guid": "89dec883-e613-5998-ada0-93f37c999a53",
+      "show": "transportation-land-use-modeling",
+      "episode": 10,
+      "title": "Trip Generation",
+      "release_version": "2026.2",
+      "release_tag": "transportation-land-use-modeling-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep10_Trip_Generation.mp3",
+        "bytes": 2380408,
+        "sha256": "1e532cb209fd60f829e9fb659d62fe55938fb9230467622a0c5eac160495cec3"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep10.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.provenance.json"
+      },
+      "summary": "Explains trip productions, attractions, purposes, rates, regression, balancing, and sensitivity, with a separate Torrance development-review application.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 198.711
+    },
+    {
+      "stable_guid": "eeffe2f0-f74e-5510-a7aa-d925dc74a994",
+      "show": "transportation-land-use-modeling",
+      "episode": 11,
+      "title": "Trip Distribution",
+      "release_version": "2026.2",
+      "release_tag": "transportation-land-use-modeling-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep11_Trip_Distribution.mp3",
+        "bytes": 2491012,
+        "sha256": "53d41eb20dcdf69a9225bed0a86cc1cfaf3d756929c562d8bfe46c9dc22f15f5"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep11.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.provenance.json"
+      },
+      "summary": "Explains growth-factor and gravity approaches, friction factors, calibration, and origin-destination patterns, followed by a Torrance application.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 209.293
+    },
+    {
+      "stable_guid": "e383c2f9-41a1-5697-9981-fca5e3a32715",
+      "show": "transportation-land-use-modeling",
+      "episode": 12,
+      "title": "Mode Choice",
+      "release_version": "2026.2",
+      "release_tag": "transportation-land-use-modeling-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep12_Mode_Choice.mp3",
+        "bytes": 2519493,
+        "sha256": "9a6b4fe32d9e8ab06d446f56c189aed3697b2709b4540828cb9877beddb12d8f"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep12.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.provenance.json"
+      },
+      "summary": "Introduces utility, generalized cost, logit probability, market segmentation, and policy sensitivity, with a Torrance transit application.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 211.92
+    },
+    {
+      "stable_guid": "f4f63e0d-0824-56b8-97fe-efc7e54435cd",
+      "show": "transportation-land-use-modeling",
+      "episode": 13,
+      "title": "Trip Assignment and Feedback",
+      "release_version": "2026.2",
+      "release_tag": "transportation-land-use-modeling-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep13_Trip_Assignment_and_Feedback.mp3",
+        "bytes": 2583783,
+        "sha256": "8a77f335fdaeb92b357580cc29f3b76674e598a06068740a528970b9291e1bd6"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep13_Trip_Assignment_and_Feedback.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep13.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep13_Trip_Assignment_and_Feedback.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep13_Trip_Assignment_and_Feedback.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep13_Trip_Assignment_and_Feedback.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep13_Trip_Assignment_and_Feedback.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep13_Trip_Assignment_and_Feedback.provenance.json"
+      },
+      "summary": "Explains network paths, volume-delay relationships, equilibrium, assignment methods, feedback, and validation, then applies the concepts to Torrance.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 214.315
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stable_guid": "174b5ff0-7312-53f9-a4bf-f861198ae076",
+  "show": "transportation-policies-programs-history",
+  "episode": 2,
+  "title": "From Long-Range Plans to Travel Models",
+  "release_version": "2026.2",
+  "release_tag": "transportation-policies-programs-history-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.mp3",
+    "bytes": 2338635,
+    "sha256": "5ff3b3aaf1db078d77a18940a4e0f8ff1e568ae6d44532a50321ce0cbddea4b3"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep02.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.provenance.json"
+  }
+}

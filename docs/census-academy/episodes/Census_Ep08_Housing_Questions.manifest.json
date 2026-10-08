@@ -1,0 +1,22 @@
+{
+  "stable_guid": "44cdef5d-d1ad-5462-95e5-5951268eeb2e",
+  "show": "census-academy",
+  "episode": 8,
+  "title": "Housing Questions",
+  "release_version": "2026.2",
+  "release_tag": "census-academy-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep08_Housing_Questions.mp3",
+    "bytes": 1428972,
+    "sha256": "c340d10c98e9db46f658970ba6f009294674f6a7f32e4fdcfc1a364aae9d50fc"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep08.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.provenance.json"
+  }
+}

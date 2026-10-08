@@ -1,0 +1,22 @@
+{
+  "stable_guid": "1f0de947-bccd-5145-bce3-86e9dae74b20",
+  "show": "census-academy",
+  "episode": 7,
+  "title": "Build a Reproducible API Query",
+  "release_version": "2026.2",
+  "release_tag": "census-academy-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep07_Build_a_Reproducible_API_Query.mp3",
+    "bytes": 1427614,
+    "sha256": "4dd3449f64b31eb6e9fd4636a6c9ea3c1804a2047a8f720e42dec1e75858729d"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep07.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.provenance.json"
+  }
+}

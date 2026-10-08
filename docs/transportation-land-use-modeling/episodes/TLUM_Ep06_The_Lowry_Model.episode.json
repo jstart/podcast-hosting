@@ -1,0 +1,24 @@
+{
+  "guid": "2720e030-8eb9-5ebe-9cea-0929575fde0c",
+  "publication_date": "2026-10-08T04:30:00Z",
+  "season": 1,
+  "episode": 6,
+  "explicit": false,
+  "duration_seconds": 159.619,
+  "enclosure_bytes": 1917597,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep06_The_Lowry_Model.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep06.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "9a41a4826c3e5e96531c332a014e2e07fc0049faec53d24633663ccc14b6f95c",
+    "audio_sha256": "e37f76cb63bd30e499515eec9758505f4acea6ae690e492e464047872e26db72"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.provenance.json",
+  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "release_version": "2026.2"
+}

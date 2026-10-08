@@ -1,0 +1,14 @@
+{
+  "artwork_alt": "Gold civic data line art and ivory episode title on a deep navy background.",
+  "transcript_language": "eng",
+  "speaker": "Synthetic narration using the production voice reference",
+  "acronym_expansions": {},
+  "descriptive_chapters": [
+    "This episode focuses on API construction",
+    "A Census Data API request combines a year...",
+    "The get clause selects fields",
+    "Check returned headers and geography codes before converting...",
+    "Torrance application segment",
+    "Keep a reproducibility packet containing the question, source..."
+  ]
+}

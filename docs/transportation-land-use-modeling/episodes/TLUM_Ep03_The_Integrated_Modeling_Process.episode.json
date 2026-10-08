@@ -1,0 +1,24 @@
+{
+  "guid": "1a720dde-379d-5cce-864f-6de8601c3f34",
+  "publication_date": "2026-10-08T04:30:00Z",
+  "season": 1,
+  "episode": 3,
+  "explicit": false,
+  "duration_seconds": 170.637,
+  "enclosure_bytes": 2076224,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep03_The_Integrated_Modeling_Process.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep03_The_Integrated_Modeling_Process.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep03_The_Integrated_Modeling_Process.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep03.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep03_The_Integrated_Modeling_Process.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "1e2523c65769229f989945c4cd74debc29c23c38950264266a55468b986a20de",
+    "audio_sha256": "d9076649fa42abec832b1efe9a311f668dd9b2d4300a71e83d670447b2070655"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep03_The_Integrated_Modeling_Process.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep03_The_Integrated_Modeling_Process.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep03_The_Integrated_Modeling_Process.provenance.json",
+  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "release_version": "2026.2"
+}

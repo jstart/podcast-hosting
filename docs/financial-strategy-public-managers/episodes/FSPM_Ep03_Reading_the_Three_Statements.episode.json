@@ -1,0 +1,24 @@
+{
+  "guid": "6633a78a-da18-577b-a871-485b520f295e",
+  "publication_date": "2026-10-08T04:00:00Z",
+  "season": 1,
+  "episode": 3,
+  "explicit": false,
+  "duration_seconds": 211.542,
+  "enclosure_bytes": 2510399,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep03_Reading_the_Three_Statements.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep03_Reading_the_Three_Statements.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep03_Reading_the_Three_Statements.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep03.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep03_Reading_the_Three_Statements.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "400fe44986366850548fd9e31c1b7e1897195cc2b284fadce202280b9eb42f5e",
+    "audio_sha256": "56c7b2f6771b78d05c871bea1e835f0f8af50d57297ffacfe82dafe2d083c153"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep03_Reading_the_Three_Statements.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep03_Reading_the_Three_Statements.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep03_Reading_the_Three_Statements.provenance.json",
+  "release_tag": "financial-strategy-public-managers-v2026.2",
+  "release_version": "2026.2"
+}

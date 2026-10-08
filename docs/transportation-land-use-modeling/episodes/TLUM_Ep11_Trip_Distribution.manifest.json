@@ -1,0 +1,22 @@
+{
+  "stable_guid": "eeffe2f0-f74e-5510-a7aa-d925dc74a994",
+  "show": "transportation-land-use-modeling",
+  "episode": 11,
+  "title": "Trip Distribution",
+  "release_version": "2026.2",
+  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep11_Trip_Distribution.mp3",
+    "bytes": 2491012,
+    "sha256": "53d41eb20dcdf69a9225bed0a86cc1cfaf3d756929c562d8bfe46c9dc22f15f5"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep11.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.provenance.json"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "guid": "8a2e67e7-7cab-5fe6-8d55-d688d1f060ca",
+  "publication_date": "2026-10-08T05:00:00Z",
+  "season": 1,
+  "episode": 3,
+  "explicit": false,
+  "duration_seconds": 160.749,
+  "enclosure_bytes": 1940938,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep03_Engagement_That_Can_Change_the_Plan.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep03_Engagement_That_Can_Change_the_Plan.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep03_Engagement_That_Can_Change_the_Plan.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/artwork/ep03.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep03_Engagement_That_Can_Change_the_Plan.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "8a8ff5ad04de051185db7014d9150c55e198b6dc87c955b06c49cc0eedf18a2f",
+    "audio_sha256": "cb56ab23cfeb4147daa16946408dc998c49dd8425a3ed009b0f5e9879a6a28cb"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep03_Engagement_That_Can_Change_the_Plan.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep03_Engagement_That_Can_Change_the_Plan.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep03_Engagement_That_Can_Change_the_Plan.provenance.json",
+  "release_tag": "environmental-justice-land-use-planning-v2026.2",
+  "release_version": "2026.2"
+}

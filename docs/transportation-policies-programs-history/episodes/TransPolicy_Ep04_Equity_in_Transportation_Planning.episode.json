@@ -1,0 +1,24 @@
+{
+  "guid": "4bc8957c-588f-53b2-a6f6-a4fefa2f827a",
+  "publication_date": "2026-10-08T04:30:00Z",
+  "season": 1,
+  "episode": 4,
+  "explicit": false,
+  "duration_seconds": 180.631,
+  "enclosure_bytes": 2183463,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep04_Equity_in_Transportation_Planning.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep04.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "4186502f9e91c2735f35c12411c6542d901c47c6bfa387578599ba6436b83a14",
+    "audio_sha256": "0458d19db7aeda39b552c62b1e77825d5a97c7c685ecb588563d674ad81e9814"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.provenance.json",
+  "release_tag": "transportation-policies-programs-history-v2026.2",
+  "release_version": "2026.2"
+}

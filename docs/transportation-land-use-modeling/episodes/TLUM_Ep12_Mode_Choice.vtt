@@ -1,0 +1,141 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.752
+Mode choice estimates how travelers divide among available ways of making a trip.
+
+2
+00:00:04.752 --> 00:00:15.311
+The source chapter places this step after trip distribution in the traditional four-step model, while also recognizing that mode, destination, time, and other choices can interact.
+
+3
+00:00:15.311 --> 00:00:19.653
+A mode is not truly available merely because it appears in a network file.
+
+4
+00:00:19.653 --> 00:00:25.988
+The traveler must be able to reach it, afford it, use it safely, and complete the trip at the required time.
+
+5
+00:00:25.988 --> 00:00:29.273
+Analysts describe alternatives through generalized cost.
+
+6
+00:00:29.273 --> 00:00:36.137
+This can combine in-vehicle time, waiting, walking, transfers, fares, tolls, parking, reliability, and other burdens.
+
+7
+00:00:36.137 --> 00:00:39.364
+Different travelers value those attributes differently.
+
+8
+00:00:39.364 --> 00:00:46.755
+Income, age, disability, household responsibilities, vehicle access, trip purpose, and time constraints can all affect choice.
+
+9
+00:00:46.755 --> 00:00:51.097
+Discrete-choice models represent each alternative with a utility function.
+
+10
+00:00:51.097 --> 00:00:54.558
+A logit model converts relative utility into probabilities.
+
+11
+00:00:54.558 --> 00:00:59.310
+The result is not a statement that every traveler makes an identical calculation.
+
+12
+00:00:59.310 --> 00:01:05.587
+It is a structured estimate of how observed choices relate to measured attributes and unobserved variation.
+
+13
+00:01:05.587 --> 00:01:07.171
+The choice set is critical.
+
+14
+00:01:07.171 --> 00:01:14.152
+If the model offers transit where service does not operate at the needed hour, the estimated probability is misleading.
+
+15
+00:01:14.152 --> 00:01:22.951
+If walking access, transfers, parking search, or reliability are omitted, the model can favor the mode whose burdens are least completely represented.
+
+16
+00:01:22.951 --> 00:01:30.812
+Market segmentation can improve interpretation, but it requires adequate data and must not turn demographic averages into stereotypes.
+
+17
+00:01:30.812 --> 00:01:38.263
+Calibration and validation should compare observed and modeled shares by purpose, time, geography, and relevant traveler group.
+
+18
+00:01:38.263 --> 00:01:46.593
+Policy tests should change the actual service or cost variable, then report sensitivity instead of treating the result as guaranteed behavior.
+
+19
+00:01:46.593 --> 00:01:47.847
+Torrance application.
+
+20
+00:01:47.847 --> 00:01:55.908
+This separate local segment cites the Torrance Transit Tomorrow Plan and the City's Multi-Use Active Transportation Trail project page.
+
+21
+00:01:55.908 --> 00:02:03.193
+Consider a hypothetical scenario connecting neighborhoods, employment, Downtown Torrance, and the Regional Transit Center.
+
+22
+00:02:03.193 --> 00:02:12.628
+The choice set would use actual route frequency and span, transfer conditions, fares, roadway times, parking, and safe walking, rolling, and bicycling access.
+
+23
+00:02:12.628 --> 00:02:20.271
+A trail connection could change first-and-last-mile time or comfort, while a service change could alter waiting and reliability.
+
+24
+00:02:20.271 --> 00:02:26.123
+Those effects should enter as documented scenario assumptions, not as automatic mode-shift claims.
+
+25
+00:02:26.123 --> 00:02:34.781
+The analysis should distinguish residents, workers, visitors, people without vehicles, and travelers with disabilities where suitable data allow.
+
+26
+00:02:34.781 --> 00:02:39.976
+It should retain a nondigital way to participate in surveys and should protect privacy.
+
+27
+00:02:39.976 --> 00:02:45.828
+Results could be shown across several values of time or service assumptions to reveal uncertainty.
+
+28
+00:02:45.828 --> 00:02:50.366
+No ridership estimate, mode-share forecast, or benefit finding is made here.
+
+29
+00:02:50.366 --> 00:02:56.099
+Current local data, calibrated parameters, project details, and agency review would be required.
+
+30
+00:02:56.099 --> 00:03:02.727
+The exercise shows how mode choice connects service quality and complete-trip access to a transparent scenario.
+
+31
+00:03:02.727 --> 00:03:12.759
+This episode adapts chapter twelve of Transportation Land Use Modeling and Policy by Qisheng Pan and Soheil Sharifi, published by Mavs Open Press under CC BY-NC-SA 4.0.
+
+32
+00:03:12.759 --> 00:03:20.700
+The source chapter includes derivative material attributed in SOURCES.md, including Creative Commons Attribution-ShareAlike material.
+
+33
+00:03:20.700 --> 00:03:24.821
+All source figures, curves, and other third-party items are excluded.
+
+34
+00:03:24.821 --> 00:03:27.567
+Torrance sources are independently summarized.
+
+35
+00:03:27.567 --> 00:03:29.120
+No endorsement is implied.

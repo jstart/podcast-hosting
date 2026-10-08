@@ -1,0 +1,44 @@
+{
+  "stable_id": "d5fca698-60a4-561e-a017-6a4d847e3578",
+  "versions": [
+    {
+      "production_version": "2026.1",
+      "tts_model": {
+        "repo": "ResembleAI/chatterbox-turbo",
+        "revision": "749d1c1a46eb10492095d68fbcf55691ccf137cd"
+      },
+      "asr_model": {
+        "repo": "Systran/faster-whisper-small.en",
+        "revision": "d1d751a5f8271d482d14ca55d9e2deeebbae577f"
+      },
+      "audio_source": "Current shared renderer",
+      "source_retrieval_date": "2026-10-07",
+      "transcript_sha256": "49f906784c696ace54665469cbb4d16950e76c5da37a2e255194244b56a722ff",
+      "audio_sha256": "fda5a3da6c234f3f4277cac918f63da69c800fac6aa143799a553e48b0daf612",
+      "supersedes": null
+    },
+    {
+      "production_version": "2026.2",
+      "tts_model": {
+        "repo": "ResembleAI/chatterbox-turbo",
+        "revision": "749d1c1a46eb10492095d68fbcf55691ccf137cd"
+      },
+      "asr_model": {
+        "repo": "Systran/faster-whisper-small.en",
+        "revision": "d1d751a5f8271d482d14ca55d9e2deeebbae577f"
+      },
+      "audio_source": "Fresh canonical-script render with the shared voice and join-quality pipeline",
+      "source_retrieval_date": "2026-10-07",
+      "transcript_sha256": "49f906784c696ace54665469cbb4d16950e76c5da37a2e255194244b56a722ff",
+      "audio_sha256": "38178149eb16daa1ad4202635e94791d8df67300f015a0a97734a499cbd4c376",
+      "supersedes": "2026.1",
+      "voice_reference": null,
+      "render": {
+        "tts_device": null,
+        "tts_cache_key": null,
+        "asr_enabled": true,
+        "max_asr_attempts": 3
+      }
+    }
+  ]
+}

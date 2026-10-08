@@ -1,0 +1,24 @@
+{
+  "guid": "39b6caec-ed2e-562a-8ad3-9d9d148d1bd6",
+  "publication_date": "2026-10-08T05:00:00Z",
+  "season": 1,
+  "episode": 8,
+  "explicit": false,
+  "duration_seconds": 180.512,
+  "enclosure_bytes": 2159704,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep08_Equity_through_the_Whole_Project.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/design-equity/artwork/ep08.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "97830d37f0f22c92a2ef88529558ea414fbeb670a43efb9bd2cb7abef3ea47d1",
+    "audio_sha256": "a1bf59761ea1d7b886e73ae4f14d8ce0bd8ef5345914cb4324455e3619aa3e05"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.provenance.json",
+  "release_tag": "design-equity-v2026.2",
+  "release_version": "2026.2"
+}

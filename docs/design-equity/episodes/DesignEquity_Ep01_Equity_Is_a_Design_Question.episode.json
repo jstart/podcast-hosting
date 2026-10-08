@@ -1,0 +1,24 @@
+{
+  "guid": "99d0e767-19e5-5b92-8e97-8ccda95890ae",
+  "publication_date": "2026-10-08T05:00:00Z",
+  "season": 1,
+  "episode": 1,
+  "explicit": false,
+  "duration_seconds": 207.6,
+  "enclosure_bytes": 2463094,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep01_Equity_Is_a_Design_Question.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/design-equity/artwork/ep01.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "184a452bcadd8d64adcadf99de1d4613ddee9a13a809a1ecf5859a0e14b4101e",
+    "audio_sha256": "3657ba62c2cddadcbea6e5ac36fdee4aeb9aa7d5ace1e0c520140bed1ce6e79e"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.provenance.json",
+  "release_tag": "design-equity-v2026.2",
+  "release_version": "2026.2"
+}

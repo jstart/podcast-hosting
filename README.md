@@ -1,6 +1,6 @@
 # Civic Audio Library
 
-Public hosting for six independently produced podcast courses. GitHub Pages serves the website, RSS feeds, artwork, transcripts, chapters, notes, accessibility records, provenance, and manifests. Immutable GitHub Releases serve MP3 enclosures.
+Public hosting for 12 independently produced podcast courses. GitHub Pages serves the website, RSS feeds, artwork, transcripts, chapters, notes, accessibility records, provenance, and manifests. Immutable GitHub Releases serve MP3 enclosures.
 
 Published site: <https://jstart.github.io/podcast-hosting/>
 
@@ -12,6 +12,12 @@ Published site: <https://jstart.github.io/podcast-hosting/>
 - Advanced Civic Planning: <https://jstart.github.io/podcast-hosting/advanced-civic-planning/feed.xml>
 - Planning the City: <https://jstart.github.io/podcast-hosting/planning-commission-prep/feed.xml>
 - Public Policy Prep: <https://jstart.github.io/podcast-hosting/public-policy-prep/feed.xml>
+- Public Money, Public Strategy: <https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/feed.xml>
+- Census Data for Local Decisions: <https://jstart.github.io/podcast-hosting/census-academy/feed.xml>
+- Transportation Policy in Practice: <https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/feed.xml>
+- Transportation and Land Use Models: <https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/feed.xml>
+- Designing for Equity: <https://jstart.github.io/podcast-hosting/design-equity/feed.xml>
+- Planning for Environmental Justice: <https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/feed.xml>
 
 ## Publish an update
 
@@ -21,7 +27,7 @@ Install `gh`, authenticate as `jstart`, and run this repository beside the sourc
 ./scripts/publish.sh ../podcast-tts
 ```
 
-The script regenerates hosting-safe files, validates all feeds, creates missing show-specific version releases, uploads MP3s that are not already present, commits changed Pages content, and pushes it. The Pages workflow validates and deploys the result.
+The script verifies that `gh` is using the `jstart` account, regenerates hosting-safe files, validates all feeds and companions, creates missing show-specific version releases, uploads MP3s that are not already present, commits changed Pages content, and pushes it. The Pages workflow validates and deploys the result.
 
 Releases are immutable in practice: the script never overwrites a release asset. To replace an episode:
 

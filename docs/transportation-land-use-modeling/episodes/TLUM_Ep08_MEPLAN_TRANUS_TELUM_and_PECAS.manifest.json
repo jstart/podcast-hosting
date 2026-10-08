@@ -1,0 +1,22 @@
+{
+  "stable_guid": "4065717a-b054-5fed-a295-5b770c151d54",
+  "show": "transportation-land-use-modeling",
+  "episode": 8,
+  "title": "MEPLAN, TRANUS, TELUM, and PECAS",
+  "release_version": "2026.2",
+  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.mp3",
+    "bytes": 2016063,
+    "sha256": "ee0028a8ad2eb9806095414d51365aede7d676d2c194c1d5b00c6605d141b122"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep08.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.provenance.json"
+  }
+}

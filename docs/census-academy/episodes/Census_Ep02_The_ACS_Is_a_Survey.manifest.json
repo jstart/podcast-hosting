@@ -1,0 +1,22 @@
+{
+  "stable_guid": "1968dd99-86ec-5c9d-8ec6-a225ca5c19c2",
+  "show": "census-academy",
+  "episode": 2,
+  "title": "The ACS Is a Survey",
+  "release_version": "2026.2",
+  "release_tag": "census-academy-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep02_The_ACS_Is_a_Survey.mp3",
+    "bytes": 1437114,
+    "sha256": "ce846f9a2b02770abb1f41206cf6c4db5e6a263bbb601ede50ff39dc93c40458"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep02.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.provenance.json"
+  }
+}

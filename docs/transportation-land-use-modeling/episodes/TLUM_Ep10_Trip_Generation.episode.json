@@ -1,0 +1,24 @@
+{
+  "guid": "89dec883-e613-5998-ada0-93f37c999a53",
+  "publication_date": "2026-10-08T04:30:00Z",
+  "season": 1,
+  "episode": 10,
+  "explicit": false,
+  "duration_seconds": 198.711,
+  "enclosure_bytes": 2380408,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep10_Trip_Generation.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep10.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "b7dc72d05c17fb40ff5affb8ff21e1b4c3e245ad84cdb9ab87eacd701312d6ab",
+    "audio_sha256": "1e532cb209fd60f829e9fb659d62fe55938fb9230467622a0c5eac160495cec3"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.provenance.json",
+  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "release_version": "2026.2"
+}

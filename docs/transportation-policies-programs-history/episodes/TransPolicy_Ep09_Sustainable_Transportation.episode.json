@@ -1,0 +1,24 @@
+{
+  "guid": "32cba5b5-fc04-5c70-811c-84ae737b0b65",
+  "publication_date": "2026-10-08T04:30:00Z",
+  "season": 1,
+  "episode": 9,
+  "explicit": false,
+  "duration_seconds": 186.238,
+  "enclosure_bytes": 2229431,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep09_Sustainable_Transportation.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep09.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "53622940fe36b906918039a1c3a1461bc0941f22d617b307d15a2647ebe3ad0b",
+    "audio_sha256": "a71cf7e3abbc7ff7ab921d0fe399b2c0ee1c817c3ac9ca9bae9ea35251ea660e"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.provenance.json",
+  "release_tag": "transportation-policies-programs-history-v2026.2",
+  "release_version": "2026.2"
+}

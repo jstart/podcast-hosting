@@ -16,6 +16,12 @@ EXPECTED = {
     "advanced-civic-planning": 36,
     "planning-commission-prep": 8,
     "public-policy-prep": 12,
+    "financial-strategy-public-managers": 9,
+    "census-academy": 14,
+    "transportation-policies-programs-history": 10,
+    "transportation-land-use-modeling": 13,
+    "design-equity": 8,
+    "environmental-justice-land-use-planning": 8,
 }
 
 

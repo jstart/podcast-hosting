@@ -1,0 +1,22 @@
+{
+  "stable_guid": "f3630e15-03f0-5884-95c5-498ea22b658e",
+  "show": "environmental-justice-land-use-planning",
+  "episode": 7,
+  "title": "Priorities, Budgets, and Accountability",
+  "release_version": "2026.2",
+  "release_tag": "environmental-justice-land-use-planning-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep07_Priorities_Budgets_and_Accountability.mp3",
+    "bytes": 1863640,
+    "sha256": "165678bdeb49bb617c68d486aa9b1d7325da99e2f0b8119ae38c7e3a9fdc4867"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep07_Priorities_Budgets_and_Accountability.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/artwork/ep07.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep07_Priorities_Budgets_and_Accountability.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep07_Priorities_Budgets_and_Accountability.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep07_Priorities_Budgets_and_Accountability.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep07_Priorities_Budgets_and_Accountability.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep07_Priorities_Budgets_and_Accountability.provenance.json"
+  }
+}

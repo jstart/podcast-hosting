@@ -1,0 +1,85 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.427
+This episode focuses on API construction.
+
+2
+00:00:02.427 --> 00:00:10.182
+Census data becomes useful when the population, measure, geography, and time period are stated before anyone searches for a number.
+
+3
+00:00:10.182 --> 00:00:16.028
+A Census Data API request combines a year, dataset path, requested variables, and geography.
+
+4
+00:00:16.028 --> 00:00:22.129
+Begin with the dataset discovery page and variables metadata instead of guessing variable names.
+
+5
+00:00:22.129 --> 00:00:23.922
+The get clause selects fields.
+
+6
+00:00:23.922 --> 00:00:29.901
+The for clause identifies the target geography, and an in clause supplies its parent where required.
+
+7
+00:00:29.901 --> 00:00:35.042
+Store the complete request URL, response, retrieval time, and software transformation.
+
+8
+00:00:35.042 --> 00:00:39.640
+Check returned headers and geography codes before converting text to numbers.
+
+9
+00:00:39.640 --> 00:00:43.939
+Handle nulls, annotations, changed variables, and API errors explicitly.
+
+10
+00:00:43.939 --> 00:00:49.015
+Respect service limits and cache results rather than sending needless repeated calls.
+
+11
+00:00:49.015 --> 00:00:50.745
+Torrance application segment.
+
+12
+00:00:50.745 --> 00:00:54.981
+This local application is separate from the Census Academy instruction.
+
+13
+00:00:54.981 --> 00:01:02.558
+The cited City of Torrance primary source is About Torrance, published at https://www.torranceca.gov/Government/About-Torrance.
+
+14
+00:01:02.558 --> 00:01:12.403
+For a local analysis, derive Torrance's official place code through Census geography metadata, then save a query whose universe and vintage match the local question.
+
+15
+00:01:12.403 --> 00:01:20.815
+Do not present City policy or administrative records as Census Bureau findings, and do not present a federal estimate as adopted City policy.
+
+16
+00:01:20.815 --> 00:01:30.851
+Keep a reproducibility packet containing the question, source URLs, exact vintage, table or query, geography codes, raw result, calculations, and uncertainty note.
+
+17
+00:01:30.851 --> 00:01:34.114
+This narration is an original synthesis of cited U.S.
+
+18
+00:01:34.114 --> 00:01:38.916
+Census Bureau government works and separately cited City of Torrance material.
+
+19
+00:01:38.916 --> 00:01:43.226
+Third-party videos, software, graphics, and linked works are excluded.
+
+20
+00:01:43.226 --> 00:01:49.260
+This product uses Census Bureau information but is not endorsed or certified by the Census Bureau.
+
+21
+00:01:49.260 --> 00:01:53.631
+It is not an official City product and does not imply City endorsement.

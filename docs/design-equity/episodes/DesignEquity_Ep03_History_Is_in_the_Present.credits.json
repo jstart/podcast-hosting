@@ -1,0 +1,33 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Why History Matters to Design Equity",
+      "author": "Kristine Miller",
+      "publisher": "University of Minnesota Libraries Publishing; Engineering LibreTexts",
+      "url": "https://eng.libretexts.org/Bookshelves/Civil_Engineering/Introduction_to_Design_Equity_(Miller)/01%3A_Chapters/1.03%3A_Why_History_Matters_to_Design_Equity",
+      "license": "CC BY 4.0; third-party readings and media excluded",
+      "cover_author": "Kristine Miller"
+    },
+    {
+      "title": "City of Torrance General Plan",
+      "author": "City of Torrance",
+      "publisher": "City of Torrance",
+      "url": "https://www.torranceca.gov/our-city/community-development/general-plan",
+      "license": "Official local source; facts and links used; no broad open license identified"
+    },
+    {
+      "title": "City of Torrance Housing Element Update",
+      "author": "City of Torrance",
+      "publisher": "City of Torrance",
+      "url": "https://www.torranceca.gov/our-city/community-development/housing-element-update",
+      "license": "Official local source; facts and links used; no broad open license identified"
+    }
+  ]
+}

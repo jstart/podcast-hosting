@@ -1,0 +1,22 @@
+{
+  "stable_guid": "3aa0c569-8ed8-57f1-8801-5c668d5c55f5",
+  "show": "transportation-land-use-modeling",
+  "episode": 5,
+  "title": "Land Suitability Analysis",
+  "release_version": "2026.2",
+  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep05_Land_Suitability_Analysis.mp3",
+    "bytes": 1992486,
+    "sha256": "84ff9d28d95b93e23e3b1fa1b7970eb6ac94c87772fe17072eabae050847102d"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep05.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.provenance.json"
+  }
+}

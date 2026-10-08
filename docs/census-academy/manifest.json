@@ -1,0 +1,362 @@
+{
+  "id": "census-academy",
+  "title": "Census Data for Local Decisions",
+  "album": "Census Data for Local Decisions: A Torrance Application Course",
+  "description": "A 14-episode practical course on Census data, geography, uncertainty, APIs, housing, commuting, business, and government finance.",
+  "version": "2026.2",
+  "release_tag": "census-academy-v2026.2",
+  "stable_feed_url": "https://jstart.github.io/podcast-hosting/census-academy/feed.xml",
+  "release_url": "https://github.com/jstart/podcast-hosting/releases/tag/census-academy-v2026.2",
+  "episodes": [
+    {
+      "stable_guid": "c43e4e61-4f33-5219-8b2d-9aac680fc775",
+      "show": "census-academy",
+      "episode": 1,
+      "title": "What Census Data Can Answer",
+      "release_version": "2026.2",
+      "release_tag": "census-academy-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep01_What_Census_Data_Can_Answer.mp3",
+        "bytes": 1477613,
+        "sha256": "2e026f94c8673fef6ebbc0c78f9cff375ee68ec7030b75e44eb60ab1dcfc0fe3"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep01.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.provenance.json"
+      },
+      "summary": "Chooses the right Census program for a local policy question.",
+      "publication_date": "2026-10-08T04:00:00Z",
+      "duration_seconds": 119.852
+    },
+    {
+      "stable_guid": "1968dd99-86ec-5c9d-8ec6-a225ca5c19c2",
+      "show": "census-academy",
+      "episode": 2,
+      "title": "The ACS Is a Survey",
+      "release_version": "2026.2",
+      "release_tag": "census-academy-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep02_The_ACS_Is_a_Survey.mp3",
+        "bytes": 1437114,
+        "sha256": "ce846f9a2b02770abb1f41206cf6c4db5e6a263bbb601ede50ff39dc93c40458"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep02.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.provenance.json"
+      },
+      "summary": "Explains ACS period estimates, samples, topics, and appropriate interpretation.",
+      "publication_date": "2026-10-08T04:00:00Z",
+      "duration_seconds": 116.877
+    },
+    {
+      "stable_guid": "e45ffa2d-207c-5ec2-a89f-d32d7a5f0102",
+      "show": "census-academy",
+      "episode": 3,
+      "title": "Geography Before Numbers",
+      "release_version": "2026.2",
+      "release_tag": "census-academy-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep03_Geography_Before_Numbers.mp3",
+        "bytes": 1439217,
+        "sha256": "471d6c4f14c0bce295f329e05295b82333ddd57baacd38d8444af7b61e9800b6"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep03.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.provenance.json"
+      },
+      "summary": "Selects place, tract, block group, district, and custom geographies deliberately.",
+      "publication_date": "2026-10-08T04:00:00Z",
+      "duration_seconds": 116.226
+    },
+    {
+      "stable_guid": "fff2bb5f-41cf-5e16-9619-7faff5ca9286",
+      "show": "census-academy",
+      "episode": 4,
+      "title": "One-Year or Five-Year",
+      "release_version": "2026.2",
+      "release_tag": "census-academy-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep04_One_Year_or_Five_Year.mp3",
+        "bytes": 1446758,
+        "sha256": "c7d9c4b538e1e4ff9cfe60457906c792dd1390ae99c98a35f2915c7bc3f54775"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep04.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.provenance.json"
+      },
+      "summary": "Distinguishes ACS 1-year and 5-year products and safe comparisons.",
+      "publication_date": "2026-10-08T04:00:00Z",
+      "duration_seconds": 117.922
+    },
+    {
+      "stable_guid": "8e489b75-24e7-58bb-8ba3-47fcff3bdc1c",
+      "show": "census-academy",
+      "episode": 5,
+      "title": "Margins of Error Matter",
+      "release_version": "2026.2",
+      "release_tag": "census-academy-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep05_Margins_of_Error_Matter.mp3",
+        "bytes": 1445219,
+        "sha256": "59817875a01e289ef6921b85fe1709c730d6b632fab64c14f3a6a1a2e33ba73b"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep05.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.provenance.json"
+      },
+      "summary": "Uses margins of error and statistical testing to avoid false precision.",
+      "publication_date": "2026-10-08T04:00:00Z",
+      "duration_seconds": 116.986
+    },
+    {
+      "stable_guid": "1348acd2-e397-5733-8c59-924ac188f2e1",
+      "show": "census-academy",
+      "episode": 6,
+      "title": "Find Tables and Profiles",
+      "release_version": "2026.2",
+      "release_tag": "census-academy-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep06_Find_Tables_and_Profiles.mp3",
+        "bytes": 1409023,
+        "sha256": "b2f42da81e7b5fe6bf77e333b5e20c1a2c3720b1e698a008ceb7ad541ae7e1a7"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep06.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.provenance.json"
+      },
+      "summary": "Navigates detailed tables, subject tables, profiles, and comparison profiles.",
+      "publication_date": "2026-10-08T04:00:00Z",
+      "duration_seconds": 113.866
+    },
+    {
+      "stable_guid": "1f0de947-bccd-5145-bce3-86e9dae74b20",
+      "show": "census-academy",
+      "episode": 7,
+      "title": "Build a Reproducible API Query",
+      "release_version": "2026.2",
+      "release_tag": "census-academy-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep07_Build_a_Reproducible_API_Query.mp3",
+        "bytes": 1427614,
+        "sha256": "4dd3449f64b31eb6e9fd4636a6c9ea3c1804a2047a8f720e42dec1e75858729d"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep07.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.provenance.json"
+      },
+      "summary": "Constructs Census API requests from year, dataset, variables, and geography.",
+      "publication_date": "2026-10-08T04:00:00Z",
+      "duration_seconds": 116.431
+    },
+    {
+      "stable_guid": "44cdef5d-d1ad-5462-95e5-5951268eeb2e",
+      "show": "census-academy",
+      "episode": 8,
+      "title": "Housing Questions",
+      "release_version": "2026.2",
+      "release_tag": "census-academy-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep08_Housing_Questions.mp3",
+        "bytes": 1428972,
+        "sha256": "c340d10c98e9db46f658970ba6f009294674f6a7f32e4fdcfc1a364aae9d50fc"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep08.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.provenance.json"
+      },
+      "summary": "Connects ACS housing measures to planning questions without overclaiming.",
+      "publication_date": "2026-10-08T04:00:00Z",
+      "duration_seconds": 116.895
+    },
+    {
+      "stable_guid": "d1d10df2-0eba-5e64-be5e-867d76527cb1",
+      "show": "census-academy",
+      "episode": 9,
+      "title": "Commuting and Place of Work",
+      "release_version": "2026.2",
+      "release_tag": "census-academy-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep09_Commuting_and_Place_of_Work.mp3",
+        "bytes": 1487641,
+        "sha256": "2da25a63bbeeddadac8e65c92314a55f7d946bd861185264a4411e2d3918f9da"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep09.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.provenance.json"
+      },
+      "summary": "Interprets journey-to-work measures, modes, travel time, and worker universes.",
+      "publication_date": "2026-10-08T04:00:00Z",
+      "duration_seconds": 120.045
+    },
+    {
+      "stable_guid": "da305e59-415a-58a4-9f2e-c2a9369dafe5",
+      "show": "census-academy",
+      "episode": 10,
+      "title": "Business and Industry Data",
+      "release_version": "2026.2",
+      "release_tag": "census-academy-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep10_Business_and_Industry_Data.mp3",
+        "bytes": 1471985,
+        "sha256": "32faddc0c8f4ce82fe976ff9c57ba893c68c1fe25cb638baa1bd368e8fc0e83c"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep10.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.provenance.json"
+      },
+      "summary": "Pairs demographic context with business establishments and industry statistics.",
+      "publication_date": "2026-10-08T04:00:00Z",
+      "duration_seconds": 118.631
+    },
+    {
+      "stable_guid": "9e30b141-8579-5685-8f89-8720e26d3a25",
+      "show": "census-academy",
+      "episode": 11,
+      "title": "Government Finance Data",
+      "release_version": "2026.2",
+      "release_tag": "census-academy-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep11_Government_Finance_Data.mp3",
+        "bytes": 1471931,
+        "sha256": "0a6c2cc6b1ba592b09a5d9fd36573ad7c151fea30238584b32d892cf0a2b48a0"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep11.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.provenance.json"
+      },
+      "summary": "Introduces Census of Governments and state and local finance statistics.",
+      "publication_date": "2026-10-08T04:00:00Z",
+      "duration_seconds": 119.519
+    },
+    {
+      "stable_guid": "cb5f15b5-d89a-5486-b89c-30df0976f969",
+      "show": "census-academy",
+      "episode": 12,
+      "title": "Download Files and PUMS",
+      "release_version": "2026.2",
+      "release_tag": "census-academy-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep12_Download_Files_and_PUMS.mp3",
+        "bytes": 1482262,
+        "sha256": "1324026fd6635c158db1a1d59c79fcee41d5a546e3c79f996d54b241069f2295"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep12.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.provenance.json"
+      },
+      "summary": "Explains summary files and PUMS while protecting confidentiality and valid geography.",
+      "publication_date": "2026-10-08T04:00:00Z",
+      "duration_seconds": 121.351
+    },
+    {
+      "stable_guid": "e35278a6-bf67-5d38-8332-898689c262d8",
+      "show": "census-academy",
+      "episode": 13,
+      "title": "Compare Change Carefully",
+      "release_version": "2026.2",
+      "release_tag": "census-academy-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep13_Compare_Change_Carefully.mp3",
+        "bytes": 1373743,
+        "sha256": "a9e5f7f60ad4842720c46ea2e90e0cb3bde420d2a5a06a14eaa92e955cd66281"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep13_Compare_Change_Carefully.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep13.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep13_Compare_Change_Carefully.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep13_Compare_Change_Carefully.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep13_Compare_Change_Carefully.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep13_Compare_Change_Carefully.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep13_Compare_Change_Carefully.provenance.json"
+      },
+      "summary": "Builds defensible comparisons across years, boundaries, universes, and inflation.",
+      "publication_date": "2026-10-08T04:00:00Z",
+      "duration_seconds": 111.295
+    },
+    {
+      "stable_guid": "ad2ea53e-3145-5f46-94cc-94ab8b1a98f5",
+      "show": "census-academy",
+      "episode": 14,
+      "title": "A Torrance Data Workflow",
+      "release_version": "2026.2",
+      "release_tag": "census-academy-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep14_A_Torrance_Data_Workflow.mp3",
+        "bytes": 1496786,
+        "sha256": "8667ea9b2b0c128e9e13f050c8533f0ab81364e010e41b3b36195a724a3b579b"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep14.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.provenance.json"
+      },
+      "summary": "Combines question design, source selection, reproducibility, uncertainty, and local context.",
+      "publication_date": "2026-10-08T04:00:00Z",
+      "duration_seconds": 122.189
+    }
+  ]
+}

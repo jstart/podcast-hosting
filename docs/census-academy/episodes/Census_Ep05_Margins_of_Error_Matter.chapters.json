@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "This episode focuses on statistical uncertainty"
+    },
+    {
+      "startTime": 10.547,
+      "title": "Every ACS estimate is accompanied by a margin..."
+    },
+    {
+      "startTime": 22.794,
+      "title": "A larger estimate is not necessarily statistically different..."
+    },
+    {
+      "startTime": 35.572,
+      "title": "Small groups and small geographies often have wide..."
+    },
+    {
+      "startTime": 48.935,
+      "title": "Torrance application segment"
+    },
+    {
+      "startTime": 81.79,
+      "title": "Keep a reproducibility packet containing the question, source..."
+    }
+  ]
+}

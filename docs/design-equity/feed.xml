@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:podhost="https://jstart.github.io/podcast-hosting/namespace/1.0" version="2.0">
+  <channel>
+    <title>Designing for Equity</title>
+    <link>https://jstart.github.io/podcast-hosting/design-equity/</link>
+    <description>An eight-episode course on designing public places, services, information, and decision processes for equitable outcomes.</description>
+    <language>en-us</language>
+    <generator>podcast-hosting/scripts/build_site.py</generator>
+    <itunes:author>Designing for Equity</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://jstart.github.io/podcast-hosting/design-equity/cover.jpg" />
+    <image>
+      <url>https://jstart.github.io/podcast-hosting/design-equity/cover.jpg</url>
+      <title>Designing for Equity</title>
+      <link>https://jstart.github.io/podcast-hosting/design-equity/</link>
+    </image>
+    <podcast:locked owner="jstart">yes</podcast:locked>
+    <podcast:guid>7f56009e4107c2ae21aa502c0ba1e53821163f9b259f582782ec252c1a8621a1</podcast:guid>
+    <podcast:person role="host" group="writing">Designing for Equity</podcast:person>
+    <podcast:license>See per-episode license and credits</podcast:license>
+    <item>
+      <title>Equity through the Whole Project</title>
+      <description>Carries equity from problem definition and procurement through engagement, implementation, maintenance, and evaluation.</description>
+      <link>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.html</link>
+      <guid isPermaLink="false">39b6caec-ed2e-562a-8ad3-9d9d148d1bd6</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep08_Equity_through_the_Whole_Project.mp3" length="2159704" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>181</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/design-equity/artwork/ep08.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Designing for Equity</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.provenance.json</podhost:provenance>
+      <podhost:sha256>a1bf59761ea1d7b886e73ae4f14d8ce0bd8ef5345914cb4324455e3619aa3e05</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Redesigning Design Thinking</title>
+      <description>Adds reflection, historical context, shared power, and accountability to familiar problem-solving cycles.</description>
+      <link>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep07_Redesigning_Design_Thinking.html</link>
+      <guid isPermaLink="false">51f69943-fe61-520c-ab7a-bb089d8b3577</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep07_Redesigning_Design_Thinking.mp3" length="2004203" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>166</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/design-equity/artwork/ep07.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep07_Redesigning_Design_Thinking.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep07_Redesigning_Design_Thinking.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Designing for Equity</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep07_Redesigning_Design_Thinking.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep07_Redesigning_Design_Thinking.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep07_Redesigning_Design_Thinking.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep07_Redesigning_Design_Thinking.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep07_Redesigning_Design_Thinking.provenance.json</podhost:provenance>
+      <podhost:sha256>08ca0852628c2f669641e261105f5e6d9774b0366ce25c3a9617b8bd0423d4d2</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Information Is Infrastructure</title>
+      <description>Treats accessible information and community knowledge as essential infrastructure for equitable public decisions.</description>
+      <link>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.html</link>
+      <guid isPermaLink="false">8879f49e-b2c9-521e-a90f-c3077cb252a3</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep06_Information_Is_Infrastructure.mp3" length="2085232" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>173</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/design-equity/artwork/ep06.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Designing for Equity</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.provenance.json</podhost:provenance>
+      <podhost:sha256>d8cd76829a9b1f6f252737cc6715d6bb10b6e3bb889525e53e21c49007e87868</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Who Can Get Where</title>
+      <description>Evaluates transportation by access, safety, affordability, reliability, exposure, and the distribution of benefits and burdens.</description>
+      <link>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep05_Who_Can_Get_Where.html</link>
+      <guid isPermaLink="false">05de91c4-2a20-549a-a5b2-08cd0d879bd7</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep05_Who_Can_Get_Where.mp3" length="2192526" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>186</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/design-equity/artwork/ep05.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep05_Who_Can_Get_Where.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep05_Who_Can_Get_Where.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Designing for Equity</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep05_Who_Can_Get_Where.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep05_Who_Can_Get_Where.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep05_Who_Can_Get_Where.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep05_Who_Can_Get_Where.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep05_Who_Can_Get_Where.provenance.json</podhost:provenance>
+      <podhost:sha256>905b0eea5d8e4bb67fec0ee6ce96a1fb3eb9a18b52ae026aecfada482105a226</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Health Is Built into Place</title>
+      <description>Connects housing, streets, public space, environmental conditions, displacement risk, and everyday health.</description>
+      <link>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep04_Health_Is_Built_into_Place.html</link>
+      <guid isPermaLink="false">cabf56f4-fc4e-543b-9f2b-612f08e82819</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep04_Health_Is_Built_into_Place.mp3" length="2215040" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>188</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/design-equity/artwork/ep04.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep04_Health_Is_Built_into_Place.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep04_Health_Is_Built_into_Place.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Designing for Equity</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep04_Health_Is_Built_into_Place.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep04_Health_Is_Built_into_Place.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep04_Health_Is_Built_into_Place.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep04_Health_Is_Built_into_Place.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep04_Health_Is_Built_into_Place.provenance.json</podhost:provenance>
+      <podhost:sha256>854c5b4cd5252a393429117225dc5440fb0f485077272c7fb525912d4d94d38a</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>History Is in the Present</title>
+      <description>Shows why present access and design choices must be read alongside the accumulated effects of earlier policies and investments.</description>
+      <link>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep03_History_Is_in_the_Present.html</link>
+      <guid isPermaLink="false">c7f6a7e1-157b-559f-adbe-89278e3e829c</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep03_History_Is_in_the_Present.mp3" length="2339368" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>197</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/design-equity/artwork/ep03.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep03_History_Is_in_the_Present.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep03_History_Is_in_the_Present.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Designing for Equity</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep03_History_Is_in_the_Present.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep03_History_Is_in_the_Present.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep03_History_Is_in_the_Present.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep03_History_Is_in_the_Present.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep03_History_Is_in_the_Present.provenance.json</podhost:provenance>
+      <podhost:sha256>b2885f8b909d108937f89c0bc355977581ee52086978a3d677d3f39cd26e235d</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Talking about Racism in Design</title>
+      <description>Builds a precise, evidence-centered practice for discussing race, racism, and design without substituting intention for impact.</description>
+      <link>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.html</link>
+      <guid isPermaLink="false">9d4ee4cb-d5e5-50d7-a77d-e2c937943b77</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep02_Talking_about_Racism_in_Design.mp3" length="2412258" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>204</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/design-equity/artwork/ep02.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Designing for Equity</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.provenance.json</podhost:provenance>
+      <podhost:sha256>141c27bef53c0c31bfa6ae8a81dfc6d1c9b7e3c2c273afa00098a0e73fd9ca4c</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Equity Is a Design Question</title>
+      <description>Introduces design equity as a way to examine how places and processes distribute opportunity, benefit, burden, and voice.</description>
+      <link>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.html</link>
+      <guid isPermaLink="false">99d0e767-19e5-5b92-8e97-8ccda95890ae</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep01_Equity_Is_a_Design_Question.mp3" length="2463094" type="audio/mpeg" />
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>208</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/design-equity/artwork/ep01.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Designing for Equity</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.provenance.json</podhost:provenance>
+      <podhost:sha256>3657ba62c2cddadcbea6e5ac36fdee4aeb9aa7d5ace1e0c520140bed1ce6e79e</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+  </channel>
+</rss>

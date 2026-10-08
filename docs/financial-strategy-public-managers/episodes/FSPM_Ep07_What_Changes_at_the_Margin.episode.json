@@ -1,0 +1,24 @@
+{
+  "guid": "a9484b03-5967-5916-a14e-b5fce46f2520",
+  "publication_date": "2026-10-08T04:00:00Z",
+  "season": 1,
+  "episode": 7,
+  "explicit": false,
+  "duration_seconds": 199.448,
+  "enclosure_bytes": 2366802,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep07_What_Changes_at_the_Margin.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep07_What_Changes_at_the_Margin.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep07_What_Changes_at_the_Margin.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep07.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep07_What_Changes_at_the_Margin.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "1b091af043450761b9c169c58b2f84ee402696c2ac442955bdc5175bab07cc0a",
+    "audio_sha256": "4b930856ac918ad8278615687b378b4dd4b8b6be0841b987c2eacc2f28c749c2"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep07_What_Changes_at_the_Margin.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep07_What_Changes_at_the_Margin.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep07_What_Changes_at_the_Margin.provenance.json",
+  "release_tag": "financial-strategy-public-managers-v2026.2",
+  "release_version": "2026.2"
+}

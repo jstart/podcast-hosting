@@ -1,0 +1,22 @@
+{
+  "stable_guid": "9920c6fb-79df-5eb4-bbfd-7d8314e98929",
+  "show": "financial-strategy-public-managers",
+  "episode": 1,
+  "title": "Technique Serves Strategy",
+  "release_version": "2026.2",
+  "release_tag": "financial-strategy-public-managers-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep01_Technique_Serves_Strategy.mp3",
+    "bytes": 2488913,
+    "sha256": "93f55f091aa3a94b63114df4d98da8bf0298c82633476b3630f982e9027ef899"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep01.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.provenance.json"
+  }
+}

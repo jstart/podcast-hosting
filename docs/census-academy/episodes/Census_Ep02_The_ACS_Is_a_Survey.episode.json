@@ -1,0 +1,24 @@
+{
+  "guid": "1968dd99-86ec-5c9d-8ec6-a225ca5c19c2",
+  "publication_date": "2026-10-08T04:00:00Z",
+  "season": 1,
+  "episode": 2,
+  "explicit": false,
+  "duration_seconds": 116.877,
+  "enclosure_bytes": 1437114,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep02_The_ACS_Is_a_Survey.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep02.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "f8538e15f706b5837f22c84958930c024b3ea9b487477d207392050cbc0a09dd",
+    "audio_sha256": "ce846f9a2b02770abb1f41206cf6c4db5e6a263bbb601ede50ff39dc93c40458"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.provenance.json",
+  "release_tag": "census-academy-v2026.2",
+  "release_version": "2026.2"
+}

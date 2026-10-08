@@ -1,0 +1,35 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "An Introduction to Census Data for Congressional and Intergovernmental Staff",
+      "author": "U.S. Census Bureau Census Academy instructors",
+      "publisher": "U.S. Census Bureau Census Academy",
+      "url": "https://www.census.gov/data/academy/courses/census-data-for-congressional-and-intergovernmental-staff.html",
+      "license": "U.S. Government work not subject to copyright in the United States; third-party material excluded",
+      "cover_author": "U.S. Census Bureau"
+    },
+    {
+      "title": "Open Data",
+      "author": "U.S. Census Bureau",
+      "publisher": "U.S. Census Bureau",
+      "url": "https://www.census.gov/about/policies/open-gov/open-data.html",
+      "license": "Public U.S. Census Bureau data; privacy, security, and third-party restrictions still apply",
+      "cover_author": "U.S. Census Bureau"
+    },
+    {
+      "title": "About Torrance",
+      "author": "City of Torrance",
+      "publisher": "City of Torrance",
+      "url": "https://www.torranceca.gov/Government/About-Torrance",
+      "license": "Copyrighted local government webpage; facts summarized with attribution, no expressive text reproduced",
+      "cover_author": "U.S. Census Bureau"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "guid": "a63bf568-ecae-5d24-9275-54ef1aa226f2",
+  "publication_date": "2026-10-08T04:30:00Z",
+  "season": 1,
+  "episode": 4,
+  "explicit": false,
+  "duration_seconds": 169.32,
+  "enclosure_bytes": 2064721,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep04.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "a3b409e052521528ea729d8faf9c36014b7a4662afe4c61af771c301c6a26f3e",
+    "audio_sha256": "04042914a5cefd24b5a674ca3eb209811418b80ce958a6ce535987f266edc316"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.provenance.json",
+  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "release_version": "2026.2"
+}

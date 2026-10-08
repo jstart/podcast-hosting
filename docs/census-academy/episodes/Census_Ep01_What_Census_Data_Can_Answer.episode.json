@@ -1,0 +1,24 @@
+{
+  "guid": "c43e4e61-4f33-5219-8b2d-9aac680fc775",
+  "publication_date": "2026-10-08T04:00:00Z",
+  "season": 1,
+  "episode": 1,
+  "explicit": false,
+  "duration_seconds": 119.852,
+  "enclosure_bytes": 1477613,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep01_What_Census_Data_Can_Answer.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep01.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "ae4a12e73cf983160ed3ced05b1cca089e35b2a88907e701daefd45ab4df537d",
+    "audio_sha256": "2e026f94c8673fef6ebbc0c78f9cff375ee68ec7030b75e44eb60ab1dcfc0fe3"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.provenance.json",
+  "release_tag": "census-academy-v2026.2",
+  "release_version": "2026.2"
+}

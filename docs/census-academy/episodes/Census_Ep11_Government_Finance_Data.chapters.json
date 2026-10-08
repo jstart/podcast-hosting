@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "This episode focuses on public-sector statistics"
+    },
+    {
+      "startTime": 10.752,
+      "title": "The Annual Survey of State and Local Government..."
+    },
+    {
+      "startTime": 24.424,
+      "title": "Census government-finance categories support comparison across jurisdictions, but..."
+    },
+    {
+      "startTime": 38.536,
+      "title": "Use federal statistics for consistent benchmarking and local..."
+    },
+    {
+      "startTime": 52.293,
+      "title": "Torrance application segment"
+    },
+    {
+      "startTime": 84.748,
+      "title": "Keep a reproducibility packet containing the question, source..."
+    }
+  ]
+}

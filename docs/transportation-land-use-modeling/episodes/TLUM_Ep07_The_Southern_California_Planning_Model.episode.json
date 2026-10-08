@@ -1,0 +1,24 @@
+{
+  "guid": "7b2d4962-5a0a-58ca-b9af-6d8009c99bf9",
+  "publication_date": "2026-10-08T04:30:00Z",
+  "season": 1,
+  "episode": 7,
+  "explicit": false,
+  "duration_seconds": 158.797,
+  "enclosure_bytes": 1957939,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep07_The_Southern_California_Planning_Model.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep07.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "fa9e2411592f0bfe4a908521ca1188106334433f074dc8763632dea6e9f7626a",
+    "audio_sha256": "e599c683ca4b439b71ef7ca79f5e2a592662a53fb00f1fe8cd44fecd77df4852"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.provenance.json",
+  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "release_version": "2026.2"
+}

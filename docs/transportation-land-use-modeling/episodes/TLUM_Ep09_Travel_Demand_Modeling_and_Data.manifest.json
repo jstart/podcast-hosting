@@ -1,0 +1,22 @@
+{
+  "stable_guid": "cdb15b2a-6323-54f7-af90-06ffa830d1a0",
+  "show": "transportation-land-use-modeling",
+  "episode": 9,
+  "title": "Travel Demand Modeling and Data",
+  "release_version": "2026.2",
+  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep09_Travel_Demand_Modeling_and_Data.mp3",
+    "bytes": 1927463,
+    "sha256": "33ef422acb346e4f0c3ae8a7f1b60c2b601f92ee360f88a87ff80ef6d5b1ba60"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep09_Travel_Demand_Modeling_and_Data.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep09.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep09_Travel_Demand_Modeling_and_Data.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep09_Travel_Demand_Modeling_and_Data.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep09_Travel_Demand_Modeling_and_Data.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep09_Travel_Demand_Modeling_and_Data.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep09_Travel_Demand_Modeling_and_Data.provenance.json"
+  }
+}

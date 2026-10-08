@@ -1,0 +1,22 @@
+{
+  "stable_guid": "a118c664-cd43-5424-98cc-cb7f88904c60",
+  "show": "transportation-policies-programs-history",
+  "episode": 3,
+  "title": "Programming, Funding, and Evaluation",
+  "release_version": "2026.2",
+  "release_tag": "transportation-policies-programs-history-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep03_Programming_Funding_and_Evaluation.mp3",
+    "bytes": 2193034,
+    "sha256": "c5f90a5e590502a51d112d6277152dee5ddd8efd5a1d98057f4854ae16480791"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep03.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.provenance.json"
+  }
+}

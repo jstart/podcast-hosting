@@ -1,0 +1,22 @@
+{
+  "stable_guid": "da305e59-415a-58a4-9f2e-c2a9369dafe5",
+  "show": "census-academy",
+  "episode": 10,
+  "title": "Business and Industry Data",
+  "release_version": "2026.2",
+  "release_tag": "census-academy-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep10_Business_and_Industry_Data.mp3",
+    "bytes": 1471985,
+    "sha256": "32faddc0c8f4ce82fe976ff9c57ba893c68c1fe25cb638baa1bd368e8fc0e83c"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep10.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.provenance.json"
+  }
+}

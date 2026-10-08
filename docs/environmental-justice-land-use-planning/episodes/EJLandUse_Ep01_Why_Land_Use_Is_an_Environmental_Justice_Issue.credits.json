@@ -1,0 +1,41 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Best Practices for Implementing SB 1000",
+      "author": "California Department of Justice, Bureau of Environmental Justice",
+      "publisher": "State of California, Office of the Attorney General",
+      "url": "https://oag.ca.gov/system/files/media/sb-1000-best-practices-en.pdf",
+      "license": "State-authored public-domain material; third-party, local-policy, image, data, and linked content excluded",
+      "cover_author": "California Department of Justice"
+    },
+    {
+      "title": "Environmental Justice in Local Land Use Planning",
+      "author": "California Department of Justice",
+      "publisher": "State of California, Office of the Attorney General",
+      "url": "https://oag.ca.gov/environment/sb1000",
+      "license": "Department-created website text considered public domain; third-party and linked content excluded",
+      "cover_author": "California Department of Justice"
+    },
+    {
+      "title": "California Government Code section 65302",
+      "author": "California Legislature",
+      "publisher": "State of California",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=65302.&lawCode=GOV",
+      "license": "Official statutory text; verify the current operative version before application"
+    },
+    {
+      "title": "City of Torrance General Plan",
+      "author": "City of Torrance",
+      "publisher": "City of Torrance",
+      "url": "https://www.torranceca.gov/our-city/community-development/general-plan",
+      "license": "Official local source; facts and links used; no broad open license identified"
+    }
+  ]
+}

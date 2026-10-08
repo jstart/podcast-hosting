@@ -1,0 +1,24 @@
+{
+  "guid": "174b5ff0-7312-53f9-a4bf-f861198ae076",
+  "publication_date": "2026-10-08T04:30:00Z",
+  "season": 1,
+  "episode": 2,
+  "explicit": false,
+  "duration_seconds": 195.048,
+  "enclosure_bytes": 2338635,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep02.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "473aa01aca0ff274ddf36628af15fbc3e25a723337e07f00e0b6010c2d4e1057",
+    "audio_sha256": "5ff3b3aaf1db078d77a18940a4e0f8ff1e568ae6d44532a50321ce0cbddea4b3"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.provenance.json",
+  "release_tag": "transportation-policies-programs-history-v2026.2",
+  "release_version": "2026.2"
+}

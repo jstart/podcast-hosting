@@ -1,0 +1,22 @@
+{
+  "stable_guid": "ad2ea53e-3145-5f46-94cc-94ab8b1a98f5",
+  "show": "census-academy",
+  "episode": 14,
+  "title": "A Torrance Data Workflow",
+  "release_version": "2026.2",
+  "release_tag": "census-academy-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep14_A_Torrance_Data_Workflow.mp3",
+    "bytes": 1496786,
+    "sha256": "8667ea9b2b0c128e9e13f050c8533f0ab81364e010e41b3b36195a724a3b579b"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep14.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.provenance.json"
+  }
+}

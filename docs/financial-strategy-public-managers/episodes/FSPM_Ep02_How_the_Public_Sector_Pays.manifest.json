@@ -1,0 +1,22 @@
+{
+  "stable_guid": "24063539-2eb1-528a-8abc-60910045255c",
+  "show": "financial-strategy-public-managers",
+  "episode": 2,
+  "title": "How the Public Sector Pays",
+  "release_version": "2026.2",
+  "release_tag": "financial-strategy-public-managers-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep02_How_the_Public_Sector_Pays.mp3",
+    "bytes": 2613020,
+    "sha256": "064bac7577e537e629122321bdfb6bb9a57113f0a0c591f64fe28f1e8a220ce5"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep02_How_the_Public_Sector_Pays.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep02.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep02_How_the_Public_Sector_Pays.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep02_How_the_Public_Sector_Pays.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep02_How_the_Public_Sector_Pays.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep02_How_the_Public_Sector_Pays.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep02_How_the_Public_Sector_Pays.provenance.json"
+  }
+}

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:podhost="https://jstart.github.io/podcast-hosting/namespace/1.0" version="2.0">
+  <channel>
+    <title>Census Data for Local Decisions</title>
+    <link>https://jstart.github.io/podcast-hosting/census-academy/</link>
+    <description>A 14-episode practical course on Census data, geography, uncertainty, APIs, housing, commuting, business, and government finance.</description>
+    <language>en-us</language>
+    <generator>podcast-hosting/scripts/build_site.py</generator>
+    <itunes:author>Census Data for Local Decisions</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://jstart.github.io/podcast-hosting/census-academy/cover.jpg" />
+    <image>
+      <url>https://jstart.github.io/podcast-hosting/census-academy/cover.jpg</url>
+      <title>Census Data for Local Decisions</title>
+      <link>https://jstart.github.io/podcast-hosting/census-academy/</link>
+    </image>
+    <podcast:locked owner="jstart">yes</podcast:locked>
+    <podcast:guid>628f4ec29bf2a466e15810ffaf0322d544fe1e504504fc9db338203337767b90</podcast:guid>
+    <podcast:person role="host" group="writing">Census Data for Local Decisions</podcast:person>
+    <podcast:license>See per-episode license and credits</podcast:license>
+    <item>
+      <title>A Torrance Data Workflow</title>
+      <description>Combines question design, source selection, reproducibility, uncertainty, and local context.</description>
+      <link>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.html</link>
+      <guid isPermaLink="false">ad2ea53e-3145-5f46-94cc-94ab8b1a98f5</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep14_A_Torrance_Data_Workflow.mp3" length="1496786" type="audio/mpeg" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>122</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/census-academy/artwork/ep14.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Census Data for Local Decisions</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.provenance.json</podhost:provenance>
+      <podhost:sha256>8667ea9b2b0c128e9e13f050c8533f0ab81364e010e41b3b36195a724a3b579b</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Compare Change Carefully</title>
+      <description>Builds defensible comparisons across years, boundaries, universes, and inflation.</description>
+      <link>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep13_Compare_Change_Carefully.html</link>
+      <guid isPermaLink="false">e35278a6-bf67-5d38-8332-898689c262d8</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep13_Compare_Change_Carefully.mp3" length="1373743" type="audio/mpeg" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>111</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/census-academy/artwork/ep13.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep13_Compare_Change_Carefully.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep13_Compare_Change_Carefully.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Census Data for Local Decisions</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep13_Compare_Change_Carefully.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep13_Compare_Change_Carefully.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep13_Compare_Change_Carefully.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep13_Compare_Change_Carefully.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep13_Compare_Change_Carefully.provenance.json</podhost:provenance>
+      <podhost:sha256>a9e5f7f60ad4842720c46ea2e90e0cb3bde420d2a5a06a14eaa92e955cd66281</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Download Files and PUMS</title>
+      <description>Explains summary files and PUMS while protecting confidentiality and valid geography.</description>
+      <link>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.html</link>
+      <guid isPermaLink="false">cb5f15b5-d89a-5486-b89c-30df0976f969</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep12_Download_Files_and_PUMS.mp3" length="1482262" type="audio/mpeg" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>121</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/census-academy/artwork/ep12.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Census Data for Local Decisions</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep12_Download_Files_and_PUMS.provenance.json</podhost:provenance>
+      <podhost:sha256>1324026fd6635c158db1a1d59c79fcee41d5a546e3c79f996d54b241069f2295</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Government Finance Data</title>
+      <description>Introduces Census of Governments and state and local finance statistics.</description>
+      <link>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.html</link>
+      <guid isPermaLink="false">9e30b141-8579-5685-8f89-8720e26d3a25</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep11_Government_Finance_Data.mp3" length="1471931" type="audio/mpeg" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>120</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/census-academy/artwork/ep11.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Census Data for Local Decisions</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.provenance.json</podhost:provenance>
+      <podhost:sha256>0a6c2cc6b1ba592b09a5d9fd36573ad7c151fea30238584b32d892cf0a2b48a0</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Business and Industry Data</title>
+      <description>Pairs demographic context with business establishments and industry statistics.</description>
+      <link>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.html</link>
+      <guid isPermaLink="false">da305e59-415a-58a4-9f2e-c2a9369dafe5</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep10_Business_and_Industry_Data.mp3" length="1471985" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>119</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/census-academy/artwork/ep10.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Census Data for Local Decisions</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.provenance.json</podhost:provenance>
+      <podhost:sha256>32faddc0c8f4ce82fe976ff9c57ba893c68c1fe25cb638baa1bd368e8fc0e83c</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Commuting and Place of Work</title>
+      <description>Interprets journey-to-work measures, modes, travel time, and worker universes.</description>
+      <link>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.html</link>
+      <guid isPermaLink="false">d1d10df2-0eba-5e64-be5e-867d76527cb1</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep09_Commuting_and_Place_of_Work.mp3" length="1487641" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>120</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/census-academy/artwork/ep09.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Census Data for Local Decisions</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.provenance.json</podhost:provenance>
+      <podhost:sha256>2da25a63bbeeddadac8e65c92314a55f7d946bd861185264a4411e2d3918f9da</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Housing Questions</title>
+      <description>Connects ACS housing measures to planning questions without overclaiming.</description>
+      <link>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.html</link>
+      <guid isPermaLink="false">44cdef5d-d1ad-5462-95e5-5951268eeb2e</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep08_Housing_Questions.mp3" length="1428972" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>117</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/census-academy/artwork/ep08.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Census Data for Local Decisions</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.provenance.json</podhost:provenance>
+      <podhost:sha256>c340d10c98e9db46f658970ba6f009294674f6a7f32e4fdcfc1a364aae9d50fc</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Build a Reproducible API Query</title>
+      <description>Constructs Census API requests from year, dataset, variables, and geography.</description>
+      <link>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.html</link>
+      <guid isPermaLink="false">1f0de947-bccd-5145-bce3-86e9dae74b20</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep07_Build_a_Reproducible_API_Query.mp3" length="1427614" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>116</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/census-academy/artwork/ep07.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Census Data for Local Decisions</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.provenance.json</podhost:provenance>
+      <podhost:sha256>4dd3449f64b31eb6e9fd4636a6c9ea3c1804a2047a8f720e42dec1e75858729d</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Find Tables and Profiles</title>
+      <description>Navigates detailed tables, subject tables, profiles, and comparison profiles.</description>
+      <link>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.html</link>
+      <guid isPermaLink="false">1348acd2-e397-5733-8c59-924ac188f2e1</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep06_Find_Tables_and_Profiles.mp3" length="1409023" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>114</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/census-academy/artwork/ep06.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Census Data for Local Decisions</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.provenance.json</podhost:provenance>
+      <podhost:sha256>b2f42da81e7b5fe6bf77e333b5e20c1a2c3720b1e698a008ceb7ad541ae7e1a7</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Margins of Error Matter</title>
+      <description>Uses margins of error and statistical testing to avoid false precision.</description>
+      <link>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.html</link>
+      <guid isPermaLink="false">8e489b75-24e7-58bb-8ba3-47fcff3bdc1c</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep05_Margins_of_Error_Matter.mp3" length="1445219" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>117</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/census-academy/artwork/ep05.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Census Data for Local Decisions</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.provenance.json</podhost:provenance>
+      <podhost:sha256>59817875a01e289ef6921b85fe1709c730d6b632fab64c14f3a6a1a2e33ba73b</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>One-Year or Five-Year</title>
+      <description>Distinguishes ACS 1-year and 5-year products and safe comparisons.</description>
+      <link>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.html</link>
+      <guid isPermaLink="false">fff2bb5f-41cf-5e16-9619-7faff5ca9286</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep04_One_Year_or_Five_Year.mp3" length="1446758" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>118</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/census-academy/artwork/ep04.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Census Data for Local Decisions</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.provenance.json</podhost:provenance>
+      <podhost:sha256>c7d9c4b538e1e4ff9cfe60457906c792dd1390ae99c98a35f2915c7bc3f54775</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Geography Before Numbers</title>
+      <description>Selects place, tract, block group, district, and custom geographies deliberately.</description>
+      <link>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.html</link>
+      <guid isPermaLink="false">e45ffa2d-207c-5ec2-a89f-d32d7a5f0102</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep03_Geography_Before_Numbers.mp3" length="1439217" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>116</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/census-academy/artwork/ep03.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Census Data for Local Decisions</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.provenance.json</podhost:provenance>
+      <podhost:sha256>471d6c4f14c0bce295f329e05295b82333ddd57baacd38d8444af7b61e9800b6</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>The ACS Is a Survey</title>
+      <description>Explains ACS period estimates, samples, topics, and appropriate interpretation.</description>
+      <link>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.html</link>
+      <guid isPermaLink="false">1968dd99-86ec-5c9d-8ec6-a225ca5c19c2</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep02_The_ACS_Is_a_Survey.mp3" length="1437114" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>117</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/census-academy/artwork/ep02.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Census Data for Local Decisions</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.provenance.json</podhost:provenance>
+      <podhost:sha256>ce846f9a2b02770abb1f41206cf6c4db5e6a263bbb601ede50ff39dc93c40458</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>What Census Data Can Answer</title>
+      <description>Chooses the right Census program for a local policy question.</description>
+      <link>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.html</link>
+      <guid isPermaLink="false">c43e4e61-4f33-5219-8b2d-9aac680fc775</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep01_What_Census_Data_Can_Answer.mp3" length="1477613" type="audio/mpeg" />
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>120</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/census-academy/artwork/ep01.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Census Data for Local Decisions</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.provenance.json</podhost:provenance>
+      <podhost:sha256>2e026f94c8673fef6ebbc0c78f9cff375ee68ec7030b75e44eb60ab1dcfc0fe3</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+  </channel>
+</rss>

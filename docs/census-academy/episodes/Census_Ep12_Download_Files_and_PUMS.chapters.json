@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "This episode focuses on bulk and microdata access"
+    },
+    {
+      "startTime": 10.012,
+      "title": "Summary files support bulk access to published aggregate..."
+    },
+    {
+      "startTime": 22.749,
+      "title": "Public Use Microdata Sample files contain disclosure-protected person..."
+    },
+    {
+      "startTime": 39.177,
+      "title": "Never infer that a PUMS record represents a..."
+    },
+    {
+      "startTime": 55.335,
+      "title": "Torrance application segment"
+    },
+    {
+      "startTime": 87.15,
+      "title": "Keep a reproducibility packet containing the question, source..."
+    }
+  ]
+}

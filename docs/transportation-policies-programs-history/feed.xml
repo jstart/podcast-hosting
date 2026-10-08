@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:podhost="https://jstart.github.io/podcast-hosting/namespace/1.0" version="2.0">
+  <channel>
+    <title>Transportation Policy in Practice</title>
+    <link>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/</link>
+    <description>A 10-episode course on transportation policy history, institutions, planning, mobility programs, sustainability, and global lessons.</description>
+    <language>en-us</language>
+    <generator>podcast-hosting/scripts/build_site.py</generator>
+    <itunes:author>Transportation Policy in Practice</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/cover.jpg" />
+    <image>
+      <url>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/cover.jpg</url>
+      <title>Transportation Policy in Practice</title>
+      <link>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/</link>
+    </image>
+    <podcast:locked owner="jstart">yes</podcast:locked>
+    <podcast:guid>8da0edd9425e1903e3aa91d6f92511bc25ad8d3efaf8edeb66d2c655808befb7</podcast:guid>
+    <podcast:person role="host" group="writing">Transportation Policy in Practice</podcast:person>
+    <podcast:license>See per-episode license and credits</podcast:license>
+    <item>
+      <title>Lessons from the Global South</title>
+      <description>Studies formal and informal mobility, bus rapid transit, and context-sensitive innovation while carefully separating a Torrance comparison.</description>
+      <link>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.html</link>
+      <guid isPermaLink="false">ec67455f-2470-53d3-849c-cf70657b27ae</guid>
+      <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep10_Lessons_from_the_Global_South.mp3" length="2184078" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>180</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep10.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Transportation Policy in Practice</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.provenance.json</podhost:provenance>
+      <podhost:sha256>2f17304dd868a81066ed35f8ecbac711e09c4dd6689ff62546199e03b6b0ca07</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Sustainable Transportation</title>
+      <description>Uses environmental, economic, and social indicators to define sustainable transportation and examine a Torrance active-transportation case.</description>
+      <link>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.html</link>
+      <guid isPermaLink="false">32cba5b5-fc04-5c70-811c-84ae737b0b65</guid>
+      <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep09_Sustainable_Transportation.mp3" length="2229431" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>186</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep09.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Transportation Policy in Practice</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.provenance.json</podhost:provenance>
+      <podhost:sha256>a71cf7e3abbc7ff7ab921d0fe399b2c0ee1c817c3ac9ca9bae9ea35251ea660e</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Technology, Shared Mobility, and Smart Cities</title>
+      <description>Evaluates digital mobility, automation, shared services, governance, privacy, and equity, then applies the questions locally.</description>
+      <link>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.html</link>
+      <guid isPermaLink="false">2b72b77e-f3b6-53cb-b37f-5466f2267dce</guid>
+      <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.mp3" length="2180412" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>181</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep08.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Transportation Policy in Practice</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.provenance.json</podhost:provenance>
+      <podhost:sha256>e267e04546683093dfb50ac89565954f2de16191796d1073a19236018efa038d</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Transit and Transit-Oriented Development</title>
+      <description>Reviews transit service, sustainable operations, and transit-oriented development, with a separate Torrance Transit Center application.</description>
+      <link>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.html</link>
+      <guid isPermaLink="false">262c7191-f732-5db7-8659-05800436b7f4</guid>
+      <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.mp3" length="2122269" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>173</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep07.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Transportation Policy in Practice</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.provenance.json</podhost:provenance>
+      <podhost:sha256>ab401480184dcdb7c4e61c642952fdeb6f88fedbc627c5f02805e036481a3e0e</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Accessibility and the Built Environment</title>
+      <description>Examines the transportation and land-use feedback loop and the shift from speed toward access, followed by a Torrance application.</description>
+      <link>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.html</link>
+      <guid isPermaLink="false">531d00ad-4829-51da-95e2-1d6a54b259f1</guid>
+      <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.mp3" length="2172861" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>179</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep06.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Transportation Policy in Practice</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.provenance.json</podhost:provenance>
+      <podhost:sha256>50df33e5702348d9bda74a9d6099bb97d3786d9dee797e3cce5a6f3e2830fd3f</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Choosing and Connecting Mobility Modes</title>
+      <description>Compares passenger and freight modes, multimodal and intermodal systems, and mode-selection tradeoffs, with a Torrance network application.</description>
+      <link>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.html</link>
+      <guid isPermaLink="false">349c9bdd-a2c4-5eb7-a3bd-9137e6d0535d</guid>
+      <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.mp3" length="2090030" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>173</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep05.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Transportation Policy in Practice</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.provenance.json</podhost:provenance>
+      <podhost:sha256>fc17ea6c5548b38d5d7d6f4f4d3af61d07ed3a9e38d4aba12845236bf0cc42f8</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Equity in Transportation Planning</title>
+      <description>Introduces distributional, procedural, and accessibility dimensions of transportation equity, then frames questions for Torrance decisions.</description>
+      <link>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.html</link>
+      <guid isPermaLink="false">4bc8957c-588f-53b2-a6f6-a4fefa2f827a</guid>
+      <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep04_Equity_in_Transportation_Planning.mp3" length="2183463" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>181</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep04.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Transportation Policy in Practice</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.provenance.json</podhost:provenance>
+      <podhost:sha256>0458d19db7aeda39b552c62b1e77825d5a97c7c685ecb588563d674ad81e9814</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Programming, Funding, and Evaluation</title>
+      <description>Connects long-range plans to fiscally constrained project programs, performance measures, and evaluation, with a Torrance application.</description>
+      <link>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.html</link>
+      <guid isPermaLink="false">a118c664-cd43-5424-98cc-cb7f88904c60</guid>
+      <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep03_Programming_Funding_and_Evaluation.mp3" length="2193034" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>181</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep03.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Transportation Policy in Practice</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.provenance.json</podhost:provenance>
+      <podhost:sha256>c5f90a5e590502a51d112d6277152dee5ddd8efd5a1d98057f4854ae16480791</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>From Long-Range Plans to Travel Models</title>
+      <description>Explains metropolitan planning, institutional roles, the four-step model, and newer activity-based approaches, followed by a separate Torrance application.</description>
+      <link>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.html</link>
+      <guid isPermaLink="false">174b5ff0-7312-53f9-a4bf-f861198ae076</guid>
+      <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.mp3" length="2338635" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>195</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep02.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Transportation Policy in Practice</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.provenance.json</podhost:provenance>
+      <podhost:sha256>5ff3b3aaf1db078d77a18940a4e0f8ff1e568ae6d44532a50321ce0cbddea4b3</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Policy, Congestion, Mobility, and Access</title>
+      <description>Traces federal surface transportation policy and distinguishes congestion, mobility, and accessibility before applying those ideas to Torrance.</description>
+      <link>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.html</link>
+      <guid isPermaLink="false">d5fca698-60a4-561e-a017-6a4d847e3578</guid>
+      <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.mp3" length="2315267" type="audio/mpeg" />
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>192</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep01.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Transportation Policy in Practice</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.provenance.json</podhost:provenance>
+      <podhost:sha256>38178149eb16daa1ad4202635e94791d8df67300f015a0a97734a499cbd4c376</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+  </channel>
+</rss>

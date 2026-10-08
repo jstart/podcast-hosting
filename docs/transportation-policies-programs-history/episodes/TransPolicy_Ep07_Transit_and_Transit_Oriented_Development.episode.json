@@ -1,0 +1,24 @@
+{
+  "guid": "262c7191-f732-5db7-8659-05800436b7f4",
+  "publication_date": "2026-10-08T04:30:00Z",
+  "season": 1,
+  "episode": 7,
+  "explicit": false,
+  "duration_seconds": 173.337,
+  "enclosure_bytes": 2122269,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep07.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "72d3ddd63b68ded4501cf6fb1de6bed49a22fecdbea9a67c92c2adc3d2136844",
+    "audio_sha256": "ab401480184dcdb7c4e61c642952fdeb6f88fedbc627c5f02805e036481a3e0e"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.provenance.json",
+  "release_tag": "transportation-policies-programs-history-v2026.2",
+  "release_version": "2026.2"
+}

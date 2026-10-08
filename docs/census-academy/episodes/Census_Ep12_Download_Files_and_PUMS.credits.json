@@ -1,0 +1,43 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "ACS Summary File",
+      "author": "U.S. Census Bureau American Community Survey",
+      "publisher": "U.S. Census Bureau",
+      "url": "https://www.census.gov/programs-surveys/acs/data/summary-file.html",
+      "license": "U.S. Government work not subject to copyright in the United States; third-party material excluded",
+      "cover_author": "U.S. Census Bureau"
+    },
+    {
+      "title": "Public Use Microdata Sample",
+      "author": "U.S. Census Bureau American Community Survey",
+      "publisher": "U.S. Census Bureau",
+      "url": "https://www.census.gov/programs-surveys/acs/microdata.html",
+      "license": "U.S. Government work not subject to copyright in the United States; disclosure protections and data-use guidance apply",
+      "cover_author": "U.S. Census Bureau"
+    },
+    {
+      "title": "Open Data",
+      "author": "U.S. Census Bureau",
+      "publisher": "U.S. Census Bureau",
+      "url": "https://www.census.gov/about/policies/open-gov/open-data.html",
+      "license": "Public U.S. Census Bureau data; privacy, security, and third-party restrictions still apply",
+      "cover_author": "U.S. Census Bureau"
+    },
+    {
+      "title": "General Plan",
+      "author": "City of Torrance",
+      "publisher": "City of Torrance",
+      "url": "https://www.torranceca.gov/Government/Departments-Offices/Departments-Offices/Community-Development/Planning-Division/Comprehensive-Planning/General-Plan",
+      "license": "Copyrighted local government webpage; facts summarized with attribution, no expressive text reproduced",
+      "cover_author": "U.S. Census Bureau"
+    }
+  ]
+}

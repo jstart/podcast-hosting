@@ -1,0 +1,22 @@
+{
+  "stable_guid": "27c30b3f-de8a-542e-9c39-a01e51a37c1b",
+  "show": "financial-strategy-public-managers",
+  "episode": 9,
+  "title": "A Repeatable Financial Strategy",
+  "release_version": "2026.2",
+  "release_tag": "financial-strategy-public-managers-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep09_A_Repeatable_Financial_Strategy.mp3",
+    "bytes": 2589881,
+    "sha256": "7026d62153d66d4ea75440b6159aa77a473c58321a73c264f1ede0bfa8028d07"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep09_A_Repeatable_Financial_Strategy.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep09.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep09_A_Repeatable_Financial_Strategy.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep09_A_Repeatable_Financial_Strategy.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep09_A_Repeatable_Financial_Strategy.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep09_A_Repeatable_Financial_Strategy.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep09_A_Repeatable_Financial_Strategy.provenance.json"
+  }
+}

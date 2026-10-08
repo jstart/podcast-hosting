@@ -1,0 +1,22 @@
+{
+  "stable_guid": "16856f65-6b4d-52ae-8895-6e1b292bf7e1",
+  "show": "financial-strategy-public-managers",
+  "episode": 5,
+  "title": "Transactions Tell the Story",
+  "release_version": "2026.2",
+  "release_tag": "financial-strategy-public-managers-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep05_Transactions_Tell_the_Story.mp3",
+    "bytes": 2359681,
+    "sha256": "eaa190a78e1be78e671b234f2b3026f14c590956339c913e231da513436c8cb9"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep05_Transactions_Tell_the_Story.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep05.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep05_Transactions_Tell_the_Story.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep05_Transactions_Tell_the_Story.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep05_Transactions_Tell_the_Story.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep05_Transactions_Tell_the_Story.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep05_Transactions_Tell_the_Story.provenance.json"
+  }
+}

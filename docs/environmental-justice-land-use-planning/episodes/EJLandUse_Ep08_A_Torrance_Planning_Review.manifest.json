@@ -1,0 +1,22 @@
+{
+  "stable_guid": "a4f3d851-83a5-5c6b-9526-c1418ba70cfd",
+  "show": "environmental-justice-land-use-planning",
+  "episode": 8,
+  "title": "A Torrance Planning Review",
+  "release_version": "2026.2",
+  "release_tag": "environmental-justice-land-use-planning-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep08_A_Torrance_Planning_Review.mp3",
+    "bytes": 2617403,
+    "sha256": "f1c735987262cd02c3b2cd3291d1c9bbc2fb3cb687e36a09c7570d1a70e506ef"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep08_A_Torrance_Planning_Review.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/artwork/ep08.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep08_A_Torrance_Planning_Review.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep08_A_Torrance_Planning_Review.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep08_A_Torrance_Planning_Review.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep08_A_Torrance_Planning_Review.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep08_A_Torrance_Planning_Review.provenance.json"
+  }
+}

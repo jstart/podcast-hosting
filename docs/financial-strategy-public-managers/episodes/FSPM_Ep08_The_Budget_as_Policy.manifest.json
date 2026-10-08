@@ -1,0 +1,22 @@
+{
+  "stable_guid": "3b8f3801-256f-57e3-ac76-e16300a8bbc0",
+  "show": "financial-strategy-public-managers",
+  "episode": 8,
+  "title": "The Budget as Policy",
+  "release_version": "2026.2",
+  "release_tag": "financial-strategy-public-managers-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep08_The_Budget_as_Policy.mp3",
+    "bytes": 2366518,
+    "sha256": "438abba6ca2150e0ec0d9e455d4808e0de9dba423d00a79e23704bacdefbf572"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep08.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.provenance.json"
+  }
+}

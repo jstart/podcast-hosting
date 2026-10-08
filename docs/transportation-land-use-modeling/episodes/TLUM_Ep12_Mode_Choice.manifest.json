@@ -1,0 +1,22 @@
+{
+  "stable_guid": "e383c2f9-41a1-5697-9981-fca5e3a32715",
+  "show": "transportation-land-use-modeling",
+  "episode": 12,
+  "title": "Mode Choice",
+  "release_version": "2026.2",
+  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep12_Mode_Choice.mp3",
+    "bytes": 2519493,
+    "sha256": "9a6b4fe32d9e8ab06d446f56c189aed3697b2709b4540828cb9877beddb12d8f"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep12.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.provenance.json"
+  }
+}

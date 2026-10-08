@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:podhost="https://jstart.github.io/podcast-hosting/namespace/1.0" version="2.0">
+  <channel>
+    <title>Public Money, Public Strategy</title>
+    <link>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/</link>
+    <description>A nine-episode course connecting public-sector financial tools to mission, accountability, costs, budgets, and repeatable strategy.</description>
+    <language>en-us</language>
+    <generator>podcast-hosting/scripts/build_site.py</generator>
+    <itunes:author>Public Money, Public Strategy</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/cover.jpg" />
+    <image>
+      <url>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/cover.jpg</url>
+      <title>Public Money, Public Strategy</title>
+      <link>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/</link>
+    </image>
+    <podcast:locked owner="jstart">yes</podcast:locked>
+    <podcast:guid>d371ce1e7ef1aeac6f16569564452012376d37392153553deacd18ee9ef2c9da</podcast:guid>
+    <podcast:person role="host" group="writing">Public Money, Public Strategy</podcast:person>
+    <podcast:license>See per-episode license and credits</podcast:license>
+    <item>
+      <title>A Repeatable Financial Strategy</title>
+      <description>Combines revenue, statements, costs, scenarios, and budgets into a repeatable decision process.</description>
+      <link>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep09_A_Repeatable_Financial_Strategy.html</link>
+      <guid isPermaLink="false">27c30b3f-de8a-542e-9c39-a01e51a37c1b</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep09_A_Repeatable_Financial_Strategy.mp3" length="2589881" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>218</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep09.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep09_A_Repeatable_Financial_Strategy.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep09_A_Repeatable_Financial_Strategy.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Money, Public Strategy</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep09_A_Repeatable_Financial_Strategy.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep09_A_Repeatable_Financial_Strategy.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep09_A_Repeatable_Financial_Strategy.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep09_A_Repeatable_Financial_Strategy.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep09_A_Repeatable_Financial_Strategy.provenance.json</podhost:provenance>
+      <podhost:sha256>7026d62153d66d4ea75440b6159aa77a473c58321a73c264f1ede0bfa8028d07</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>The Budget as Policy</title>
+      <description>Treats the budget as a prospective policy document linking priorities, resources, and authority.</description>
+      <link>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.html</link>
+      <guid isPermaLink="false">3b8f3801-256f-57e3-ac76-e16300a8bbc0</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep08_The_Budget_as_Policy.mp3" length="2366518" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>200</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep08.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Money, Public Strategy</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.provenance.json</podhost:provenance>
+      <podhost:sha256>438abba6ca2150e0ec0d9e455d4808e0de9dba423d00a79e23704bacdefbf572</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>What Changes at the Margin</title>
+      <description>Separates fixed, variable, step, avoidable, and sunk costs for service decisions.</description>
+      <link>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep07_What_Changes_at_the_Margin.html</link>
+      <guid isPermaLink="false">a9484b03-5967-5916-a14e-b5fce46f2520</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep07_What_Changes_at_the_Margin.mp3" length="2366802" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>199</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep07.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep07_What_Changes_at_the_Margin.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep07_What_Changes_at_the_Margin.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Money, Public Strategy</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep07_What_Changes_at_the_Margin.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep07_What_Changes_at_the_Margin.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep07_What_Changes_at_the_Margin.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep07_What_Changes_at_the_Margin.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep07_What_Changes_at_the_Margin.provenance.json</podhost:provenance>
+      <podhost:sha256>4b930856ac918ad8278615687b378b4dd4b8b6be0841b987c2eacc2f28c749c2</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>The Full Cost of Service</title>
+      <description>Builds full service costs from direct work, shared support, capital, and overhead.</description>
+      <link>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep06_The_Full_Cost_of_Service.html</link>
+      <guid isPermaLink="false">4fc9cc19-0b8a-5a39-8308-dde55bdd7080</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep06_The_Full_Cost_of_Service.mp3" length="2385159" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>202</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep06.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep06_The_Full_Cost_of_Service.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep06_The_Full_Cost_of_Service.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Money, Public Strategy</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep06_The_Full_Cost_of_Service.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep06_The_Full_Cost_of_Service.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep06_The_Full_Cost_of_Service.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep06_The_Full_Cost_of_Service.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep06_The_Full_Cost_of_Service.provenance.json</podhost:provenance>
+      <podhost:sha256>1049408979091875a402422861a7f7a5bb6f4b3d9d5c85c37d60a375b52c57e3</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Transactions Tell the Story</title>
+      <description>Shows how accruals, recognition, depreciation, and encumbrances shape reported results.</description>
+      <link>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep05_Transactions_Tell_the_Story.html</link>
+      <guid isPermaLink="false">16856f65-6b4d-52ae-8895-6e1b292bf7e1</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep05_Transactions_Tell_the_Story.mp3" length="2359681" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>200</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep05.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep05_Transactions_Tell_the_Story.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep05_Transactions_Tell_the_Story.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Money, Public Strategy</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep05_Transactions_Tell_the_Story.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep05_Transactions_Tell_the_Story.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep05_Transactions_Tell_the_Story.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep05_Transactions_Tell_the_Story.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep05_Transactions_Tell_the_Story.provenance.json</podhost:provenance>
+      <podhost:sha256>eaa190a78e1be78e671b234f2b3026f14c590956339c913e231da513436c8cb9</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>From Ratios to Judgment</title>
+      <description>Uses liquidity, operating, and solvency measures without confusing ratios for conclusions.</description>
+      <link>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.html</link>
+      <guid isPermaLink="false">10556d0e-fd58-5a44-bdc9-01aad45a20c2</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep04_From_Ratios_to_Judgment.mp3" length="2479088" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>208</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep04.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Money, Public Strategy</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.provenance.json</podhost:provenance>
+      <podhost:sha256>258bccde1bf12aca7656a7600774df6482269e183b8f12cdd9706bcaf4c6e650</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Reading the Three Statements</title>
+      <description>Explains balance sheets, operating statements, and cash-flow statements as one financial story.</description>
+      <link>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep03_Reading_the_Three_Statements.html</link>
+      <guid isPermaLink="false">6633a78a-da18-577b-a871-485b520f295e</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep03_Reading_the_Three_Statements.mp3" length="2510399" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>212</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep03.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep03_Reading_the_Three_Statements.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep03_Reading_the_Three_Statements.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Money, Public Strategy</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep03_Reading_the_Three_Statements.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep03_Reading_the_Three_Statements.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep03_Reading_the_Three_Statements.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep03_Reading_the_Three_Statements.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep03_Reading_the_Three_Statements.provenance.json</podhost:provenance>
+      <podhost:sha256>56c7b2f6771b78d05c871bea1e835f0f8af50d57297ffacfe82dafe2d083c153</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>How the Public Sector Pays</title>
+      <description>Maps taxes, fees, grants, transfers, and borrowing to the services they finance.</description>
+      <link>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep02_How_the_Public_Sector_Pays.html</link>
+      <guid isPermaLink="false">24063539-2eb1-528a-8abc-60910045255c</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep02_How_the_Public_Sector_Pays.mp3" length="2613020" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>224</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep02.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep02_How_the_Public_Sector_Pays.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep02_How_the_Public_Sector_Pays.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Money, Public Strategy</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep02_How_the_Public_Sector_Pays.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep02_How_the_Public_Sector_Pays.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep02_How_the_Public_Sector_Pays.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep02_How_the_Public_Sector_Pays.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep02_How_the_Public_Sector_Pays.provenance.json</podhost:provenance>
+      <podhost:sha256>064bac7577e537e629122321bdfb6bb9a57113f0a0c591f64fe28f1e8a220ce5</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Technique Serves Strategy</title>
+      <description>Connects financial tools to mission choices, public value, and accountable management.</description>
+      <link>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.html</link>
+      <guid isPermaLink="false">9920c6fb-79df-5eb4-bbfd-7d8314e98929</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep01_Technique_Serves_Strategy.mp3" length="2488913" type="audio/mpeg" />
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>209</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep01.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Money, Public Strategy</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.provenance.json</podhost:provenance>
+      <podhost:sha256>93f55f091aa3a94b63114df4d98da8bf0298c82633476b3630f982e9027ef899</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+  </channel>
+</rss>

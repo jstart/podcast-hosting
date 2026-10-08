@@ -1,0 +1,24 @@
+{
+  "guid": "60ce8706-079c-5665-aadd-89312a5e86b1",
+  "publication_date": "2026-10-08T04:30:00Z",
+  "season": 1,
+  "episode": 1,
+  "explicit": false,
+  "duration_seconds": 169.273,
+  "enclosure_bytes": 2082023,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep01.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "ddc8c63e3504b8be8ac25b67748173b0d363630ff3f7148413cb2171b45fed4b",
+    "audio_sha256": "e9d124fe19bcf645b4a864f75bc068dd5ca59895b1eaec5d3469687d6e1cff77"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.provenance.json",
+  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "release_version": "2026.2"
+}

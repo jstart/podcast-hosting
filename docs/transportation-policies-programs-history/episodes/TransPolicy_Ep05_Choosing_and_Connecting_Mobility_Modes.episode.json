@@ -1,0 +1,24 @@
+{
+  "guid": "349c9bdd-a2c4-5eb7-a3bd-9137e6d0535d",
+  "publication_date": "2026-10-08T04:30:00Z",
+  "season": 1,
+  "episode": 5,
+  "explicit": false,
+  "duration_seconds": 173.066,
+  "enclosure_bytes": 2090030,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep05.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "814df915f63e7d0dca0b08d8b14ab2a6bc3a9ab767db40e5f2e09ffa7b777c2c",
+    "audio_sha256": "fc17ea6c5548b38d5d7d6f4f4d3af61d07ed3a9e38d4aba12845236bf0cc42f8"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.provenance.json",
+  "release_tag": "transportation-policies-programs-history-v2026.2",
+  "release_version": "2026.2"
+}

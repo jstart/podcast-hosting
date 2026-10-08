@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "This episode focuses on program choice"
+    },
+    {
+      "startTime": 9.697,
+      "title": "Start with a question, not a table"
+    },
+    {
+      "startTime": 26.015,
+      "title": "Write the statistical universe in ordinary language"
+    },
+    {
+      "startTime": 42.628,
+      "title": "Record the program, dataset, vintage, table or variable..."
+    },
+    {
+      "startTime": 56.666,
+      "title": "Torrance application segment"
+    },
+    {
+      "startTime": 85.546,
+      "title": "Keep a reproducibility packet containing the question, source..."
+    }
+  ]
+}

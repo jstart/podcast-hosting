@@ -1,0 +1,43 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Introduction to the Census Bureau Data API",
+      "author": "U.S. Census Bureau Census Academy instructors",
+      "publisher": "U.S. Census Bureau Census Academy",
+      "url": "https://www.census.gov/data/academy/courses/intro-to-the-census-bureau-data-api.html",
+      "license": "U.S. Government work not subject to copyright in the United States; API terms apply",
+      "cover_author": "U.S. Census Bureau"
+    },
+    {
+      "title": "Census Data API User Guide",
+      "author": "U.S. Census Bureau",
+      "publisher": "U.S. Census Bureau",
+      "url": "https://www.census.gov/data/developers/guidance/api-user-guide.html",
+      "license": "U.S. Government work not subject to copyright in the United States; API terms apply",
+      "cover_author": "U.S. Census Bureau"
+    },
+    {
+      "title": "Census Data API Terms of Service",
+      "author": "U.S. Census Bureau",
+      "publisher": "U.S. Census Bureau",
+      "url": "https://www.census.gov/data/developers/about/terms-of-service.html",
+      "license": "Use subject to Census Data API Terms of Service and required non-endorsement notice",
+      "cover_author": "U.S. Census Bureau"
+    },
+    {
+      "title": "About Torrance",
+      "author": "City of Torrance",
+      "publisher": "City of Torrance",
+      "url": "https://www.torranceca.gov/Government/About-Torrance",
+      "license": "Copyrighted local government webpage; facts summarized with attribution, no expressive text reproduced",
+      "cover_author": "U.S. Census Bureau"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "guid": "ad2ea53e-3145-5f46-94cc-94ab8b1a98f5",
+  "publication_date": "2026-10-08T04:00:00Z",
+  "season": 1,
+  "episode": 14,
+  "explicit": false,
+  "duration_seconds": 122.189,
+  "enclosure_bytes": 1496786,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep14_A_Torrance_Data_Workflow.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep14.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "0a03b8ce90fdd099bf1b2bda2348a745d4e05323403ec7d24f1401662b3e93c7",
+    "audio_sha256": "8667ea9b2b0c128e9e13f050c8533f0ab81364e010e41b3b36195a724a3b579b"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.provenance.json",
+  "release_tag": "census-academy-v2026.2",
+  "release_version": "2026.2"
+}

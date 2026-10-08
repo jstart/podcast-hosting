@@ -1,0 +1,22 @@
+{
+  "stable_guid": "4fc9cc19-0b8a-5a39-8308-dde55bdd7080",
+  "show": "financial-strategy-public-managers",
+  "episode": 6,
+  "title": "The Full Cost of Service",
+  "release_version": "2026.2",
+  "release_tag": "financial-strategy-public-managers-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep06_The_Full_Cost_of_Service.mp3",
+    "bytes": 2385159,
+    "sha256": "1049408979091875a402422861a7f7a5bb6f4b3d9d5c85c37d60a375b52c57e3"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep06_The_Full_Cost_of_Service.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep06.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep06_The_Full_Cost_of_Service.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep06_The_Full_Cost_of_Service.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep06_The_Full_Cost_of_Service.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep06_The_Full_Cost_of_Service.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep06_The_Full_Cost_of_Service.provenance.json"
+  }
+}

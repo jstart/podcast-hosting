@@ -1,0 +1,24 @@
+{
+  "guid": "d1d10df2-0eba-5e64-be5e-867d76527cb1",
+  "publication_date": "2026-10-08T04:00:00Z",
+  "season": 1,
+  "episode": 9,
+  "explicit": false,
+  "duration_seconds": 120.045,
+  "enclosure_bytes": 1487641,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep09_Commuting_and_Place_of_Work.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep09.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "fd857027c59844faa1db336a3493ae4b03f5cac8360e1e954f93e3bd7f08d0f1",
+    "audio_sha256": "2da25a63bbeeddadac8e65c92314a55f7d946bd861185264a4411e2d3918f9da"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep09_Commuting_and_Place_of_Work.provenance.json",
+  "release_tag": "census-academy-v2026.2",
+  "release_version": "2026.2"
+}

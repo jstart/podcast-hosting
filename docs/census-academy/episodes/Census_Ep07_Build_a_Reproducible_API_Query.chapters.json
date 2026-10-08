@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "This episode focuses on API construction"
+    },
+    {
+      "startTime": 10.182,
+      "title": "A Census Data API request combines a year..."
+    },
+    {
+      "startTime": 22.129,
+      "title": "The get clause selects fields"
+    },
+    {
+      "startTime": 35.042,
+      "title": "Check returned headers and geography codes before converting..."
+    },
+    {
+      "startTime": 49.015,
+      "title": "Torrance application segment"
+    },
+    {
+      "startTime": 80.815,
+      "title": "Keep a reproducibility packet containing the question, source..."
+    }
+  ]
+}

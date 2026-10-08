@@ -1,0 +1,24 @@
+{
+  "guid": "e245b12c-e3d0-5b98-865f-6039031a5027",
+  "publication_date": "2026-10-08T05:00:00Z",
+  "season": 1,
+  "episode": 1,
+  "explicit": false,
+  "duration_seconds": 180.241,
+  "enclosure_bytes": 2150236,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep01_Why_Land_Use_Is_an_Environmental_Justice_Issue.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep01_Why_Land_Use_Is_an_Environmental_Justice_Issue.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep01_Why_Land_Use_Is_an_Environmental_Justice_Issue.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/artwork/ep01.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep01_Why_Land_Use_Is_an_Environmental_Justice_Issue.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "fd89f8af660d454b240d2b646449b5bd6f782601094c0c863c4666eb6fdaacfd",
+    "audio_sha256": "4df8f42d525c4ae1d20460a9df1f8ac7db107b05ecd553e5208c1170fbaa01c8"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep01_Why_Land_Use_Is_an_Environmental_Justice_Issue.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep01_Why_Land_Use_Is_an_Environmental_Justice_Issue.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep01_Why_Land_Use_Is_an_Environmental_Justice_Issue.provenance.json",
+  "release_tag": "environmental-justice-land-use-planning-v2026.2",
+  "release_version": "2026.2"
+}

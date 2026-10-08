@@ -1,0 +1,24 @@
+{
+  "guid": "c7f6a7e1-157b-559f-adbe-89278e3e829c",
+  "publication_date": "2026-10-08T05:00:00Z",
+  "season": 1,
+  "episode": 3,
+  "explicit": false,
+  "duration_seconds": 196.867,
+  "enclosure_bytes": 2339368,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep03_History_Is_in_the_Present.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep03_History_Is_in_the_Present.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep03_History_Is_in_the_Present.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/design-equity/artwork/ep03.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep03_History_Is_in_the_Present.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "c895bdff300041704d6d95d8414e618d6516b236e3d8dd834ea473e5978e5f3f",
+    "audio_sha256": "b2885f8b909d108937f89c0bc355977581ee52086978a3d677d3f39cd26e235d"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep03_History_Is_in_the_Present.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep03_History_Is_in_the_Present.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep03_History_Is_in_the_Present.provenance.json",
+  "release_tag": "design-equity-v2026.2",
+  "release_version": "2026.2"
+}

@@ -37,6 +37,24 @@ SHOWS = {
     "public-policy-prep": {
         "description": "A 12-episode interdisciplinary study course spanning government, sociology, psychology, economics, writing, and algebra."
     },
+    "financial-strategy-public-managers": {
+        "description": "A nine-episode course connecting public-sector financial tools to mission, accountability, costs, budgets, and repeatable strategy."
+    },
+    "census-academy": {
+        "description": "A 14-episode practical course on Census data, geography, uncertainty, APIs, housing, commuting, business, and government finance."
+    },
+    "transportation-policies-programs-history": {
+        "description": "A 10-episode course on transportation policy history, institutions, planning, mobility programs, sustainability, and global lessons."
+    },
+    "transportation-land-use-modeling": {
+        "description": "A 13-episode course on integrated transportation and land-use modeling, data, scenarios, trip generation, mode choice, and feedback."
+    },
+    "design-equity": {
+        "description": "An eight-episode course on designing public places, services, information, and decision processes for equitable outcomes."
+    },
+    "environmental-justice-land-use-planning": {
+        "description": "An eight-episode course on environmental justice evidence, land-use policy, implementation, accountability, and planning review."
+    },
 }
 SAFE_SUFFIXES = {
     ".accessibility.json",
@@ -364,11 +382,12 @@ def episode_page(show, episode, hosted, stem):
 
 def write_static(docs, shows):
     cards = "".join(show_card(show) for show in shows)
+    episode_count = sum(len(show["episodes"]) for show in shows)
     body = f"""
 <section class="hero">
   <p class="eyebrow">INDEPENDENT CIVIC STUDY</p>
   <h1>Listen closely.<br>Govern thoughtfully.</h1>
-  <p class="lede">Six accessible audio courses for public service, planning, education, and policy study.</p>
+  <p class="lede">{len(shows)} accessible audio courses with {episode_count} episodes for public service, planning, education, and policy study.</p>
 </section>
 <section aria-labelledby="shows"><h2 id="shows">The collection</h2>{cards}</section>
 <aside class="pocket-note">

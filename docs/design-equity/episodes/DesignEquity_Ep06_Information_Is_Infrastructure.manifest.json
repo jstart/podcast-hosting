@@ -1,0 +1,22 @@
+{
+  "stable_guid": "8879f49e-b2c9-521e-a90f-c3077cb252a3",
+  "show": "design-equity",
+  "episode": 6,
+  "title": "Information Is Infrastructure",
+  "release_version": "2026.2",
+  "release_tag": "design-equity-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep06_Information_Is_Infrastructure.mp3",
+    "bytes": 2085232,
+    "sha256": "d8cd76829a9b1f6f252737cc6715d6bb10b6e3bb889525e53e21c49007e87868"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/design-equity/artwork/ep06.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.provenance.json"
+  }
+}

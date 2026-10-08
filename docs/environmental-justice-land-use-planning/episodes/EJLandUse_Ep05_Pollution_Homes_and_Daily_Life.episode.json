@@ -1,0 +1,24 @@
+{
+  "guid": "892764c7-b440-5da3-9f1e-a768d092e40f",
+  "publication_date": "2026-10-08T05:00:00Z",
+  "season": 1,
+  "episode": 5,
+  "explicit": false,
+  "duration_seconds": 169.548,
+  "enclosure_bytes": 2043272,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/artwork/ep05.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "c34b2056d65b4bdcbcc32c819f44118fb13d7ae00e4503275cb41f07c41c9fe5",
+    "audio_sha256": "ca529b2d628c4cef186b1927bc76ddba23780d0ecfcd6253a5bcc1a0c6bb6097"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.provenance.json",
+  "release_tag": "environmental-justice-land-use-planning-v2026.2",
+  "release_version": "2026.2"
+}

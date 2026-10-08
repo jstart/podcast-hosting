@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "This episode focuses on journey-to-work data"
+    },
+    {
+      "startTime": 10.827,
+      "title": "ACS journey-to-work measures generally describe workers age sixteen..."
+    },
+    {
+      "startTime": 24.389,
+      "title": "Means of transportation reflects the usual mode during..."
+    },
+    {
+      "startTime": 36.191,
+      "title": "Residence-based commuting data answers where workers who live..."
+    },
+    {
+      "startTime": 47.839,
+      "title": "Torrance application segment"
+    },
+    {
+      "startTime": 83.874,
+      "title": "Keep a reproducibility packet containing the question, source..."
+    }
+  ]
+}

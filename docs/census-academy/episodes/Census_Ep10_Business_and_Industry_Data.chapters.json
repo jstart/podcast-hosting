@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "This episode focuses on economic programs"
+    },
+    {
+      "startTime": 10.867,
+      "title": "Business statistics describe establishments, firms, industries, employment, payroll..."
+    },
+    {
+      "startTime": 25.644,
+      "title": "An establishment is a location where business activity..."
+    },
+    {
+      "startTime": 39.707,
+      "title": "Industry classifications, suppression, reference years, and geographic coverage..."
+    },
+    {
+      "startTime": 54.305,
+      "title": "Torrance application segment"
+    },
+    {
+      "startTime": 83.285,
+      "title": "Keep a reproducibility packet containing the question, source..."
+    }
+  ]
+}

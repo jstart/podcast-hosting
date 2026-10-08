@@ -1,0 +1,22 @@
+{
+  "stable_guid": "99d0e767-19e5-5b92-8e97-8ccda95890ae",
+  "show": "design-equity",
+  "episode": 1,
+  "title": "Equity Is a Design Question",
+  "release_version": "2026.2",
+  "release_tag": "design-equity-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep01_Equity_Is_a_Design_Question.mp3",
+    "bytes": 2463094,
+    "sha256": "3657ba62c2cddadcbea6e5ac36fdee4aeb9aa7d5ace1e0c520140bed1ce6e79e"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/design-equity/artwork/ep01.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.provenance.json"
+  }
+}

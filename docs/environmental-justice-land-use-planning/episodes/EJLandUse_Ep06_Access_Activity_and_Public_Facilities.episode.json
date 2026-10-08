@@ -1,0 +1,24 @@
+{
+  "guid": "655cc678-a701-5976-b32b-a2f1de833896",
+  "publication_date": "2026-10-08T05:00:00Z",
+  "season": 1,
+  "episode": 6,
+  "explicit": false,
+  "duration_seconds": 154.607,
+  "enclosure_bytes": 1868975,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep06_Access_Activity_and_Public_Facilities.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep06_Access_Activity_and_Public_Facilities.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep06_Access_Activity_and_Public_Facilities.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/artwork/ep06.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep06_Access_Activity_and_Public_Facilities.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "4362d2ad55096e3a6dea7d596a61023cc67a5a47de1358d002a3fb6c351fda33",
+    "audio_sha256": "fc10615d6cc2cf284681ffa442535a37e83c8e341b9f523a868e5c7abe986a51"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep06_Access_Activity_and_Public_Facilities.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep06_Access_Activity_and_Public_Facilities.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep06_Access_Activity_and_Public_Facilities.provenance.json",
+  "release_tag": "environmental-justice-land-use-planning-v2026.2",
+  "release_version": "2026.2"
+}

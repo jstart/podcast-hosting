@@ -1,0 +1,35 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Exploring Census Data Webinar: Public Sector",
+      "author": "U.S. Census Bureau subject matter experts",
+      "publisher": "U.S. Census Bureau Census Academy",
+      "url": "https://www.census.gov/data/academy/webinars/2022/exploring-census-data/public-sector.html",
+      "license": "U.S. Government work not subject to copyright in the United States; third-party material excluded",
+      "cover_author": "U.S. Census Bureau"
+    },
+    {
+      "title": "Annual Survey of State and Local Government Finances",
+      "author": "U.S. Census Bureau",
+      "publisher": "U.S. Census Bureau",
+      "url": "https://www.census.gov/programs-surveys/gov-finances.html",
+      "license": "U.S. Government work not subject to copyright in the United States; third-party material excluded",
+      "cover_author": "U.S. Census Bureau"
+    },
+    {
+      "title": "Financial Documents and Audit Reports",
+      "author": "City of Torrance",
+      "publisher": "City of Torrance",
+      "url": "https://www.torranceca.gov/Government/Departments-Offices/Departments-Offices/Finance/Audit-Reports",
+      "license": "Copyrighted local government webpage; document availability summarized with attribution",
+      "cover_author": "U.S. Census Bureau"
+    }
+  ]
+}

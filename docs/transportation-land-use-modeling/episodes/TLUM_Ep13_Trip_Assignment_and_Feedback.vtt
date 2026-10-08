@@ -1,0 +1,141 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.134
+Trip assignment places estimated origin-destination trips onto a transportation network.
+
+2
+00:00:05.134 --> 00:00:12.835
+The source chapter closes the four-step model with the relationship between route choice, traffic volume, capacity, and travel time.
+
+3
+00:00:12.835 --> 00:00:18.845
+A network is represented through nodes, links, allowed movements, costs, and operating characteristics.
+
+4
+00:00:18.845 --> 00:00:23.454
+Its apparent precision depends on how well those elements describe real travel.
+
+5
+00:00:23.454 --> 00:00:30.221
+The simplest assignment sends every trip between an origin and destination to the path with the lowest modeled cost.
+
+6
+00:00:30.221 --> 00:00:36.697
+All-or-nothing assignment is easy to understand, but it ignores the congestion created by the assigned traffic.
+
+7
+00:00:36.697 --> 00:00:41.423
+Incremental and capacity-restraint methods update link costs as volumes increase.
+
+8
+00:00:41.423 --> 00:00:48.891
+User-equilibrium assignment seeks a stable condition in which no traveler can improve the modeled cost by changing routes alone.
+
+9
+00:00:48.891 --> 00:00:55.192
+Equilibrium is a mathematical condition, not proof that the network is fair, safe, or correctly represented.
+
+10
+00:00:55.192 --> 00:00:58.926
+Travelers have incomplete information and different preferences.
+
+11
+00:00:58.926 --> 00:01:06.569
+Freight vehicles, transit, bicycles, and emergency response may face constraints that a passenger-vehicle network does not capture.
+
+12
+00:01:06.569 --> 00:01:13.512
+Volume-delay functions summarize complex operations and can be unreliable outside the range where they were calibrated.
+
+13
+00:01:13.512 --> 00:01:20.163
+Assignment results should be checked against observed counts, travel times, speeds, queues, and screenline totals.
+
+14
+00:01:20.163 --> 00:01:23.021
+A good regional fit can conceal a poor local fit.
+
+15
+00:01:23.021 --> 00:01:30.898
+Analysts should examine whether centroid connectors, turn restrictions, capacities, tolls, and external trips create artificial routes.
+
+16
+00:01:30.898 --> 00:01:33.756
+Feedback links assignment to earlier model steps.
+
+17
+00:01:33.756 --> 00:01:41.399
+Congested travel times can alter destination and mode choice, and an integrated model can also alter land use over a longer period.
+
+18
+00:01:41.399 --> 00:01:46.008
+Repeating the steps until a stopping rule is met improves internal consistency.
+
+19
+00:01:46.008 --> 00:01:50.209
+It does not remove uncertainty in growth, behavior, networks, or policy.
+
+20
+00:01:50.209 --> 00:01:51.435
+Torrance application.
+
+21
+00:01:51.435 --> 00:01:58.208
+This separate local segment cites the City of Torrance Transportation Analysis Requirements for Private Development.
+
+22
+00:01:58.208 --> 00:02:11.171
+For a hypothetical circulation analysis, a reviewer would first identify the network, study periods, observed counts, signal and turn assumptions, project trips, and horizon-year changes required by current City direction.
+
+23
+00:02:11.171 --> 00:02:18.586
+The reviewer would inspect whether assigned routes are plausible for local streets, regional connections, and freight activity.
+
+24
+00:02:18.586 --> 00:02:27.578
+A model that uses a residential street as an unrestricted shortcut or ignores a legal turn constraint needs correction before its volumes are interpreted.
+
+25
+00:02:27.578 --> 00:02:34.994
+Calibration should compare both counts and travel times, with attention to locations where the model and observations disagree.
+
+26
+00:02:34.994 --> 00:02:43.168
+The City describes level-of-service circulation analysis as distinct from the vehicle-miles-traveled analysis used for environmental review.
+
+27
+00:02:43.168 --> 00:02:48.132
+Assignment output for one purpose should not be presented as if it answers the other.
+
+28
+00:02:48.132 --> 00:02:54.963
+Sensitivity tests can show how uncertain distribution, background growth, or network assumptions affect a conclusion.
+
+29
+00:02:54.963 --> 00:02:59.985
+No Torrance network is coded and no operational or environmental finding is made here.
+
+30
+00:02:59.985 --> 00:03:04.422
+Current guidance, field data, professional methods, and City review control.
+
+31
+00:03:04.422 --> 00:03:11.487
+The application demonstrates how to treat assignment as a conditional model step with documented feedback and validation.
+
+32
+00:03:11.487 --> 00:03:20.713
+This episode adapts chapter thirteen of Transportation Land Use Modeling and Policy by Qisheng Pan and Soheil Sharifi, Mavs Open Press, under CC BY-NC-SA 4.0.
+
+33
+00:03:20.713 --> 00:03:25.851
+Source networks, equations, figures, datasets, and other third-party items are excluded.
+
+34
+00:03:25.851 --> 00:03:29.997
+Torrance material is independently summarized from the cited City page.
+
+35
+00:03:29.997 --> 00:03:31.515
+No endorsement is implied.

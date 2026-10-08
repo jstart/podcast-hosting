@@ -1,0 +1,24 @@
+{
+  "guid": "cabf56f4-fc4e-543b-9f2b-612f08e82819",
+  "publication_date": "2026-10-08T05:00:00Z",
+  "season": 1,
+  "episode": 4,
+  "explicit": false,
+  "duration_seconds": 187.657,
+  "enclosure_bytes": 2215040,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep04_Health_Is_Built_into_Place.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep04_Health_Is_Built_into_Place.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep04_Health_Is_Built_into_Place.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/design-equity/artwork/ep04.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep04_Health_Is_Built_into_Place.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "6596e149959b84bed509ecde507e76d17305869f4cfadfa1b1c7bf43f65208eb",
+    "audio_sha256": "854c5b4cd5252a393429117225dc5440fb0f485077272c7fb525912d4d94d38a"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep04_Health_Is_Built_into_Place.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep04_Health_Is_Built_into_Place.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep04_Health_Is_Built_into_Place.provenance.json",
+  "release_tag": "design-equity-v2026.2",
+  "release_version": "2026.2"
+}

@@ -1,0 +1,24 @@
+{
+  "guid": "9d4ee4cb-d5e5-50d7-a77d-e2c937943b77",
+  "publication_date": "2026-10-08T05:00:00Z",
+  "season": 1,
+  "episode": 2,
+  "explicit": false,
+  "duration_seconds": 203.587,
+  "enclosure_bytes": 2412258,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep02_Talking_about_Racism_in_Design.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/design-equity/artwork/ep02.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "a3e625657f332bab74e35992e06a95bf2ba2d678c5272781f45165f250aa3927",
+    "audio_sha256": "141c27bef53c0c31bfa6ae8a81dfc6d1c9b7e3c2c273afa00098a0e73fd9ca4c"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.provenance.json",
+  "release_tag": "design-equity-v2026.2",
+  "release_version": "2026.2"
+}

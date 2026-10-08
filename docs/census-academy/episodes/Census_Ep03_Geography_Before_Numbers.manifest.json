@@ -1,0 +1,22 @@
+{
+  "stable_guid": "e45ffa2d-207c-5ec2-a89f-d32d7a5f0102",
+  "show": "census-academy",
+  "episode": 3,
+  "title": "Geography Before Numbers",
+  "release_version": "2026.2",
+  "release_tag": "census-academy-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep03_Geography_Before_Numbers.mp3",
+    "bytes": 1439217,
+    "sha256": "471d6c4f14c0bce295f329e05295b82333ddd57baacd38d8444af7b61e9800b6"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep03.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.provenance.json"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "stable_guid": "9d4ee4cb-d5e5-50d7-a77d-e2c937943b77",
+  "show": "design-equity",
+  "episode": 2,
+  "title": "Talking about Racism in Design",
+  "release_version": "2026.2",
+  "release_tag": "design-equity-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep02_Talking_about_Racism_in_Design.mp3",
+    "bytes": 2412258,
+    "sha256": "141c27bef53c0c31bfa6ae8a81dfc6d1c9b7e3c2c273afa00098a0e73fd9ca4c"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/design-equity/artwork/ep02.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.provenance.json"
+  }
+}

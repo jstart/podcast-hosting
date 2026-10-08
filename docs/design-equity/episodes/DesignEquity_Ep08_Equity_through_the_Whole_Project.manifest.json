@@ -1,0 +1,22 @@
+{
+  "stable_guid": "39b6caec-ed2e-562a-8ad3-9d9d148d1bd6",
+  "show": "design-equity",
+  "episode": 8,
+  "title": "Equity through the Whole Project",
+  "release_version": "2026.2",
+  "release_tag": "design-equity-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep08_Equity_through_the_Whole_Project.mp3",
+    "bytes": 2159704,
+    "sha256": "a1bf59761ea1d7b886e73ae4f14d8ce0bd8ef5345914cb4324455e3619aa3e05"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/design-equity/artwork/ep08.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.provenance.json"
+  }
+}

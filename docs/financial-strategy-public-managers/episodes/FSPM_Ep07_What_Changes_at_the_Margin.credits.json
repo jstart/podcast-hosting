@@ -1,0 +1,27 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cost Analysis",
+      "author": "Sharon Kioko and Justin Marlowe",
+      "publisher": "University of Washington Pressbooks",
+      "url": "https://uw.pressbooks.pub/financialstrategy/chapter/cost-analysis/",
+      "license": "CC BY 4.0; adapted by condensation, paraphrase, and reorganization; third-party material excluded",
+      "cover_author": "Sharon Kioko and Justin Marlowe"
+    },
+    {
+      "title": "Budget Documents",
+      "author": "City of Torrance",
+      "publisher": "City of Torrance",
+      "url": "https://www.torranceca.gov/Government/Departments-Offices/Departments-Offices/Finance/Budget-Documents",
+      "license": "Official local source; titles, high-level facts, and links used; no broad open license identified",
+      "cover_author": "City of Torrance"
+    }
+  ]
+}

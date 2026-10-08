@@ -1,0 +1,22 @@
+{
+  "stable_guid": "10556d0e-fd58-5a44-bdc9-01aad45a20c2",
+  "show": "financial-strategy-public-managers",
+  "episode": 4,
+  "title": "From Ratios to Judgment",
+  "release_version": "2026.2",
+  "release_tag": "financial-strategy-public-managers-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep04_From_Ratios_to_Judgment.mp3",
+    "bytes": 2479088,
+    "sha256": "258bccde1bf12aca7656a7600774df6482269e183b8f12cdd9706bcaf4c6e650"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep04.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.provenance.json"
+  }
+}

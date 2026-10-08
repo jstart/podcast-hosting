@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "This episode focuses on end-to-end practice"
+    },
+    {
+      "startTime": 10.897,
+      "title": "A defensible workflow begins with a written question..."
+    },
+    {
+      "startTime": 23.699,
+      "title": "Create a source register with titles, publishers, URLs..."
+    },
+    {
+      "startTime": 37.366,
+      "title": "Check margins of error, product compatibility, boundary changes..."
+    },
+    {
+      "startTime": 49.948,
+      "title": "Torrance application segment"
+    },
+    {
+      "startTime": 85.288,
+      "title": "Keep a reproducibility packet containing the question, source..."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "guid": "05de91c4-2a20-549a-a5b2-08cd0d879bd7",
+  "publication_date": "2026-10-08T05:00:00Z",
+  "season": 1,
+  "episode": 5,
+  "explicit": false,
+  "duration_seconds": 185.611,
+  "enclosure_bytes": 2192526,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep05_Who_Can_Get_Where.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep05_Who_Can_Get_Where.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep05_Who_Can_Get_Where.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/design-equity/artwork/ep05.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep05_Who_Can_Get_Where.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "6387c7e9f3def47e6f0c3e921baf3a791055d616364e8197e7f6e40f85ef1abc",
+    "audio_sha256": "905b0eea5d8e4bb67fec0ee6ce96a1fb3eb9a18b52ae026aecfada482105a226"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep05_Who_Can_Get_Where.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep05_Who_Can_Get_Where.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep05_Who_Can_Get_Where.provenance.json",
+  "release_tag": "design-equity-v2026.2",
+  "release_version": "2026.2"
+}

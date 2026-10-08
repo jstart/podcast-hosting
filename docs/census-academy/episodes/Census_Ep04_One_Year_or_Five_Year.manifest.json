@@ -1,0 +1,22 @@
+{
+  "stable_guid": "fff2bb5f-41cf-5e16-9619-7faff5ca9286",
+  "show": "census-academy",
+  "episode": 4,
+  "title": "One-Year or Five-Year",
+  "release_version": "2026.2",
+  "release_tag": "census-academy-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep04_One_Year_or_Five_Year.mp3",
+    "bytes": 1446758,
+    "sha256": "c7d9c4b538e1e4ff9cfe60457906c792dd1390ae99c98a35f2915c7bc3f54775"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep04.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.provenance.json"
+  }
+}

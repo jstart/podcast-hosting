@@ -1,0 +1,33 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Transportation Land Use Modeling and Policy",
+      "author": "Qisheng Pan; Soheil Sharifi",
+      "cover_author": "Qisheng Pan & Soheil Sharifi",
+      "publisher": "Mavs Open Press, University of Texas at Arlington",
+      "url": "https://uta.pressbooks.pub/oertransportlanduse/",
+      "license": "Adapted under CC BY-NC-SA 4.0; \u00a9 2024 Qisheng Pan and Soheil Sharifi; excludes third-party items noted in the source"
+    },
+    {
+      "title": "Torrance General Plan",
+      "author": "City of Torrance",
+      "publisher": "City of Torrance",
+      "url": "https://www.torranceca.gov/Government/Departments-Offices/Departments-Offices/Community-Development/Planning-Division/Comprehensive-Planning/General-Plan",
+      "license": "No broad open license identified; facts and policies summarized in original language with attribution"
+    },
+    {
+      "title": "Torrance Transit Tomorrow Plan",
+      "author": "Torrance Transit System",
+      "publisher": "City of Torrance",
+      "url": "https://transit.torranceca.gov/home/showpublisheddocument/61806/637371705858170000",
+      "license": "No broad open license identified; public agency facts summarized in original language with attribution"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "id": "transportation-policies-programs-history",
+  "title": "Transportation Policy in Practice",
+  "album": "Transportation Policy in Practice: A Ten-Episode Course",
+  "description": "A 10-episode course on transportation policy history, institutions, planning, mobility programs, sustainability, and global lessons.",
+  "version": "2026.2",
+  "release_tag": "transportation-policies-programs-history-v2026.2",
+  "stable_feed_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/feed.xml",
+  "release_url": "https://github.com/jstart/podcast-hosting/releases/tag/transportation-policies-programs-history-v2026.2",
+  "episodes": [
+    {
+      "stable_guid": "d5fca698-60a4-561e-a017-6a4d847e3578",
+      "show": "transportation-policies-programs-history",
+      "episode": 1,
+      "title": "Policy, Congestion, Mobility, and Access",
+      "release_version": "2026.2",
+      "release_tag": "transportation-policies-programs-history-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.mp3",
+        "bytes": 2315267,
+        "sha256": "38178149eb16daa1ad4202635e94791d8df67300f015a0a97734a499cbd4c376"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep01.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.provenance.json"
+      },
+      "summary": "Traces federal surface transportation policy and distinguishes congestion, mobility, and accessibility before applying those ideas to Torrance.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 191.585
+    },
+    {
+      "stable_guid": "174b5ff0-7312-53f9-a4bf-f861198ae076",
+      "show": "transportation-policies-programs-history",
+      "episode": 2,
+      "title": "From Long-Range Plans to Travel Models",
+      "release_version": "2026.2",
+      "release_tag": "transportation-policies-programs-history-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.mp3",
+        "bytes": 2338635,
+        "sha256": "5ff3b3aaf1db078d77a18940a4e0f8ff1e568ae6d44532a50321ce0cbddea4b3"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep02.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.provenance.json"
+      },
+      "summary": "Explains metropolitan planning, institutional roles, the four-step model, and newer activity-based approaches, followed by a separate Torrance application.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 195.048
+    },
+    {
+      "stable_guid": "a118c664-cd43-5424-98cc-cb7f88904c60",
+      "show": "transportation-policies-programs-history",
+      "episode": 3,
+      "title": "Programming, Funding, and Evaluation",
+      "release_version": "2026.2",
+      "release_tag": "transportation-policies-programs-history-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep03_Programming_Funding_and_Evaluation.mp3",
+        "bytes": 2193034,
+        "sha256": "c5f90a5e590502a51d112d6277152dee5ddd8efd5a1d98057f4854ae16480791"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep03.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.provenance.json"
+      },
+      "summary": "Connects long-range plans to fiscally constrained project programs, performance measures, and evaluation, with a Torrance application.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 181.291
+    },
+    {
+      "stable_guid": "4bc8957c-588f-53b2-a6f6-a4fefa2f827a",
+      "show": "transportation-policies-programs-history",
+      "episode": 4,
+      "title": "Equity in Transportation Planning",
+      "release_version": "2026.2",
+      "release_tag": "transportation-policies-programs-history-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep04_Equity_in_Transportation_Planning.mp3",
+        "bytes": 2183463,
+        "sha256": "0458d19db7aeda39b552c62b1e77825d5a97c7c685ecb588563d674ad81e9814"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep04.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep04_Equity_in_Transportation_Planning.provenance.json"
+      },
+      "summary": "Introduces distributional, procedural, and accessibility dimensions of transportation equity, then frames questions for Torrance decisions.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 180.631
+    },
+    {
+      "stable_guid": "349c9bdd-a2c4-5eb7-a3bd-9137e6d0535d",
+      "show": "transportation-policies-programs-history",
+      "episode": 5,
+      "title": "Choosing and Connecting Mobility Modes",
+      "release_version": "2026.2",
+      "release_tag": "transportation-policies-programs-history-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.mp3",
+        "bytes": 2090030,
+        "sha256": "fc17ea6c5548b38d5d7d6f4f4d3af61d07ed3a9e38d4aba12845236bf0cc42f8"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep05.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.provenance.json"
+      },
+      "summary": "Compares passenger and freight modes, multimodal and intermodal systems, and mode-selection tradeoffs, with a Torrance network application.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 173.066
+    },
+    {
+      "stable_guid": "531d00ad-4829-51da-95e2-1d6a54b259f1",
+      "show": "transportation-policies-programs-history",
+      "episode": 6,
+      "title": "Accessibility and the Built Environment",
+      "release_version": "2026.2",
+      "release_tag": "transportation-policies-programs-history-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.mp3",
+        "bytes": 2172861,
+        "sha256": "50df33e5702348d9bda74a9d6099bb97d3786d9dee797e3cce5a6f3e2830fd3f"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep06.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.provenance.json"
+      },
+      "summary": "Examines the transportation and land-use feedback loop and the shift from speed toward access, followed by a Torrance application.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 178.661
+    },
+    {
+      "stable_guid": "262c7191-f732-5db7-8659-05800436b7f4",
+      "show": "transportation-policies-programs-history",
+      "episode": 7,
+      "title": "Transit and Transit-Oriented Development",
+      "release_version": "2026.2",
+      "release_tag": "transportation-policies-programs-history-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.mp3",
+        "bytes": 2122269,
+        "sha256": "ab401480184dcdb7c4e61c642952fdeb6f88fedbc627c5f02805e036481a3e0e"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep07.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.provenance.json"
+      },
+      "summary": "Reviews transit service, sustainable operations, and transit-oriented development, with a separate Torrance Transit Center application.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 173.337
+    },
+    {
+      "stable_guid": "2b72b77e-f3b6-53cb-b37f-5466f2267dce",
+      "show": "transportation-policies-programs-history",
+      "episode": 8,
+      "title": "Technology, Shared Mobility, and Smart Cities",
+      "release_version": "2026.2",
+      "release_tag": "transportation-policies-programs-history-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.mp3",
+        "bytes": 2180412,
+        "sha256": "e267e04546683093dfb50ac89565954f2de16191796d1073a19236018efa038d"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep08.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.provenance.json"
+      },
+      "summary": "Evaluates digital mobility, automation, shared services, governance, privacy, and equity, then applies the questions locally.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 180.56
+    },
+    {
+      "stable_guid": "32cba5b5-fc04-5c70-811c-84ae737b0b65",
+      "show": "transportation-policies-programs-history",
+      "episode": 9,
+      "title": "Sustainable Transportation",
+      "release_version": "2026.2",
+      "release_tag": "transportation-policies-programs-history-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep09_Sustainable_Transportation.mp3",
+        "bytes": 2229431,
+        "sha256": "a71cf7e3abbc7ff7ab921d0fe399b2c0ee1c817c3ac9ca9bae9ea35251ea660e"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep09.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.provenance.json"
+      },
+      "summary": "Uses environmental, economic, and social indicators to define sustainable transportation and examine a Torrance active-transportation case.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 186.238
+    },
+    {
+      "stable_guid": "ec67455f-2470-53d3-849c-cf70657b27ae",
+      "show": "transportation-policies-programs-history",
+      "episode": 10,
+      "title": "Lessons from the Global South",
+      "release_version": "2026.2",
+      "release_tag": "transportation-policies-programs-history-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep10_Lessons_from_the_Global_South.mp3",
+        "bytes": 2184078,
+        "sha256": "2f17304dd868a81066ed35f8ecbac711e09c4dd6689ff62546199e03b6b0ca07"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep10.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.provenance.json"
+      },
+      "summary": "Studies formal and informal mobility, bus rapid transit, and context-sensitive innovation while carefully separating a Torrance comparison.",
+      "publication_date": "2026-10-08T04:30:00Z",
+      "duration_seconds": 179.724
+    }
+  ]
+}

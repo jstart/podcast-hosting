@@ -1,0 +1,22 @@
+{
+  "stable_guid": "51f69943-fe61-520c-ab7a-bb089d8b3577",
+  "show": "design-equity",
+  "episode": 7,
+  "title": "Redesigning Design Thinking",
+  "release_version": "2026.2",
+  "release_tag": "design-equity-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep07_Redesigning_Design_Thinking.mp3",
+    "bytes": 2004203,
+    "sha256": "08ca0852628c2f669641e261105f5e6d9774b0366ce25c3a9617b8bd0423d4d2"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep07_Redesigning_Design_Thinking.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/design-equity/artwork/ep07.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep07_Redesigning_Design_Thinking.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep07_Redesigning_Design_Thinking.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep07_Redesigning_Design_Thinking.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep07_Redesigning_Design_Thinking.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep07_Redesigning_Design_Thinking.provenance.json"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "stable_guid": "8e489b75-24e7-58bb-8ba3-47fcff3bdc1c",
+  "show": "census-academy",
+  "episode": 5,
+  "title": "Margins of Error Matter",
+  "release_version": "2026.2",
+  "release_tag": "census-academy-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep05_Margins_of_Error_Matter.mp3",
+    "bytes": 1445219,
+    "sha256": "59817875a01e289ef6921b85fe1709c730d6b632fab64c14f3a6a1a2e33ba73b"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep05.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.provenance.json"
+  }
+}

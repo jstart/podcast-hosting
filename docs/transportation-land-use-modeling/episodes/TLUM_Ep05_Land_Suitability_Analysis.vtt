@@ -1,0 +1,137 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.889
+Land suitability analysis compares locations against criteria for a stated use or policy objective.
+
+2
+00:00:05.889 --> 00:00:11.778
+The source chapter presents geographic information systems as tools for combining spatial evidence.
+
+3
+00:00:11.778 --> 00:00:14.454
+A suitability map is not a neutral discovery.
+
+4
+00:00:14.454 --> 00:00:20.522
+It is the visible result of selected criteria, data, exclusions, scales, transformations, and weights.
+
+5
+00:00:20.522 --> 00:00:23.912
+A transparent workflow begins with the decision question.
+
+6
+00:00:23.912 --> 00:00:33.013
+Analysts identify constraints, such as hazards or protected land, and factors, such as access, parcel capacity, infrastructure, or proximity to services.
+
+7
+00:00:33.013 --> 00:00:38.485
+Each dataset is cleaned, aligned to a common geography, and converted to a comparable score.
+
+8
+00:00:38.485 --> 00:00:40.805
+Weighted overlay then combines factors.
+
+9
+00:00:40.805 --> 00:00:42.709
+Weights express policy judgment.
+
+10
+00:00:42.709 --> 00:00:46.337
+Doubling a weight can change which locations appear suitable.
+
+11
+00:00:46.337 --> 00:00:51.512
+Analysts should document who selected weights, test alternatives, and show sensitivity.
+
+12
+00:00:51.512 --> 00:00:55.022
+They should also avoid double counting correlated criteria.
+
+13
+00:00:55.022 --> 00:00:59.959
+Road proximity and automobile travel time may represent much of the same advantage.
+
+14
+00:00:59.959 --> 00:01:01.208
+Data quality matters.
+
+15
+00:01:01.208 --> 00:01:07.810
+Parcel records, environmental layers, network measures, and market information have different dates and errors.
+
+16
+00:01:07.810 --> 00:01:11.260
+A model can produce a crisp ranking from uncertain inputs.
+
+17
+00:01:11.260 --> 00:01:14.532
+Field review and public knowledge are essential checks.
+
+18
+00:01:14.532 --> 00:01:15.777
+Torrance application.
+
+19
+00:01:15.777 --> 00:01:21.412
+This local exercise is separate from the source adaptation and cites the Torrance General Plan.
+
+20
+00:01:21.412 --> 00:01:26.868
+Suppose the question is where a hypothetical community-serving use could be studied further.
+
+21
+00:01:26.868 --> 00:01:31.969
+The first screen would apply adopted land-use policy and genuine physical constraints.
+
+22
+00:01:31.969 --> 00:01:41.339
+Factors might include access by several modes, proximity to intended users, parcel characteristics, infrastructure, environmental exposure, and compatibility.
+
+23
+00:01:41.339 --> 00:01:45.431
+The analysis should publish the criteria and several weighting cases.
+
+24
+00:01:45.431 --> 00:01:48.990
+An access-focused case might differ from a lowest-cost case.
+
+25
+00:01:48.990 --> 00:01:57.708
+Equity review could test whether the method systematically directs burdens toward the same neighborhoods or excludes residents who rely on transit.
+
+26
+00:01:57.708 --> 00:02:02.809
+The resulting map would identify places for further investigation, not approval sites.
+
+27
+00:02:02.809 --> 00:02:11.408
+It would not replace ownership research, environmental review, engineering, community engagement, or a decision under the City's adopted process.
+
+28
+00:02:11.408 --> 00:02:15.501
+No parcel is evaluated here, and no Torrance location is recommended.
+
+29
+00:02:15.501 --> 00:02:21.550
+This conceptual application shows how to keep a suitability model auditable and appropriately limited.
+
+30
+00:02:21.550 --> 00:02:30.506
+This episode adapts chapter five of Transportation Land Use Modeling and Policy by Pan and Sharifi, published by Mavs Open Press under CC BY-NC-SA 4.0.
+
+31
+00:02:30.506 --> 00:02:33.115
+The source's derivative notes are preserved.
+
+32
+00:02:33.115 --> 00:02:37.089
+All source figures, maps, and other third-party items are excluded.
+
+33
+00:02:37.089 --> 00:02:39.817
+Torrance material is independently summarized.
+
+34
+00:02:39.817 --> 00:02:41.359
+No endorsement is implied.

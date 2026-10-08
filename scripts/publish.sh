@@ -5,10 +5,28 @@ SOURCE_ROOT="${1:-../podcast-tts}"
 OWNER="${GITHUB_OWNER:-jstart}"
 REPO="${GITHUB_REPOSITORY_NAME:-podcast-hosting}"
 
+active_owner="$(gh api user --jq .login)"
+if [[ "$active_owner" != "$OWNER" ]]; then
+  echo "GitHub CLI account is $active_owner; expected $OWNER." >&2
+  exit 1
+fi
+
 python3 scripts/build_site.py --source "$SOURCE_ROOT"
 python3 scripts/validate.py docs
 
-for show in how-california-schools-work local-government-101 local-officials-handbook advanced-civic-planning planning-commission-prep public-policy-prep; do
+for show in \
+  how-california-schools-work \
+  local-government-101 \
+  local-officials-handbook \
+  advanced-civic-planning \
+  planning-commission-prep \
+  public-policy-prep \
+  financial-strategy-public-managers \
+  census-academy \
+  transportation-policies-programs-history \
+  transportation-land-use-modeling \
+  design-equity \
+  environmental-justice-land-use-planning; do
   case "$show" in
     how-california-schools-work) source_dir="$SOURCE_ROOT" ;;
     local-government-101) source_dir="$SOURCE_ROOT/local-government-101-podcast" ;;

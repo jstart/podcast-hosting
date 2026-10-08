@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "This episode focuses on data products"
+    },
+    {
+      "startTime": 9.667,
+      "title": "Detailed tables provide the most variables and include..."
+    },
+    {
+      "startTime": 23.085,
+      "title": "A table identifier communicates product and concept"
+    },
+    {
+      "startTime": 37.623,
+      "title": "Profiles are useful for orientation, but a policy..."
+    },
+    {
+      "startTime": 49.345,
+      "title": "Torrance application segment"
+    },
+    {
+      "startTime": 77.6,
+      "title": "Keep a reproducibility packet containing the question, source..."
+    }
+  ]
+}
