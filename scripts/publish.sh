@@ -14,11 +14,15 @@ for show in advanced-civic-planning planning-commission-prep public-policy-prep;
   if ! gh release view "$tag" --repo "$OWNER/$REPO" >/dev/null 2>&1; then
     gh release create "$tag" --repo "$OWNER/$REPO" --title "$show $version" --notes "Immutable audio release for $show, production version $version."
   fi
-  existing_assets="$(gh release view "$tag" --repo "$OWNER/$REPO" --json assets --jq '.assets[].name')"
+  existing_assets="$(gh api "repos/$OWNER/$REPO/releases/tags/$tag" --jq '.assets[] | [.name, .size] | @tsv')"
   while IFS= read -r -d '' asset; do
     name="$(basename "$asset")"
-    if ! printf '%s\n' "$existing_assets" | rg --fixed-strings --line-regexp "$name" >/dev/null; then
+    existing_size="$(printf '%s\n' "$existing_assets" | awk -F '\t' -v name="$name" '$1 == name { print $2 }')"
+    if [[ -z "$existing_size" ]]; then
       gh release upload "$tag" "$asset" --repo "$OWNER/$REPO"
+    elif [[ "$existing_size" -ne "$(wc -c < "$asset" | tr -d ' ')" ]]; then
+      echo "$name changed in immutable release $tag. Increment the show version." >&2
+      exit 1
     fi
   done < <(find "$SOURCE_ROOT/$show/final" -maxdepth 1 -name '*.mp3' -print0)
 done
