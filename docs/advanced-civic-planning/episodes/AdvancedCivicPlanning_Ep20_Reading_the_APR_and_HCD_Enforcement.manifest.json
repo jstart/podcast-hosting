@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 20,
   "title": "Reading the APR and HCD Enforcement",
-  "release_version": "2026.1",
-  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "advanced-civic-planning-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.mp3",
     "bytes": 6557889,
-    "sha256": "2a37a7680e4f8eba12cc23fd625fe4c4fbc9a796b0f967f95d1781ad9324c5a5"
+    "sha256": "755e19277c7e6e326bd121ebaf494d46554d1c6830b625813771416fc1324343"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.html",

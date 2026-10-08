@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 12,
   "title": "Making and Evaluating a Community Plan",
-  "release_version": "2026.1",
-  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "advanced-civic-planning-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.mp3",
     "bytes": 7262605,
-    "sha256": "d95e3745a466b9373887ec7d77393993e9adb6c7f9bafaab7acc94e5457982f8"
+    "sha256": "5e53888604a02978e7216d3b0efa8bd00f2f8844f32daf0d4132d4443df030c5"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.html",

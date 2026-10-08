@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 13,
   "title": "Growth Management Across Municipal Borders",
-  "release_version": "2026.1",
-  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "advanced-civic-planning-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.mp3",
     "bytes": 7148052,
-    "sha256": "8422204a9772770abc42c30a61f528ed7edd41fe5267eb16f370acee5f7d7740"
+    "sha256": "4fd35ae4b38d37750142c1d4d44d01873111e32846eff039e5e918e2b7d30a21"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.html",

@@ -1,12 +1,12 @@
 {
   "guid": "a66f300f-15c4-532f-acdb-aae348cba9dc",
-  "publication_date": "2026-10-07T12:00:00Z",
+  "publication_date": "2026-10-08T03:19:00Z",
   "season": 1,
   "episode": 5,
   "explicit": false,
   "duration_seconds": 197.176,
   "enclosure_bytes": 2412596,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep05_Findings_and_Conditions.mp3",
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep05_Findings_and_Conditions.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep05.jpg",
@@ -14,11 +14,11 @@
   "support_url": null,
   "checksums": {
     "transcript_sha256": "e454500ebc1eaeddbd8b6e96d6f9d74fd3034de380b83e4a9200f54ceeaee890",
-    "audio_sha256": "0e57ac5bfe290b54d47fc756556ad1fc54c420168835a5d7246ad40a81abc8fb"
+    "audio_sha256": "144d1e463633fb343be1d56e781c7c3a606e454f38962915bf7e2ea2ab8b0f67"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.provenance.json",
-  "release_tag": "planning-commission-prep-v2026.1",
-  "release_version": "2026.1"
+  "release_tag": "planning-commission-prep-v2026.2",
+  "release_version": "2026.2"
 }

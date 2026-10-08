@@ -1,12 +1,12 @@
 {
   "guid": "968c6274-965e-55d1-bca2-e2f9f73512a2",
-  "publication_date": "2026-10-07T12:00:00Z",
+  "publication_date": "2026-10-08T03:19:00Z",
   "season": 1,
   "episode": 6,
   "explicit": false,
   "duration_seconds": 584.28,
   "enclosure_bytes": 6757949,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.mp3",
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep06.jpg",
@@ -14,11 +14,11 @@
   "support_url": null,
   "checksums": {
     "transcript_sha256": "4af969070c3e650e2508bf3c2acacabd21e0dbfc3f610b40740aad0fde2b44cc",
-    "audio_sha256": "b368d60adf84d50ea9d9da6e6ffe5de58fef02d6077cedec37fa67b1f0101a24"
+    "audio_sha256": "e8722f35b3abf1f9dd0f39e0f7497f30b9ae765935d0a67ab67404098042cfe3"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.provenance.json",
-  "release_tag": "public-policy-prep-v2026.1",
-  "release_version": "2026.1"
+  "release_tag": "public-policy-prep-v2026.2",
+  "release_version": "2026.2"
 }

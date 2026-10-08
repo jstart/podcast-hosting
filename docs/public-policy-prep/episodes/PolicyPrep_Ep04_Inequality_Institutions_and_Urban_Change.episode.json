@@ -1,12 +1,12 @@
 {
   "guid": "80212596-ed6b-5491-9d9d-251fedc09463",
-  "publication_date": "2026-10-07T12:00:00Z",
+  "publication_date": "2026-10-08T03:19:00Z",
   "season": 1,
   "episode": 4,
   "explicit": false,
   "duration_seconds": 652.48,
   "enclosure_bytes": 7495871,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.mp3",
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep04.jpg",
@@ -14,11 +14,11 @@
   "support_url": null,
   "checksums": {
     "transcript_sha256": "8685b5a3b3bd069878e719472df2d99cf671f659afdfe786eac63d30131f9c1b",
-    "audio_sha256": "b4f37da0d5a3532398c87e18c99db147ec868ed6bdd64be5c0823d3293136569"
+    "audio_sha256": "0ae483140abf303ee374b838b9296609779e1d0279e51ed7adc528b8b11729d9"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.provenance.json",
-  "release_tag": "public-policy-prep-v2026.1",
-  "release_version": "2026.1"
+  "release_tag": "public-policy-prep-v2026.2",
+  "release_version": "2026.2"
 }

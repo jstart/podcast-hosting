@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 14,
   "title": "Zoning History, Exclusion, and Legitimacy",
-  "release_version": "2026.1",
-  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "advanced-civic-planning-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.mp3",
     "bytes": 7035509,
-    "sha256": "182567a2dd06b18a51bcbb9e1d8429aba7f8bbea5f741d9b2d38b04834fa9165"
+    "sha256": "2fcbcfc3c2955bc52ed95d27a339b2b1222362cdef33eaf582bd44508180071d"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.html",

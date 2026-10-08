@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 3,
   "title": "Ethics, Ex Parte Contacts, and Recusal",
-  "release_version": "2026.1",
-  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "advanced-civic-planning-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.mp3",
     "bytes": 6339119,
-    "sha256": "9a80378a7104ccbb7aa6a89c14344605eb5a8ef6ce63995efad374c1a0cb1699"
+    "sha256": "18ad13ff95ff4584e5f9f4105f0df6cd633efe0096a741134832692d7b946e42"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.html",

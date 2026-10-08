@@ -1,12 +1,12 @@
 {
   "guid": "ac2b05c9-9f95-54b3-9bb0-1ca8bc192835",
-  "publication_date": "2026-10-07T12:00:00Z",
+  "publication_date": "2026-10-08T03:19:00Z",
   "season": 1,
   "episode": 3,
   "explicit": false,
   "duration_seconds": 661.58,
   "enclosure_bytes": 7513178,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.mp3",
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep03.jpg",
@@ -14,11 +14,11 @@
   "support_url": null,
   "checksums": {
     "transcript_sha256": "c5e7b90f09517ef7cf9e2b4445a5c1ca6dffb230f3553c6ce72757e5d9712e64",
-    "audio_sha256": "22b40f7176f60923e1a06876040ce8ae9487e648fdf62705a5a3387998f51c8e"
+    "audio_sha256": "2a241efdd9a3c735189379342c18f567f92f0fccb3a23346db71e992b384500a"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.provenance.json",
-  "release_tag": "public-policy-prep-v2026.1",
-  "release_version": "2026.1"
+  "release_tag": "public-policy-prep-v2026.2",
+  "release_version": "2026.2"
 }

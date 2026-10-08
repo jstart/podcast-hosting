@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 36,
   "title": "Capstone: Evaluate a Torrance Project",
-  "release_version": "2026.1",
-  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "advanced-civic-planning-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.mp3",
     "bytes": 7524862,
-    "sha256": "a015957fa446bf5385043af02d8686366c7a27ffc80d3486b9ddf1ab853d6e83"
+    "sha256": "cca232c274e5dc66612fd767036e009256841b3e456dbb5dbd4666cc6fc0f3e4"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.html",

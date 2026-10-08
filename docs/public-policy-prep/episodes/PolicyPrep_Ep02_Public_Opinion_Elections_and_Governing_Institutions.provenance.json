@@ -30,6 +30,21 @@
       "transcript_sha256": "18fb22ae982984cbef2b65678fd18956f874131e510bd105103d7e2f69864b62",
       "audio_sha256": "f4031d251f4db81bc4c2d732e15f3cce2804c77af44a544e15f5170f5aaa70cd",
       "supersedes": null
+    },
+    {
+      "production_version": "2026.2",
+      "tts_model": {
+        "repo": "ResembleAI/chatterbox-turbo",
+        "revision": "749d1c1a46eb10492095d68fbcf55691ccf137cd"
+      },
+      "asr_model": {
+        "repo": "Systran/faster-whisper-small.en",
+        "revision": "d1d751a5f8271d482d14ca55d9e2deeebbae577f"
+      },
+      "source_retrieval_date": "2026-10-07",
+      "transcript_sha256": "18fb22ae982984cbef2b65678fd18956f874131e510bd105103d7e2f69864b62",
+      "audio_sha256": "f78e32a527a9760bbd7dfdc22a4a0173ba792a047ac8b243178c29eee3857dd1",
+      "supersedes": null
     }
   ]
 }

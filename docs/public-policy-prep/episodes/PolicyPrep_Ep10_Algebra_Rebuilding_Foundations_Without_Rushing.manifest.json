@@ -3,12 +3,12 @@
   "show": "public-policy-prep",
   "episode": 10,
   "title": "Algebra: Rebuilding Foundations Without Rushing",
-  "release_version": "2026.1",
-  "release_tag": "public-policy-prep-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "public-policy-prep-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.mp3",
     "bytes": 6863097,
-    "sha256": "c12f47f291ce53ea5f9cc79ea51f1905a4deb1790246db89b7754ab7c867cb09"
+    "sha256": "fc74224f4c21a2d8ff837b347532411e4d45321a49d994324e8e5c50d9463526"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.html",

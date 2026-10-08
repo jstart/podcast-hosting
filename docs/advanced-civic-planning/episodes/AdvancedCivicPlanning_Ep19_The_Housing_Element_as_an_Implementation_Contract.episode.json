@@ -1,12 +1,12 @@
 {
   "guid": "08d2ebb4-c177-5f3c-8185-17ca984df2c7",
-  "publication_date": "2026-10-07T12:00:00Z",
+  "publication_date": "2026-10-08T03:19:00Z",
   "season": 1,
   "episode": 19,
   "explicit": false,
   "duration_seconds": 544.2,
   "enclosure_bytes": 6233968,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.mp3",
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep19.jpg",
@@ -14,11 +14,11 @@
   "support_url": null,
   "checksums": {
     "transcript_sha256": "cc1718e922ff093ed19806c05a388b1dd62ba4c6b2ea05da38ec9c4d2ee73e1d",
-    "audio_sha256": "da395280c3061ec1b4de17118ad29449c109424430dd9c94fad6f88eea1192e3"
+    "audio_sha256": "d5515cf156bdc2fc21801344b619bdfefe0a6c8a649f27fbaebc72ba8af65127"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.1",
-  "release_version": "2026.1"
+  "release_tag": "advanced-civic-planning-v2026.2",
+  "release_version": "2026.2"
 }

@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 33,
   "title": "Comparing Project Alternatives",
-  "release_version": "2026.1",
-  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "advanced-civic-planning-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.mp3",
     "bytes": 6920820,
-    "sha256": "18af0fdbe87b4178e36b8cc4a0fbcda82061c8373d6b8213722ab3a2a7aac0e8"
+    "sha256": "62d99e0f3d2f0a2efcde3d0fb68b1b02d92e11eee1bc084730a000188a443e75"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.html",

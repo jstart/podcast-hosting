@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 30,
   "title": "Property Tax and Development Fiscal Impact",
-  "release_version": "2026.1",
-  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "advanced-civic-planning-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.mp3",
     "bytes": 6655094,
-    "sha256": "183328c27c0f68c1466a05ca31dc54d5b770debc507ecceb12d2c3d924cdd148"
+    "sha256": "dd34f6c67f8f59a0272ed1f002d2424376356c30d7819dc817484139e706504c"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.html",

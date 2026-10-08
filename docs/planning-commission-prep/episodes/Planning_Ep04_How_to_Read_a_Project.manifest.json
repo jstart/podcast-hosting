@@ -3,12 +3,12 @@
   "show": "planning-commission-prep",
   "episode": 4,
   "title": "How to Read a Project",
-  "release_version": "2026.1",
-  "release_tag": "planning-commission-prep-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "planning-commission-prep-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep04_How_to_Read_a_Project.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep04_How_to_Read_a_Project.mp3",
     "bytes": 2241715,
-    "sha256": "9cec8c22d0a29609c7854809285ef210264682bfeca9cbefc8e06cce2b914778"
+    "sha256": "ceffb13afe49a95f0093d65e4784c1f46c274b7e9948929284a125f74a2bef0e"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.html",

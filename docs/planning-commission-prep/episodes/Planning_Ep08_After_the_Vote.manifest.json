@@ -3,12 +3,12 @@
   "show": "planning-commission-prep",
   "episode": 8,
   "title": "After the Vote",
-  "release_version": "2026.1",
-  "release_tag": "planning-commission-prep-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "planning-commission-prep-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep08_After_the_Vote.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep08_After_the_Vote.mp3",
     "bytes": 2401714,
-    "sha256": "98205b32721dd6890d57dde1a69abb2b7daa93cbf015e1613178b32599a3ee01"
+    "sha256": "d955f81f61fb3556ce366b888c79fdb3259d79589d5542836add2f3ec8786488"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep08_After_the_Vote.html",

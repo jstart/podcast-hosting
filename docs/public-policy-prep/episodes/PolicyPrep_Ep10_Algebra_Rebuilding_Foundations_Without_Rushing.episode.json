@@ -1,12 +1,12 @@
 {
   "guid": "d407d811-b8a7-5952-a7fa-0ed8645e867b",
-  "publication_date": "2026-10-07T12:00:00Z",
+  "publication_date": "2026-10-08T03:19:00Z",
   "season": 1,
   "episode": 10,
   "explicit": false,
   "duration_seconds": 601.82,
   "enclosure_bytes": 6863097,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.mp3",
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep10.jpg",
@@ -14,11 +14,11 @@
   "support_url": null,
   "checksums": {
     "transcript_sha256": "3b4c05be792dff655fe0c3ac6c5b3d8e9451368d263d1f6d172342244ba623a1",
-    "audio_sha256": "c12f47f291ce53ea5f9cc79ea51f1905a4deb1790246db89b7754ab7c867cb09"
+    "audio_sha256": "fc74224f4c21a2d8ff837b347532411e4d45321a49d994324e8e5c50d9463526"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.provenance.json",
-  "release_tag": "public-policy-prep-v2026.1",
-  "release_version": "2026.1"
+  "release_tag": "public-policy-prep-v2026.2",
+  "release_version": "2026.2"
 }

@@ -1,12 +1,12 @@
 {
   "guid": "59cb1fa6-c350-596b-a1db-477d092c3533",
-  "publication_date": "2026-10-07T12:00:00Z",
+  "publication_date": "2026-10-08T03:19:00Z",
   "season": 1,
   "episode": 8,
   "explicit": false,
   "duration_seconds": 619.82,
   "enclosure_bytes": 7104025,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.mp3",
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep08.jpg",
@@ -14,11 +14,11 @@
   "support_url": null,
   "checksums": {
     "transcript_sha256": "67cf7f38b6ca01962fd414aa3b9fb75151822c2833ae0dd057829361e88474b7",
-    "audio_sha256": "e270fc7bfd9924612f2315e0848c2a994f790421a2637719af9253d51d52dad0"
+    "audio_sha256": "9653288e54dd9206b57e2bc71a6fb558264d3cb9318e5632e822cb53465c58b4"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.provenance.json",
-  "release_tag": "public-policy-prep-v2026.1",
-  "release_version": "2026.1"
+  "release_tag": "public-policy-prep-v2026.2",
+  "release_version": "2026.2"
 }

@@ -1,12 +1,12 @@
 {
   "guid": "266549d3-58f7-590d-8314-d8769c42e458",
-  "publication_date": "2026-10-07T12:00:00Z",
+  "publication_date": "2026-10-08T03:19:00Z",
   "season": 1,
   "episode": 1,
   "explicit": false,
   "duration_seconds": 493.948,
   "enclosure_bytes": 5862492,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.mp3",
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep01.jpg",
@@ -14,11 +14,11 @@
   "support_url": null,
   "checksums": {
     "transcript_sha256": "ed113f2d4a43c14388984551454e7e6e09f993bf485fdd82b80cad0473b17fd1",
-    "audio_sha256": "35c4d9c44ef594e241878cb882fe6acdcb391de1752132e52ec29df2239eab00"
+    "audio_sha256": "6ccb43c52c4242ad6753802808318a794a8aed64173f0c9c3134cc4de8fcc186"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.1",
-  "release_version": "2026.1"
+  "release_tag": "advanced-civic-planning-v2026.2",
+  "release_version": "2026.2"
 }

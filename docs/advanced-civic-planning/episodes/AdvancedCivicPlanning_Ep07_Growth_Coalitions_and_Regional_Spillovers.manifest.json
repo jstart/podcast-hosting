@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 7,
   "title": "Growth Coalitions and Regional Spillovers",
-  "release_version": "2026.1",
-  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "advanced-civic-planning-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.mp3",
     "bytes": 6928054,
-    "sha256": "68b763cd59227080a06c6c9d5d19b220be3aa65943848a2ac9cf66a149acf90a"
+    "sha256": "c43bc94ec78199d298b16478415531a60c3556eb8937117a52969940b13b7987"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.html",

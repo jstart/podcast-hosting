@@ -1,12 +1,12 @@
 {
   "guid": "3ad664f3-3743-5e79-88ee-f3f5e3e55b3f",
-  "publication_date": "2026-10-07T12:00:00Z",
+  "publication_date": "2026-10-08T03:19:00Z",
   "season": 1,
   "episode": 6,
   "explicit": false,
   "duration_seconds": 581.16,
   "enclosure_bytes": 6663510,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.mp3",
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep06.jpg",
@@ -14,11 +14,11 @@
   "support_url": null,
   "checksums": {
     "transcript_sha256": "0cecee94af2823db3476025f7ff1b4c1e4a6b3a08c8ca2586b38a5a3bda6fad5",
-    "audio_sha256": "a7fc33f56eb3d67abc177da69e44a191eafc5cced5e644b1ace300f7b002e16d"
+    "audio_sha256": "73e0fd53d716ef0cf0240e7925594b65d4046cbd942f8b1c1d09bd6dfc4cc3d1"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.1",
-  "release_version": "2026.1"
+  "release_tag": "advanced-civic-planning-v2026.2",
+  "release_version": "2026.2"
 }

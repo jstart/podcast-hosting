@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 11,
   "title": "Eight Elements, One System",
-  "release_version": "2026.1",
-  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "advanced-civic-planning-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep11_Eight_Elements_One_System.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep11_Eight_Elements_One_System.mp3",
     "bytes": 7517033,
-    "sha256": "fff3ad799cf304a91223b1b649818b3e3a77a41ab84da8dc1dcb7f6c7e8801d7"
+    "sha256": "cc08c99a33696e23bd0a063d38add22ae1cc8728996ad9bf865b8b1d277d39d3"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep11_Eight_Elements_One_System.html",

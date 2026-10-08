@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 22,
   "title": "The Ministerial Pathways Decision Tree",
-  "release_version": "2026.1",
-  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "advanced-civic-planning-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.mp3",
     "bytes": 6956189,
-    "sha256": "9e12abe63c257a99abee1a2af5f2d7f2329e6a8d869598d0c5fb01dfe8a10023"
+    "sha256": "2c08c655c16668087cf09711a5dc42e2749e46f04a968d4a79f0f5c92877134c"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.html",

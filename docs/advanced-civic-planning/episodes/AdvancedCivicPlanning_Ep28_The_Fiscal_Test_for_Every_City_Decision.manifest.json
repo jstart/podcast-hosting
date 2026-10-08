@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 28,
   "title": "The Fiscal Test for Every City Decision",
-  "release_version": "2026.1",
-  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "advanced-civic-planning-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.mp3",
     "bytes": 6536539,
-    "sha256": "a2b4541bd367fae398a075956fb6e7141def991fde4a20b5aff0907a79e43ba0"
+    "sha256": "e10842d1e6abb1a5e69e0a14cef479b5ea5f797647b64a367d5801d0327524a1"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.html",

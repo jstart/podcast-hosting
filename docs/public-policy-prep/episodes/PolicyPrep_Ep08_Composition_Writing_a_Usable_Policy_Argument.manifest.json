@@ -3,12 +3,12 @@
   "show": "public-policy-prep",
   "episode": 8,
   "title": "Composition: Writing a Usable Policy Argument",
-  "release_version": "2026.1",
-  "release_tag": "public-policy-prep-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "public-policy-prep-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.mp3",
     "bytes": 7104025,
-    "sha256": "e270fc7bfd9924612f2315e0848c2a994f790421a2637719af9253d51d52dad0"
+    "sha256": "9653288e54dd9206b57e2bc71a6fb558264d3cb9318e5632e822cb53465c58b4"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.html",

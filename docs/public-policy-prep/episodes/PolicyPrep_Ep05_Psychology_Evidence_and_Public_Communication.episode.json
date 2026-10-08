@@ -1,12 +1,12 @@
 {
   "guid": "8320209d-ec2a-5f1a-9d5c-c30f0eb217dc",
-  "publication_date": "2026-10-07T12:00:00Z",
+  "publication_date": "2026-10-08T03:19:00Z",
   "season": 1,
   "episode": 5,
   "explicit": false,
   "duration_seconds": 664.52,
   "enclosure_bytes": 7560141,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.mp3",
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep05.jpg",
@@ -14,11 +14,11 @@
   "support_url": null,
   "checksums": {
     "transcript_sha256": "9d8807a0cdd22fb1ff7e18d3159817aa0014e2854adcaebbdec9312f4820db3a",
-    "audio_sha256": "ab511b6b7701cd4eafb510a7cc707940b1a4e4869c48afac8f558b8403b653f0"
+    "audio_sha256": "f441bd57a65547bbaddd26e1789a417be80be579ca2166d0fb323f645482966f"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.provenance.json",
-  "release_tag": "public-policy-prep-v2026.1",
-  "release_version": "2026.1"
+  "release_tag": "public-policy-prep-v2026.2",
+  "release_version": "2026.2"
 }

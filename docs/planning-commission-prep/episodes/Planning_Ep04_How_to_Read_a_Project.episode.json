@@ -1,12 +1,12 @@
 {
   "guid": "023a20cf-68f7-5505-9ba3-cdbb3095a268",
-  "publication_date": "2026-10-07T12:00:00Z",
+  "publication_date": "2026-10-08T03:19:00Z",
   "season": 1,
   "episode": 4,
   "explicit": false,
   "duration_seconds": 185.367,
   "enclosure_bytes": 2241715,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep04_How_to_Read_a_Project.mp3",
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep04_How_to_Read_a_Project.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep04.jpg",
@@ -14,11 +14,11 @@
   "support_url": null,
   "checksums": {
     "transcript_sha256": "9211796da3185fb135e075496961e6af9697c288015365dec08befc7e7a75aaa",
-    "audio_sha256": "9cec8c22d0a29609c7854809285ef210264682bfeca9cbefc8e06cce2b914778"
+    "audio_sha256": "ceffb13afe49a95f0093d65e4784c1f46c274b7e9948929284a125f74a2bef0e"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.provenance.json",
-  "release_tag": "planning-commission-prep-v2026.1",
-  "release_version": "2026.1"
+  "release_tag": "planning-commission-prep-v2026.2",
+  "release_version": "2026.2"
 }

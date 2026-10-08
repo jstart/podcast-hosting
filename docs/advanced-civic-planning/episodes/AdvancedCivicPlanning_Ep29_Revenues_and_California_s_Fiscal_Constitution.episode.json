@@ -1,12 +1,12 @@
 {
   "guid": "eedcedc9-a18c-5354-9c28-a128ade17d50",
-  "publication_date": "2026-10-07T12:00:00Z",
+  "publication_date": "2026-10-08T03:19:00Z",
   "season": 1,
   "episode": 29,
   "explicit": false,
   "duration_seconds": 580.52,
   "enclosure_bytes": 6658588,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.mp3",
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep29.jpg",
@@ -14,11 +14,11 @@
   "support_url": null,
   "checksums": {
     "transcript_sha256": "7eeac852a36b4bf510fe25fa5320526f3923e9199b83d77d24480ebfb01c02be",
-    "audio_sha256": "c48a4eef5c1df49f972eb5e3d1fa35cb6390b7fc2740697edeb4ae32e22283da"
+    "audio_sha256": "9543bc989747d68e888b83a4cd92348934c13cd8d3fd4a290296c54fad199f73"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.1",
-  "release_version": "2026.1"
+  "release_tag": "advanced-civic-planning-v2026.2",
+  "release_version": "2026.2"
 }

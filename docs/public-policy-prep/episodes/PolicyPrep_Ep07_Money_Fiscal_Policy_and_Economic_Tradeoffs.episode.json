@@ -1,12 +1,12 @@
 {
   "guid": "b16362fc-363f-57a5-abad-26ed2710d4f3",
-  "publication_date": "2026-10-07T12:00:00Z",
+  "publication_date": "2026-10-08T03:19:00Z",
   "season": 1,
   "episode": 7,
   "explicit": false,
   "duration_seconds": 605.72,
   "enclosure_bytes": 6991031,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.mp3",
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep07.jpg",
@@ -14,11 +14,11 @@
   "support_url": null,
   "checksums": {
     "transcript_sha256": "9c535a2291c0d189ee23f6957a481e03a8b0bb41bf0dba27c085201d579a50e4",
-    "audio_sha256": "7f40d2b7936d7674ef1f9bccf2922c76caa3126952e0dd304c6ee81f309cbe05"
+    "audio_sha256": "db81b1c5f3e9d0a036dd90965e14c335ec8e747c35187d551655160a6130222a"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.provenance.json",
-  "release_tag": "public-policy-prep-v2026.1",
-  "release_version": "2026.1"
+  "release_tag": "public-policy-prep-v2026.2",
+  "release_version": "2026.2"
 }

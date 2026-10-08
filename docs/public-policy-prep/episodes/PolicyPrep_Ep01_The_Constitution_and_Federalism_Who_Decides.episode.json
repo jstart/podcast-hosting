@@ -1,12 +1,12 @@
 {
   "guid": "b7b7993e-11ef-5bea-84ba-a23ddbf0b53e",
-  "publication_date": "2026-10-07T12:00:00Z",
+  "publication_date": "2026-10-08T03:19:00Z",
   "season": 1,
   "episode": 1,
   "explicit": false,
   "duration_seconds": 554.11,
   "enclosure_bytes": 6530361,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.mp3",
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep01.jpg",
@@ -14,11 +14,11 @@
   "support_url": null,
   "checksums": {
     "transcript_sha256": "abb08f85620321eef0ced03b60880ec2caf1c7ae5dbfd57e022706f6b21ed0e9",
-    "audio_sha256": "4f53f5c54bcbc0a73029628ddcf9d515cbdbb96844fecbd39f5c51afbcca5d2e"
+    "audio_sha256": "1a6f653345f4c2bdeb50e0962e326b1088b4d1c503fe7973884d9ee9095ab97f"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.provenance.json",
-  "release_tag": "public-policy-prep-v2026.1",
-  "release_version": "2026.1"
+  "release_tag": "public-policy-prep-v2026.2",
+  "release_version": "2026.2"
 }

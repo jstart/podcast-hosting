@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 35,
   "title": "Enterprise Funds, Partnerships, and Reserves",
-  "release_version": "2026.1",
-  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "advanced-civic-planning-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.mp3",
     "bytes": 7025579,
-    "sha256": "9f0cc1e40f44ce00d4be05f194ab04f809a03aaa357cf3d128099f06206eb672"
+    "sha256": "2caf6a917e6fb095d9dbc56f5417dce46504c79736fbade633414cde4c13a644"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.html",

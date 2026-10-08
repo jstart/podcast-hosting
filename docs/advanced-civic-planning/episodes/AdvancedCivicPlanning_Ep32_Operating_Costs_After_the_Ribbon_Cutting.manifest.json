@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 32,
   "title": "Operating Costs After the Ribbon Cutting",
-  "release_version": "2026.1",
-  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "advanced-civic-planning-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.mp3",
     "bytes": 6880438,
-    "sha256": "2f9cf9d3f7161dfa2f2530bba88f58bf59c15071e33580bd19e4e3f994acd483"
+    "sha256": "c14be6e969c114a4adfd61fbb8a977fbc279800be62b89f42bd8b8af4bf9124d"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.html",

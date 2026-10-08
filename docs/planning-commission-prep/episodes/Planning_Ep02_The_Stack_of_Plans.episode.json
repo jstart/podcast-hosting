@@ -1,12 +1,12 @@
 {
   "guid": "86d1741a-7c03-528c-a5b5-e24793c8e5df",
-  "publication_date": "2026-10-07T12:00:00Z",
+  "publication_date": "2026-10-08T03:19:00Z",
   "season": 1,
   "episode": 2,
   "explicit": false,
   "duration_seconds": 198.819,
   "enclosure_bytes": 2404327,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep02_The_Stack_of_Plans.mp3",
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep02_The_Stack_of_Plans.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep02_The_Stack_of_Plans.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep02_The_Stack_of_Plans.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep02.jpg",
@@ -14,11 +14,11 @@
   "support_url": null,
   "checksums": {
     "transcript_sha256": "d318182271317c4889509891fb54e8839a29e7dd517f40bfca8c7dcbc1d501b2",
-    "audio_sha256": "ab51760a5b8af7759c83672fe7b67687fb9f8824b802116f8163ff84304ee211"
+    "audio_sha256": "c8751306caef2286eda2234057931d1ffdbb8b2749a350eba7fc76a23e0f1e6b"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep02_The_Stack_of_Plans.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep02_The_Stack_of_Plans.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep02_The_Stack_of_Plans.provenance.json",
-  "release_tag": "planning-commission-prep-v2026.1",
-  "release_version": "2026.1"
+  "release_tag": "planning-commission-prep-v2026.2",
+  "release_version": "2026.2"
 }

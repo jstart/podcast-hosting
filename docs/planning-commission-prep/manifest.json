@@ -3,22 +3,22 @@
   "title": "Planning the City",
   "album": "Planning the City: A Commissioner's Course for Torrance",
   "description": "An eight-episode practical course for reading projects, making findings, navigating CEQA, and acting after the vote.",
-  "version": "2026.1",
-  "release_tag": "planning-commission-prep-v2026.1",
+  "version": "2026.2",
+  "release_tag": "planning-commission-prep-v2026.2",
   "stable_feed_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/feed.xml",
-  "release_url": "https://github.com/jstart/podcast-hosting/releases/tag/planning-commission-prep-v2026.1",
+  "release_url": "https://github.com/jstart/podcast-hosting/releases/tag/planning-commission-prep-v2026.2",
   "episodes": [
     {
       "stable_guid": "955ddf5b-1762-5756-adc2-fab0c604d4f8",
       "show": "planning-commission-prep",
       "episode": 1,
       "title": "The Two Jobs",
-      "release_version": "2026.1",
-      "release_tag": "planning-commission-prep-v2026.1",
+      "release_version": "2026.2",
+      "release_tag": "planning-commission-prep-v2026.2",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep01_The_Two_Jobs.mp3",
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep01_The_Two_Jobs.mp3",
         "bytes": 1977203,
-        "sha256": "8f20344b074a5be9abd535c63fa5e461ee51d20090cd32b2f8e7c6952d9165bd"
+        "sha256": "03cde703aa192feb5295c6d98913f96f3191cb1360e2e9b7dafca185dd160c5b"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.html",
@@ -30,7 +30,7 @@
         "provenance": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.provenance.json"
       },
       "summary": "Distinguishes legislative policy recommendations from quasi-judicial application of adopted standards.",
-      "publication_date": "2026-10-07T12:00:00Z",
+      "publication_date": "2026-10-08T03:19:00Z",
       "duration_seconds": 163.211
     },
     {
@@ -38,12 +38,12 @@
       "show": "planning-commission-prep",
       "episode": 2,
       "title": "The Stack of Plans",
-      "release_version": "2026.1",
-      "release_tag": "planning-commission-prep-v2026.1",
+      "release_version": "2026.2",
+      "release_tag": "planning-commission-prep-v2026.2",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep02_The_Stack_of_Plans.mp3",
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep02_The_Stack_of_Plans.mp3",
         "bytes": 2404327,
-        "sha256": "ab51760a5b8af7759c83672fe7b67687fb9f8824b802116f8163ff84304ee211"
+        "sha256": "c8751306caef2286eda2234057931d1ffdbb8b2749a350eba7fc76a23e0f1e6b"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep02_The_Stack_of_Plans.html",
@@ -55,7 +55,7 @@
         "provenance": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep02_The_Stack_of_Plans.provenance.json"
       },
       "summary": "Organizes state law, general plans, specific plans, zoning, overlays, and project approvals.",
-      "publication_date": "2026-10-07T12:00:00Z",
+      "publication_date": "2026-10-08T03:19:00Z",
       "duration_seconds": 198.819
     },
     {
@@ -63,12 +63,12 @@
       "show": "planning-commission-prep",
       "episode": 3,
       "title": "Before It Reaches You",
-      "release_version": "2026.1",
-      "release_tag": "planning-commission-prep-v2026.1",
+      "release_version": "2026.2",
+      "release_tag": "planning-commission-prep-v2026.2",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep03_Before_It_Reaches_You.mp3",
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep03_Before_It_Reaches_You.mp3",
         "bytes": 2243922,
-        "sha256": "537c6aa00ee44e7e4d4e709b53d6bf30956a20cfea20dd485ed9996698ebf92c"
+        "sha256": "adc99a7c4a13830796db940075e3fcaafae99cfce45fb2fdef15179d243b4eec"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep03_Before_It_Reaches_You.html",
@@ -80,7 +80,7 @@
         "provenance": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep03_Before_It_Reaches_You.provenance.json"
       },
       "summary": "Follows development review before a public hearing and identifies the commission's decision point.",
-      "publication_date": "2026-10-07T12:00:00Z",
+      "publication_date": "2026-10-08T03:19:00Z",
       "duration_seconds": 183.564
     },
     {
@@ -88,12 +88,12 @@
       "show": "planning-commission-prep",
       "episode": 4,
       "title": "How to Read a Project",
-      "release_version": "2026.1",
-      "release_tag": "planning-commission-prep-v2026.1",
+      "release_version": "2026.2",
+      "release_tag": "planning-commission-prep-v2026.2",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep04_How_to_Read_a_Project.mp3",
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep04_How_to_Read_a_Project.mp3",
         "bytes": 2241715,
-        "sha256": "9cec8c22d0a29609c7854809285ef210264682bfeca9cbefc8e06cce2b914778"
+        "sha256": "ceffb13afe49a95f0093d65e4784c1f46c274b7e9948929284a125f74a2bef0e"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.html",
@@ -105,7 +105,7 @@
         "provenance": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.provenance.json"
       },
       "summary": "Provides a repeatable method for reading plans, staff analysis, evidence, and requested entitlements.",
-      "publication_date": "2026-10-07T12:00:00Z",
+      "publication_date": "2026-10-08T03:19:00Z",
       "duration_seconds": 185.367
     },
     {
@@ -113,12 +113,12 @@
       "show": "planning-commission-prep",
       "episode": 5,
       "title": "Findings and Conditions",
-      "release_version": "2026.1",
-      "release_tag": "planning-commission-prep-v2026.1",
+      "release_version": "2026.2",
+      "release_tag": "planning-commission-prep-v2026.2",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep05_Findings_and_Conditions.mp3",
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep05_Findings_and_Conditions.mp3",
         "bytes": 2412596,
-        "sha256": "0e57ac5bfe290b54d47fc756556ad1fc54c420168835a5d7246ad40a81abc8fb"
+        "sha256": "144d1e463633fb343be1d56e781c7c3a606e454f38962915bf7e2ea2ab8b0f67"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.html",
@@ -130,7 +130,7 @@
         "provenance": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.provenance.json"
       },
       "summary": "Connects required findings to substantial evidence and conditions that can be administered.",
-      "publication_date": "2026-10-07T12:00:00Z",
+      "publication_date": "2026-10-08T03:19:00Z",
       "duration_seconds": 197.176
     },
     {
@@ -138,12 +138,12 @@
       "show": "planning-commission-prep",
       "episode": 6,
       "title": "CEQA in the Room",
-      "release_version": "2026.1",
-      "release_tag": "planning-commission-prep-v2026.1",
+      "release_version": "2026.2",
+      "release_tag": "planning-commission-prep-v2026.2",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep06_CEQA_in_the_Room.mp3",
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep06_CEQA_in_the_Room.mp3",
         "bytes": 2664716,
-        "sha256": "c1d1732c962149c4b1991d90e049d1b16498e7dbf7f3c9a070710f2760e6b719"
+        "sha256": "9a1f34f6613197f0a631d27a289a9d86e97a1b743244345519713f3156a079dc"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep06_CEQA_in_the_Room.html",
@@ -155,7 +155,7 @@
         "provenance": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep06_CEQA_in_the_Room.provenance.json"
       },
       "summary": "Clarifies the commission's role in environmental review, evidence, mitigation, and the public record.",
-      "publication_date": "2026-10-07T12:00:00Z",
+      "publication_date": "2026-10-08T03:19:00Z",
       "duration_seconds": 220.518
     },
     {
@@ -163,12 +163,12 @@
       "show": "planning-commission-prep",
       "episode": 7,
       "title": "Housing Law You Still Use",
-      "release_version": "2026.1",
-      "release_tag": "planning-commission-prep-v2026.1",
+      "release_version": "2026.2",
+      "release_tag": "planning-commission-prep-v2026.2",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep07_Housing_Law_You_Still_Use.mp3",
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep07_Housing_Law_You_Still_Use.mp3",
         "bytes": 3279480,
-        "sha256": "ce5749190cc7eaf8d1ff07dd74248b144463e3c09e0bde70993e71513baba6cd"
+        "sha256": "787298296531875486f3cb5e20c2e8187bda6b4986be26bbeeb5a48dc0b7b2c8"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.html",
@@ -180,7 +180,7 @@
         "provenance": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.provenance.json"
       },
       "summary": "Identifies current housing constraints on local discretion and the need to verify changing statutes.",
-      "publication_date": "2026-10-07T12:00:00Z",
+      "publication_date": "2026-10-08T03:19:00Z",
       "duration_seconds": 270.429
     },
     {
@@ -188,12 +188,12 @@
       "show": "planning-commission-prep",
       "episode": 8,
       "title": "After the Vote",
-      "release_version": "2026.1",
-      "release_tag": "planning-commission-prep-v2026.1",
+      "release_version": "2026.2",
+      "release_tag": "planning-commission-prep-v2026.2",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep08_After_the_Vote.mp3",
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep08_After_the_Vote.mp3",
         "bytes": 2401714,
-        "sha256": "98205b32721dd6890d57dde1a69abb2b7daa93cbf015e1613178b32599a3ee01"
+        "sha256": "d955f81f61fb3556ce366b888c79fdb3259d79589d5542836add2f3ec8786488"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep08_After_the_Vote.html",
@@ -205,7 +205,7 @@
         "provenance": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep08_After_the_Vote.provenance.json"
       },
       "summary": "Covers resolutions, appeals, conditions, implementation, records, and accountability after a decision.",
-      "publication_date": "2026-10-07T12:00:00Z",
+      "publication_date": "2026-10-08T03:19:00Z",
       "duration_seconds": 199.734
     }
   ]

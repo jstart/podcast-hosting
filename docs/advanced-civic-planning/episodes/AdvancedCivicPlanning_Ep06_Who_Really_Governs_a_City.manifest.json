@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 6,
   "title": "Who Really Governs a City",
-  "release_version": "2026.1",
-  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "advanced-civic-planning-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.mp3",
     "bytes": 6663510,
-    "sha256": "a7fc33f56eb3d67abc177da69e44a191eafc5cced5e644b1ace300f7b002e16d"
+    "sha256": "73e0fd53d716ef0cf0240e7925594b65d4046cbd942f8b1c1d09bd6dfc4cc3d1"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.html",

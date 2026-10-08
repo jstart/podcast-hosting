@@ -3,12 +3,12 @@
   "show": "public-policy-prep",
   "episode": 5,
   "title": "Psychology, Evidence, and Public Communication",
-  "release_version": "2026.1",
-  "release_tag": "public-policy-prep-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "public-policy-prep-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.mp3",
     "bytes": 7560141,
-    "sha256": "ab511b6b7701cd4eafb510a7cc707940b1a4e4869c48afac8f558b8403b653f0"
+    "sha256": "f441bd57a65547bbaddd26e1789a417be80be579ca2166d0fb323f645482966f"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.html",

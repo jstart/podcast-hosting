@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 9,
   "title": "Capstone: Run a Defensible Public Hearing",
-  "release_version": "2026.1",
-  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.2",
+  "release_tag": "advanced-civic-planning-v2026.2",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.mp3",
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.mp3",
     "bytes": 7125422,
-    "sha256": "c02e4e0124db26925f3b4c9fd69b9bae733aac8cbddeefe6135f1021a957179a"
+    "sha256": "f32cc04b7d1a51c5ef2fcf04c8e4358b33a11881b2c68cd97e13bce8e1d26a30"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.html",
