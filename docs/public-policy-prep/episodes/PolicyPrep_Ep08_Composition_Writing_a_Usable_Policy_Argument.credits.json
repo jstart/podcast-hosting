@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "College Composition Course Overview",
+      "author": "Modern States Education Alliance",
+      "publisher": "Modern States Education Alliance",
+      "url": "https://modernstates.org/course/college-composition/",
+      "license": "Public course outline only; no lesson content reproduced"
+    },
+    {
+      "title": "Purdue Online Writing Lab",
+      "author": "Purdue University",
+      "publisher": "Purdue University",
+      "url": "https://owl.purdue.edu/owl/general_writing/index.html",
+      "license": "Copyrighted public reference; original summary and attribution only"
+    }
+  ]
+}

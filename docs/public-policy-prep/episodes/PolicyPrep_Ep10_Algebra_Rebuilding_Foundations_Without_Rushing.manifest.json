@@ -1,0 +1,22 @@
+{
+  "stable_guid": "d407d811-b8a7-5952-a7fa-0ed8645e867b",
+  "show": "public-policy-prep",
+  "episode": 10,
+  "title": "Algebra: Rebuilding Foundations Without Rushing",
+  "release_version": "2026.1",
+  "release_tag": "public-policy-prep-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.mp3",
+    "bytes": 6863097,
+    "sha256": "c12f47f291ce53ea5f9cc79ea51f1905a4deb1790246db89b7754ab7c867cb09"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep10.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.provenance.json"
+  }
+}

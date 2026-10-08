@@ -1,0 +1,24 @@
+{
+  "guid": "8dd2a557-9619-516a-bd2c-ca34e14376ed",
+  "publication_date": "2026-10-07T12:00:00Z",
+  "season": 1,
+  "episode": 4,
+  "explicit": false,
+  "duration_seconds": 557.28,
+  "enclosure_bytes": 6427301,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep04.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "271f206deff6676c94ef2b129dd5e1fa313942c34a20e7ce7342dfcb0065c345",
+    "audio_sha256": "defea304de7e9c4a1f2548e89ab27d6630f537b9cf29d91b237184c7a52b8a18"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.provenance.json",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.1"
+}

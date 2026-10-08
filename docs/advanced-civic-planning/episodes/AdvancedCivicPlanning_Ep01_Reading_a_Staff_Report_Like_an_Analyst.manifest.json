@@ -1,0 +1,22 @@
+{
+  "stable_guid": "266549d3-58f7-590d-8314-d8769c42e458",
+  "show": "advanced-civic-planning",
+  "episode": 1,
+  "title": "Reading a Staff Report Like an Analyst",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.mp3",
+    "bytes": 5862492,
+    "sha256": "35c4d9c44ef594e241878cb882fe6acdcb391de1752132e52ec29df2239eab00"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep01.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.provenance.json"
+  }
+}

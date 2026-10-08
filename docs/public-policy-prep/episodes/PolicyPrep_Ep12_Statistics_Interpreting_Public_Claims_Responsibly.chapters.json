@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "A California city says average emergency response time..."
+    },
+    {
+      "startTime": 19.946,
+      "title": "This is study preparation only"
+    },
+    {
+      "startTime": 29.013,
+      "title": "Start by defining the data"
+    },
+    {
+      "startTime": 158.421,
+      "title": "Descriptive statistics organize what was observed"
+    },
+    {
+      "startTime": 261.959,
+      "title": "Probability describes uncertainty"
+    },
+    {
+      "startTime": 326.21,
+      "title": "Now examine two quantitative variables together"
+    },
+    {
+      "startTime": 502.824,
+      "title": "Three questions"
+    },
+    {
+      "startTime": 516.242,
+      "title": "First answer: a parameter describes the full population..."
+    },
+    {
+      "startTime": 538.848,
+      "title": "Artifact: write a one-page audit of a real..."
+    }
+  ]
+}

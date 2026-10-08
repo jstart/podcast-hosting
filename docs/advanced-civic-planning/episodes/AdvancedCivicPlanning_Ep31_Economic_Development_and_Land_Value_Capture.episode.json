@@ -1,0 +1,24 @@
+{
+  "guid": "3f413a62-7266-5b33-a922-816f37807efc",
+  "publication_date": "2026-10-07T12:00:00Z",
+  "season": 1,
+  "episode": 31,
+  "explicit": false,
+  "duration_seconds": 590.28,
+  "enclosure_bytes": 6787382,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep31.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "7a1c1e1155b2280ca579755e203daf324848d965422732f4f22d176632b8c2c3",
+    "audio_sha256": "6ec3d7972cc2f314f77b4f67c513265f244aa327fcae1b9c4d7b4b0ffb7b634b"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.provenance.json",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.1"
+}

@@ -1,0 +1,22 @@
+{
+  "stable_guid": "58a75b2b-e946-527d-8453-c1d16b83009d",
+  "show": "planning-commission-prep",
+  "episode": 6,
+  "title": "CEQA in the Room",
+  "release_version": "2026.1",
+  "release_tag": "planning-commission-prep-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep06_CEQA_in_the_Room.mp3",
+    "bytes": 2664716,
+    "sha256": "c1d1732c962149c4b1991d90e049d1b16498e7dbf7f3c9a070710f2760e6b719"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep06_CEQA_in_the_Room.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep06.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep06_CEQA_in_the_Room.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep06_CEQA_in_the_Room.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep06_CEQA_in_the_Room.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep06_CEQA_in_the_Room.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep06_CEQA_in_the_Room.provenance.json"
+  }
+}

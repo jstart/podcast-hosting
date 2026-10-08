@@ -1,0 +1,22 @@
+{
+  "stable_guid": "aabee8f3-cede-5696-9cac-8ba7d4a793aa",
+  "show": "advanced-civic-planning",
+  "episode": 24,
+  "title": "From Level of Service to Vehicle Miles Traveled",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.mp3",
+    "bytes": 6762738,
+    "sha256": "85baab2623386157a6831027e579cdc3a9ffdf538bef06e111a5ba4dc8fdb1eb"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep24.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.provenance.json"
+  }
+}

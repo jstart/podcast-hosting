@@ -1,0 +1,24 @@
+{
+  "guid": "161cd586-13e4-5fae-8371-4d5110184ca7",
+  "publication_date": "2026-10-07T12:00:00Z",
+  "season": 1,
+  "episode": 11,
+  "explicit": false,
+  "duration_seconds": 651.76,
+  "enclosure_bytes": 7517033,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep11_Eight_Elements_One_System.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep11_Eight_Elements_One_System.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep11_Eight_Elements_One_System.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep11.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep11_Eight_Elements_One_System.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "6b102d43d3def196988a34cc936cd27a3c938d722601c59a3be786f478948429",
+    "audio_sha256": "fff3ad799cf304a91223b1b649818b3e3a77a41ab84da8dc1dcb7f6c7e8801d7"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep11_Eight_Elements_One_System.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep11_Eight_Elements_One_System.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep11_Eight_Elements_One_System.provenance.json",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.1"
+}

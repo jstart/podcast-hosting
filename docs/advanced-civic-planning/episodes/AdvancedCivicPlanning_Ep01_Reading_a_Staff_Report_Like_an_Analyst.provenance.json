@@ -1,0 +1,35 @@
+{
+  "stable_id": "266549d3-58f7-590d-8314-d8769c42e458",
+  "versions": [
+    {
+      "production_version": "2026.1",
+      "tts_model": {
+        "repo": "ResembleAI/chatterbox-turbo",
+        "revision": "749d1c1a46eb10492095d68fbcf55691ccf137cd"
+      },
+      "asr_model": {
+        "repo": "Systran/faster-whisper-small.en",
+        "revision": "d1d751a5f8271d482d14ca55d9e2deeebbae577f"
+      },
+      "source_retrieval_date": "2026-10-07",
+      "transcript_sha256": "1caf2fa77a99b1a5cd56cd23ae72139d85a17aaf75c933a9498e86625d73f287",
+      "audio_sha256": "61e818d55e403120eff97f4f78400cfa7d3d0033ff7ab1b32f51e57d851bc4f0",
+      "supersedes": null
+    },
+    {
+      "production_version": "2026.1",
+      "tts_model": {
+        "repo": "ResembleAI/chatterbox-turbo",
+        "revision": "749d1c1a46eb10492095d68fbcf55691ccf137cd"
+      },
+      "asr_model": {
+        "repo": "Systran/faster-whisper-small.en",
+        "revision": "d1d751a5f8271d482d14ca55d9e2deeebbae577f"
+      },
+      "source_retrieval_date": "2026-10-07",
+      "transcript_sha256": "1caf2fa77a99b1a5cd56cd23ae72139d85a17aaf75c933a9498e86625d73f287",
+      "audio_sha256": "35c4d9c44ef594e241878cb882fe6acdcb391de1752132e52ec29df2239eab00",
+      "supersedes": null
+    }
+  ]
+}

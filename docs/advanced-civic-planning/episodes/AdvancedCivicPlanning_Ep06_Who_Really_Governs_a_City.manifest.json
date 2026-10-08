@@ -1,0 +1,22 @@
+{
+  "stable_guid": "3ad664f3-3743-5e79-88ee-f3f5e3e55b3f",
+  "show": "advanced-civic-planning",
+  "episode": 6,
+  "title": "Who Really Governs a City",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.mp3",
+    "bytes": 6663510,
+    "sha256": "a7fc33f56eb3d67abc177da69e44a191eafc5cced5e644b1ace300f7b002e16d"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep06.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.provenance.json"
+  }
+}

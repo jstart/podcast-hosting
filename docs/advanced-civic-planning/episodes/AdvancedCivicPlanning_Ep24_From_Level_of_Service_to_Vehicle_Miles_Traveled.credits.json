@@ -1,0 +1,27 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "CEQA Transportation Impacts under SB 743",
+      "author": "Governor's Office of Land Use and Climate Innovation",
+      "cover_author": "California LCI",
+      "publisher": "State of California",
+      "url": "https://lci.ca.gov/ceqa/sb-743/",
+      "license": "No broad open license identified; original summary and attribution only"
+    },
+    {
+      "title": "Toolbox Tuesday Training Archive",
+      "author": "Southern California Association of Governments",
+      "cover_author": "SCAG",
+      "publisher": "Southern California Association of Governments",
+      "url": "https://scag.ca.gov/toolbox-tuesday",
+      "license": "No broad open license identified; original summary and attribution only"
+    }
+  ]
+}

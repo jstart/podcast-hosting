@@ -1,0 +1,22 @@
+{
+  "stable_guid": "979f5113-6909-58cf-b374-831be4025e44",
+  "show": "public-policy-prep",
+  "episode": 9,
+  "title": "Microeconomics: Incentives and Market Failure",
+  "release_version": "2026.1",
+  "release_tag": "public-policy-prep-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.mp3",
+    "bytes": 6802151,
+    "sha256": "aabb8ab15b859e76a6886a831a02671da7c7918f4d01f87fc381313026b1431b"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep09.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.provenance.json"
+  }
+}

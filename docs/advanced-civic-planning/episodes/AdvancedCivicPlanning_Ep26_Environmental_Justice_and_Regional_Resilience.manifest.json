@@ -1,0 +1,22 @@
+{
+  "stable_guid": "a50e733b-f4f0-5043-b37c-c3ce0a437344",
+  "show": "advanced-civic-planning",
+  "episode": 26,
+  "title": "Environmental Justice and Regional Resilience",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.mp3",
+    "bytes": 6802436,
+    "sha256": "dbef63ff1085052b65fdd98d9ee399b058f7b853aeab44e4a8f873112d307484"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep26.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.provenance.json"
+  }
+}

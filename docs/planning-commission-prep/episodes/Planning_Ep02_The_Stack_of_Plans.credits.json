@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Commissioners Academy Session Materials",
+      "author": "League of California Cities",
+      "publisher": "League of California Cities",
+      "url": "https://www.calcities.org/planning-commissioners-academy-session-materials",
+      "license": "Copyrighted public materials; original summary and attribution only"
+    },
+    {
+      "title": "Understanding the Basics of Land Use and Planning",
+      "author": "Institute for Local Government",
+      "publisher": "Institute for Local Government",
+      "url": "https://www.ca-ilg.org/post/understanding-basics-land-use-and-planning-series",
+      "license": "Copyrighted public materials; original summary and attribution only"
+    }
+  ]
+}

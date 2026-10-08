@@ -1,0 +1,22 @@
+{
+  "stable_guid": "09ccffbb-f493-5887-8836-6bb3ce8656a5",
+  "show": "public-policy-prep",
+  "episode": 12,
+  "title": "Statistics: Interpreting Public Claims Responsibly",
+  "release_version": "2026.1",
+  "release_tag": "public-policy-prep-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.mp3",
+    "bytes": 6938209,
+    "sha256": "b1efa1ccccd4a14aa971a9feadb1ba394f38434dfaad30aab86d5b2cbe1f6e7d"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep12.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.provenance.json"
+  }
+}

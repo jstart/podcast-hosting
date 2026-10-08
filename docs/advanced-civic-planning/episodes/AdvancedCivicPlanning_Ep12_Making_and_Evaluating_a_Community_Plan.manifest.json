@@ -1,0 +1,22 @@
+{
+  "stable_guid": "099a7baa-2bad-55c2-8c99-5a84e8476450",
+  "show": "advanced-civic-planning",
+  "episode": 12,
+  "title": "Making and Evaluating a Community Plan",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.mp3",
+    "bytes": 7262605,
+    "sha256": "d95e3745a466b9373887ec7d77393993e9adb6c7f9bafaab7acc94e5457982f8"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep12.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.provenance.json"
+  }
+}

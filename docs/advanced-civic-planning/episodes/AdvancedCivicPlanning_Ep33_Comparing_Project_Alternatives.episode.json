@@ -1,0 +1,24 @@
+{
+  "guid": "65a2a06a-6268-5d50-96d4-40702eb8ee00",
+  "publication_date": "2026-10-07T12:00:00Z",
+  "season": 1,
+  "episode": 33,
+  "explicit": false,
+  "duration_seconds": 606.72,
+  "enclosure_bytes": 6920820,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep33.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "f7bada04bf8f375b1d01a1b63106e722e9c49e821e0719e817f24d374f2546d4",
+    "audio_sha256": "18af0fdbe87b4178e36b8cc4a0fbcda82061c8373d6b8213722ab3a2a7aac0e8"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.provenance.json",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.1"
+}

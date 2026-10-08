@@ -1,0 +1,24 @@
+{
+  "guid": "10dd308a-016b-536e-99ef-d0ad42b045e4",
+  "publication_date": "2026-10-07T12:00:00Z",
+  "season": 1,
+  "episode": 23,
+  "explicit": false,
+  "duration_seconds": 538.04,
+  "enclosure_bytes": 6227752,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep23.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "7c89dbf8a07a6806f4eab59fe7cc1c1e966c489179f0bb6c5ca0565db35f2231",
+    "audio_sha256": "b94bcab2f9b1ab6d3ff4d6ddf0b57cd8068d27f7b4838ae28b4e00285d16ff5f"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.provenance.json",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.1"
+}

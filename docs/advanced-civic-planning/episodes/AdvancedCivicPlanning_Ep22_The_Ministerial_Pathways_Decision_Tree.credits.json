@@ -1,0 +1,27 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Housing Elements and Housing Accountability Unit Guidance",
+      "author": "California Department of Housing and Community Development",
+      "cover_author": "California HCD",
+      "publisher": "State of California",
+      "url": "https://www.hcd.ca.gov/housing-element",
+      "license": "No broad open license identified; original summary and attribution only"
+    },
+    {
+      "title": "Toolbox Tuesday Training Archive",
+      "author": "Southern California Association of Governments",
+      "cover_author": "SCAG",
+      "publisher": "Southern California Association of Governments",
+      "url": "https://scag.ca.gov/toolbox-tuesday",
+      "license": "No broad open license identified; original summary and attribution only"
+    }
+  ]
+}

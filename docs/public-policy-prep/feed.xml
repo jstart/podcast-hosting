@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:podhost="https://jstart.github.io/podcast-hosting/namespace/1.0" version="2.0">
+  <channel>
+    <title>Public Policy Prep</title>
+    <link>https://jstart.github.io/podcast-hosting/public-policy-prep/</link>
+    <description>A 12-episode interdisciplinary study course spanning government, sociology, psychology, economics, writing, and algebra.</description>
+    <language>en-us</language>
+    <generator>podcast-hosting/scripts/build_site.py</generator>
+    <itunes:author>Public Policy Prep</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://jstart.github.io/podcast-hosting/public-policy-prep/cover.jpg" />
+    <image>
+      <url>https://jstart.github.io/podcast-hosting/public-policy-prep/cover.jpg</url>
+      <title>Public Policy Prep</title>
+      <link>https://jstart.github.io/podcast-hosting/public-policy-prep/</link>
+    </image>
+    <podcast:locked owner="jstart">yes</podcast:locked>
+    <podcast:guid>026a08016a4c195cde2d2595f932358a064504ecf182664c6d968c1ff1f88119</podcast:guid>
+    <podcast:person role="host" group="writing">Public Policy Prep</podcast:person>
+    <podcast:license>See per-episode license and credits</podcast:license>
+    <item>
+      <title>Statistics: Interpreting Public Claims Responsibly</title>
+      <description>Tests public claims using samples, center, spread, bias, uncertainty, and limits on causal inference.</description>
+      <link>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.html</link>
+      <guid isPermaLink="false">09ccffbb-f493-5887-8836-6bb3ce8656a5</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.mp3" length="6938209" type="audio/mpeg" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>609</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep12.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Policy Prep</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.provenance.json</podhost:provenance>
+      <podhost:sha256>b1efa1ccccd4a14aa971a9feadb1ba394f38434dfaad30aab86d5b2cbe1f6e7d</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Algebra: Functions, Change, and Review</title>
+      <description>Interprets functions, graphs, rates of change, and common function families in public data.</description>
+      <link>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.html</link>
+      <guid isPermaLink="false">cc8a831d-ce41-599a-9b9c-0666ed3bc708</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.mp3" length="6867724" type="audio/mpeg" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>605</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep11.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Policy Prep</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.provenance.json</podhost:provenance>
+      <podhost:sha256>305f9be4b4e81e91d98f183183f88b3cc2e8d8ef3f21e4716e70385dd51932f8</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Algebra: Rebuilding Foundations Without Rushing</title>
+      <description>Rebuilds arithmetic and algebra foundations through equations, inequalities, and careful practice.</description>
+      <link>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.html</link>
+      <guid isPermaLink="false">d407d811-b8a7-5952-a7fa-0ed8645e867b</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.mp3" length="6863097" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>602</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep10.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Policy Prep</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.provenance.json</podhost:provenance>
+      <podhost:sha256>c12f47f291ce53ea5f9cc79ea51f1905a4deb1790246db89b7754ab7c867cb09</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Microeconomics: Incentives and Market Failure</title>
+      <description>Uses marginal analysis, supply and demand, externalities, and public goods to evaluate policy.</description>
+      <link>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.html</link>
+      <guid isPermaLink="false">979f5113-6909-58cf-b374-831be4025e44</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.mp3" length="6802151" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>592</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep09.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Policy Prep</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.provenance.json</podhost:provenance>
+      <podhost:sha256>aabb8ab15b859e76a6886a831a02671da7c7918f4d01f87fc381313026b1431b</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Composition: Writing a Usable Policy Argument</title>
+      <description>Builds an evidence-based policy argument through source evaluation, structure, revision, and qualification.</description>
+      <link>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.html</link>
+      <guid isPermaLink="false">59cb1fa6-c350-596b-a1db-477d092c3533</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.mp3" length="7104025" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>620</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep08.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Policy Prep</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.provenance.json</podhost:provenance>
+      <podhost:sha256>e270fc7bfd9924612f2315e0848c2a994f790421a2637719af9253d51d52dad0</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Money, Fiscal Policy, and Economic Tradeoffs</title>
+      <description>Compares monetary and fiscal policy, stabilization choices, growth, trade, and local consequences.</description>
+      <link>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.html</link>
+      <guid isPermaLink="false">b16362fc-363f-57a5-abad-26ed2710d4f3</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.mp3" length="6991031" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>606</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep07.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Policy Prep</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.provenance.json</podhost:provenance>
+      <podhost:sha256>7f40d2b7936d7674ef1f9bccf2922c76caa3126952e0dd304c6ee81f309cbe05</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Macroeconomics: Reading the Wider Economy</title>
+      <description>Explains national output, inflation, unemployment, and aggregate change for local policy readers.</description>
+      <link>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.html</link>
+      <guid isPermaLink="false">968c6274-965e-55d1-bca2-e2f9f73512a2</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.mp3" length="6757949" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>584</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep06.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Policy Prep</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.provenance.json</podhost:provenance>
+      <podhost:sha256>b368d60adf84d50ea9d9da6e6ffe5de58fef02d6077cedec37fa67b1f0101a24</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Psychology, Evidence, and Public Communication</title>
+      <description>Applies research design, cognition, learning, and social influence to responsible public communication.</description>
+      <link>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.html</link>
+      <guid isPermaLink="false">8320209d-ec2a-5f1a-9d5c-c30f0eb217dc</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.mp3" length="7560141" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>665</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep05.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Policy Prep</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.provenance.json</podhost:provenance>
+      <podhost:sha256>ab511b6b7701cd4eafb510a7cc707940b1a4e4869c48afac8f558b8403b653f0</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Inequality, Institutions, and Urban Change</title>
+      <description>Examines stratification, institutional barriers, urbanization, and social change in public services.</description>
+      <link>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.html</link>
+      <guid isPermaLink="false">80212596-ed6b-5491-9d9d-251fedc09463</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.mp3" length="7495871" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>652</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep04.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Policy Prep</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.provenance.json</podhost:provenance>
+      <podhost:sha256>b4f37da0d5a3532398c87e18c99db147ec868ed6bdd64be5c0823d3293136569</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Sociology: Connecting People, Culture, and Institutions</title>
+      <description>Uses sociological perspectives to connect individual experience with culture, organizations, and institutions.</description>
+      <link>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.html</link>
+      <guid isPermaLink="false">ac2b05c9-9f95-54b3-9bb0-1ca8bc192835</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.mp3" length="7513178" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>662</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep03.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Policy Prep</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.provenance.json</podhost:provenance>
+      <podhost:sha256>22b40f7176f60923e1a06876040ce8ae9487e648fdf62705a5a3387998f51c8e</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Public Opinion, Elections, and Governing Institutions</title>
+      <description>Connects public opinion, elections, parties, institutions, and policy accountability.</description>
+      <link>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.html</link>
+      <guid isPermaLink="false">b1a7a003-e35e-5be9-a14d-e3061ca7e37f</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.mp3" length="7350127" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>643</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep02.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Policy Prep</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.provenance.json</podhost:provenance>
+      <podhost:sha256>f4031d251f4db81bc4c2d732e15f3cce2804c77af44a544e15f5170f5aaa70cd</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>The Constitution and Federalism: Who Decides?</title>
+      <description>Maps constitutional authority, federalism, and the place of local government through a civic technology example.</description>
+      <link>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.html</link>
+      <guid isPermaLink="false">b7b7993e-11ef-5bea-84ba-a23ddbf0b53e</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.mp3" length="6530361" type="audio/mpeg" />
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>554</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep01.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Public Policy Prep</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.provenance.json</podhost:provenance>
+      <podhost:sha256>4f53f5c54bcbc0a73029628ddcf9d515cbdbb96844fecbd39f5c51afbcca5d2e</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+  </channel>
+</rss>

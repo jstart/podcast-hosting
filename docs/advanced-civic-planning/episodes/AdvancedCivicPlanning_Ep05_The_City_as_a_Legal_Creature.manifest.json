@@ -1,0 +1,22 @@
+{
+  "stable_guid": "b9f2872a-e512-59d2-a65c-9378cd3ed14a",
+  "show": "advanced-civic-planning",
+  "episode": 5,
+  "title": "The City as a Legal Creature",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.mp3",
+    "bytes": 6751569,
+    "sha256": "578b1de010f9e136521a91c37aa04b68018e454114eaccc3ba9dd1946fb8e399"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep05.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.provenance.json"
+  }
+}

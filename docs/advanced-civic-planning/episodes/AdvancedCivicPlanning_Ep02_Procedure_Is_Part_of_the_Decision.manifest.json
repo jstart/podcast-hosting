@@ -1,0 +1,22 @@
+{
+  "stable_guid": "1a179bef-4500-5555-ad4a-bbadb3b1c0f5",
+  "show": "advanced-civic-planning",
+  "episode": 2,
+  "title": "Procedure Is Part of the Decision",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.mp3",
+    "bytes": 5968876,
+    "sha256": "97f210d9ba099618eb4f45deee8b9eca6a5b70fbf8b14012096b5fe10b496192"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep02.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.provenance.json"
+  }
+}

@@ -1,0 +1,912 @@
+{
+  "id": "advanced-civic-planning",
+  "title": "Advanced Civic Planning",
+  "album": "Advanced Civic Planning: A Torrance Study Course",
+  "description": "A 36-episode advanced course in public hearings, land use, housing, transportation, environmental justice, and municipal finance.",
+  "version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "stable_feed_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/feed.xml",
+  "release_url": "https://github.com/jstart/podcast-hosting/releases/tag/advanced-civic-planning-v2026.1",
+  "episodes": [
+    {
+      "stable_guid": "266549d3-58f7-590d-8314-d8769c42e458",
+      "show": "advanced-civic-planning",
+      "episode": 1,
+      "title": "Reading a Staff Report Like an Analyst",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.mp3",
+        "bytes": 5862492,
+        "sha256": "35c4d9c44ef594e241878cb882fe6acdcb391de1752132e52ec29df2239eab00"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep01.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep01_Reading_a_Staff_Report_Like_an_Analyst.provenance.json"
+      },
+      "summary": "A method for testing authority, evidence, findings, and conditions in a planning staff report.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 493.948
+    },
+    {
+      "stable_guid": "1a179bef-4500-5555-ad4a-bbadb3b1c0f5",
+      "show": "advanced-civic-planning",
+      "episode": 2,
+      "title": "Procedure Is Part of the Decision",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.mp3",
+        "bytes": 5968876,
+        "sha256": "97f210d9ba099618eb4f45deee8b9eca6a5b70fbf8b14012096b5fe10b496192"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep02.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.provenance.json"
+      },
+      "summary": "Explains why notice, hearing procedure, records, and fair process are part of a defensible decision.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 519.6
+    },
+    {
+      "stable_guid": "f9f8a74d-e1c3-5d72-99a7-9bad027c231e",
+      "show": "advanced-civic-planning",
+      "episode": 3,
+      "title": "Ethics, Ex Parte Contacts, and Recusal",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.mp3",
+        "bytes": 6339119,
+        "sha256": "9a80378a7104ccbb7aa6a89c14344605eb5a8ef6ce63995efad374c1a0cb1699"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep03.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.provenance.json"
+      },
+      "summary": "Examines ethical duties, outside contacts, disclosure, bias, and recusal in local hearings.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 546.84
+    },
+    {
+      "stable_guid": "8dd2a557-9619-516a-bd2c-ca34e14376ed",
+      "show": "advanced-civic-planning",
+      "episode": 4,
+      "title": "Equity and Engagement Beyond the Microphone",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.mp3",
+        "bytes": 6427301,
+        "sha256": "defea304de7e9c4a1f2548e89ab27d6630f537b9cf29d91b237184c7a52b8a18"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep04.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.provenance.json"
+      },
+      "summary": "Shows how engagement design and evidence can include people who are absent from a hearing room.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 557.28
+    },
+    {
+      "stable_guid": "b9f2872a-e512-59d2-a65c-9378cd3ed14a",
+      "show": "advanced-civic-planning",
+      "episode": 5,
+      "title": "The City as a Legal Creature",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.mp3",
+        "bytes": 6751569,
+        "sha256": "578b1de010f9e136521a91c37aa04b68018e454114eaccc3ba9dd1946fb8e399"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep05.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.provenance.json"
+      },
+      "summary": "Maps local authority through state law, charters, police power, and delegated planning duties.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 586.24
+    },
+    {
+      "stable_guid": "3ad664f3-3743-5e79-88ee-f3f5e3e55b3f",
+      "show": "advanced-civic-planning",
+      "episode": 6,
+      "title": "Who Really Governs a City",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.mp3",
+        "bytes": 6663510,
+        "sha256": "a7fc33f56eb3d67abc177da69e44a191eafc5cced5e644b1ace300f7b002e16d"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep06.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep06_Who_Really_Governs_a_City.provenance.json"
+      },
+      "summary": "Compares formal authority with administrative, political, economic, and community influence.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 581.16
+    },
+    {
+      "stable_guid": "7f9e2a53-c323-506d-9d00-7e3bec37da4a",
+      "show": "advanced-civic-planning",
+      "episode": 7,
+      "title": "Growth Coalitions and Regional Spillovers",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.mp3",
+        "bytes": 6928054,
+        "sha256": "68b763cd59227080a06c6c9d5d19b220be3aa65943848a2ac9cf66a149acf90a"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep07.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.provenance.json"
+      },
+      "summary": "Explains how local development choices distribute benefits and costs across municipal borders.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 599.62
+    },
+    {
+      "stable_guid": "6fe45f5b-5f7e-56ee-ac97-f3c1391badcd",
+      "show": "advanced-civic-planning",
+      "episode": 8,
+      "title": "Evidence, Findings, and the Administrative Record",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.mp3",
+        "bytes": 6509364,
+        "sha256": "05e93456fa983ef2d447fb3e35ba0902c9921953c2f6f1f2eec76bbde609c035"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep08.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.provenance.json"
+      },
+      "summary": "Connects governing standards to record evidence and reasoned findings.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 566.9
+    },
+    {
+      "stable_guid": "d02a3da9-dea1-5312-bff3-0657d9e04fbe",
+      "show": "advanced-civic-planning",
+      "episode": 9,
+      "title": "Capstone: Run a Defensible Public Hearing",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.mp3",
+        "bytes": 7125422,
+        "sha256": "c02e4e0124db26925f3b4c9fd69b9bae733aac8cbddeefe6135f1021a957179a"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep09.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.provenance.json"
+      },
+      "summary": "Applies procedure, evidence, findings, and motion practice to a complete hearing.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 621.76
+    },
+    {
+      "stable_guid": "2a3cef14-fb50-59f5-86da-5d844c2e0bbf",
+      "show": "advanced-civic-planning",
+      "episode": 10,
+      "title": "The General Plan After Adoption",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.mp3",
+        "bytes": 6950493,
+        "sha256": "4ff151c4d2210fcfa96bac1e808f709cc57c4bbf3d3e1cb70b3a0ca8843f6643"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep10.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.provenance.json"
+      },
+      "summary": "Treats the general plan as an implementation system that requires monitoring and adjustment.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 606.08
+    },
+    {
+      "stable_guid": "161cd586-13e4-5fae-8371-4d5110184ca7",
+      "show": "advanced-civic-planning",
+      "episode": 11,
+      "title": "Eight Elements, One System",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep11_Eight_Elements_One_System.mp3",
+        "bytes": 7517033,
+        "sha256": "fff3ad799cf304a91223b1b649818b3e3a77a41ab84da8dc1dcb7f6c7e8801d7"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep11_Eight_Elements_One_System.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep11.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep11_Eight_Elements_One_System.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep11_Eight_Elements_One_System.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep11_Eight_Elements_One_System.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep11_Eight_Elements_One_System.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep11_Eight_Elements_One_System.provenance.json"
+      },
+      "summary": "Explains how California general plan elements interact instead of operating as separate documents.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 651.76
+    },
+    {
+      "stable_guid": "099a7baa-2bad-55c2-8c99-5a84e8476450",
+      "show": "advanced-civic-planning",
+      "episode": 12,
+      "title": "Making and Evaluating a Community Plan",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.mp3",
+        "bytes": 7262605,
+        "sha256": "d95e3745a466b9373887ec7d77393993e9adb6c7f9bafaab7acc94e5457982f8"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep12.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.provenance.json"
+      },
+      "summary": "Builds a practical framework for community plan goals, evidence, implementation, and evaluation.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 633.52
+    },
+    {
+      "stable_guid": "92a240cc-d99e-57bc-9244-b35964b2059c",
+      "show": "advanced-civic-planning",
+      "episode": 13,
+      "title": "Growth Management Across Municipal Borders",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.mp3",
+        "bytes": 7148052,
+        "sha256": "8422204a9772770abc42c30a61f528ed7edd41fe5267eb16f370acee5f7d7740"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep13.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.provenance.json"
+      },
+      "summary": "Analyzes regional infrastructure, housing, transportation, and environmental spillovers.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 618.56
+    },
+    {
+      "stable_guid": "c32c0ce2-094a-5696-89ec-f92bc586b1ab",
+      "show": "advanced-civic-planning",
+      "episode": 14,
+      "title": "Zoning History, Exclusion, and Legitimacy",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.mp3",
+        "bytes": 7035509,
+        "sha256": "182567a2dd06b18a51bcbb9e1d8429aba7f8bbea5f741d9b2d38b04834fa9165"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep14.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.provenance.json"
+      },
+      "summary": "Places zoning tools in their legal and exclusionary history and tests present legitimacy.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 611.8
+    },
+    {
+      "stable_guid": "6ff29fe0-adbc-552d-a5e1-f2b601241642",
+      "show": "advanced-civic-planning",
+      "episode": 15,
+      "title": "Beyond Conventional Zoning",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.mp3",
+        "bytes": 7156131,
+        "sha256": "d0bcb674a20f546aeddab9b1ff740ec68a4f891bf4533b3ad1ea019aff576947"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep15.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.provenance.json"
+      },
+      "summary": "Compares conventional zoning with form, performance, overlay, incentive, and hybrid tools.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 624.24
+    },
+    {
+      "stable_guid": "352277e9-be3f-5d68-95df-5c2de92cd13b",
+      "show": "advanced-civic-planning",
+      "episode": 16,
+      "title": "The Five Urban Design Policy Tools",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep16_The_Five_Urban_Design_Policy_Tools.mp3",
+        "bytes": 7463669,
+        "sha256": "658b9e7610551a00be18b7e54b2ba4010c9765c0babda4226f3bc421ea4ec097"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep16_The_Five_Urban_Design_Policy_Tools.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep16.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep16_The_Five_Urban_Design_Policy_Tools.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep16_The_Five_Urban_Design_Policy_Tools.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep16_The_Five_Urban_Design_Policy_Tools.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep16_The_Five_Urban_Design_Policy_Tools.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep16_The_Five_Urban_Design_Policy_Tools.provenance.json"
+      },
+      "summary": "Compares regulation, investment, incentives, information, and coordination as design tools.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 651.4
+    },
+    {
+      "stable_guid": "f6f93612-4590-502c-af6c-7970faa8b448",
+      "show": "advanced-civic-planning",
+      "episode": 17,
+      "title": "Streets Are Public Places",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep17_Streets_Are_Public_Places.mp3",
+        "bytes": 7264084,
+        "sha256": "da8508fee88b15a56bb736d14633b6a73b725be1c57a9f7eb04faa0f60945baf"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep17_Streets_Are_Public_Places.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep17.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep17_Streets_Are_Public_Places.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep17_Streets_Are_Public_Places.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep17_Streets_Are_Public_Places.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep17_Streets_Are_Public_Places.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep17_Streets_Are_Public_Places.provenance.json"
+      },
+      "summary": "Evaluates streets as civic spaces serving access, safety, mobility, commerce, and public life.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 634.16
+    },
+    {
+      "stable_guid": "a9d90020-2f2c-5da0-998c-75193a8faa2a",
+      "show": "advanced-civic-planning",
+      "episode": 18,
+      "title": "Infill, Transit, and Resilient Growth",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.mp3",
+        "bytes": 7753126,
+        "sha256": "2d1468bf1378a1cce8c89fb69a99d387e1c4d057b64528ee89c16b6a4fd654a0"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep18.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.provenance.json"
+      },
+      "summary": "Connects infill and transit decisions to resilience, access, displacement, and implementation.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 672.0
+    },
+    {
+      "stable_guid": "08d2ebb4-c177-5f3c-8185-17ca984df2c7",
+      "show": "advanced-civic-planning",
+      "episode": 19,
+      "title": "The Housing Element as an Implementation Contract",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.mp3",
+        "bytes": 6233968,
+        "sha256": "da395280c3061ec1b4de17118ad29449c109424430dd9c94fad6f88eea1192e3"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep19.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.provenance.json"
+      },
+      "summary": "Reads the housing element as a schedule of sites, programs, deadlines, and accountable actions.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 544.2
+    },
+    {
+      "stable_guid": "8b6bb4b3-5841-5751-a6b5-7eac705ca6b1",
+      "show": "advanced-civic-planning",
+      "episode": 20,
+      "title": "Reading the APR and HCD Enforcement",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.mp3",
+        "bytes": 6557889,
+        "sha256": "2a37a7680e4f8eba12cc23fd625fe4c4fbc9a796b0f967f95d1781ad9324c5a5"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep20.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.provenance.json"
+      },
+      "summary": "Uses annual progress reports and enforcement guidance to evaluate housing program delivery.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 570.16
+    },
+    {
+      "stable_guid": "fe59ca72-bd62-5ead-a401-0f210867375b",
+      "show": "advanced-civic-planning",
+      "episode": 21,
+      "title": "Objective Standards and the Processing Clock",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.mp3",
+        "bytes": 6592571,
+        "sha256": "80d760949fb226cc63929c275c7b4b2cbd9ac03378b7924253035b623a2b3664"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep21.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.provenance.json"
+      },
+      "summary": "Separates objective standards from discretion and tracks review deadlines that change local process.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 568.76
+    },
+    {
+      "stable_guid": "aabf8678-2721-514d-8b18-d4f25549b7b5",
+      "show": "advanced-civic-planning",
+      "episode": 22,
+      "title": "The Ministerial Pathways Decision Tree",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.mp3",
+        "bytes": 6956189,
+        "sha256": "9e12abe63c257a99abee1a2af5f2d7f2329e6a8d869598d0c5fb01dfe8a10023"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep22.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.provenance.json"
+      },
+      "summary": "Organizes housing approval pathways by eligibility, objective standards, and current legal authority.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 602.4
+    },
+    {
+      "stable_guid": "10dd308a-016b-536e-99ef-d0ad42b045e4",
+      "show": "advanced-civic-planning",
+      "episode": 23,
+      "title": "Protecting Housing Capacity After Approval",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.mp3",
+        "bytes": 6227752,
+        "sha256": "b94bcab2f9b1ab6d3ff4d6ddf0b57cd8068d27f7b4838ae28b4e00285d16ff5f"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep23.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.provenance.json"
+      },
+      "summary": "Explains how implementation, replacement capacity, monitoring, and enforcement protect planned housing.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 538.04
+    },
+    {
+      "stable_guid": "aabee8f3-cede-5696-9cac-8ba7d4a793aa",
+      "show": "advanced-civic-planning",
+      "episode": 24,
+      "title": "From Level of Service to Vehicle Miles Traveled",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.mp3",
+        "bytes": 6762738,
+        "sha256": "85baab2623386157a6831027e579cdc3a9ffdf538bef06e111a5ba4dc8fdb1eb"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep24.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.provenance.json"
+      },
+      "summary": "Distinguishes traffic operations from environmental transportation impact under current guidance.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 587.32
+    },
+    {
+      "stable_guid": "ba5b81bb-a601-59d7-b835-0279eef0bc84",
+      "show": "advanced-civic-planning",
+      "episode": 25,
+      "title": "Projects, Safety, and Reliable Transit",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.mp3",
+        "bytes": 6521908,
+        "sha256": "80511b845106cff27d241b0cadf17bf4ed834e8c6965f5f8fbc4a2b45484d140"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep25.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.provenance.json"
+      },
+      "summary": "Evaluates transportation projects through safety, reliability, access, and development process.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 566.96
+    },
+    {
+      "stable_guid": "a50e733b-f4f0-5043-b37c-c3ce0a437344",
+      "show": "advanced-civic-planning",
+      "episode": 26,
+      "title": "Environmental Justice and Regional Resilience",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.mp3",
+        "bytes": 6802436,
+        "sha256": "dbef63ff1085052b65fdd98d9ee399b058f7b853aeab44e4a8f873112d307484"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep26.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.provenance.json"
+      },
+      "summary": "Connects cumulative burdens, participation, investment, and climate resilience in regional planning.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 588.68
+    },
+    {
+      "stable_guid": "787d636d-7576-5eac-b4f4-7923632d31f1",
+      "show": "advanced-civic-planning",
+      "episode": 27,
+      "title": "Reading Maps, Census Data, and Greenprint",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.mp3",
+        "bytes": 6620667,
+        "sha256": "fb16a0bc99fa649b423be7490120c6535843b9598792e476752da72837541714"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep27.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.provenance.json"
+      },
+      "summary": "Builds habits for checking geography, vintage, uncertainty, access, and licensing in planning data.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 575.12
+    },
+    {
+      "stable_guid": "6d962a36-31e2-560d-8e6e-41862335975f",
+      "show": "advanced-civic-planning",
+      "episode": 28,
+      "title": "The Fiscal Test for Every City Decision",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.mp3",
+        "bytes": 6536539,
+        "sha256": "a2b4541bd367fae398a075956fb6e7141def991fde4a20b5aff0907a79e43ba0"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep28.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.provenance.json"
+      },
+      "summary": "Frames fiscal analysis around recurring revenues, lifecycle costs, risk, and service outcomes.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 570.96
+    },
+    {
+      "stable_guid": "eedcedc9-a18c-5354-9c28-a128ade17d50",
+      "show": "advanced-civic-planning",
+      "episode": 29,
+      "title": "Revenues and California's Fiscal Constitution",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.mp3",
+        "bytes": 6658588,
+        "sha256": "c48a4eef5c1df49f972eb5e3d1fa35cb6390b7fc2740697edeb4ae32e22283da"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep29.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.provenance.json"
+      },
+      "summary": "Maps local revenue tools, legal constraints, volatility, and accountability.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 580.52
+    },
+    {
+      "stable_guid": "afa189ff-673c-5422-99f1-0ce2a720ec62",
+      "show": "advanced-civic-planning",
+      "episode": 30,
+      "title": "Property Tax and Development Fiscal Impact",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.mp3",
+        "bytes": 6655094,
+        "sha256": "183328c27c0f68c1466a05ca31dc54d5b770debc507ecceb12d2c3d924cdd148"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep30.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.provenance.json"
+      },
+      "summary": "Tests development fiscal claims against property tax allocation, service costs, and timing.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 575.8
+    },
+    {
+      "stable_guid": "3f413a62-7266-5b33-a922-816f37807efc",
+      "show": "advanced-civic-planning",
+      "episode": 31,
+      "title": "Economic Development and Land Value Capture",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.mp3",
+        "bytes": 6787382,
+        "sha256": "6ec3d7972cc2f314f77b4f67c513265f244aa327fcae1b9c4d7b4b0ffb7b634b"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep31.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.provenance.json"
+      },
+      "summary": "Compares economic development tools and ways public action can recover created land value.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 590.28
+    },
+    {
+      "stable_guid": "fa704026-b2c8-56b4-9a41-426d38b5db10",
+      "show": "advanced-civic-planning",
+      "episode": 32,
+      "title": "Operating Costs After the Ribbon Cutting",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.mp3",
+        "bytes": 6880438,
+        "sha256": "2f9cf9d3f7161dfa2f2530bba88f58bf59c15071e33580bd19e4e3f994acd483"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep32.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.provenance.json"
+      },
+      "summary": "Identifies staffing, maintenance, renewal, and risk costs that continue after capital completion.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 599.96
+    },
+    {
+      "stable_guid": "65a2a06a-6268-5d50-96d4-40702eb8ee00",
+      "show": "advanced-civic-planning",
+      "episode": 33,
+      "title": "Comparing Project Alternatives",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.mp3",
+        "bytes": 6920820,
+        "sha256": "18af0fdbe87b4178e36b8cc4a0fbcda82061c8373d6b8213722ab3a2a7aac0e8"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep33.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.provenance.json"
+      },
+      "summary": "Uses consistent baselines, lifecycle costs, uncertainty, and public outcomes to compare alternatives.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 606.72
+    },
+    {
+      "stable_guid": "e0804a5a-3faf-516f-be22-a6160a22b8e9",
+      "show": "advanced-civic-planning",
+      "episode": 34,
+      "title": "Municipal Debt and Long-Term Commitments",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.mp3",
+        "bytes": 6851965,
+        "sha256": "53668dcab7b7397cb599b72a71b372f5c021fd09e2de7138db460ccb12599b46"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep34.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.provenance.json"
+      },
+      "summary": "Explains debt structure, affordability, disclosure, and long-term fiscal commitments.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 590.24
+    },
+    {
+      "stable_guid": "acc87728-2f2b-512c-a4eb-f5c0e041b296",
+      "show": "advanced-civic-planning",
+      "episode": 35,
+      "title": "Enterprise Funds, Partnerships, and Reserves",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.mp3",
+        "bytes": 7025579,
+        "sha256": "9f0cc1e40f44ce00d4be05f194ab04f809a03aaa357cf3d128099f06206eb672"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep35.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.provenance.json"
+      },
+      "summary": "Evaluates restricted funds, partnerships, reserves, and risk allocation in municipal finance.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 610.36
+    },
+    {
+      "stable_guid": "1d9fdc34-5943-5d33-82e4-8600b5c4c981",
+      "show": "advanced-civic-planning",
+      "episode": 36,
+      "title": "Capstone: Evaluate a Torrance Project",
+      "release_version": "2026.1",
+      "release_tag": "advanced-civic-planning-v2026.1",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.mp3",
+        "bytes": 7524862,
+        "sha256": "a015957fa446bf5385043af02d8686366c7a27ffc80d3486b9ddf1ab853d6e83"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep36.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.provenance.json"
+      },
+      "summary": "Combines legal, planning, transportation, housing, and fiscal tests in a documented project review.",
+      "publication_date": "2026-10-07T12:00:00Z",
+      "duration_seconds": 656.22
+    }
+  ]
+}

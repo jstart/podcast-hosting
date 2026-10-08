@@ -1,0 +1,509 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.843
+Imagine a Torrance hearing where two maps appear to disagree.
+
+2
+00:00:03.843 --> 00:00:06.238
+One colors a tract as highly burdened.
+
+3
+00:00:06.238 --> 00:00:09.388
+Another shows a corridor as relatively advantaged.
+
+4
+00:00:09.388 --> 00:00:18.335
+A speaker cites a percentage from the American Community Survey, but the number came from a different five-year release than the staff report.
+
+5
+00:00:18.335 --> 00:00:22.052
+A map looks authoritative because its boundaries are crisp.
+
+6
+00:00:22.052 --> 00:00:30.306
+Good planning begins by asking what the map measures, when it was measured, how uncertain it is, and what disappears at that scale.
+
+7
+00:00:30.306 --> 00:00:36.252
+This episode is preparation, not legal, statistical, or survey advice for a specific decision.
+
+8
+00:00:36.252 --> 00:00:40.744
+Datasets, geographic boundaries, web tools, and legal standards change.
+
+9
+00:00:40.744 --> 00:00:49.601
+Use current metadata, official releases, local verification, the complete administrative record, and advice from the Torrance city attorney.
+
+10
+00:00:49.601 --> 00:00:52.068
+Read every map from the outside inward.
+
+11
+00:00:52.068 --> 00:00:53.902
+Start with title and purpose.
+
+12
+00:00:53.902 --> 00:00:57.951
+Then read the source, date, geography, legend, units, and notes.
+
+13
+00:00:57.951 --> 00:01:04.657
+Identify whether the values are counts, percentages, rates, percentiles, modeled estimates, or categories.
+
+14
+00:01:04.657 --> 00:01:06.492
+Only then inspect the colors.
+
+15
+00:01:06.492 --> 00:01:08.073
+A count answers how many.
+
+16
+00:01:08.073 --> 00:01:11.679
+A percentage answers what share of a defined denominator.
+
+17
+00:01:11.679 --> 00:01:15.791
+A rate usually normalizes by population, time, area, or exposure.
+
+18
+00:01:15.791 --> 00:01:19.903
+A percentile ranks one place against others in the reference set.
+
+19
+00:01:19.903 --> 00:01:24.079
+A modeled value estimates a condition from assumptions and inputs.
+
+20
+00:01:24.079 --> 00:01:25.976
+These are not interchangeable.
+
+21
+00:01:25.976 --> 00:01:29.076
+Color choices can exaggerate or hide differences.
+
+22
+00:01:29.076 --> 00:01:35.213
+A classification method may use equal intervals, quantiles, natural breaks, or policy thresholds.
+
+23
+00:01:35.213 --> 00:01:39.578
+The same data can produce different visual stories under each method.
+
+24
+00:01:39.578 --> 00:01:41.159
+Ask for the break values.
+
+25
+00:01:41.159 --> 00:01:48.751
+If two places on opposite sides of a break have nearly identical values, do not narrate them as fundamentally different.
+
+26
+00:01:48.751 --> 00:01:50.707
+Geography creates another trap.
+
+27
+00:01:50.707 --> 00:02:01.182
+Census tracts, block groups, blocks, ZIP Code Tabulation Areas, council districts, neighborhoods, parcels, and transportation analysis zones serve different purposes.
+
+28
+00:02:01.182 --> 00:02:05.095
+Aggregating points into larger areas can hide local variation.
+
+29
+00:02:05.095 --> 00:02:09.197
+Changing boundaries or scale can change an apparent relationship.
+
+30
+00:02:09.197 --> 00:02:12.920
+This is sometimes called the modifiable areal unit problem.
+
+31
+00:02:12.920 --> 00:02:14.750
+Avoid the ecological fallacy.
+
+32
+00:02:14.750 --> 00:02:20.871
+If a tract has a high share of renters, that does not mean every person in the tract is a renter.
+
+33
+00:02:20.871 --> 00:02:25.982
+Area-level data describes an area, not the identity or behavior of each resident.
+
+34
+00:02:25.982 --> 00:02:31.977
+Do not infer an individual's income, race, travel pattern, or vulnerability from a map polygon.
+
+35
+00:02:31.977 --> 00:02:40.054
+The decennial census aims to count the population and provides core demographic and housing information at detailed geographies.
+
+36
+00:02:40.054 --> 00:02:47.501
+The American Community Survey, or ACS, provides a broader set of social, economic, housing, and demographic estimates.
+
+37
+00:02:47.501 --> 00:02:52.360
+One-year ACS products cover larger populations with more current information.
+
+38
+00:02:52.360 --> 00:02:59.553
+Five-year products combine more survey responses and reach smaller geographies, but represent a multi-year period.
+
+39
+00:02:59.553 --> 00:03:01.320
+An ACS value is an estimate.
+
+40
+00:03:01.320 --> 00:03:02.898
+Read its margin of error.
+
+41
+00:03:02.898 --> 00:03:08.136
+A difference between two estimates may not be meaningful when uncertainty is large.
+
+42
+00:03:08.136 --> 00:03:11.733
+For a percentage, inspect both numerator and denominator.
+
+43
+00:03:11.733 --> 00:03:14.572
+Small denominators can create unstable rates.
+
+44
+00:03:14.572 --> 00:03:24.858
+When comparing releases, use compatible tables, geographies, inflation treatment where relevant, and nonoverlapping periods when trend claims require independence.
+
+45
+00:03:24.858 --> 00:03:27.761
+Do not say the ACS interviewed every resident.
+
+46
+00:03:27.761 --> 00:03:31.863
+Do not call a five-year estimate a measurement of the final year.
+
+47
+00:03:31.863 --> 00:03:38.426
+Do not compare a city one-year estimate with a tract five-year estimate without explaining the mismatch.
+
+48
+00:03:38.426 --> 00:03:44.673
+Use the Census Bureau's table identifiers and metadata so another analyst can reproduce the result.
+
+49
+00:03:44.673 --> 00:03:48.830
+SCAG's public Toolbox Tuesday sessions support this data literacy.
+
+50
+00:03:48.830 --> 00:03:57.713
+Its August 2025 session, Working With Census Data in R: Analyzing and Visualizing Trends, demonstrated reproducible access and visualization.
+
+51
+00:03:57.713 --> 00:04:04.957
+Its May 2026 session on economic statistics explained major Census Bureau business datasets and newer access tools.
+
+52
+00:04:04.957 --> 00:04:09.115
+Earlier SCAG sessions covered GIS modeling and regional analytics.
+
+53
+00:04:09.115 --> 00:04:14.280
+The important habit is preserving a chain from source to transformation to visual.
+
+54
+00:04:14.280 --> 00:04:21.777
+For every number, record the dataset, table or field, vintage, universe, geography, retrieval date, and transformation.
+
+55
+00:04:21.777 --> 00:04:25.305
+The universe is the population eligible for the measure.
+
+56
+00:04:25.305 --> 00:04:28.895
+A table about workers is not a table about all residents.
+
+57
+00:04:28.895 --> 00:04:34.880
+A poverty measure may exclude or treat some populations differently under the table definition.
+
+58
+00:04:34.880 --> 00:04:36.077
+Now add Greenprint.
+
+59
+00:04:36.077 --> 00:04:48.676
+SCAG describes the SoCal Greenprint as an optional, flexible conservation-focused web-mapping tool for land-use and transportation decisions, conservation investment, funding, and mitigation planning.
+
+60
+00:04:48.676 --> 00:05:02.913
+Its public thematic layers include agriculture and working lands, habitat and biodiversity, water resources, built environment, environmental justice and inclusion, climate vulnerability and resilience, and geographic context.
+
+61
+00:05:02.913 --> 00:05:06.692
+Greenprint can bring multiple regional layers into one view.
+
+62
+00:05:06.692 --> 00:05:12.047
+It can help a planner identify overlap, generate questions, and compare alternatives.
+
+63
+00:05:12.047 --> 00:05:13.937
+It does not make the decision.
+
+64
+00:05:13.937 --> 00:05:19.669
+A layer may have a different date, resolution, extent, or method from the layer beneath it.
+
+65
+00:05:19.669 --> 00:05:28.426
+Overlap does not prove causation, ownership, legal jurisdiction, habitat condition on a parcel, or the presence of a regulatory constraint.
+
+66
+00:05:28.426 --> 00:05:33.402
+SCAG's September 2026 public Toolbox Tuesday demonstrated the SoCal Greenprint.
+
+67
+00:05:33.402 --> 00:05:37.497
+Use the tool according to current access terms and documentation.
+
+68
+00:05:37.497 --> 00:05:41.466
+Cite the original layer when possible, not only the web viewer.
+
+69
+00:05:41.466 --> 00:05:46.505
+If data is licensed, restricted, or proprietary, do not copy or redistribute it.
+
+70
+00:05:46.505 --> 00:05:54.002
+The assignment in this course uses only public metadata, public outputs permitted by the source, and original analysis.
+
+71
+00:05:54.002 --> 00:06:02.053
+For practical application, build a map-reading card for one public Torrance planning question, such as heat and transit access.
+
+72
+00:06:02.053 --> 00:06:06.427
+Select one Census or ACS variable and one public environmental layer.
+
+73
+00:06:06.427 --> 00:06:09.661
+Write the decision question before opening the map.
+
+74
+00:06:09.661 --> 00:06:12.323
+Record the source details for both layers.
+
+75
+00:06:12.323 --> 00:06:13.908
+Then complete six checks.
+
+76
+00:06:13.908 --> 00:06:17.839
+Check one is meaning: what exactly does each variable measure?
+
+77
+00:06:17.839 --> 00:06:20.945
+Check two is time: what period does it represent?
+
+78
+00:06:20.945 --> 00:06:24.686
+Check three is scale: what geography or resolution is used?
+
+79
+00:06:24.686 --> 00:06:30.455
+Check four is uncertainty: what margin of error, model limitation, or missing data applies?
+
+80
+00:06:30.455 --> 00:06:34.702
+Check five is comparability: can the layers reasonably be combined?
+
+81
+00:06:34.702 --> 00:06:39.901
+Check six is ground truth: what field observation or community evidence is needed?
+
+82
+00:06:39.901 --> 00:06:44.339
+Create two visual versions using different reasonable classifications.
+
+83
+00:06:44.339 --> 00:06:46.304
+Describe how the story changes.
+
+84
+00:06:46.304 --> 00:06:50.425
+Do not choose the version that best supports a preferred outcome.
+
+85
+00:06:50.425 --> 00:06:56.765
+Choose the version that answers the decision question most honestly, and show the underlying values.
+
+86
+00:06:56.765 --> 00:06:58.096
+Add a privacy screen.
+
+87
+00:06:58.096 --> 00:07:04.055
+Never publish a map that can identify a vulnerable person or household from sensitive records.
+
+88
+00:07:04.055 --> 00:07:06.211
+Aggregate or suppress when needed.
+
+89
+00:07:06.211 --> 00:07:10.522
+Public availability does not automatically make every reuse ethical.
+
+90
+00:07:10.522 --> 00:07:12.170
+Add a reproducibility log.
+
+91
+00:07:12.170 --> 00:07:18.320
+Save the query or table identifiers, filters, calculations, software version, and retrieval date.
+
+92
+00:07:18.320 --> 00:07:22.187
+Give the output a plain-language title and a limitations box.
+
+93
+00:07:22.187 --> 00:07:26.688
+If you cannot reproduce the number, it is not ready to carry a finding.
+
+94
+00:07:26.688 --> 00:07:31.062
+Commissioners should ask simple questions that expose complex errors.
+
+95
+00:07:31.062 --> 00:07:32.584
+What is the denominator?
+
+96
+00:07:32.584 --> 00:07:33.725
+What year is this?
+
+97
+00:07:33.725 --> 00:07:36.578
+What does the darkest color mean numerically?
+
+98
+00:07:36.578 --> 00:07:39.494
+Is the difference larger than the uncertainty?
+
+99
+00:07:39.494 --> 00:07:43.425
+Are we describing an area or assuming facts about individuals?
+
+100
+00:07:43.425 --> 00:07:45.644
+What would we see at another scale?
+
+101
+00:07:45.644 --> 00:07:46.595
+Details change.
+
+102
+00:07:46.595 --> 00:07:50.081
+A web map can update without a printed packet changing.
+
+103
+00:07:50.081 --> 00:07:55.660
+Current metadata, source documentation, governing law, and city-attorney advice control.
+
+104
+00:07:55.660 --> 00:07:57.374
+Now three recall questions.
+
+105
+00:07:57.374 --> 00:07:58.199
+Question one.
+
+106
+00:07:58.199 --> 00:08:01.499
+What should you read before interpreting map colors?
+
+107
+00:08:01.499 --> 00:08:01.943
+Answer.
+
+108
+00:08:01.943 --> 00:08:07.846
+The title, purpose, source, date, geography, legend, units, notes, and classification breaks.
+
+109
+00:08:07.846 --> 00:08:08.671
+Question two.
+
+110
+00:08:08.671 --> 00:08:11.844
+Why does an ACS estimate need its margin of error?
+
+111
+00:08:11.844 --> 00:08:12.288
+Answer.
+
+112
+00:08:12.288 --> 00:08:14.510
+The ACS is a sample-based estimate.
+
+113
+00:08:14.510 --> 00:08:21.999
+The margin helps show uncertainty and whether apparent differences may be too small to support a confident conclusion.
+
+114
+00:08:21.999 --> 00:08:22.951
+Question three.
+
+115
+00:08:22.951 --> 00:08:25.934
+What can Greenprint do, and what can it not do?
+
+116
+00:08:25.934 --> 00:08:26.378
+Answer.
+
+117
+00:08:26.378 --> 00:08:32.407
+It can organize public regional layers, reveal overlap, and support questions and alternatives.
+
+118
+00:08:32.407 --> 00:08:39.135
+It cannot by itself prove causation, parcel conditions, regulatory status, or the correct policy decision.
+
+119
+00:08:39.135 --> 00:08:45.608
+Your learner artifact is the map-reading card, two classified map versions, and a reproducibility log.
+
+120
+00:08:45.608 --> 00:08:48.528
+Use only public data you are permitted to use.
+
+121
+00:08:48.528 --> 00:08:56.334
+Include source, vintage, universe, geography, uncertainty, retrieval date, transformation, privacy review, and limitations.
+
+122
+00:08:56.334 --> 00:09:10.918
+This lesson draws from SCAG's public Toolbox Tuesday materials from 2023 through 2026 on GIS modeling, Census and ACS analysis, economic statistics, environmental-justice tools, and the September 2026 SoCal Greenprint demonstration.
+
+123
+00:09:10.918 --> 00:09:12.427
+It also uses public U.S.
+
+124
+00:09:12.427 --> 00:09:21.416
+Census Bureau guidance on the decennial census, ACS estimates, geographies, and margins of error, plus SCAG's public description of Greenprint.
+
+125
+00:09:21.416 --> 00:09:23.050
+The narration is original.
+
+126
+00:09:23.050 --> 00:09:27.828
+No slide, map, recording, source prose, or proprietary data has been copied.
+
+127
+00:09:27.828 --> 00:09:35.120
+Confirm current metadata, access terms, source documentation, legal requirements, and Torrance city-attorney advice.

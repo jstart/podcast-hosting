@@ -1,0 +1,24 @@
+{
+  "guid": "b1a7a003-e35e-5be9-a14d-e3061ca7e37f",
+  "publication_date": "2026-10-07T12:00:00Z",
+  "season": 1,
+  "episode": 2,
+  "explicit": false,
+  "duration_seconds": 642.7,
+  "enclosure_bytes": 7350127,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep02.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "ea4141b6e39246cbc5ac566ca6043f6e588dd313a5f0229265725fc01e53bc09",
+    "audio_sha256": "f4031d251f4db81bc4c2d732e15f3cce2804c77af44a544e15f5170f5aaa70cd"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.provenance.json",
+  "release_tag": "public-policy-prep-v2026.1",
+  "release_version": "2026.1"
+}

@@ -1,0 +1,22 @@
+{
+  "stable_guid": "e0804a5a-3faf-516f-be22-a6160a22b8e9",
+  "show": "advanced-civic-planning",
+  "episode": 34,
+  "title": "Municipal Debt and Long-Term Commitments",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.mp3",
+    "bytes": 6851965,
+    "sha256": "53668dcab7b7397cb599b72a71b372f5c021fd09e2de7138db460ccb12599b46"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep34.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.provenance.json"
+  }
+}

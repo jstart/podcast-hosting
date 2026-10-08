@@ -1,0 +1,22 @@
+{
+  "stable_guid": "a9d90020-2f2c-5da0-998c-75193a8faa2a",
+  "show": "advanced-civic-planning",
+  "episode": 18,
+  "title": "Infill, Transit, and Resilient Growth",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.mp3",
+    "bytes": 7753126,
+    "sha256": "2d1468bf1378a1cce8c89fb69a99d387e1c4d057b64528ee89c16b6a4fd654a0"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep18.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.provenance.json"
+  }
+}

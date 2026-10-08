@@ -1,0 +1,32 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Commissioners Academy Session Materials",
+      "author": "League of California Cities",
+      "publisher": "League of California Cities",
+      "url": "https://www.calcities.org/planning-commissioners-academy-session-materials",
+      "license": "Copyrighted public materials; original summary and attribution only"
+    },
+    {
+      "title": "California Housing Law Resources",
+      "author": "Association of Bay Area Governments",
+      "publisher": "Metropolitan Transportation Commission and Association of Bay Area Governments",
+      "url": "https://abag.ca.gov/technical-assistance/housing",
+      "license": "No broad open license identified; current public guidance must be verified"
+    },
+    {
+      "title": "California Legislative Information",
+      "author": "California Legislature",
+      "publisher": "State of California",
+      "url": "https://leginfo.legislature.ca.gov/",
+      "license": "Official legal source; verify current law and effective dates"
+    }
+  ]
+}

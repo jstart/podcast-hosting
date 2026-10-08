@@ -1,0 +1,22 @@
+{
+  "stable_guid": "08d2ebb4-c177-5f3c-8185-17ca984df2c7",
+  "show": "advanced-civic-planning",
+  "episode": 19,
+  "title": "The Housing Element as an Implementation Contract",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.mp3",
+    "bytes": 6233968,
+    "sha256": "da395280c3061ec1b4de17118ad29449c109424430dd9c94fad6f88eea1192e3"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep19.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep19_The_Housing_Element_as_an_Implementation_Contract.provenance.json"
+  }
+}

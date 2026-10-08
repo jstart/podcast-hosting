@@ -1,0 +1,22 @@
+{
+  "stable_guid": "b16362fc-363f-57a5-abad-26ed2710d4f3",
+  "show": "public-policy-prep",
+  "episode": 7,
+  "title": "Money, Fiscal Policy, and Economic Tradeoffs",
+  "release_version": "2026.1",
+  "release_tag": "public-policy-prep-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.mp3",
+    "bytes": 6991031,
+    "sha256": "7f40d2b7936d7674ef1f9bccf2922c76caa3126952e0dd304c6ee81f309cbe05"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep07.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.provenance.json"
+  }
+}

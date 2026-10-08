@@ -1,0 +1,34 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Foundations of Local Government Finance in the United States",
+      "author": "Lincoln Institute of Land Policy",
+      "publisher": "Lincoln Institute of Land Policy",
+      "url": "https://www.lincolninst.edu/courses-events/courses/foundations-local-government-finance-in-united-states/",
+      "license": "Copyrighted public course outline; original summary and attribution only"
+    },
+    {
+      "title": "Municipal Finances: A Handbook for Local Governments",
+      "author": "Catherine Farvacque-Vitkovic and Mihaly Kopanyi, editors",
+      "cover_author": "Farvacque-Vitkovic and Kopanyi",
+      "publisher": "World Bank",
+      "url": "https://openknowledge.worldbank.org/entities/publication/baee6e22-9826-59ea-b070-e3d6ad5a5599",
+      "license": "CC BY 3.0 IGO"
+    },
+    {
+      "title": "Toolbox Tuesday Training Archive",
+      "author": "Southern California Association of Governments",
+      "cover_author": "SCAG",
+      "publisher": "Southern California Association of Governments",
+      "url": "https://scag.ca.gov/toolbox-tuesday",
+      "license": "No broad open license identified; original summary and attribution only"
+    }
+  ]
+}

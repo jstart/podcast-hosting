@@ -1,0 +1,22 @@
+{
+  "stable_guid": "eedcedc9-a18c-5354-9c28-a128ade17d50",
+  "show": "advanced-civic-planning",
+  "episode": 29,
+  "title": "Revenues and California's Fiscal Constitution",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.mp3",
+    "bytes": 6658588,
+    "sha256": "c48a4eef5c1df49f972eb5e3d1fa35cb6390b7fc2740697edeb4ae32e22283da"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep29.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep29_Revenues_and_California_s_Fiscal_Constitution.provenance.json"
+  }
+}

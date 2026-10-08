@@ -1,0 +1,22 @@
+{
+  "stable_guid": "acc87728-2f2b-512c-a4eb-f5c0e041b296",
+  "show": "advanced-civic-planning",
+  "episode": 35,
+  "title": "Enterprise Funds, Partnerships, and Reserves",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.mp3",
+    "bytes": 7025579,
+    "sha256": "9f0cc1e40f44ce00d4be05f194ab04f809a03aaa357cf3d128099f06206eb672"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep35.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.provenance.json"
+  }
+}

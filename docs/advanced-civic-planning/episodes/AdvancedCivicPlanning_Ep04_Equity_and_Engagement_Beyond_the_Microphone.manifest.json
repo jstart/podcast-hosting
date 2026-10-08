@@ -1,0 +1,22 @@
+{
+  "stable_guid": "8dd2a557-9619-516a-bd2c-ca34e14376ed",
+  "show": "advanced-civic-planning",
+  "episode": 4,
+  "title": "Equity and Engagement Beyond the Microphone",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.mp3",
+    "bytes": 6427301,
+    "sha256": "defea304de7e9c4a1f2548e89ab27d6630f537b9cf29d91b237184c7a52b8a18"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep04.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.provenance.json"
+  }
+}

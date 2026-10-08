@@ -1,0 +1,22 @@
+{
+  "stable_guid": "787d636d-7576-5eac-b4f4-7923632d31f1",
+  "show": "advanced-civic-planning",
+  "episode": 27,
+  "title": "Reading Maps, Census Data, and Greenprint",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.mp3",
+    "bytes": 6620667,
+    "sha256": "fb16a0bc99fa649b423be7490120c6535843b9598792e476752da72837541714"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep27.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.provenance.json"
+  }
+}

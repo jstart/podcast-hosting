@@ -1,0 +1,24 @@
+{
+  "guid": "f6f93612-4590-502c-af6c-7970faa8b448",
+  "publication_date": "2026-10-07T12:00:00Z",
+  "season": 1,
+  "episode": 17,
+  "explicit": false,
+  "duration_seconds": 634.16,
+  "enclosure_bytes": 7264084,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep17_Streets_Are_Public_Places.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep17_Streets_Are_Public_Places.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep17_Streets_Are_Public_Places.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep17.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep17_Streets_Are_Public_Places.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "f5d091e1f8908d3661b208bcb124e6afb91f9b201d35f303624941c076230d87",
+    "audio_sha256": "da8508fee88b15a56bb736d14633b6a73b725be1c57a9f7eb04faa0f60945baf"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep17_Streets_Are_Public_Places.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep17_Streets_Are_Public_Places.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep17_Streets_Are_Public_Places.provenance.json",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.1"
+}

@@ -1,0 +1,22 @@
+{
+  "stable_guid": "023a20cf-68f7-5505-9ba3-cdbb3095a268",
+  "show": "planning-commission-prep",
+  "episode": 4,
+  "title": "How to Read a Project",
+  "release_version": "2026.1",
+  "release_tag": "planning-commission-prep-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep04_How_to_Read_a_Project.mp3",
+    "bytes": 2241715,
+    "sha256": "9cec8c22d0a29609c7854809285ef210264682bfeca9cbefc8e06cce2b914778"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep04.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.provenance.json"
+  }
+}

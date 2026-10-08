@@ -1,0 +1,37 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "A California county reports a backlog of one..."
+    },
+    {
+      "startTime": 15.589,
+      "title": "This is study preparation only"
+    },
+    {
+      "startTime": 27.047,
+      "title": "A function is not just a formula"
+    },
+    {
+      "startTime": 140.89,
+      "title": "Polynomial functions combine powers of a variable with..."
+    },
+    {
+      "startTime": 281.624,
+      "title": "Exponential functions model constant percentage change"
+    },
+    {
+      "startTime": 422.979,
+      "title": "Three questions"
+    },
+    {
+      "startTime": 435.528,
+      "title": "First answer: constant differences suggest linear change, while..."
+    },
+    {
+      "startTime": 460.802,
+      "title": "Artifact: complete a mixed review of at least..."
+    }
+  ]
+}

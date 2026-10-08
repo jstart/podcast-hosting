@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Introductory Statistics 2e",
+      "author": "OpenStax",
+      "publisher": "OpenStax, Rice University",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/1-introduction",
+      "license": "CC BY-NC-SA 4.0"
+    },
+    {
+      "title": "Khan Academy",
+      "author": "Khan Academy",
+      "publisher": "Khan Academy",
+      "url": "https://www.khanacademy.org/",
+      "license": "Copyrighted public lessons; original summary and attribution only"
+    }
+  ]
+}

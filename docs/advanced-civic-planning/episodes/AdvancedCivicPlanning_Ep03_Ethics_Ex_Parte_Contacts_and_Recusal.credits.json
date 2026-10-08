@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Officials Training Program",
+      "author": "American Planning Association",
+      "publisher": "American Planning Association",
+      "url": "https://www.planning.org/officials/training/",
+      "license": "Copyrighted source; original summary and attribution only"
+    },
+    {
+      "title": "Planning Commissioner Training",
+      "author": "Institute for Local Government",
+      "publisher": "Institute for Local Government",
+      "url": "https://www.ca-ilg.org/post/planning-commissioner-training",
+      "license": "Copyrighted source; original summary and attribution only"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stable_guid": "ba5b81bb-a601-59d7-b835-0279eef0bc84",
+  "show": "advanced-civic-planning",
+  "episode": 25,
+  "title": "Projects, Safety, and Reliable Transit",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.mp3",
+    "bytes": 6521908,
+    "sha256": "80511b845106cff27d241b0cadf17bf4ed834e8c6965f5f8fbc4a2b45484d140"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep25.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.provenance.json"
+  }
+}

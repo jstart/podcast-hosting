@@ -1,0 +1,34 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Community Growth and Land Use Planning",
+      "author": "MIT OpenCourseWare",
+      "publisher": "Massachusetts Institute of Technology",
+      "url": "https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2005/",
+      "license": "CC BY-NC-SA 4.0 for applicable MIT OpenCourseWare material"
+    },
+    {
+      "title": "General Plan Guidelines and Technical Advisories",
+      "author": "Governor's Office of Land Use and Climate Innovation",
+      "cover_author": "California LCI",
+      "publisher": "State of California",
+      "url": "https://www.lci.ca.gov/planning/general-plan/guidelines/",
+      "license": "No broad open license identified; original summary and attribution only"
+    },
+    {
+      "title": "Toolbox Tuesday Training Archive",
+      "author": "Southern California Association of Governments",
+      "cover_author": "SCAG",
+      "publisher": "Southern California Association of Governments",
+      "url": "https://scag.ca.gov/toolbox-tuesday",
+      "license": "No broad open license identified; original summary and attribution only"
+    }
+  ]
+}

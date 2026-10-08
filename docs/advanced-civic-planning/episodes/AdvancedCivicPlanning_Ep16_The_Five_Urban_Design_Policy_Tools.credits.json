@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Urban Design Policy and Action",
+      "author": "MIT OpenCourseWare",
+      "publisher": "Massachusetts Institute of Technology",
+      "url": "https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2009/",
+      "license": "CC BY-NC-SA 4.0 for applicable MIT OpenCourseWare material"
+    },
+    {
+      "title": "Community Growth and Land Use Planning",
+      "author": "MIT OpenCourseWare",
+      "publisher": "Massachusetts Institute of Technology",
+      "url": "https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2005/",
+      "license": "CC BY-NC-SA 4.0 for applicable MIT OpenCourseWare material"
+    }
+  ]
+}

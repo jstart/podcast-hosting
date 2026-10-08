@@ -1,0 +1,24 @@
+{
+  "guid": "8b6bb4b3-5841-5751-a6b5-7eac705ca6b1",
+  "publication_date": "2026-10-07T12:00:00Z",
+  "season": 1,
+  "episode": 20,
+  "explicit": false,
+  "duration_seconds": 570.16,
+  "enclosure_bytes": 6557889,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep20.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "682087b0174f07f1b8d17627d940b69a592b9700ee3356d81f328927aa17e720",
+    "audio_sha256": "2a37a7680e4f8eba12cc23fd625fe4c4fbc9a796b0f967f95d1781ad9324c5a5"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.provenance.json",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.1"
+}

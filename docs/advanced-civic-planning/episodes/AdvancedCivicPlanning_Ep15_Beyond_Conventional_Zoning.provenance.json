@@ -1,0 +1,65 @@
+{
+  "stable_id": "6ff29fe0-adbc-552d-a5e1-f2b601241642",
+  "versions": [
+    {
+      "production_version": "2026.1",
+      "tts_model": {
+        "repo": "ResembleAI/chatterbox-turbo",
+        "revision": "749d1c1a46eb10492095d68fbcf55691ccf137cd"
+      },
+      "asr_model": {
+        "repo": "Systran/faster-whisper-small.en",
+        "revision": "d1d751a5f8271d482d14ca55d9e2deeebbae577f"
+      },
+      "source_retrieval_date": "2026-10-07",
+      "transcript_sha256": "f4d3c4ad23d9fa814e86b7799ab6f9856f748c0a73b11910ffe937cd4298cb25",
+      "audio_sha256": "05b260ef930ec73e96f97bed3c39a076bb49ae08753d6f5b71d3eea6e372d116",
+      "supersedes": null
+    },
+    {
+      "production_version": "2026.1",
+      "tts_model": {
+        "repo": "ResembleAI/chatterbox-turbo",
+        "revision": "749d1c1a46eb10492095d68fbcf55691ccf137cd"
+      },
+      "asr_model": {
+        "repo": "Systran/faster-whisper-small.en",
+        "revision": "d1d751a5f8271d482d14ca55d9e2deeebbae577f"
+      },
+      "source_retrieval_date": "2026-10-07",
+      "transcript_sha256": "f4d3c4ad23d9fa814e86b7799ab6f9856f748c0a73b11910ffe937cd4298cb25",
+      "audio_sha256": "7caaed1c5aec7ca79b999bcb86a4807a0adc4620af754fae447724ea8dae98d4",
+      "supersedes": null
+    },
+    {
+      "production_version": "2026.1",
+      "tts_model": {
+        "repo": "ResembleAI/chatterbox-turbo",
+        "revision": "749d1c1a46eb10492095d68fbcf55691ccf137cd"
+      },
+      "asr_model": {
+        "repo": "Systran/faster-whisper-small.en",
+        "revision": "d1d751a5f8271d482d14ca55d9e2deeebbae577f"
+      },
+      "source_retrieval_date": "2026-10-07",
+      "transcript_sha256": "f4d3c4ad23d9fa814e86b7799ab6f9856f748c0a73b11910ffe937cd4298cb25",
+      "audio_sha256": "4e633069658307cf4ceb1da588a5371088807f27f4001a203ee96aa370c50722",
+      "supersedes": null
+    },
+    {
+      "production_version": "2026.1",
+      "tts_model": {
+        "repo": "ResembleAI/chatterbox-turbo",
+        "revision": "749d1c1a46eb10492095d68fbcf55691ccf137cd"
+      },
+      "asr_model": {
+        "repo": "Systran/faster-whisper-small.en",
+        "revision": "d1d751a5f8271d482d14ca55d9e2deeebbae577f"
+      },
+      "source_retrieval_date": "2026-10-07",
+      "transcript_sha256": "f4d3c4ad23d9fa814e86b7799ab6f9856f748c0a73b11910ffe937cd4298cb25",
+      "audio_sha256": "d0bcb674a20f546aeddab9b1ff740ec68a4f891bf4533b3ad1ea019aff576947",
+      "supersedes": null
+    }
+  ]
+}

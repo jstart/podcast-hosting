@@ -1,0 +1,22 @@
+{
+  "stable_guid": "968c6274-965e-55d1-bca2-e2f9f73512a2",
+  "show": "public-policy-prep",
+  "episode": 6,
+  "title": "Macroeconomics: Reading the Wider Economy",
+  "release_version": "2026.1",
+  "release_tag": "public-policy-prep-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.mp3",
+    "bytes": 6757949,
+    "sha256": "b368d60adf84d50ea9d9da6e6ffe5de58fef02d6077cedec37fa67b1f0101a24"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep06.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.provenance.json"
+  }
+}

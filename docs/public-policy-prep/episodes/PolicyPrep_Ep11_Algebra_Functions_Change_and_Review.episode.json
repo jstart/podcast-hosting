@@ -1,0 +1,24 @@
+{
+  "guid": "cc8a831d-ce41-599a-9b9c-0666ed3bc708",
+  "publication_date": "2026-10-07T12:00:00Z",
+  "season": 1,
+  "episode": 11,
+  "explicit": false,
+  "duration_seconds": 605.22,
+  "enclosure_bytes": 6867724,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep11.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "84ae7b344610361e1257e53a7fad911e5eb0345b7a07027b30eab20873731c87",
+    "audio_sha256": "305f9be4b4e81e91d98f183183f88b3cc2e8d8ef3f21e4716e70385dd51932f8"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.provenance.json",
+  "release_tag": "public-policy-prep-v2026.1",
+  "release_version": "2026.1"
+}

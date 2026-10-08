@@ -1,0 +1,24 @@
+{
+  "guid": "7f9e2a53-c323-506d-9d00-7e3bec37da4a",
+  "publication_date": "2026-10-07T12:00:00Z",
+  "season": 1,
+  "episode": 7,
+  "explicit": false,
+  "duration_seconds": 599.62,
+  "enclosure_bytes": 6928054,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep07.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "1fe06138305450912bb3ec24549b392a34081f489c8734d8fb21ee084cf65277",
+    "audio_sha256": "68b763cd59227080a06c6c9d5d19b220be3aa65943848a2ac9cf66a149acf90a"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.provenance.json",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.1"
+}

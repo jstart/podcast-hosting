@@ -1,0 +1,22 @@
+{
+  "stable_guid": "955ddf5b-1762-5756-adc2-fab0c604d4f8",
+  "show": "planning-commission-prep",
+  "episode": 1,
+  "title": "The Two Jobs",
+  "release_version": "2026.1",
+  "release_tag": "planning-commission-prep-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep01_The_Two_Jobs.mp3",
+    "bytes": 1977203,
+    "sha256": "8f20344b074a5be9abd535c63fa5e461ee51d20090cd32b2f8e7c6952d9165bd"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep01.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.provenance.json"
+  }
+}

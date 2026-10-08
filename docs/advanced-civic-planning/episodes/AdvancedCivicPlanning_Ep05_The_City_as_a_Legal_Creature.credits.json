@@ -1,0 +1,26 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Frameworks of Urban Governance",
+      "author": "MIT OpenCourseWare",
+      "publisher": "Massachusetts Institute of Technology",
+      "url": "https://ocw.mit.edu/courses/11-957-frameworks-of-urban-governance-january-iap-2007/",
+      "license": "CC BY-NC-SA 4.0 for applicable MIT OpenCourseWare material"
+    },
+    {
+      "title": "General Plan Guidelines and Technical Advisories",
+      "author": "Governor's Office of Land Use and Climate Innovation",
+      "cover_author": "California LCI",
+      "publisher": "State of California",
+      "url": "https://www.lci.ca.gov/planning/general-plan/guidelines/",
+      "license": "No broad open license identified; original summary and attribution only"
+    }
+  ]
+}

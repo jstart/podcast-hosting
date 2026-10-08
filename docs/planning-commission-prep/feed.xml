@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:podhost="https://jstart.github.io/podcast-hosting/namespace/1.0" version="2.0">
+  <channel>
+    <title>Planning the City</title>
+    <link>https://jstart.github.io/podcast-hosting/planning-commission-prep/</link>
+    <description>An eight-episode practical course for reading projects, making findings, navigating CEQA, and acting after the vote.</description>
+    <language>en-us</language>
+    <generator>podcast-hosting/scripts/build_site.py</generator>
+    <itunes:author>Planning the City</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://jstart.github.io/podcast-hosting/planning-commission-prep/cover.jpg" />
+    <image>
+      <url>https://jstart.github.io/podcast-hosting/planning-commission-prep/cover.jpg</url>
+      <title>Planning the City</title>
+      <link>https://jstart.github.io/podcast-hosting/planning-commission-prep/</link>
+    </image>
+    <podcast:locked owner="jstart">yes</podcast:locked>
+    <podcast:guid>47a9c05816dd9c8297ba551521000ec5ecbc86d3513d765baba9139898d05746</podcast:guid>
+    <podcast:person role="host" group="writing">Planning the City</podcast:person>
+    <podcast:license>See per-episode license and credits</podcast:license>
+    <item>
+      <title>After the Vote</title>
+      <description>Covers resolutions, appeals, conditions, implementation, records, and accountability after a decision.</description>
+      <link>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep08_After_the_Vote.html</link>
+      <guid isPermaLink="false">d1d36f8e-7246-5a3f-aa4c-f6963cb34719</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep08_After_the_Vote.mp3" length="2401714" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>200</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep08.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep08_After_the_Vote.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep08_After_the_Vote.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Planning the City</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep08_After_the_Vote.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep08_After_the_Vote.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep08_After_the_Vote.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep08_After_the_Vote.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep08_After_the_Vote.provenance.json</podhost:provenance>
+      <podhost:sha256>98205b32721dd6890d57dde1a69abb2b7daa93cbf015e1613178b32599a3ee01</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Housing Law You Still Use</title>
+      <description>Identifies current housing constraints on local discretion and the need to verify changing statutes.</description>
+      <link>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.html</link>
+      <guid isPermaLink="false">7c3cf56a-c4ca-528f-9644-362be1b112d7</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep07_Housing_Law_You_Still_Use.mp3" length="3279480" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>270</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep07.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Planning the City</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.provenance.json</podhost:provenance>
+      <podhost:sha256>ce5749190cc7eaf8d1ff07dd74248b144463e3c09e0bde70993e71513baba6cd</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>CEQA in the Room</title>
+      <description>Clarifies the commission's role in environmental review, evidence, mitigation, and the public record.</description>
+      <link>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep06_CEQA_in_the_Room.html</link>
+      <guid isPermaLink="false">58a75b2b-e946-527d-8453-c1d16b83009d</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep06_CEQA_in_the_Room.mp3" length="2664716" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>221</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep06.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep06_CEQA_in_the_Room.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep06_CEQA_in_the_Room.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Planning the City</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep06_CEQA_in_the_Room.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep06_CEQA_in_the_Room.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep06_CEQA_in_the_Room.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep06_CEQA_in_the_Room.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep06_CEQA_in_the_Room.provenance.json</podhost:provenance>
+      <podhost:sha256>c1d1732c962149c4b1991d90e049d1b16498e7dbf7f3c9a070710f2760e6b719</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Findings and Conditions</title>
+      <description>Connects required findings to substantial evidence and conditions that can be administered.</description>
+      <link>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.html</link>
+      <guid isPermaLink="false">a66f300f-15c4-532f-acdb-aae348cba9dc</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep05_Findings_and_Conditions.mp3" length="2412596" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>197</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep05.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Planning the City</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.provenance.json</podhost:provenance>
+      <podhost:sha256>0e57ac5bfe290b54d47fc756556ad1fc54c420168835a5d7246ad40a81abc8fb</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>How to Read a Project</title>
+      <description>Provides a repeatable method for reading plans, staff analysis, evidence, and requested entitlements.</description>
+      <link>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.html</link>
+      <guid isPermaLink="false">023a20cf-68f7-5505-9ba3-cdbb3095a268</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep04_How_to_Read_a_Project.mp3" length="2241715" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>185</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep04.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Planning the City</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep04_How_to_Read_a_Project.provenance.json</podhost:provenance>
+      <podhost:sha256>9cec8c22d0a29609c7854809285ef210264682bfeca9cbefc8e06cce2b914778</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Before It Reaches You</title>
+      <description>Follows development review before a public hearing and identifies the commission's decision point.</description>
+      <link>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep03_Before_It_Reaches_You.html</link>
+      <guid isPermaLink="false">dcbff2e8-59a9-51eb-b3b1-2ae2801ada41</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep03_Before_It_Reaches_You.mp3" length="2243922" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>184</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep03.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep03_Before_It_Reaches_You.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep03_Before_It_Reaches_You.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Planning the City</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep03_Before_It_Reaches_You.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep03_Before_It_Reaches_You.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep03_Before_It_Reaches_You.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep03_Before_It_Reaches_You.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep03_Before_It_Reaches_You.provenance.json</podhost:provenance>
+      <podhost:sha256>537c6aa00ee44e7e4d4e709b53d6bf30956a20cfea20dd485ed9996698ebf92c</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>The Stack of Plans</title>
+      <description>Organizes state law, general plans, specific plans, zoning, overlays, and project approvals.</description>
+      <link>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep02_The_Stack_of_Plans.html</link>
+      <guid isPermaLink="false">86d1741a-7c03-528c-a5b5-e24793c8e5df</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep02_The_Stack_of_Plans.mp3" length="2404327" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>199</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep02.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep02_The_Stack_of_Plans.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep02_The_Stack_of_Plans.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Planning the City</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep02_The_Stack_of_Plans.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep02_The_Stack_of_Plans.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep02_The_Stack_of_Plans.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep02_The_Stack_of_Plans.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep02_The_Stack_of_Plans.provenance.json</podhost:provenance>
+      <podhost:sha256>ab51760a5b8af7759c83672fe7b67687fb9f8824b802116f8163ff84304ee211</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>The Two Jobs</title>
+      <description>Distinguishes legislative policy recommendations from quasi-judicial application of adopted standards.</description>
+      <link>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.html</link>
+      <guid isPermaLink="false">955ddf5b-1762-5756-adc2-fab0c604d4f8</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep01_The_Two_Jobs.mp3" length="1977203" type="audio/mpeg" />
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>163</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep01.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Planning the City</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.provenance.json</podhost:provenance>
+      <podhost:sha256>8f20344b074a5be9abd535c63fa5e461ee51d20090cd32b2f8e7c6952d9165bd</podhost:sha256>
+      <podhost:releaseVersion>2026.1</podhost:releaseVersion>
+    </item>
+  </channel>
+</rss>

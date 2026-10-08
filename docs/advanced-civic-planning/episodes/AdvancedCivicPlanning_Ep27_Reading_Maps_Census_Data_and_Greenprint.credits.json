@@ -1,0 +1,19 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Toolbox Tuesday Training Archive",
+      "author": "Southern California Association of Governments",
+      "cover_author": "SCAG",
+      "publisher": "Southern California Association of Governments",
+      "url": "https://scag.ca.gov/toolbox-tuesday",
+      "license": "No broad open license identified; original summary and attribution only"
+    }
+  ]
+}

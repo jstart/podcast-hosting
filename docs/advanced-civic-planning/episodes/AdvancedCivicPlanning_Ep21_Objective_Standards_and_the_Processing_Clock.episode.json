@@ -1,0 +1,24 @@
+{
+  "guid": "fe59ca72-bd62-5ead-a401-0f210867375b",
+  "publication_date": "2026-10-07T12:00:00Z",
+  "season": 1,
+  "episode": 21,
+  "explicit": false,
+  "duration_seconds": 568.76,
+  "enclosure_bytes": 6592571,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep21.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "ea6cefc91a8567e3e61bce87682a5cfc63774059ba7fdaefabf6011cff34265e",
+    "audio_sha256": "80d760949fb226cc63929c275c7b4b2cbd9ac03378b7924253035b623a2b3664"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.provenance.json",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.1"
+}

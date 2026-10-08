@@ -1,0 +1,22 @@
+{
+  "stable_guid": "7c3cf56a-c4ca-528f-9644-362be1b112d7",
+  "show": "planning-commission-prep",
+  "episode": 7,
+  "title": "Housing Law You Still Use",
+  "release_version": "2026.1",
+  "release_tag": "planning-commission-prep-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.1/Planning_Ep07_Housing_Law_You_Still_Use.mp3",
+    "bytes": 3279480,
+    "sha256": "ce5749190cc7eaf8d1ff07dd74248b144463e3c09e0bde70993e71513baba6cd"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep07.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.provenance.json"
+  }
+}

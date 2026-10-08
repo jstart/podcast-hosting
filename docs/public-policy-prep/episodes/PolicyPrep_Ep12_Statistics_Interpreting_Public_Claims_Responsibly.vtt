@@ -1,0 +1,521 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.264
+A California city says average emergency response time fell by fifteen percent after a dispatch change.
+
+2
+00:00:06.264 --> 00:00:15.872
+Is that evidence that the change worked, or could the result reflect which calls were counted, an unusually quiet month, or a new definition of response time?
+
+3
+00:00:15.872 --> 00:00:19.946
+Statistics helps separate the measured claim from the causal story.
+
+4
+00:00:19.946 --> 00:00:21.845
+This is study preparation only.
+
+5
+00:00:21.845 --> 00:00:25.153
+It awards no score, course credit, or transfer credit.
+
+6
+00:00:25.153 --> 00:00:29.013
+The city and numbers in this episode are invented for practice.
+
+7
+00:00:29.013 --> 00:00:30.666
+Start by defining the data.
+
+8
+00:00:30.666 --> 00:00:33.912
+A population is the full group we want to understand.
+
+9
+00:00:33.912 --> 00:00:36.301
+A sample is the part actually observed.
+
+10
+00:00:36.301 --> 00:00:45.365
+If the question concerns all emergency calls in a year but the report analyzes two hundred calls from April, those two hundred calls are the sample.
+
+11
+00:00:45.365 --> 00:00:47.508
+A parameter describes a population.
+
+12
+00:00:47.508 --> 00:00:49.407
+A statistic describes a sample.
+
+13
+00:00:49.407 --> 00:00:53.510
+The true annual mean response time is a parameter, usually unknown.
+
+14
+00:00:53.510 --> 00:00:57.001
+The April sample mean is a statistic used to estimate it.
+
+15
+00:00:57.001 --> 00:01:00.492
+Similar words do not make the quantities interchangeable.
+
+16
+00:01:00.492 --> 00:01:04.411
+A variable records a characteristic for each observational unit.
+
+17
+00:01:04.411 --> 00:01:06.922
+Response time in minutes is quantitative.
+
+18
+00:01:06.922 --> 00:01:10.046
+Call type, such as medical or fire, is categorical.
+
+19
+00:01:10.046 --> 00:01:16.170
+A quantitative variable can be discrete, like the number of calls, or continuous, like elapsed time.
+
+20
+00:01:16.170 --> 00:01:19.416
+Clear units and definitions are part of the variable.
+
+21
+00:01:19.416 --> 00:01:24.071
+"Response time" is incomplete until we know when the clock starts and stops.
+
+22
+00:01:24.071 --> 00:01:27.255
+Sampling method affects what a sample can represent.
+
+23
+00:01:27.255 --> 00:01:33.319
+In a simple random sample, every possible sample of a stated size has an equal chance of selection.
+
+24
+00:01:33.319 --> 00:01:40.484
+A stratified sample divides the population into meaningful groups, such as call type, then samples within each group.
+
+25
+00:01:40.484 --> 00:01:47.282
+A cluster sample randomly selects whole groups, perhaps dispatch zones, then studies calls in the chosen zones.
+
+26
+00:01:47.282 --> 00:01:51.875
+A systematic sample might select every twentieth call after a random start.
+
+27
+00:01:51.875 --> 00:01:55.121
+Convenience samples use cases that are easy to reach.
+
+28
+00:01:55.121 --> 00:01:59.286
+Voluntary response samples attract people who choose to participate.
+
+29
+00:01:59.286 --> 00:02:00.450
+Both can be biased.
+
+30
+00:02:00.450 --> 00:02:10.984
+If a city surveys only residents who completed an online complaint form, it may miss residents without reliable internet access and residents who gave up before completion.
+
+31
+00:02:10.984 --> 00:02:15.516
+An observational study records what happened without assigning treatments.
+
+32
+00:02:15.516 --> 00:02:18.333
+An experiment deliberately assigns conditions.
+
+33
+00:02:18.333 --> 00:02:27.703
+A city that compares response times before and after a software launch has an observational before-and-after comparison unless assignment was controlled.
+
+34
+00:02:27.703 --> 00:02:32.603
+Confounding occurs when another factor changes alongside the factor of interest.
+
+35
+00:02:32.603 --> 00:02:38.421
+Staffing, weather, call severity, and reporting rules can all confound the software comparison.
+
+36
+00:02:38.421 --> 00:02:41.486
+Descriptive statistics organize what was observed.
+
+37
+00:02:41.486 --> 00:02:46.329
+Consider five response times: eight, nine, ten, eleven, and twenty-two minutes.
+
+38
+00:02:46.329 --> 00:02:47.984
+To find the mean, add them.
+
+39
+00:02:47.984 --> 00:02:49.149
+The total is sixty.
+
+40
+00:02:49.149 --> 00:02:50.068
+Divide by five.
+
+41
+00:02:50.068 --> 00:02:51.723
+The mean is twelve minutes.
+
+42
+00:02:51.723 --> 00:02:55.463
+The median is the middle ordered value, which is ten minutes.
+
+43
+00:02:55.463 --> 00:02:59.999
+The unusually long twenty-two-minute call pulls the mean above the median.
+
+44
+00:02:59.999 --> 00:03:02.819
+Quartiles divide ordered data into four parts.
+
+45
+00:03:02.819 --> 00:03:09.746
+The interquartile range describes the spread of the middle half and resists extreme values better than the range.
+
+46
+00:03:09.746 --> 00:03:13.792
+A box plot displays the median, quartiles, and potential outliers.
+
+47
+00:03:13.792 --> 00:03:17.102
+Variance and standard deviation use every observation.
+
+48
+00:03:17.102 --> 00:03:22.926
+Standard deviation describes a typical distance from the mean in the variable's original units.
+
+49
+00:03:22.926 --> 00:03:28.872
+A standard deviation of three minutes says more directly than a variance of nine squared minutes.
+
+50
+00:03:28.872 --> 00:03:34.083
+Two districts can have the same mean response time but different standard deviations.
+
+51
+00:03:34.083 --> 00:03:37.883
+The less consistent district poses a different policy problem.
+
+52
+00:03:37.883 --> 00:03:40.213
+A percentile states relative position.
+
+53
+00:03:40.213 --> 00:03:46.895
+If a response time is at the ninetieth percentile, about ninety percent of observed times are at or below it.
+
+54
+00:03:46.895 --> 00:03:52.044
+That does not mean the response was ninety percent correct or ninety percent faster.
+
+55
+00:03:52.044 --> 00:04:00.320
+For public service, the median describes the middle case, while the ninetieth percentile draws attention to slower cases near the tail.
+
+56
+00:04:00.320 --> 00:04:03.078
+Distributions have shape, center, and spread.
+
+57
+00:04:03.078 --> 00:04:06.266
+A symmetric distribution balances around its center.
+
+58
+00:04:06.266 --> 00:04:14.726
+A right-skewed distribution has a longer tail toward larger values, common when most calls are handled quickly but a few take much longer.
+
+59
+00:04:14.726 --> 00:04:18.772
+In a right-skewed distribution, the mean often exceeds the median.
+
+60
+00:04:18.772 --> 00:04:21.959
+Report both when one number could conceal the shape.
+
+61
+00:04:21.959 --> 00:04:24.044
+Probability describes uncertainty.
+
+62
+00:04:24.044 --> 00:04:26.128
+An outcome is one possible result.
+
+63
+00:04:26.128 --> 00:04:27.968
+An event is a set of outcomes.
+
+64
+00:04:27.968 --> 00:04:30.175
+Probability ranges from zero to one.
+
+65
+00:04:30.175 --> 00:04:33.547
+A probability of zero means impossible under the model.
+
+66
+00:04:33.547 --> 00:04:35.631
+One means certain under the model.
+
+67
+00:04:35.631 --> 00:04:39.064
+Neither statement proves that the model matches reality.
+
+68
+00:04:39.064 --> 00:04:43.172
+Suppose twenty of one hundred sampled calls exceed fifteen minutes.
+
+69
+00:04:43.172 --> 00:04:50.651
+The empirical probability of a sampled call exceeding fifteen minutes is twenty divided by one hundred, or zero point two.
+
+70
+00:04:50.651 --> 00:04:52.062
+That is twenty percent.
+
+71
+00:04:52.062 --> 00:04:57.395
+It estimates a broader rate only if the sample and measurement process are appropriate.
+
+72
+00:04:57.395 --> 00:05:00.951
+The complement of an event means the event does not occur.
+
+73
+00:05:00.951 --> 00:05:12.293
+If the estimated probability of exceeding fifteen minutes is zero point two, the estimated probability of not exceeding fifteen minutes is one minus zero point two, or zero point eight.
+
+74
+00:05:12.293 --> 00:05:16.830
+A probability distribution pairs possible values with their probabilities.
+
+75
+00:05:16.830 --> 00:05:21.367
+For a discrete count, the probabilities must be nonnegative and total one.
+
+76
+00:05:21.367 --> 00:05:26.210
+Expected value is a long-run weighted average, not a promise for the next case.
+
+77
+00:05:26.210 --> 00:05:29.148
+Now examine two quantitative variables together.
+
+78
+00:05:29.148 --> 00:05:32.085
+A scatter plot places one variable on each axis.
+
+79
+00:05:32.085 --> 00:05:35.451
+Look for direction, form, strength, and unusual points.
+
+80
+00:05:35.451 --> 00:05:41.693
+Positive association means larger values of one variable tend to accompany larger values of the other.
+
+81
+00:05:41.693 --> 00:05:46.221
+Negative association means larger values tend to accompany smaller values.
+
+82
+00:05:46.221 --> 00:05:50.689
+Correlation measures the strength and direction of a linear relationship.
+
+83
+00:05:50.689 --> 00:05:53.381
+It ranges from negative one to positive one.
+
+84
+00:05:53.381 --> 00:05:57.604
+Values near positive one indicate strong positive linear association.
+
+85
+00:05:57.604 --> 00:06:01.827
+Values near negative one indicate strong negative linear association.
+
+86
+00:06:01.827 --> 00:06:08.069
+Values near zero indicate little linear association, but a strong curved relationship can still exist.
+
+87
+00:06:08.069 --> 00:06:11.373
+Correlation has no units and is sensitive to outliers.
+
+88
+00:06:11.373 --> 00:06:13.638
+It also does not establish causation.
+
+89
+00:06:13.638 --> 00:06:19.329
+Ice cream sales and heat-related calls may rise together because temperature influences both.
+
+90
+00:06:19.329 --> 00:06:26.795
+Removing one unusual district can change the correlation substantially, so inspect the scatter plot before summarizing it.
+
+91
+00:06:26.795 --> 00:06:33.404
+A least-squares regression line predicts an output from an input by minimizing the sum of squared residuals.
+
+92
+00:06:33.404 --> 00:06:41.115
+Suppose a simple model predicts response time in minutes as eighteen minus one point five times the number of available units.
+
+93
+00:06:41.115 --> 00:06:44.787
+With six units, multiply one point five by six, giving nine.
+
+94
+00:06:44.787 --> 00:06:46.500
+Subtract nine from eighteen.
+
+95
+00:06:46.500 --> 00:06:49.193
+The predicted response time is nine minutes.
+
+96
+00:06:49.193 --> 00:06:53.783
+The slope is negative one point five minutes per additional available unit.
+
+97
+00:06:53.783 --> 00:06:59.474
+The intercept, eighteen minutes at zero available units, may not be operationally meaningful.
+
+98
+00:06:59.474 --> 00:07:04.982
+An intercept can be mathematically necessary without being a sensible real-world scenario.
+
+99
+00:07:04.982 --> 00:07:07.980
+A residual is actual value minus predicted value.
+
+100
+00:07:07.980 --> 00:07:14.712
+If the actual response took eleven minutes and the model predicted nine, the residual is positive two minutes.
+
+101
+00:07:14.712 --> 00:07:18.261
+Positive means the actual value lies above the prediction.
+
+102
+00:07:18.261 --> 00:07:22.729
+A curved residual pattern signals that the linear model misses structure.
+
+103
+00:07:22.729 --> 00:07:26.401
+Prediction within the observed input range is interpolation.
+
+104
+00:07:26.401 --> 00:07:30.807
+Prediction far beyond that range is extrapolation and carries more risk.
+
+105
+00:07:30.807 --> 00:07:39.558
+If data cover two through eight available units, predicting twenty units assumes the same linear pattern continues where it was never observed.
+
+106
+00:07:39.558 --> 00:07:41.149
+Return to the civic claim.
+
+107
+00:07:41.149 --> 00:07:47.085
+Last quarter, two hundred calls had a mean response time of forty minutes and a median of thirty.
+
+108
+00:07:47.085 --> 00:07:52.654
+This quarter, one hundred fifty calls had a mean of thirty-four and a median of thirty-two.
+
+109
+00:07:52.654 --> 00:07:57.672
+The mean fell fifteen percent because six divided by forty is zero point one five.
+
+110
+00:07:57.672 --> 00:08:01.222
+Yet the median rose by two minutes, and the caseload fell.
+
+111
+00:08:01.222 --> 00:08:07.953
+The accurate conclusion is limited: the measured mean was lower in this quarter under the reported definition.
+
+112
+00:08:07.953 --> 00:08:19.336
+To claim that dispatch software caused improvement, investigate sampling, call mix, missing data, clock definitions, staffing, weather, ordinary variation, and the distribution of times.
+
+113
+00:08:19.336 --> 00:08:22.824
+One correct percentage cannot answer all those questions.
+
+114
+00:08:22.824 --> 00:08:23.804
+Three questions.
+
+115
+00:08:23.804 --> 00:08:28.951
+First, what is the difference between a population parameter and a sample statistic?
+
+116
+00:08:28.951 --> 00:08:33.669
+Second, why might a city report both the median and the ninetieth percentile?
+
+117
+00:08:33.669 --> 00:08:36.242
+Third, what does a positive residual mean?
+
+118
+00:08:36.242 --> 00:08:44.507
+First answer: a parameter describes the full population, while a statistic describes the observed sample and may estimate the parameter.
+
+119
+00:08:44.507 --> 00:08:53.500
+Second answer: the median shows the middle case, while the ninetieth percentile reveals performance among relatively slow cases near the upper tail.
+
+120
+00:08:53.500 --> 00:08:58.848
+Third answer: the actual observed value was greater than the regression model predicted.
+
+121
+00:08:58.848 --> 00:09:05.549
+Artifact: write a one-page audit of a real chart or numerical claim from a California local-government report.
+
+122
+00:09:05.549 --> 00:09:14.565
+Identify the population, sample, variables, sampling risk, distribution shape if available, center, spread, and any correlation or regression claim.
+
+123
+00:09:14.565 --> 00:09:22.179
+Recalculate one reported percentage, name one plausible confounder, and state the strongest conclusion the evidence supports.
+
+124
+00:09:22.179 --> 00:09:28.210
+Source note: Original study audio based on public learning materials, without quoting source prose.
+
+125
+00:09:28.210 --> 00:09:39.663
+See OpenStax, Introductory Statistics 2e, Chapter 1, Sampling and Data; Chapter 2, Descriptive Statistics; Chapter 3, Probability Topics; and Chapter 12, Linear Regression and Correlation.
+
+126
+00:09:39.663 --> 00:09:41.612
+Access for free at openstax.org.
+
+127
+00:09:41.612 --> 00:09:51.785
+The current OpenStax web preface identifies Introductory Statistics 2e as licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0, or CC BY-NC-SA 4.0.
+
+128
+00:09:51.785 --> 00:10:04.273
+Also consult Khan Academy public Statistics and Probability lessons on study design, descriptive statistics, probability, distributions, scatter plots, correlation, least-squares regression, and residuals.
+
+129
+00:10:04.273 --> 00:10:05.309
+Preparation only.
+
+130
+00:10:05.309 --> 00:10:08.720
+No credit or transfer credit is awarded by this episode.

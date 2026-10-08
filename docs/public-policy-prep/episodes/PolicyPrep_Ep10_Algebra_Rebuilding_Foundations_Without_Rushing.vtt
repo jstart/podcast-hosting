@@ -1,0 +1,585 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.945
+Suppose a California city clerk expects two hundred permit requests this week.
+
+2
+00:00:03.945 --> 00:00:08.699
+Each trained clerk can process forty requests, but one clerk is already assigned to elections.
+
+3
+00:00:08.699 --> 00:00:12.947
+How many additional clerks are needed, and what assumptions hide inside that answer?
+
+4
+00:00:12.947 --> 00:00:17.195
+Algebra turns the staffing question into quantities, relationships, and constraints.
+
+5
+00:00:17.195 --> 00:00:18.510
+It does not decide policy.
+
+6
+00:00:18.510 --> 00:00:21.696
+It helps us say clearly what follows from the numbers we chose.
+
+7
+00:00:21.696 --> 00:00:23.428
+This is study preparation only.
+
+8
+00:00:23.428 --> 00:00:26.781
+Listening earns no score, course credit, or transfer credit.
+
+9
+00:00:26.781 --> 00:00:32.759
+Work the examples on paper, and verify any credit plan directly with the institution that would receive it.
+
+10
+00:00:32.759 --> 00:00:34.163
+Begin with number sense.
+
+11
+00:00:34.163 --> 00:00:35.509
+A fraction is division.
+
+12
+00:00:35.509 --> 00:00:41.303
+Three fourths of forty requests means forty divided into four equal groups, then take three groups.
+
+13
+00:00:41.303 --> 00:00:43.000
+Forty divided by four is ten.
+
+14
+00:00:43.000 --> 00:00:44.521
+Three times ten is thirty.
+
+15
+00:00:44.521 --> 00:00:49.788
+A negative number can represent a decrease, a debt, or a position below a reference point.
+
+16
+00:00:49.788 --> 00:00:57.219
+If a department is five hours under budget and then saves three more hours, its difference from budget is negative eight hours.
+
+17
+00:00:57.219 --> 00:01:01.257
+Order of operations keeps one expression from having several answers.
+
+18
+00:01:01.257 --> 00:01:09.450
+Grouping comes first, then exponents, then multiplication and division from left to right, then addition and subtraction from left to right.
+
+19
+00:01:09.450 --> 00:01:11.381
+Consider six plus two times five.
+
+20
+00:01:11.381 --> 00:01:13.663
+Multiply two by five first, giving ten.
+
+21
+00:01:13.663 --> 00:01:15.360
+Then add six, giving sixteen.
+
+22
+00:01:15.360 --> 00:01:20.861
+If the intended quantity is six plus two, all multiplied by five, the grouping must be stated.
+
+23
+00:01:20.861 --> 00:01:23.962
+Six plus two is eight, and eight times five is forty.
+
+24
+00:01:23.962 --> 00:01:26.478
+Exponents compress repeated multiplication.
+
+25
+00:01:26.478 --> 00:01:29.580
+Three squared means three times three, which is nine.
+
+26
+00:01:29.580 --> 00:01:31.511
+It does not mean three times two.
+
+27
+00:01:31.511 --> 00:01:34.963
+A square root reverses squaring when the context allows it.
+
+28
+00:01:34.963 --> 00:01:39.937
+The principal square root of forty-nine is seven because seven squared is forty-nine.
+
+29
+00:01:39.937 --> 00:01:41.108
+Now translate words.
+
+30
+00:01:41.108 --> 00:01:45.614
+"Five more than twice a number" becomes two times the number, then plus five.
+
+31
+00:01:45.614 --> 00:01:46.784
+Let the number be x.
+
+32
+00:01:46.784 --> 00:01:49.183
+The spoken expression is two x plus five.
+
+33
+00:01:49.183 --> 00:01:54.567
+"At most one hundred requests" means the request count is less than or equal to one hundred.
+
+34
+00:01:54.567 --> 00:02:00.536
+Translation is often the hardest step, so name the quantity and its unit before manipulating anything.
+
+35
+00:02:00.536 --> 00:02:03.871
+An equation states that two expressions have equal value.
+
+36
+00:02:03.871 --> 00:02:06.387
+Solve three x plus six equals twenty-seven.
+
+37
+00:02:06.387 --> 00:02:08.436
+First subtract six from both sides.
+
+38
+00:02:08.436 --> 00:02:09.957
+Three x equals twenty-one.
+
+39
+00:02:09.957 --> 00:02:11.830
+Then divide both sides by three.
+
+40
+00:02:11.830 --> 00:02:12.707
+x equals seven.
+
+41
+00:02:12.707 --> 00:02:14.756
+Check it in the original statement.
+
+42
+00:02:14.756 --> 00:02:19.027
+Three times seven is twenty-one, and twenty-one plus six is twenty-seven.
+
+43
+00:02:19.027 --> 00:02:29.619
+The check catches arithmetic slips and answers the question, "Does this value actually satisfy the equation?" For a formula with several letters, the same balance principle applies.
+
+44
+00:02:29.619 --> 00:02:35.295
+Suppose total staff hours, H, equal five hours of setup plus two hours for each service batch, b.
+
+45
+00:02:35.295 --> 00:02:37.987
+Spoken as a formula, H equals five plus two b.
+
+46
+00:02:37.987 --> 00:02:41.440
+If total hours are twenty-one, substitute twenty-one for H.
+
+47
+00:02:41.440 --> 00:02:43.254
+Subtract five, leaving sixteen.
+
+48
+00:02:43.254 --> 00:02:44.073
+Divide by two.
+
+49
+00:02:44.073 --> 00:02:46.004
+The office handled eight batches.
+
+50
+00:02:46.004 --> 00:02:49.236
+Inequalities describe ranges rather than single values.
+
+51
+00:02:49.236 --> 00:02:52.468
+Solve four x plus eight is less than or equal to forty.
+
+52
+00:02:52.468 --> 00:02:54.290
+Subtract eight from both sides.
+
+53
+00:02:54.290 --> 00:02:56.816
+Four x is less than or equal to thirty-two.
+
+54
+00:02:56.816 --> 00:02:57.698
+Divide by four.
+
+55
+00:02:57.698 --> 00:02:59.637
+x is less than or equal to eight.
+
+56
+00:02:59.637 --> 00:03:02.810
+Every value at or below eight satisfies the condition.
+
+57
+00:03:02.810 --> 00:03:05.043
+One rule deserves deliberate practice.
+
+58
+00:03:05.043 --> 00:03:09.450
+Multiplying or dividing an inequality by a negative reverses the direction.
+
+59
+00:03:09.450 --> 00:03:12.153
+Solve negative three x is greater than twelve.
+
+60
+00:03:12.153 --> 00:03:17.853
+Divide by negative three and reverse "greater than" to "less than." x is less than negative four.
+
+61
+00:03:17.853 --> 00:03:18.970
+Test negative five.
+
+62
+00:03:18.970 --> 00:03:24.905
+Negative three times negative five is fifteen, and fifteen is greater than twelve, so the test works.
+
+63
+00:03:24.905 --> 00:03:27.079
+Test zero and it fails, as it should.
+
+64
+00:03:27.079 --> 00:03:31.839
+Absolute value measures distance from zero, so absolute value cannot be negative.
+
+65
+00:03:31.839 --> 00:03:35.893
+If the absolute value of x is six, then x can be six or negative six.
+
+66
+00:03:35.893 --> 00:03:41.006
+If the absolute value of x is less than three, x lies between negative three and three.
+
+67
+00:03:41.006 --> 00:03:48.351
+In civic data, an absolute difference can describe how far an estimate missed without labeling the miss positive or negative.
+
+68
+00:03:48.351 --> 00:03:52.053
+A function assigns exactly one output to every permitted input.
+
+69
+00:03:52.053 --> 00:03:54.521
+The domain is the permitted set of inputs.
+
+70
+00:03:54.521 --> 00:03:56.930
+The range is the set of outputs produced.
+
+71
+00:03:56.930 --> 00:04:00.397
+Imagine cost as a function of completed inspection batches.
+
+72
+00:04:00.397 --> 00:04:04.863
+Cost equals one hundred dollars of setup plus twenty-five dollars per batch.
+
+73
+00:04:04.863 --> 00:04:07.155
+Zero batches costs one hundred dollars.
+
+74
+00:04:07.155 --> 00:04:12.032
+Four batches costs one hundred plus four times twenty-five, or two hundred dollars.
+
+75
+00:04:12.032 --> 00:04:17.145
+That function is linear because equal changes in input produce equal changes in output.
+
+76
+00:04:17.145 --> 00:04:19.672
+Its slope is twenty-five dollars per batch.
+
+77
+00:04:19.672 --> 00:04:24.784
+Its vertical intercept is one hundred dollars, the modeled cost when the input is zero.
+
+78
+00:04:24.784 --> 00:04:29.661
+Slope has units: dollars per batch, minutes per call, or residents per square mile.
+
+79
+00:04:29.661 --> 00:04:33.011
+A bare slope without units can hide a bad interpretation.
+
+80
+00:04:33.011 --> 00:04:34.950
+Find slope from two observations.
+
+81
+00:04:34.950 --> 00:04:38.358
+At two batches, modeled cost is one hundred fifty dollars.
+
+82
+00:04:38.358 --> 00:04:41.179
+At six batches, it is two hundred fifty dollars.
+
+83
+00:04:41.179 --> 00:04:45.527
+Output changed by one hundred dollars while input changed by four batches.
+
+84
+00:04:45.527 --> 00:04:49.112
+One hundred divided by four is twenty-five dollars per batch.
+
+85
+00:04:49.112 --> 00:04:50.992
+The same rate confirms the line.
+
+86
+00:04:50.992 --> 00:04:52.872
+The domain must respect reality.
+
+87
+00:04:52.872 --> 00:04:54.753
+Negative batches are impossible.
+
+88
+00:04:54.753 --> 00:04:57.397
+A city may also cap the shift at ten batches.
+
+89
+00:04:57.397 --> 00:05:01.040
+Then a sensible domain is whole numbers from zero through ten.
+
+90
+00:05:01.040 --> 00:05:05.154
+The algebraic line continues forever, but the staffing model does not.
+
+91
+00:05:05.154 --> 00:05:09.326
+Beyond ten batches, overtime or another shift may change the cost rule.
+
+92
+00:05:09.326 --> 00:05:11.683
+Two linear equations can form a system.
+
+93
+00:05:11.683 --> 00:05:14.039
+The solution must satisfy both at once.
+
+94
+00:05:14.039 --> 00:05:19.961
+Suppose a California county schedules standard appointment blocks and extended appointment blocks.
+
+95
+00:05:19.961 --> 00:05:21.592
+There are ten blocks total.
+
+96
+00:05:21.592 --> 00:05:25.761
+A standard block uses one staff hour, and an extended block uses two.
+
+97
+00:05:25.761 --> 00:05:27.937
+The office has fourteen staff hours.
+
+98
+00:05:27.937 --> 00:05:30.958
+Let s be standard blocks and e be extended blocks.
+
+99
+00:05:30.958 --> 00:05:33.617
+The first equation says s plus e equals ten.
+
+100
+00:05:33.617 --> 00:05:36.336
+The second says s plus two e equals fourteen.
+
+101
+00:05:36.336 --> 00:05:38.994
+Subtract the first equation from the second.
+
+102
+00:05:38.994 --> 00:05:41.291
+The s terms cancel, and e equals four.
+
+103
+00:05:41.291 --> 00:05:43.768
+Substitute four into s plus e equals ten.
+
+104
+00:05:43.768 --> 00:05:46.185
+s plus four equals ten, so s equals six.
+
+105
+00:05:46.185 --> 00:05:49.387
+Check: six standard plus four extended is ten blocks.
+
+106
+00:05:49.387 --> 00:05:51.744
+Six hours plus eight hours is fourteen.
+
+107
+00:05:51.744 --> 00:05:53.073
+Both constraints hold.
+
+108
+00:05:53.073 --> 00:05:57.545
+A system can have one solution, no solution, or infinitely many solutions.
+
+109
+00:05:57.545 --> 00:06:00.203
+Two lines that cross once give one solution.
+
+110
+00:06:00.203 --> 00:06:04.131
+Parallel lines give no solution because the constraints conflict.
+
+111
+00:06:04.131 --> 00:06:08.361
+Two equations describing the same line give infinitely many solutions.
+
+112
+00:06:08.361 --> 00:06:14.645
+In budgeting, "no solution" may mean the promised service level and available hours cannot both be true.
+
+113
+00:06:14.645 --> 00:06:16.941
+That is a finding, not a math failure.
+
+114
+00:06:16.941 --> 00:06:18.814
+Return to the opening question.
+
+115
+00:06:18.814 --> 00:06:24.071
+Two hundred requests divided by forty requests per clerk equals five clerk assignments.
+
+116
+00:06:24.071 --> 00:06:32.289
+One clerk is available only after election work, so the phrase "additional clerks" depends on whether that clerk is counted in the five.
+
+117
+00:06:32.289 --> 00:06:38.090
+If one clerk can process permits and four more are needed, the answer is four additional clerks.
+
+118
+00:06:38.090 --> 00:06:42.501
+If the election assignment makes that clerk unavailable, five are needed.
+
+119
+00:06:42.501 --> 00:06:44.313
+Algebra exposes the ambiguity.
+
+120
+00:06:44.313 --> 00:06:46.066
+Policy staff must resolve it.
+
+121
+00:06:46.066 --> 00:06:47.576
+Practice one final model.
+
+122
+00:06:47.576 --> 00:06:53.437
+A California town charges a twelve-dollar records fee plus three dollars for each certified page.
+
+123
+00:06:53.437 --> 00:06:59.842
+For seven pages, multiply three by seven, giving twenty-one, then add twelve, giving thirty-three dollars.
+
+124
+00:06:59.842 --> 00:07:07.154
+If a resident can spend no more than thirty-nine dollars, solve twelve plus three p is less than or equal to thirty-nine.
+
+125
+00:07:07.154 --> 00:07:08.121
+Subtract twelve.
+
+126
+00:07:08.121 --> 00:07:10.900
+Three p is less than or equal to twenty-seven.
+
+127
+00:07:10.900 --> 00:07:11.867
+Divide by three.
+
+128
+00:07:11.867 --> 00:07:14.163
+p is less than or equal to nine pages.
+
+129
+00:07:14.163 --> 00:07:15.152
+Three questions.
+
+130
+00:07:15.152 --> 00:07:19.788
+First, why does dividing an inequality by a negative reverse its direction?
+
+131
+00:07:19.788 --> 00:07:24.054
+Second, what do slope and intercept mean in the permit cost function?
+
+132
+00:07:24.054 --> 00:07:26.712
+Third, what must a solution to a system do?
+
+133
+00:07:26.712 --> 00:07:31.688
+First answer: reversing the direction preserves which values make the comparison true.
+
+134
+00:07:31.688 --> 00:07:38.804
+For example, negative five is less than negative two, but after multiplying both by negative one, five is greater than two.
+
+135
+00:07:38.804 --> 00:07:44.069
+Second answer: slope is the added cost for one more batch, with units of dollars per batch.
+
+136
+00:07:44.069 --> 00:07:46.962
+The intercept is the modeled cost at zero batches.
+
+137
+00:07:46.962 --> 00:07:53.037
+Third answer: a system solution must satisfy every equation or inequality in the system at the same time.
+
+138
+00:07:53.037 --> 00:08:04.602
+Artifact: complete a one-page mixed set with fractions, signed numbers, order of operations, equations, inequalities, functions, slopes, and one two-equation system.
+
+139
+00:08:04.602 --> 00:08:13.644
+Show each step, include units, check every solution in the original statement, and write one sentence explaining each correction.
+
+140
+00:08:13.644 --> 00:08:20.583
+Source note: Original study audio based on public learning materials, without quoting source prose.
+
+141
+00:08:20.583 --> 00:08:34.812
+See OpenStax, College Algebra 2e, Chapter 1, Prerequisites; Chapter 2, Equations and Inequalities; Chapter 3, Functions; Chapter 4, Linear Functions; and Chapter 7, Systems of Equations and Inequalities.
+
+142
+00:08:34.812 --> 00:08:37.055
+Access for free at openstax.org.
+
+143
+00:08:37.055 --> 00:08:46.518
+OpenStax identifies College Algebra 2e as licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0, or CC BY-NC-SA 4.0.
+
+144
+00:08:46.518 --> 00:09:06.424
+Also consult the public Modern States College Algebra overview, especially algebraic operations, equations and inequalities, functions and their properties, and number systems and operations, plus Khan Academy public algebra lessons on equations, inequalities, functions, and systems.
+
+145
+00:09:06.424 --> 00:09:07.616
+Preparation only.
+
+146
+00:09:07.616 --> 00:09:11.541
+No credit or transfer credit is awarded by this episode.

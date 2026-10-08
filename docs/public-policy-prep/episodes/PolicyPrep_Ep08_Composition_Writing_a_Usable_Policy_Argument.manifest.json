@@ -1,0 +1,22 @@
+{
+  "stable_guid": "59cb1fa6-c350-596b-a1db-477d092c3533",
+  "show": "public-policy-prep",
+  "episode": 8,
+  "title": "Composition: Writing a Usable Policy Argument",
+  "release_version": "2026.1",
+  "release_tag": "public-policy-prep-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.mp3",
+    "bytes": 7104025,
+    "sha256": "e270fc7bfd9924612f2315e0848c2a994f790421a2637719af9253d51d52dad0"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep08.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.provenance.json"
+  }
+}

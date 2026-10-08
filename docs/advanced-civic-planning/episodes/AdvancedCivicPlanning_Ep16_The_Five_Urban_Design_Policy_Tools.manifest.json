@@ -1,0 +1,22 @@
+{
+  "stable_guid": "352277e9-be3f-5d68-95df-5c2de92cd13b",
+  "show": "advanced-civic-planning",
+  "episode": 16,
+  "title": "The Five Urban Design Policy Tools",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep16_The_Five_Urban_Design_Policy_Tools.mp3",
+    "bytes": 7463669,
+    "sha256": "658b9e7610551a00be18b7e54b2ba4010c9765c0babda4226f3bc421ea4ec097"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep16_The_Five_Urban_Design_Policy_Tools.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep16.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep16_The_Five_Urban_Design_Policy_Tools.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep16_The_Five_Urban_Design_Policy_Tools.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep16_The_Five_Urban_Design_Policy_Tools.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep16_The_Five_Urban_Design_Policy_Tools.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep16_The_Five_Urban_Design_Policy_Tools.provenance.json"
+  }
+}

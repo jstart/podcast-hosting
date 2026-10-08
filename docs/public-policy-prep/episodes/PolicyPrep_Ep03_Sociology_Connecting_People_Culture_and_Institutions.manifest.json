@@ -1,0 +1,22 @@
+{
+  "stable_guid": "ac2b05c9-9f95-54b3-9bb0-1ca8bc192835",
+  "show": "public-policy-prep",
+  "episode": 3,
+  "title": "Sociology: Connecting People, Culture, and Institutions",
+  "release_version": "2026.1",
+  "release_tag": "public-policy-prep-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.mp3",
+    "bytes": 7513178,
+    "sha256": "22b40f7176f60923e1a06876040ce8ae9487e648fdf62705a5a3387998f51c8e"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep03.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.provenance.json"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "stable_guid": "b1a7a003-e35e-5be9-a14d-e3061ca7e37f",
+  "show": "public-policy-prep",
+  "episode": 2,
+  "title": "Public Opinion, Elections, and Governing Institutions",
+  "release_version": "2026.1",
+  "release_tag": "public-policy-prep-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.mp3",
+    "bytes": 7350127,
+    "sha256": "f4031d251f4db81bc4c2d732e15f3cce2804c77af44a544e15f5170f5aaa70cd"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep02.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.provenance.json"
+  }
+}

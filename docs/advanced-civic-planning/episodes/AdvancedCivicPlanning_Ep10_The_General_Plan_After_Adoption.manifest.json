@@ -1,0 +1,22 @@
+{
+  "stable_guid": "2a3cef14-fb50-59f5-86da-5d844c2e0bbf",
+  "show": "advanced-civic-planning",
+  "episode": 10,
+  "title": "The General Plan After Adoption",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.mp3",
+    "bytes": 6950493,
+    "sha256": "4ff151c4d2210fcfa96bac1e808f709cc57c4bbf3d3e1cb70b3a0ca8843f6643"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep10.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.provenance.json"
+  }
+}

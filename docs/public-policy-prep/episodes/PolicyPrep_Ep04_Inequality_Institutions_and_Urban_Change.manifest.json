@@ -1,0 +1,22 @@
+{
+  "stable_guid": "80212596-ed6b-5491-9d9d-251fedc09463",
+  "show": "public-policy-prep",
+  "episode": 4,
+  "title": "Inequality, Institutions, and Urban Change",
+  "release_version": "2026.1",
+  "release_tag": "public-policy-prep-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.1/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.mp3",
+    "bytes": 7495871,
+    "sha256": "b4f37da0d5a3532398c87e18c99db147ec868ed6bdd64be5c0823d3293136569"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep04.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.provenance.json"
+  }
+}

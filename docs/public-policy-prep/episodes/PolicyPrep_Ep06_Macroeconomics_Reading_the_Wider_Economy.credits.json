@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Principles of Macroeconomics 3e",
+      "author": "OpenStax",
+      "publisher": "OpenStax, Rice University",
+      "url": "https://openstax.org/books/principles-macroeconomics-3e/pages/1-introduction",
+      "license": "CC BY-NC-SA 4.0"
+    },
+    {
+      "title": "Principles of Macroeconomics Course Overview",
+      "author": "Modern States Education Alliance",
+      "publisher": "Modern States Education Alliance",
+      "url": "https://modernstates.org/course/principles-of-macroeconomics/",
+      "license": "Public course outline only; no lesson content reproduced"
+    }
+  ]
+}

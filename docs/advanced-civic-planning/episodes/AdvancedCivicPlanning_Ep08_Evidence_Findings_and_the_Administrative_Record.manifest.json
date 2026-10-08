@@ -1,0 +1,22 @@
+{
+  "stable_guid": "6fe45f5b-5f7e-56ee-ac97-f3c1391badcd",
+  "show": "advanced-civic-planning",
+  "episode": 8,
+  "title": "Evidence, Findings, and the Administrative Record",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.mp3",
+    "bytes": 6509364,
+    "sha256": "05e93456fa983ef2d447fb3e35ba0902c9921953c2f6f1f2eec76bbde609c035"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep08.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.provenance.json"
+  }
+}

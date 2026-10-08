@@ -1,0 +1,24 @@
+{
+  "guid": "fa704026-b2c8-56b4-9a41-426d38b5db10",
+  "publication_date": "2026-10-07T12:00:00Z",
+  "season": 1,
+  "episode": 32,
+  "explicit": false,
+  "duration_seconds": 599.96,
+  "enclosure_bytes": 6880438,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep32.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "e1f6efefb904e72d51c8bd8acaec3662e525fa6696cfc2aa907965de2768e5bd",
+    "audio_sha256": "2f9cf9d3f7161dfa2f2530bba88f58bf59c15071e33580bd19e4e3f994acd483"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.provenance.json",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "release_version": "2026.1"
+}

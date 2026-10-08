@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Frameworks of Urban Governance",
+      "author": "MIT OpenCourseWare",
+      "publisher": "Massachusetts Institute of Technology",
+      "url": "https://ocw.mit.edu/courses/11-957-frameworks-of-urban-governance-january-iap-2007/",
+      "license": "CC BY-NC-SA 4.0 for applicable MIT OpenCourseWare material"
+    },
+    {
+      "title": "Planning Commissioner Training",
+      "author": "Institute for Local Government",
+      "publisher": "Institute for Local Government",
+      "url": "https://www.ca-ilg.org/post/planning-commissioner-training",
+      "license": "Copyrighted source; original summary and attribution only"
+    }
+  ]
+}

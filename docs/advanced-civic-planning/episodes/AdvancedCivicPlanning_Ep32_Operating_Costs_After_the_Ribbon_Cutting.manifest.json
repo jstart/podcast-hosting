@@ -1,0 +1,22 @@
+{
+  "stable_guid": "fa704026-b2c8-56b4-9a41-426d38b5db10",
+  "show": "advanced-civic-planning",
+  "episode": 32,
+  "title": "Operating Costs After the Ribbon Cutting",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.mp3",
+    "bytes": 6880438,
+    "sha256": "2f9cf9d3f7161dfa2f2530bba88f58bf59c15071e33580bd19e4e3f994acd483"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep32.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.provenance.json"
+  }
+}

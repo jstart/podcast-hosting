@@ -1,0 +1,72 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Officials Training Program",
+      "author": "American Planning Association",
+      "publisher": "American Planning Association",
+      "url": "https://www.planning.org/officials/training/",
+      "license": "Copyrighted source; original summary and attribution only"
+    },
+    {
+      "title": "General Plan Guidelines and Technical Advisories",
+      "author": "Governor's Office of Land Use and Climate Innovation",
+      "cover_author": "California LCI",
+      "publisher": "State of California",
+      "url": "https://www.lci.ca.gov/planning/general-plan/guidelines/",
+      "license": "No broad open license identified; original summary and attribution only"
+    },
+    {
+      "title": "CEQA Transportation Impacts under SB 743",
+      "author": "Governor's Office of Land Use and Climate Innovation",
+      "cover_author": "California LCI",
+      "publisher": "State of California",
+      "url": "https://lci.ca.gov/ceqa/sb-743/",
+      "license": "No broad open license identified; original summary and attribution only"
+    },
+    {
+      "title": "Housing Elements and Housing Accountability Unit Guidance",
+      "author": "California Department of Housing and Community Development",
+      "cover_author": "California HCD",
+      "publisher": "State of California",
+      "url": "https://www.hcd.ca.gov/housing-element",
+      "license": "No broad open license identified; original summary and attribution only"
+    },
+    {
+      "title": "Foundations of Local Government Finance in the United States",
+      "author": "Lincoln Institute of Land Policy",
+      "publisher": "Lincoln Institute of Land Policy",
+      "url": "https://www.lincolninst.edu/courses-events/courses/foundations-local-government-finance-in-united-states/",
+      "license": "Copyrighted public course outline; original summary and attribution only"
+    },
+    {
+      "title": "Municipal Finances: A Handbook for Local Governments",
+      "author": "Catherine Farvacque-Vitkovic and Mihaly Kopanyi, editors",
+      "cover_author": "Farvacque-Vitkovic and Kopanyi",
+      "publisher": "World Bank",
+      "url": "https://openknowledge.worldbank.org/entities/publication/baee6e22-9826-59ea-b070-e3d6ad5a5599",
+      "license": "CC BY 3.0 IGO"
+    },
+    {
+      "title": "Elect Ed Public Module Outlines",
+      "author": "California Debt and Investment Advisory Commission",
+      "cover_author": "California CDIAC",
+      "publisher": "California State Treasurer's Office",
+      "url": "https://www.treasurer.ca.gov/cdiac/seminars/elect-ed-landing",
+      "license": "No broad open license identified; public outlines summarized with attribution"
+    },
+    {
+      "title": "Budget Documents and Audit Reports",
+      "author": "City of Torrance",
+      "publisher": "City of Torrance",
+      "url": "https://www.torranceca.gov/Government/Departments-Offices/Departments-Offices/Finance/Budget-Documents",
+      "license": "No broad open license identified; current public records must be verified"
+    }
+  ]
+}

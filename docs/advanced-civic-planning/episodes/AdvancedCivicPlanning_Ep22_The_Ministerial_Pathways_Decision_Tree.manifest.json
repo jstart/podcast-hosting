@@ -1,0 +1,22 @@
+{
+  "stable_guid": "aabf8678-2721-514d-8b18-d4f25549b7b5",
+  "show": "advanced-civic-planning",
+  "episode": 22,
+  "title": "The Ministerial Pathways Decision Tree",
+  "release_version": "2026.1",
+  "release_tag": "advanced-civic-planning-v2026.1",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.1/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.mp3",
+    "bytes": 6956189,
+    "sha256": "9e12abe63c257a99abee1a2af5f2d7f2329e6a8d869598d0c5fb01dfe8a10023"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep22.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.provenance.json"
+  }
+}
