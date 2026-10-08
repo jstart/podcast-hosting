@@ -1,0 +1,24 @@
+{
+  "guid": "fb375701-2512-523d-b74d-849c430df963",
+  "publication_date": "2026-10-08T03:42:00Z",
+  "season": 1,
+  "episode": 1,
+  "explicit": false,
+  "duration_seconds": 199.6,
+  "enclosure_bytes": 2425558,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep01_Why_Local_Government_Matters.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep01.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "d95b3464519fe5406f486452d2badf66aded5f6e3a2a719700395ec0f75408b8",
+    "audio_sha256": "660fea0780c8c9c5d5b7079f2630407ce3f9bec412ca71ef73f768f63d10d524"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.provenance.json",
+  "release_tag": "local-government-101-v2026.2",
+  "release_version": "2026.2"
+}

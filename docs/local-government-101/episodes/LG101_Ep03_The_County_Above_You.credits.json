@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Board of Supervisors",
+      "author": "County of Los Angeles",
+      "publisher": "County of Los Angeles",
+      "url": "https://bos.lacounty.gov/",
+      "license": "No broad open license identified; public information summarized with attribution"
+    },
+    {
+      "title": "Local Government Basics",
+      "author": "Institute for Local Government",
+      "publisher": "Institute for Local Government",
+      "url": "https://www.ca-ilg.org/local-government-101",
+      "license": "No broad open license identified; public guidance summarized with attribution"
+    }
+  ]
+}

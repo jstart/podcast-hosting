@@ -1,0 +1,32 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "West Basin Municipal Water District",
+      "author": "West Basin Municipal Water District",
+      "publisher": "West Basin Municipal Water District",
+      "url": "https://www.westbasin.org/",
+      "license": "No broad open license identified; public information summarized with attribution"
+    },
+    {
+      "title": "City Government, Departments, Budgets, and Planning Resources",
+      "author": "City of Torrance",
+      "publisher": "City of Torrance",
+      "url": "https://www.torranceca.gov/government",
+      "license": "No broad open license identified; public information summarized with attribution"
+    },
+    {
+      "title": "Local Government Basics",
+      "author": "Institute for Local Government",
+      "publisher": "Institute for Local Government",
+      "url": "https://www.ca-ilg.org/local-government-101",
+      "license": "No broad open license identified; public guidance summarized with attribution"
+    }
+  ]
+}

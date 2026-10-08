@@ -1,0 +1,24 @@
+{
+  "guid": "13b5e61b-01eb-5c2f-ac80-7f81b4c7bb78",
+  "publication_date": "2026-10-08T03:42:00Z",
+  "season": 1,
+  "episode": 4,
+  "explicit": false,
+  "duration_seconds": 202.44,
+  "enclosure_bytes": 2450292,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep04_The_Planning_Commission.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep04_The_Planning_Commission.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep04_The_Planning_Commission.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep04.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep04_The_Planning_Commission.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "795c35570d0f7f81f1f476d6d432348558d0252eb298159af01bd17d2aff9932",
+    "audio_sha256": "d20fc71a38253b2ac67cc08943f33d905205f8734fcf8731098cc42abeeecfce"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep04_The_Planning_Commission.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep04_The_Planning_Commission.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep04_The_Planning_Commission.provenance.json",
+  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.2"
+}

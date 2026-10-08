@@ -1,0 +1,24 @@
+{
+  "guid": "736299af-4f08-5e0b-92fd-46a0014c71df",
+  "publication_date": "2026-10-08T03:42:00Z",
+  "season": 1,
+  "episode": 9,
+  "explicit": false,
+  "duration_seconds": 579.931,
+  "enclosure_bytes": 6623661,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep09_Measuring_Success.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep09_Measuring_Success.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep09_Measuring_Success.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/artwork/ep09.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep09_Measuring_Success.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "6a9c2fe37ccb83a433be56b35b9626c6e699ec4bbffffcaf55d1c48a9b9a69a9",
+    "audio_sha256": "e15b6d8cc774b8f4cdc5b68276eb4edbb70692524e7ffd6f3ac273aa8b883465"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep09_Measuring_Success.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep09_Measuring_Success.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep09_Measuring_Success.provenance.json",
+  "release_tag": "how-california-schools-work-v2026.2",
+  "release_version": "2026.2"
+}

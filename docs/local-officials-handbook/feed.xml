@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:podhost="https://jstart.github.io/podcast-hosting/namespace/1.0" version="2.0">
+  <channel>
+    <title>The Local Official's Handbook</title>
+    <link>https://jstart.github.io/podcast-hosting/local-officials-handbook/</link>
+    <description>A 14-episode practical guide to local public service, open government, planning, housing, regional institutions, and public decision-making.</description>
+    <language>en-us</language>
+    <generator>podcast-hosting/scripts/build_site.py</generator>
+    <itunes:author>The Local Official's Handbook</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://jstart.github.io/podcast-hosting/local-officials-handbook/cover.jpg" />
+    <image>
+      <url>https://jstart.github.io/podcast-hosting/local-officials-handbook/cover.jpg</url>
+      <title>The Local Official's Handbook</title>
+      <link>https://jstart.github.io/podcast-hosting/local-officials-handbook/</link>
+    </image>
+    <podcast:locked owner="jstart">yes</podcast:locked>
+    <podcast:guid>5bc9938ad7585c491bb27f7610417dce4414f7f343278ce9705d525effd8f202</podcast:guid>
+    <podcast:person role="host" group="writing">The Local Official's Handbook</podcast:person>
+    <podcast:license>See per-episode license and credits</podcast:license>
+    <item>
+      <title>Building Your Record</title>
+      <description>Explains how votes, minutes, findings, training, and documented reasoning build a public official's record.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.html</link>
+      <guid isPermaLink="false">9afd6920-2c8c-50a9-a896-2e7d8b80c4c9</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep14_Building_Your_Record.mp3" length="1979764" type="audio/mpeg" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>164</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep14.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">The Local Official's Handbook</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.provenance.json</podhost:provenance>
+      <podhost:sha256>0ca4e1af1a7377b7b1bdf1d99ed071554b5778276d33c080bbde075ea2084d7c</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Homelessness and Engagement</title>
+      <description>Examines homelessness policy, funding constraints, enforcement, services, and meaningful engagement.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.html</link>
+      <guid isPermaLink="false">3c91a918-e800-555c-a286-064d37ff5d2d</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep13_Homelessness_and_Engagement.mp3" length="2381085" type="audio/mpeg" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>198</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep13.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">The Local Official's Handbook</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.provenance.json</podhost:provenance>
+      <podhost:sha256>ba592372bce0cf84b321922957f24733770861440a981efeea5b3fa786a5a4c6</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>The Regional Map</title>
+      <description>Maps the regional agencies and decisions that constrain or shape Torrance policy.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.html</link>
+      <guid isPermaLink="false">177c2246-76b4-5aa7-85d9-3faeb0ab69b0</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep12_The_Regional_Map.mp3" length="2282999" type="audio/mpeg" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>189</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep12.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">The Local Official's Handbook</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.provenance.json</podhost:provenance>
+      <podhost:sha256>c89d874a81592bafa544266c9ae39c5b32dde1a74125b76a397a43044ee507e8</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>How Projects Pencil</title>
+      <description>Explains development feasibility, yield, financing, construction costs, rents, and municipal fiscal effects.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep11_How_Projects_Pencil.html</link>
+      <guid isPermaLink="false">05681a02-abf4-5be8-96d5-8079c81415c2</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep11_How_Projects_Pencil.mp3" length="2614068" type="audio/mpeg" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>217</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep11.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep11_How_Projects_Pencil.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep11_How_Projects_Pencil.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">The Local Official's Handbook</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep11_How_Projects_Pencil.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep11_How_Projects_Pencil.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep11_How_Projects_Pencil.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep11_How_Projects_Pencil.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep11_How_Projects_Pencil.provenance.json</podhost:provenance>
+      <podhost:sha256>d3a3d4969bcea0894e43c68d3e1a2930e4703a2a9935fa8e132ebddd9d3923c5</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Knowing Torrance's Plans</title>
+      <description>Maps Torrance planning documents and the places where new housing and development policy are changing.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.html</link>
+      <guid isPermaLink="false">3503f9f9-51ce-523f-8a5c-c77a75847cd2</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep10_Knowing_Torrance_s_Plans.mp3" length="2555932" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>212</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep10.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">The Local Official's Handbook</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.provenance.json</podhost:provenance>
+      <podhost:sha256>b3e706c83eabe3303afe40ad00418d96f34de5f7817020416438e3420f3aebd7</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Meeting Craft</title>
+      <description>Covers agenda preparation, questions, motions, findings, conditions, and handling difficult public meetings.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep09_Meeting_Craft.html</link>
+      <guid isPermaLink="false">9bf19d74-1ce0-5df7-95e7-a9a36a9edff4</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep09_Meeting_Craft.mp3" length="2241178" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>188</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep09.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep09_Meeting_Craft.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep09_Meeting_Craft.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">The Local Official's Handbook</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep09_Meeting_Craft.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep09_Meeting_Craft.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep09_Meeting_Craft.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep09_Meeting_Craft.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep09_Meeting_Craft.provenance.json</podhost:provenance>
+      <podhost:sha256>3b094370165470aee48c2448f9c7c782c78f8fc8a5fc0e20b7827dd66db42cdc</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Advocacy and Running for Office</title>
+      <description>Explains how advocacy, campaigns, coalitions, and timing influence local decisions.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep08_Advocacy_and_Running_for_Office.html</link>
+      <guid isPermaLink="false">86003e4a-a445-554c-a82b-94a46bfe1884</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep08_Advocacy_and_Running_for_Office.mp3" length="2201759" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>186</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep08.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep08_Advocacy_and_Running_for_Office.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep08_Advocacy_and_Running_for_Office.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">The Local Official's Handbook</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep08_Advocacy_and_Running_for_Office.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep08_Advocacy_and_Running_for_Office.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep08_Advocacy_and_Running_for_Office.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep08_Advocacy_and_Running_for_Office.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep08_Advocacy_and_Running_for_Office.provenance.json</podhost:provenance>
+      <podhost:sha256>a4e13710a25526f0ab4ba86c6743337261f1c76c430083059af64fa503257f85</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>The School Board</title>
+      <description>Explains collective school board authority, superintendent accountability, budgets, policy, and student governance.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep07_The_School_Board.html</link>
+      <guid isPermaLink="false">bdc2f50c-f7c3-5ad9-b9be-35e4f2ba6b63</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep07_The_School_Board.mp3" length="2505586" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>209</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep07.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep07_The_School_Board.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep07_The_School_Board.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">The Local Official's Handbook</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep07_The_School_Board.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep07_The_School_Board.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep07_The_School_Board.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep07_The_School_Board.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep07_The_School_Board.provenance.json</podhost:provenance>
+      <podhost:sha256>11989c07b940eb7f7560be0ad93248923bc21c0d63fc1e76405bb6cc4fd812f5</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Four Votes on the Council</title>
+      <description>Explains collective City Council authority, motions, budgets, appointments, and the importance of four votes in Torrance.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.html</link>
+      <guid isPermaLink="false">d8baa06f-3644-5606-a8d4-fcccbfe4499f</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep06_Four_Votes_on_the_Council.mp3" length="2454684" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>204</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep06.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">The Local Official's Handbook</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.provenance.json</podhost:provenance>
+      <podhost:sha256>8faf1e2e82e26ddc83d77ccb7f9a07c0034388f5c14dbbb2ca1ef08c6e4ac2cc</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>CEQA and the Housing Laws</title>
+      <description>Explains how environmental review and recent housing laws constrain planning decisions.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.html</link>
+      <guid isPermaLink="false">38f77483-62d2-5c92-8c07-4dad9cbbdf77</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep05_CEQA_and_the_Housing_Laws.mp3" length="2609856" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>214</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep05.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">The Local Official's Handbook</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.provenance.json</podhost:provenance>
+      <podhost:sha256>1e3ecd91e537ed2ff74371a34c756b1c7611f714fe0f9cef5e5da15865c63c8c</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>The Planning Commission</title>
+      <description>Examines the planning commission's changing role, authority, record, and relationship to adopted policy.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep04_The_Planning_Commission.html</link>
+      <guid isPermaLink="false">13b5e61b-01eb-5c2f-ac80-7f81b4c7bb78</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep04_The_Planning_Commission.mp3" length="2450292" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>202</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep04.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep04_The_Planning_Commission.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep04_The_Planning_Commission.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">The Local Official's Handbook</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep04_The_Planning_Commission.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep04_The_Planning_Commission.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep04_The_Planning_Commission.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep04_The_Planning_Commission.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep04_The_Planning_Commission.provenance.json</podhost:provenance>
+      <podhost:sha256>d20fc71a38253b2ac67cc08943f33d905205f8734fcf8731098cc42abeeecfce</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Conflicts and Fair Hearings</title>
+      <description>Explains financial conflicts, contract restrictions, campaign contributions, recusal, and fair-hearing duties.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep03_Conflicts_and_Fair_Hearings.html</link>
+      <guid isPermaLink="false">61a9212f-f7fa-5d7d-9cf1-6f90c4aab0e5</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep03_Conflicts_and_Fair_Hearings.mp3" length="2641572" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>221</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep03.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep03_Conflicts_and_Fair_Hearings.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep03_Conflicts_and_Fair_Hearings.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">The Local Official's Handbook</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep03_Conflicts_and_Fair_Hearings.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep03_Conflicts_and_Fair_Hearings.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep03_Conflicts_and_Fair_Hearings.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep03_Conflicts_and_Fair_Hearings.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep03_Conflicts_and_Fair_Hearings.provenance.json</podhost:provenance>
+      <podhost:sha256>99f8f3c7249bdf0984519f6ef00f87a704d369ae7311355920e0c08f981ada62</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Open Meetings and Public Records</title>
+      <description>Explains the state open-meeting and public-records laws that shape local government transparency.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.html</link>
+      <guid isPermaLink="false">c00ae451-b9e6-5d03-a48d-8808e3a07186</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep02_Open_Meetings_and_Public_Records.mp3" length="2418879" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>200</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep02.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">The Local Official's Handbook</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.provenance.json</podhost:provenance>
+      <podhost:sha256>3f59e8b4461050de53f57166c0fe57a1b9587fb57439615878dd993144c0b332</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Two Hats</title>
+      <description>Distinguishes legislative policymaking from quasi-judicial application of existing rules.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep01_Two_Hats.html</link>
+      <guid isPermaLink="false">71d65e0a-1d31-5f0d-b5b3-7b0f91fc4332</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep01_Two_Hats.mp3" length="1955777" type="audio/mpeg" />
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>164</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep01.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep01_Two_Hats.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep01_Two_Hats.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">The Local Official's Handbook</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep01_Two_Hats.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep01_Two_Hats.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep01_Two_Hats.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep01_Two_Hats.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep01_Two_Hats.provenance.json</podhost:provenance>
+      <podhost:sha256>77ba15f50cf4c91fd857feeeb08d2da19f4f0b097aa269229c79fd5ba5376c99</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+  </channel>
+</rss>

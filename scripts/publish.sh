@@ -8,13 +8,19 @@ REPO="${GITHUB_REPOSITORY_NAME:-podcast-hosting}"
 python3 scripts/build_site.py --source "$SOURCE_ROOT"
 python3 scripts/validate.py docs
 
-for show in advanced-civic-planning planning-commission-prep public-policy-prep; do
-  version="$(python3 -c 'import json,sys; print(json.load(open(sys.argv[1]))["show"]["version"])' "$SOURCE_ROOT/$show/episodes.json")"
+for show in how-california-schools-work local-government-101 local-officials-handbook advanced-civic-planning planning-commission-prep public-policy-prep; do
+  case "$show" in
+    how-california-schools-work) source_dir="$SOURCE_ROOT" ;;
+    local-government-101) source_dir="$SOURCE_ROOT/local-government-101-podcast" ;;
+    local-officials-handbook) source_dir="$SOURCE_ROOT/local-officials-handbook-audio" ;;
+    *) source_dir="$SOURCE_ROOT/$show" ;;
+  esac
+  version="$(python3 -c 'import json,sys; print(json.load(open(sys.argv[1]))["show"]["version"])' "$source_dir/episodes.json")"
   tag="$show-v$version"
   assets=()
   while IFS= read -r -d '' asset; do
     assets+=("$asset")
-  done < <(find "$SOURCE_ROOT/$show/final" -maxdepth 1 -name '*.mp3' -print0)
+  done < <(find "$source_dir/final" -maxdepth 1 -name '*.mp3' -print0)
   if ! gh release view "$tag" --repo "$OWNER/$REPO" >/dev/null 2>&1; then
     gh release create "$tag" "${assets[@]}" --repo "$OWNER/$REPO" --title "$show $version" --notes "Immutable audio release for $show, production version $version."
   fi

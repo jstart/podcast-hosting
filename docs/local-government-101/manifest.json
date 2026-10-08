@@ -1,0 +1,262 @@
+{
+  "id": "local-government-101",
+  "title": "Local Government and School Districts 101",
+  "album": "Local Government and School Districts 101: A 10-Episode Course",
+  "description": "A 10-episode introduction to California cities, counties, special districts, school districts, public finance, voting, and civic participation.",
+  "version": "2026.2",
+  "release_tag": "local-government-101-v2026.2",
+  "stable_feed_url": "https://jstart.github.io/podcast-hosting/local-government-101/feed.xml",
+  "release_url": "https://github.com/jstart/podcast-hosting/releases/tag/local-government-101-v2026.2",
+  "episodes": [
+    {
+      "stable_guid": "fb375701-2512-523d-b74d-849c430df963",
+      "show": "local-government-101",
+      "episode": 1,
+      "title": "Why Local Government Matters",
+      "release_version": "2026.2",
+      "release_tag": "local-government-101-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep01_Why_Local_Government_Matters.mp3",
+        "bytes": 2425558,
+        "sha256": "660fea0780c8c9c5d5b7079f2630407ce3f9bec412ca71ef73f768f63d10d524"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep01.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.provenance.json"
+      },
+      "summary": "Explains why nearby city, county, special district, and school district decisions directly shape daily life.",
+      "publication_date": "2026-10-08T03:42:00Z",
+      "duration_seconds": 199.6
+    },
+    {
+      "stable_guid": "f72f2419-3638-53ba-ab84-65940e8de9be",
+      "show": "local-government-101",
+      "episode": 2,
+      "title": "City Hall 101",
+      "release_version": "2026.2",
+      "release_tag": "local-government-101-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep02_City_Hall_101.mp3",
+        "bytes": 2495500,
+        "sha256": "d50c14a9b730a14e415fd4b047c5acf6083b3ede87475833dd51e0a0975c3f45"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep02.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.provenance.json"
+      },
+      "summary": "Explains charter-city authority, elected roles, management, departments, and public accountability in Torrance.",
+      "publication_date": "2026-10-08T03:42:00Z",
+      "duration_seconds": 206.3
+    },
+    {
+      "stable_guid": "7c05183d-63f9-5054-9636-ef00dc1fb00d",
+      "show": "local-government-101",
+      "episode": 3,
+      "title": "The County Above You",
+      "release_version": "2026.2",
+      "release_tag": "local-government-101-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep03_The_County_Above_You.mp3",
+        "bytes": 2454760,
+        "sha256": "f844bf6128acee6dabac649c13fb50009d312296834e771afc727ba527b5486a"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep03.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.provenance.json"
+      },
+      "summary": "Maps Los Angeles County authority and the responsibilities of its Board of Supervisors.",
+      "publication_date": "2026-10-08T03:42:00Z",
+      "duration_seconds": 203.38
+    },
+    {
+      "stable_guid": "086a10fc-ca00-5ce3-bc9f-240a98dd6f2c",
+      "show": "local-government-101",
+      "episode": 4,
+      "title": "The Invisible Governments",
+      "release_version": "2026.2",
+      "release_tag": "local-government-101-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep04_The_Invisible_Governments.mp3",
+        "bytes": 2449812,
+        "sha256": "7812ec6a16b5c7d482a83c9d8ac7743f86b2b00ee255d80ab834c23afc8d7a72"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep04.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.provenance.json"
+      },
+      "summary": "Introduces special districts and the public services they provide outside ordinary city departments.",
+      "publication_date": "2026-10-08T03:42:00Z",
+      "duration_seconds": 201.08
+    },
+    {
+      "stable_guid": "c85eabb6-650f-5bb0-b694-cba71de1669b",
+      "show": "local-government-101",
+      "episode": 5,
+      "title": "Who Decides What Gets Built",
+      "release_version": "2026.2",
+      "release_tag": "local-government-101-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep05_Who_Decides_What_Gets_Built.mp3",
+        "bytes": 2559453,
+        "sha256": "a4ae66393bc9a31b6a59628b833ff78e752782f3173e8f098fcbb463cc6b43dc"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep05.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.provenance.json"
+      },
+      "summary": "Explains general plans, zoning, environmental review, housing law, and local development decisions.",
+      "publication_date": "2026-10-08T03:42:00Z",
+      "duration_seconds": 208.32
+    },
+    {
+      "stable_guid": "3ae14d5d-33ff-5a51-bce0-e73f99d20196",
+      "show": "local-government-101",
+      "episode": 6,
+      "title": "The City's Wallet",
+      "release_version": "2026.2",
+      "release_tag": "local-government-101-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep06_The_City_s_Wallet.mp3",
+        "bytes": 2647857,
+        "sha256": "0fcdf741cdfd4943bd42e8e84cb585730ab3b934447c6dcc770f6fa60d758f62"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep06.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.provenance.json"
+      },
+      "summary": "Distinguishes city funds and explains major municipal revenue, spending, reserve, and voter-approval choices.",
+      "publication_date": "2026-10-08T03:42:00Z",
+      "duration_seconds": 217.46
+    },
+    {
+      "stable_guid": "5e718acc-1193-568a-a430-f148d94c5a9b",
+      "show": "local-government-101",
+      "episode": 7,
+      "title": "Schools Are Local Government Too",
+      "release_version": "2026.2",
+      "release_tag": "local-government-101-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep07_Schools_Are_Local_Government_Too.mp3",
+        "bytes": 2328284,
+        "sha256": "09ac1b88cab03e120d83b1cc3068b73b7352acf6463e831a03e000fbb5c301df"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep07.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.provenance.json"
+      },
+      "summary": "Explains school district governance and its relationship to city government.",
+      "publication_date": "2026-10-08T03:42:00Z",
+      "duration_seconds": 187.84
+    },
+    {
+      "stable_guid": "86b8cdee-0ec7-528a-8161-134da76d5e05",
+      "show": "local-government-101",
+      "episode": 8,
+      "title": "Your Vote Counts More Here",
+      "release_version": "2026.2",
+      "release_tag": "local-government-101-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep08_Your_Vote_Counts_More_Here.mp3",
+        "bytes": 2573396,
+        "sha256": "f3743fc1b66402ce19e5f3cb6566e2a7d445039826e21f3494cc8a97a164de27"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep08.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.provenance.json"
+      },
+      "summary": "Explains why participation and individual votes can carry unusual weight in local elections.",
+      "publication_date": "2026-10-08T03:42:00Z",
+      "duration_seconds": 211.26
+    },
+    {
+      "stable_guid": "aa59db72-37cd-5b06-ba33-12cc13e4f2e1",
+      "show": "local-government-101",
+      "episode": 9,
+      "title": "How to Get Involved",
+      "release_version": "2026.2",
+      "release_tag": "local-government-101-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep09_How_to_Get_Involved.mp3",
+        "bytes": 2452200,
+        "sha256": "ff8fa69ce5ed29889c1f0971e8a6462742ce50782c9b223ac9e582ad6e113d3d"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep09.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.provenance.json"
+      },
+      "summary": "Describes public comment, meeting records, information requests, and practical local participation.",
+      "publication_date": "2026-10-08T03:42:00Z",
+      "duration_seconds": 200.76
+    },
+    {
+      "stable_guid": "f19ed06e-68ac-5d74-b219-1861b068990d",
+      "show": "local-government-101",
+      "episode": 10,
+      "title": "Putting It All Together",
+      "release_version": "2026.2",
+      "release_tag": "local-government-101-v2026.2",
+      "enclosure": {
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep10_Putting_It_All_Together.mp3",
+        "bytes": 2475426,
+        "sha256": "24bf4a190b36d1fb283066258e6a06236cfb5d9ae84ebf69de55de7839ba62da"
+      },
+      "pages": {
+        "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.html",
+        "artwork": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep10.jpg",
+        "transcript": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.vtt",
+        "chapters": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.chapters.json",
+        "notes": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.md",
+        "accessibility": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.accessibility.json",
+        "provenance": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.provenance.json"
+      },
+      "summary": "Applies city, county, school district, planning, finance, and participation concepts to a Torrance development proposal.",
+      "publication_date": "2026-10-08T03:42:00Z",
+      "duration_seconds": 208.773
+    }
+  ]
+}

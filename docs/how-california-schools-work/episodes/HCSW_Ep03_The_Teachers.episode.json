@@ -1,0 +1,24 @@
+{
+  "guid": "8481908f-d427-5456-b905-48a4666dcda8",
+  "publication_date": "2026-10-08T03:42:00Z",
+  "season": 1,
+  "episode": 3,
+  "explicit": false,
+  "duration_seconds": 390.181,
+  "enclosure_bytes": 4485958,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep03_The_Teachers.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep03_The_Teachers.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep03_The_Teachers.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/artwork/ep03.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep03_The_Teachers.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "b9e77aacb27297249af4fec9394e3d83e4af8f66c86baaf43af1c483bc85c5ac",
+    "audio_sha256": "0d602cb4352cce53d45de3a453957ef5a94c08093c1e64868fedd17d9cc29a4c"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep03_The_Teachers.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep03_The_Teachers.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep03_The_Teachers.provenance.json",
+  "release_tag": "how-california-schools-work-v2026.2",
+  "release_version": "2026.2"
+}

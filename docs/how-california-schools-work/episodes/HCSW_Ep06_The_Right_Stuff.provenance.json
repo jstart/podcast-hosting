@@ -1,0 +1,21 @@
+{
+  "stable_id": "d8e2b113-826c-5d63-8c12-03e9cb77c3b8",
+  "versions": [
+    {
+      "production_version": "2026.2",
+      "tts_model": {
+        "repo": "thewh1teagle/kokoro-onnx",
+        "revision": "model-files-v1.0"
+      },
+      "asr_model": {
+        "repo": "Systran/faster-whisper-small.en",
+        "revision": "d1d751a5f8271d482d14ca55d9e2deeebbae577f"
+      },
+      "audio_source": "Kokoro narration generated and ASR-verified through the 2026.2 shared pipeline",
+      "source_retrieval_date": "2026-10-08",
+      "transcript_sha256": "5a1e6d4db3dd8435b2e0d61413d546c9213bb0524e5729371c27cbc69576fdca",
+      "audio_sha256": "d8b94a8da1777edddbb73fac98a4fd9da39f18e46d98a15447263605e74a0166",
+      "supersedes": null
+    }
+  ]
+}

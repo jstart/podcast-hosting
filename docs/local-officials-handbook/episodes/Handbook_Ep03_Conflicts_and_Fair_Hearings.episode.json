@@ -1,0 +1,24 @@
+{
+  "guid": "61a9212f-f7fa-5d7d-9cf1-6f90c4aab0e5",
+  "publication_date": "2026-10-08T03:42:00Z",
+  "season": 1,
+  "episode": 3,
+  "explicit": false,
+  "duration_seconds": 221.08,
+  "enclosure_bytes": 2641572,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep03_Conflicts_and_Fair_Hearings.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep03_Conflicts_and_Fair_Hearings.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep03_Conflicts_and_Fair_Hearings.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep03.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep03_Conflicts_and_Fair_Hearings.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "d35a14d1ce921035c1da8f8a97cc793c692553638a78883261a2feb03bbff61c",
+    "audio_sha256": "99f8f3c7249bdf0984519f6ef00f87a704d369ae7311355920e0c08f981ada62"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep03_Conflicts_and_Fair_Hearings.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep03_Conflicts_and_Fair_Hearings.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep03_Conflicts_and_Fair_Hearings.provenance.json",
+  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.2"
+}

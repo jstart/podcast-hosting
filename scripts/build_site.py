@@ -16,6 +16,18 @@ REPO = "podcast-hosting"
 BASE = f"https://{OWNER}.github.io/{REPO}"
 DOWNLOAD = f"https://github.com/{OWNER}/{REPO}/releases/download"
 SHOWS = {
+    "how-california-schools-work": {
+        "source_dir": ".",
+        "description": "A 10-episode companion course on California students, educators, governance, finance, standards, accountability, and school improvement."
+    },
+    "local-government-101": {
+        "source_dir": "local-government-101-podcast",
+        "description": "A 10-episode introduction to California cities, counties, special districts, school districts, public finance, voting, and civic participation."
+    },
+    "local-officials-handbook": {
+        "source_dir": "local-officials-handbook-audio",
+        "description": "A 14-episode practical guide to local public service, open government, planning, housing, regional institutions, and public decision-making."
+    },
     "advanced-civic-planning": {
         "description": "A 36-episode advanced course in public hearings, land use, housing, transportation, environmental justice, and municipal finance."
     },
@@ -76,7 +88,7 @@ def pretty_xml(element):
 
 
 def build_show(source_root, docs, show_id):
-    source = source_root / show_id
+    source = source_root / SHOWS[show_id].get("source_dir", show_id)
     manifest = json.loads((source / "episodes.json").read_text())
     show = manifest["show"]
     version = show["version"]
@@ -356,7 +368,7 @@ def write_static(docs, shows):
 <section class="hero">
   <p class="eyebrow">INDEPENDENT CIVIC STUDY</p>
   <h1>Listen closely.<br>Govern thoughtfully.</h1>
-  <p class="lede">Three accessible audio courses for public service, planning, and policy study.</p>
+  <p class="lede">Six accessible audio courses for public service, planning, education, and policy study.</p>
 </section>
 <section aria-labelledby="shows"><h2 id="shows">The collection</h2>{cards}</section>
 <aside class="pocket-note">

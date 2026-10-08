@@ -1,0 +1,24 @@
+{
+  "guid": "5e718acc-1193-568a-a430-f148d94c5a9b",
+  "publication_date": "2026-10-08T03:42:00Z",
+  "season": 1,
+  "episode": 7,
+  "explicit": false,
+  "duration_seconds": 187.84,
+  "enclosure_bytes": 2328284,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep07_Schools_Are_Local_Government_Too.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep07.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "079f9c2ab8c6233eae145028b8d20fec4a323db1e419ea096bef182de34ec633",
+    "audio_sha256": "09ac1b88cab03e120d83b1cc3068b73b7352acf6463e831a03e000fbb5c301df"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.provenance.json",
+  "release_tag": "local-government-101-v2026.2",
+  "release_version": "2026.2"
+}

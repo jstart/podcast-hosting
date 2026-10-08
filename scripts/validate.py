@@ -6,6 +6,9 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 EXPECTED = {
+    "how-california-schools-work": 10,
+    "local-government-101": 10,
+    "local-officials-handbook": 14,
     "advanced-civic-planning": 36,
     "planning-commission-prep": 8,
     "public-policy-prep": 12,
@@ -43,7 +46,7 @@ def main():
                     fail(f"{show}: {key} is not hosted on Pages")
             if len(episode["enclosure"]["sha256"]) != 64:
                 fail(f"{show}: invalid checksum")
-    print("Validated 3 feeds and 56 episodes")
+    print(f"Validated {len(EXPECTED)} feeds and {sum(EXPECTED.values())} episodes")
 
 
 if __name__ == "__main__":

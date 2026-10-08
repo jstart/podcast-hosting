@@ -1,0 +1,22 @@
+{
+  "stable_guid": "f72f2419-3638-53ba-ab84-65940e8de9be",
+  "show": "local-government-101",
+  "episode": 2,
+  "title": "City Hall 101",
+  "release_version": "2026.2",
+  "release_tag": "local-government-101-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep02_City_Hall_101.mp3",
+    "bytes": 2495500,
+    "sha256": "d50c14a9b730a14e415fd4b047c5acf6083b3ede87475833dd51e0a0975c3f45"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep02.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.provenance.json"
+  }
+}

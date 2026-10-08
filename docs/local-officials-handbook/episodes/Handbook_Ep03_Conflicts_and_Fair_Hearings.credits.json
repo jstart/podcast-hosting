@@ -1,0 +1,26 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Local Official's Handbook",
+      "author": "Author unavailable in repository materials",
+      "cover_author": "Source author unavailable",
+      "publisher": "Publisher unavailable in repository materials",
+      "url": "https://github.com/jstart/podcast-tts/tree/main/local-officials-handbook-audio",
+      "license": "No source license identified in repository materials; all rights reserved unless the rights holder states otherwise"
+    },
+    {
+      "title": "Planning Commissioner Training and Local Government Basics",
+      "author": "Institute for Local Government",
+      "publisher": "Institute for Local Government",
+      "url": "https://www.ca-ilg.org/post/planning-commissioner-training",
+      "license": "No broad open license identified; public guidance summarized with attribution"
+    }
+  ]
+}

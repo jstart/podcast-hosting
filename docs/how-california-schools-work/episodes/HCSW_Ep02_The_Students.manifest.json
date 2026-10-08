@@ -1,0 +1,22 @@
+{
+  "stable_guid": "c14b7e86-f9ad-5866-9c12-b376898beb4f",
+  "show": "how-california-schools-work",
+  "episode": 2,
+  "title": "The Students",
+  "release_version": "2026.2",
+  "release_tag": "how-california-schools-work-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep02_The_Students.mp3",
+    "bytes": 4053719,
+    "sha256": "4f5b4c960f8ed84f863c62f2260c3dd98242b74682a3846ee6575fee7c5a8e19"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep02_The_Students.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/how-california-schools-work/artwork/ep02.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep02_The_Students.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep02_The_Students.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep02_The_Students.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep02_The_Students.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep02_The_Students.provenance.json"
+  }
+}

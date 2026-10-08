@@ -1,0 +1,24 @@
+{
+  "guid": "bdc2f50c-f7c3-5ad9-b9be-35e4f2ba6b63",
+  "publication_date": "2026-10-08T03:42:00Z",
+  "season": 1,
+  "episode": 7,
+  "explicit": false,
+  "duration_seconds": 209.12,
+  "enclosure_bytes": 2505586,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep07_The_School_Board.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep07_The_School_Board.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep07_The_School_Board.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep07.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep07_The_School_Board.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "a2b579787335432bdd97581ad8634aa9e37b1d273597ed4dbd00d56534f3a220",
+    "audio_sha256": "11989c07b940eb7f7560be0ad93248923bc21c0d63fc1e76405bb6cc4fd812f5"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep07_The_School_Board.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep07_The_School_Board.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep07_The_School_Board.provenance.json",
+  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.2"
+}

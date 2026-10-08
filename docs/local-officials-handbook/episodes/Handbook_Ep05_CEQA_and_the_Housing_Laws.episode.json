@@ -1,0 +1,24 @@
+{
+  "guid": "38f77483-62d2-5c92-8c07-4dad9cbbdf77",
+  "publication_date": "2026-10-08T03:42:00Z",
+  "season": 1,
+  "episode": 5,
+  "explicit": false,
+  "duration_seconds": 213.98,
+  "enclosure_bytes": 2609856,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep05_CEQA_and_the_Housing_Laws.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep05.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "59bf880b2512d2eeab30234a78267e410c744268e0aad3f1830bd14d4cf86b4b",
+    "audio_sha256": "1e3ecd91e537ed2ff74371a34c756b1c7611f714fe0f9cef5e5da15865c63c8c"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.provenance.json",
+  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.2"
+}

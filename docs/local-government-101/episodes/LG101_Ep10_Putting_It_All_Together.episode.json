@@ -1,0 +1,24 @@
+{
+  "guid": "f19ed06e-68ac-5d74-b219-1861b068990d",
+  "publication_date": "2026-10-08T03:42:00Z",
+  "season": 1,
+  "episode": 10,
+  "explicit": false,
+  "duration_seconds": 208.773,
+  "enclosure_bytes": 2475426,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep10_Putting_It_All_Together.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep10.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "8ebd36c4261c381d4f834bf013543c57bf4e47670897e862ae6db0db765727b4",
+    "audio_sha256": "24bf4a190b36d1fb283066258e6a06236cfb5d9ae84ebf69de55de7839ba62da"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.provenance.json",
+  "release_tag": "local-government-101-v2026.2",
+  "release_version": "2026.2"
+}

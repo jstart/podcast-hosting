@@ -1,0 +1,22 @@
+{
+  "stable_guid": "177c2246-76b4-5aa7-85d9-3faeb0ab69b0",
+  "show": "local-officials-handbook",
+  "episode": 12,
+  "title": "The Regional Map",
+  "release_version": "2026.2",
+  "release_tag": "local-officials-handbook-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep12_The_Regional_Map.mp3",
+    "bytes": 2282999,
+    "sha256": "c89d874a81592bafa544266c9ae39c5b32dde1a74125b76a397a43044ee507e8"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep12.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.provenance.json"
+  }
+}

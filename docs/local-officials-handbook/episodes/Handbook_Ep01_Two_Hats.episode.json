@@ -1,0 +1,24 @@
+{
+  "guid": "71d65e0a-1d31-5f0d-b5b3-7b0f91fc4332",
+  "publication_date": "2026-10-08T03:42:00Z",
+  "season": 1,
+  "episode": 1,
+  "explicit": false,
+  "duration_seconds": 163.66,
+  "enclosure_bytes": 1955777,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep01_Two_Hats.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep01_Two_Hats.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep01_Two_Hats.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep01.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep01_Two_Hats.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "232b343a8a0abe7560cbdd5e4cdae715283f37fa4b9536ce4d5c2b930a3ec676",
+    "audio_sha256": "77ba15f50cf4c91fd857feeeb08d2da19f4f0b097aa269229c79fd5ba5376c99"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep01_Two_Hats.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep01_Two_Hats.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep01_Two_Hats.provenance.json",
+  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.2"
+}

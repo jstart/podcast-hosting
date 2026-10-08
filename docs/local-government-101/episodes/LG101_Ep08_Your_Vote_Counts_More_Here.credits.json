@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Local Elections Coverage",
+      "author": "Ballotpedia",
+      "publisher": "Ballotpedia",
+      "url": "https://ballotpedia.org/Local_elections",
+      "license": "Copyrighted public reference; original summary and attribution only"
+    },
+    {
+      "title": "Local Government Basics",
+      "author": "Institute for Local Government",
+      "publisher": "Institute for Local Government",
+      "url": "https://www.ca-ilg.org/local-government-101",
+      "license": "No broad open license identified; public guidance summarized with attribution"
+    }
+  ]
+}

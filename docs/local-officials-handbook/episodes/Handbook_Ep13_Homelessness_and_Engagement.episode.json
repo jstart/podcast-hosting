@@ -1,0 +1,24 @@
+{
+  "guid": "3c91a918-e800-555c-a286-064d37ff5d2d",
+  "publication_date": "2026-10-08T03:42:00Z",
+  "season": 1,
+  "episode": 13,
+  "explicit": false,
+  "duration_seconds": 197.66,
+  "enclosure_bytes": 2381085,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep13_Homelessness_and_Engagement.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep13.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "0a70f8e29ba20645ef0bfd2fd89a35d6207f6ff18f813ed3e128463f69d6baf9",
+    "audio_sha256": "ba592372bce0cf84b321922957f24733770861440a981efeea5b3fa786a5a4c6"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.provenance.json",
+  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.2"
+}

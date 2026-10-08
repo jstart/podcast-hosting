@@ -1,0 +1,37 @@
+{
+  "stable_id": "86003e4a-a445-554c-a82b-94a46bfe1884",
+  "versions": [
+    {
+      "production_version": "2026.2",
+      "tts_model": {
+        "repo": "ResembleAI/chatterbox-turbo",
+        "revision": "Legacy render revision unavailable in repository provenance"
+      },
+      "asr_model": {
+        "repo": "Systran/faster-whisper-small.en",
+        "revision": "d1d751a5f8271d482d14ca55d9e2deeebbae577f"
+      },
+      "audio_source": "Existing Chatterbox Turbo narration remastered through the 2026.2 shared pipeline",
+      "source_retrieval_date": "2026-10-08",
+      "transcript_sha256": "0a4f7ac3da76cc18067c4370bbf93f3688dd635aa160e3953ebc9a71a67cb205",
+      "audio_sha256": "53fe99178170a7de372858a7211408a3bd71ecd2604686322d20df0a725a6789",
+      "supersedes": null
+    },
+    {
+      "production_version": "2026.2",
+      "tts_model": {
+        "repo": "ResembleAI/chatterbox-turbo",
+        "revision": "Legacy render revision unavailable in repository provenance"
+      },
+      "asr_model": {
+        "repo": "Systran/faster-whisper-small.en",
+        "revision": "d1d751a5f8271d482d14ca55d9e2deeebbae577f"
+      },
+      "audio_source": "Existing Chatterbox Turbo narration remastered through the 2026.2 shared pipeline",
+      "source_retrieval_date": "2026-10-08",
+      "transcript_sha256": "0a4f7ac3da76cc18067c4370bbf93f3688dd635aa160e3953ebc9a71a67cb205",
+      "audio_sha256": "a4e13710a25526f0ab4ba86c6743337261f1c76c430083059af64fa503257f85",
+      "supersedes": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stable_guid": "994b20e6-5c10-59a9-974e-2c6b43a160c3",
+  "show": "how-california-schools-work",
+  "episode": 1,
+  "title": "Why Schools Matter",
+  "release_version": "2026.2",
+  "release_tag": "how-california-schools-work-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep01_Why_Schools_Matter.mp3",
+    "bytes": 4422737,
+    "sha256": "fe92e8d13edf3d5b21545c9b6537c0b28d391f0dd8360c6e69da45e0ee0337ae"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep01_Why_Schools_Matter.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/how-california-schools-work/artwork/ep01.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep01_Why_Schools_Matter.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep01_Why_Schools_Matter.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep01_Why_Schools_Matter.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep01_Why_Schools_Matter.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep01_Why_Schools_Matter.provenance.json"
+  }
+}

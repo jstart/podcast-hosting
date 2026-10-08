@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:podhost="https://jstart.github.io/podcast-hosting/namespace/1.0" version="2.0">
+  <channel>
+    <title>Local Government and School Districts 101</title>
+    <link>https://jstart.github.io/podcast-hosting/local-government-101/</link>
+    <description>A 10-episode introduction to California cities, counties, special districts, school districts, public finance, voting, and civic participation.</description>
+    <language>en-us</language>
+    <generator>podcast-hosting/scripts/build_site.py</generator>
+    <itunes:author>Local Government and School Districts 101</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/cover.jpg" />
+    <image>
+      <url>https://jstart.github.io/podcast-hosting/local-government-101/cover.jpg</url>
+      <title>Local Government and School Districts 101</title>
+      <link>https://jstart.github.io/podcast-hosting/local-government-101/</link>
+    </image>
+    <podcast:locked owner="jstart">yes</podcast:locked>
+    <podcast:guid>37db7b61c421edc71da7af4354ef3aefd1425f2e64a64d0254793d571fd68b74</podcast:guid>
+    <podcast:person role="host" group="writing">Local Government and School Districts 101</podcast:person>
+    <podcast:license>See per-episode license and credits</podcast:license>
+    <item>
+      <title>Putting It All Together</title>
+      <description>Applies city, county, school district, planning, finance, and participation concepts to a Torrance development proposal.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.html</link>
+      <guid isPermaLink="false">f19ed06e-68ac-5d74-b219-1861b068990d</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep10_Putting_It_All_Together.mp3" length="2475426" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>209</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep10.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Local Government and School Districts 101</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.provenance.json</podhost:provenance>
+      <podhost:sha256>24bf4a190b36d1fb283066258e6a06236cfb5d9ae84ebf69de55de7839ba62da</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>How to Get Involved</title>
+      <description>Describes public comment, meeting records, information requests, and practical local participation.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.html</link>
+      <guid isPermaLink="false">aa59db72-37cd-5b06-ba33-12cc13e4f2e1</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep09_How_to_Get_Involved.mp3" length="2452200" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>201</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep09.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Local Government and School Districts 101</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.provenance.json</podhost:provenance>
+      <podhost:sha256>ff8fa69ce5ed29889c1f0971e8a6462742ce50782c9b223ac9e582ad6e113d3d</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Your Vote Counts More Here</title>
+      <description>Explains why participation and individual votes can carry unusual weight in local elections.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.html</link>
+      <guid isPermaLink="false">86b8cdee-0ec7-528a-8161-134da76d5e05</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep08_Your_Vote_Counts_More_Here.mp3" length="2573396" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>211</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep08.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Local Government and School Districts 101</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.provenance.json</podhost:provenance>
+      <podhost:sha256>f3743fc1b66402ce19e5f3cb6566e2a7d445039826e21f3494cc8a97a164de27</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Schools Are Local Government Too</title>
+      <description>Explains school district governance and its relationship to city government.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.html</link>
+      <guid isPermaLink="false">5e718acc-1193-568a-a430-f148d94c5a9b</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep07_Schools_Are_Local_Government_Too.mp3" length="2328284" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>188</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep07.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Local Government and School Districts 101</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.provenance.json</podhost:provenance>
+      <podhost:sha256>09ac1b88cab03e120d83b1cc3068b73b7352acf6463e831a03e000fbb5c301df</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>The City's Wallet</title>
+      <description>Distinguishes city funds and explains major municipal revenue, spending, reserve, and voter-approval choices.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.html</link>
+      <guid isPermaLink="false">3ae14d5d-33ff-5a51-bce0-e73f99d20196</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep06_The_City_s_Wallet.mp3" length="2647857" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>217</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep06.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Local Government and School Districts 101</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.provenance.json</podhost:provenance>
+      <podhost:sha256>0fcdf741cdfd4943bd42e8e84cb585730ab3b934447c6dcc770f6fa60d758f62</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Who Decides What Gets Built</title>
+      <description>Explains general plans, zoning, environmental review, housing law, and local development decisions.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.html</link>
+      <guid isPermaLink="false">c85eabb6-650f-5bb0-b694-cba71de1669b</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep05_Who_Decides_What_Gets_Built.mp3" length="2559453" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>208</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep05.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Local Government and School Districts 101</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.provenance.json</podhost:provenance>
+      <podhost:sha256>a4ae66393bc9a31b6a59628b833ff78e752782f3173e8f098fcbb463cc6b43dc</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>The Invisible Governments</title>
+      <description>Introduces special districts and the public services they provide outside ordinary city departments.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.html</link>
+      <guid isPermaLink="false">086a10fc-ca00-5ce3-bc9f-240a98dd6f2c</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep04_The_Invisible_Governments.mp3" length="2449812" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>201</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep04.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Local Government and School Districts 101</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.provenance.json</podhost:provenance>
+      <podhost:sha256>7812ec6a16b5c7d482a83c9d8ac7743f86b2b00ee255d80ab834c23afc8d7a72</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>The County Above You</title>
+      <description>Maps Los Angeles County authority and the responsibilities of its Board of Supervisors.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.html</link>
+      <guid isPermaLink="false">7c05183d-63f9-5054-9636-ef00dc1fb00d</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep03_The_County_Above_You.mp3" length="2454760" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>203</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep03.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Local Government and School Districts 101</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.provenance.json</podhost:provenance>
+      <podhost:sha256>f844bf6128acee6dabac649c13fb50009d312296834e771afc727ba527b5486a</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>City Hall 101</title>
+      <description>Explains charter-city authority, elected roles, management, departments, and public accountability in Torrance.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.html</link>
+      <guid isPermaLink="false">f72f2419-3638-53ba-ab84-65940e8de9be</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep02_City_Hall_101.mp3" length="2495500" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>206</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep02.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Local Government and School Districts 101</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.provenance.json</podhost:provenance>
+      <podhost:sha256>d50c14a9b730a14e415fd4b047c5acf6083b3ede87475833dd51e0a0975c3f45</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+    <item>
+      <title>Why Local Government Matters</title>
+      <description>Explains why nearby city, county, special district, and school district decisions directly shape daily life.</description>
+      <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.html</link>
+      <guid isPermaLink="false">fb375701-2512-523d-b74d-849c430df963</guid>
+      <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep01_Why_Local_Government_Matters.mp3" length="2425558" type="audio/mpeg" />
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:duration>200</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep01.jpg" />
+      <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.vtt" type="text/vtt" language="en" />
+      <podcast:chapters url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.chapters.json" type="application/json+chapters" />
+      <podcast:person role="host">Local Government and School Districts 101</podcast:person>
+      <podcast:license url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.md">Episode-specific terms</podcast:license>
+      <podcast:txt purpose="accessibility">https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.accessibility.json</podcast:txt>
+      <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.md</podhost:notes>
+      <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.manifest.json</podhost:manifest>
+      <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.provenance.json</podhost:provenance>
+      <podhost:sha256>660fea0780c8c9c5d5b7079f2630407ce3f9bec412ca71ef73f768f63d10d524</podhost:sha256>
+      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+    </item>
+  </channel>
+</rss>

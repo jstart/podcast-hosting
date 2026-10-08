@@ -1,0 +1,22 @@
+{
+  "stable_guid": "d8baa06f-3644-5606-a8d4-fcccbfe4499f",
+  "show": "local-officials-handbook",
+  "episode": 6,
+  "title": "Four Votes on the Council",
+  "release_version": "2026.2",
+  "release_tag": "local-officials-handbook-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep06_Four_Votes_on_the_Council.mp3",
+    "bytes": 2454684,
+    "sha256": "8faf1e2e82e26ddc83d77ccb7f9a07c0034388f5c14dbbb2ca1ef08c6e4ac2cc"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep06.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.provenance.json"
+  }
+}

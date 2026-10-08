@@ -1,0 +1,24 @@
+{
+  "guid": "c00ae451-b9e6-5d03-a48d-8808e3a07186",
+  "publication_date": "2026-10-08T03:42:00Z",
+  "season": 1,
+  "episode": 2,
+  "explicit": false,
+  "duration_seconds": 200.36,
+  "enclosure_bytes": 2418879,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep02_Open_Meetings_and_Public_Records.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep02.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "e9087c02a28252e007b47aa8ccdb255342c83fd00d8dceda57152ca982925109",
+    "audio_sha256": "3f59e8b4461050de53f57166c0fe57a1b9587fb57439615878dd993144c0b332"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.provenance.json",
+  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.2"
+}

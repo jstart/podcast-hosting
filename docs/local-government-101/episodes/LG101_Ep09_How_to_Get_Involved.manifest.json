@@ -1,0 +1,22 @@
+{
+  "stable_guid": "aa59db72-37cd-5b06-ba33-12cc13e4f2e1",
+  "show": "local-government-101",
+  "episode": 9,
+  "title": "How to Get Involved",
+  "release_version": "2026.2",
+  "release_tag": "local-government-101-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep09_How_to_Get_Involved.mp3",
+    "bytes": 2452200,
+    "sha256": "ff8fa69ce5ed29889c1f0971e8a6462742ce50782c9b223ac9e582ad6e113d3d"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep09.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.provenance.json"
+  }
+}

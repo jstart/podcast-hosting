@@ -1,0 +1,19 @@
+{
+  "persons": [
+    {
+      "name": "Synthetic narration using the production voice reference",
+      "role": "Narrator",
+      "group": "Creative Direction"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Local Official's Handbook",
+      "author": "Author unavailable in repository materials",
+      "cover_author": "Source author unavailable",
+      "publisher": "Publisher unavailable in repository materials",
+      "url": "https://github.com/jstart/podcast-tts/tree/main/local-officials-handbook-audio",
+      "license": "No source license identified in repository materials; all rights reserved unless the rights holder states otherwise"
+    }
+  ]
+}

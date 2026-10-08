@@ -1,0 +1,24 @@
+{
+  "guid": "9bf19d74-1ce0-5df7-95e7-a9a36a9edff4",
+  "publication_date": "2026-10-08T03:42:00Z",
+  "season": 1,
+  "episode": 9,
+  "explicit": false,
+  "duration_seconds": 187.9,
+  "enclosure_bytes": 2241178,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep09_Meeting_Craft.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep09_Meeting_Craft.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep09_Meeting_Craft.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep09.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep09_Meeting_Craft.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "6f8d12b3311bde39ceec3c779e840ab5326731203e6124b49a776229ec82d48f",
+    "audio_sha256": "3b094370165470aee48c2448f9c7c782c78f8fc8a5fc0e20b7827dd66db42cdc"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep09_Meeting_Craft.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep09_Meeting_Craft.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep09_Meeting_Craft.provenance.json",
+  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.2"
+}

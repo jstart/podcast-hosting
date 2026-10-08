@@ -1,0 +1,22 @@
+{
+  "stable_guid": "3503f9f9-51ce-523f-8a5c-c77a75847cd2",
+  "show": "local-officials-handbook",
+  "episode": 10,
+  "title": "Knowing Torrance's Plans",
+  "release_version": "2026.2",
+  "release_tag": "local-officials-handbook-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep10_Knowing_Torrance_s_Plans.mp3",
+    "bytes": 2555932,
+    "sha256": "b3e706c83eabe3303afe40ad00418d96f34de5f7817020416438e3420f3aebd7"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep10.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.provenance.json"
+  }
+}

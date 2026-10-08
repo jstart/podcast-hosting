@@ -1,0 +1,22 @@
+{
+  "stable_guid": "9afd6920-2c8c-50a9-a896-2e7d8b80c4c9",
+  "show": "local-officials-handbook",
+  "episode": 14,
+  "title": "Building Your Record",
+  "release_version": "2026.2",
+  "release_tag": "local-officials-handbook-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep14_Building_Your_Record.mp3",
+    "bytes": 1979764,
+    "sha256": "0ca4e1af1a7377b7b1bdf1d99ed071554b5778276d33c080bbde075ea2084d7c"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep14.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.provenance.json"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "stable_guid": "c0bfc783-9a8e-547a-9e77-c55501c69cc7",
+  "show": "how-california-schools-work",
+  "episode": 7,
+  "title": "The System",
+  "release_version": "2026.2",
+  "release_tag": "how-california-schools-work-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep07_The_System.mp3",
+    "bytes": 4310610,
+    "sha256": "7f7e751ecefa08ee63d1f3db34625b8b4d763a0b64348ee80ef28484ac52bff2"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep07_The_System.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/how-california-schools-work/artwork/ep07.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep07_The_System.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep07_The_System.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep07_The_System.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep07_The_System.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep07_The_System.provenance.json"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "stable_id": "9afd6920-2c8c-50a9-a896-2e7d8b80c4c9",
+  "versions": [
+    {
+      "production_version": "2026.2",
+      "tts_model": {
+        "repo": "ResembleAI/chatterbox-turbo",
+        "revision": "Legacy render revision unavailable in repository provenance"
+      },
+      "asr_model": {
+        "repo": "Systran/faster-whisper-small.en",
+        "revision": "d1d751a5f8271d482d14ca55d9e2deeebbae577f"
+      },
+      "audio_source": "Existing Chatterbox Turbo narration remastered through the 2026.2 shared pipeline",
+      "source_retrieval_date": "2026-10-08",
+      "transcript_sha256": "56cd3e266a8595d902bca4a186e624c1332950105f8f82f69513559d7b0068bb",
+      "audio_sha256": "0ca4e1af1a7377b7b1bdf1d99ed071554b5778276d33c080bbde075ea2084d7c",
+      "supersedes": null
+    }
+  ]
+}

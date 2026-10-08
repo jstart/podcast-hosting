@@ -1,0 +1,24 @@
+{
+  "guid": "3503f9f9-51ce-523f-8a5c-c77a75847cd2",
+  "publication_date": "2026-10-08T03:42:00Z",
+  "season": 1,
+  "episode": 10,
+  "explicit": false,
+  "duration_seconds": 211.84,
+  "enclosure_bytes": 2555932,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep10_Knowing_Torrance_s_Plans.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep10.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "e1382a3ebc932686059bf7321b740a537a410bf5c8b12fdae74b428b2b8ba6b9",
+    "audio_sha256": "b3e706c83eabe3303afe40ad00418d96f34de5f7817020416438e3420f3aebd7"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.provenance.json",
+  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.2"
+}

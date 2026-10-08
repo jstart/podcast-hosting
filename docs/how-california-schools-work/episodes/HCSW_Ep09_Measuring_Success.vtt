@@ -1,0 +1,285 @@
+WEBVTT
+
+1
+00:00:01.400 --> 00:00:06.005
+Everything we've covered so far is in service of one thing: students succeeding.
+
+2
+00:00:06.005 --> 00:00:09.171
+But what does success look like, and how would we know?
+
+3
+00:00:09.171 --> 00:00:11.013
+Today we look at the scoreboard.
+
+4
+00:00:11.013 --> 00:00:15.350
+Success means different things depending on where you're standing.
+
+5
+00:00:15.350 --> 00:00:30.597
+For an individual child, it might be something concrete and age-specific: reading fluently by the end of first grade, handling multiplication by fourth grade, finding a subject they love, or graduating ready for whatever comes next.
+
+6
+00:00:30.597 --> 00:00:34.671
+For the state as a whole, success gets measured in aggregates.
+
+7
+00:00:34.671 --> 00:00:45.383
+California's high school graduation rate has been sitting in the neighborhood of 83 to 87 percent in recent years, which is roughly in line with the national rate.
+
+8
+00:00:45.383 --> 00:00:54.649
+But that statewide number hides a persistent and well-documented gap: girls graduate at meaningfully higher rates than boys, year after year.
+
+9
+00:00:54.649 --> 00:01:00.301
+Both the individual view and the aggregate view matter, and they don't always line up.
+
+10
+00:01:00.301 --> 00:01:06.610
+A school can look fine on the dashboard while your own kid is quietly struggling, or vice versa.
+
+11
+00:01:06.610 --> 00:01:11.427
+For parents, the most practical question is still: how is my kid doing?
+
+12
+00:01:11.427 --> 00:01:20.383
+Report cards are one signal, but as we discussed in Episode 1, grades can be generous, and that generosity isn't evenly distributed.
+
+13
+00:01:20.383 --> 00:01:28.999
+Grade inflation tends to run worse at more affluent schools, where GPAs can drift upward even when test scores don't move much.
+
+14
+00:01:28.999 --> 00:01:34.902
+So a report card full of A's is worth double-checking against something more objective.
+
+15
+00:01:34.902 --> 00:01:50.507
+Your child's state test score report, which usually shows up in the summer or fall, compares them to grade-level standards, not to classmates, and sorts them into one of four levels: standard not met, nearly met, met, or exceeded.
+
+16
+00:01:50.507 --> 00:01:52.203
+Then talk to the teacher.
+
+17
+00:01:52.203 --> 00:01:57.902
+Ask what your child is working on, what they find hard, and what you can do at home.
+
+18
+00:01:57.902 --> 00:02:07.204
+That state test has a name: it's called Smarter Balanced, and it's administered through the CAASPP system we talked about back in Episode 6.
+
+19
+00:02:07.204 --> 00:02:11.988
+Standardized tests are controversial, and some of the criticism is fair.
+
+20
+00:02:11.988 --> 00:02:15.642
+A single test on a single day is an imperfect snapshot.
+
+21
+00:02:15.642 --> 00:02:19.828
+Tests measure some things well and plenty of things not at all.
+
+22
+00:02:19.828 --> 00:02:28.997
+It's also worth knowing that California used to have a separate high school exit exam, the CAHSEE, which students had to pass to graduate.
+
+23
+00:02:28.997 --> 00:02:40.558
+The state suspended that requirement in 2015 and formally eliminated it in 2017, partly out of concern that it was blocking diplomas for students who were otherwise on track.
+
+24
+00:02:40.558 --> 00:02:56.239
+And testing itself isn't immune to the world outside the classroom: in 2020, COVID shut down in-person testing for a huge share of California students, leaving a hole in the data for that year that researchers still have to work around.
+
+25
+00:02:56.239 --> 00:02:58.431
+None of that makes tests useless.
+
+26
+00:02:58.431 --> 00:03:03.016
+It just means they're one source of information, not the whole story.
+
+27
+00:03:03.016 --> 00:03:09.241
+At the high school level, the big question is readiness for whatever comes after graduation.
+
+28
+00:03:09.241 --> 00:03:27.781
+In California, a key benchmark, introduced back in Episode 6, is completing the A through G course sequence: classes in English, math, lab science, history, world language, and the arts, required for admission to the University of California and California State University.
+
+29
+00:03:27.781 --> 00:03:34.615
+Here's a sobering number: roughly half of California's graduating seniors don't finish that sequence.
+
+30
+00:03:34.615 --> 00:03:43.615
+Sometimes it's because they never had access to the right courses, sometimes because they fell behind early and never caught back up.
+
+31
+00:03:43.615 --> 00:03:46.321
+Part of the problem is capacity to help.
+
+32
+00:03:46.321 --> 00:03:56.877
+High school counselors, who are often the ones steering students toward A-G, are stretched thin, frequently responsible for several hundred students apiece.
+
+33
+00:03:56.877 --> 00:04:00.802
+That's not a lot of one-on-one time to catch a wrong turn.
+
+34
+00:04:00.802 --> 00:04:04.185
+And readiness isn't only about the academic track.
+
+35
+00:04:04.185 --> 00:04:17.650
+It also counts Career Technical Education pathways, industry certificates, and real work experience, which prepare students for careers just as much as a transcript full of college-prep classes does.
+
+36
+00:04:17.650 --> 00:04:25.470
+Behind every one of these measures is data, and California's data infrastructure is worth understanding on its own.
+
+37
+00:04:25.470 --> 00:04:35.397
+The backbone is CALPADS, the statewide system that tracks enrollment, courses, attendance, test results, and more for every public school student.
+
+38
+00:04:35.397 --> 00:04:41.585
+Much of it gets published on public websites where anyone can look up a school or district.
+
+39
+00:04:41.585 --> 00:05:05.996
+But CALPADS wasn't built to follow a student across their whole life, so the state has been building something bigger: a newer longitudinal data system sometimes called Cradle-to-Career, or P-20W, meant to connect records from early childhood all the way through the workforce, so researchers and policymakers can finally see the full arc of a student's path.
+
+40
+00:05:05.996 --> 00:05:09.056
+It's a promising idea, still being built out.
+
+41
+00:05:09.056 --> 00:05:20.887
+Independent reviews have repeatedly criticized California's data transparency as weak compared to other states, meaning even good data can sit locked up or hard to interpret.
+
+42
+00:05:20.887 --> 00:05:22.383
+Good data is powerful.
+
+43
+00:05:22.383 --> 00:05:24.763
+Data nobody can actually use isn't.
+
+44
+00:05:24.763 --> 00:05:37.542
+One thing the data reveals over and over is achievement gaps: consistent, large differences in outcomes between groups of students, by income, race and ethnicity, language, and disability.
+
+45
+00:05:37.542 --> 00:05:46.582
+Here's the finding that should give everyone pause: research over the past decade shows that many of these gaps haven't been closing.
+
+46
+00:05:46.582 --> 00:05:48.417
+They've mostly stayed flat.
+
+47
+00:05:48.417 --> 00:06:02.419
+It's tempting to say gaps "widen over time," but the more accurate picture from recent data is that they show up early, before kindergarten even, and then simply persist, year after year, grade after grade.
+
+48
+00:06:02.419 --> 00:06:05.410
+Large and stubborn, not necessarily growing.
+
+49
+00:06:05.410 --> 00:06:07.585
+These gaps aren't about ability.
+
+50
+00:06:07.585 --> 00:06:16.490
+They reflect real differences in opportunity, in and out of school, and closing them is the central challenge of the entire system.
+
+51
+00:06:16.490 --> 00:06:27.501
+It's exactly why the state's funding formula, the LCFF we covered in Episode 8, directs extra money specifically toward the student groups these gaps affect most.
+
+52
+00:06:27.501 --> 00:06:36.013
+That brings us to the California School Dashboard, the state's main report card for schools and districts, launched in 2017.
+
+53
+00:06:36.013 --> 00:06:45.349
+It replaced an older single-number rating called the Academic Performance Index, or API, which tried to boil a school down to one score.
+
+54
+00:06:45.349 --> 00:07:00.657
+The Dashboard instead shows a set of indicators side by side: English and math test results, progress of English learners, chronic absenteeism, suspension rates, graduation rates, and a college and career readiness measure.
+
+55
+00:07:00.657 --> 00:07:15.965
+Each indicator gets a color, from red at the bottom through orange, yellow, and green, up to blue at the top, and the color reflects two things at once: how a school is doing right now, and whether it's trending up or down.
+
+56
+00:07:15.965 --> 00:07:27.497
+Results are broken out for the school overall and for each student group, so a school can be green overall but red for one group, which tells you exactly where to look.
+
+57
+00:07:27.497 --> 00:07:33.195
+One well-known criticism of the Dashboard is that its results lag behind real time.
+
+58
+00:07:33.195 --> 00:07:45.208
+Third-grade test results, for instance, aren't reported back until families are already well into fourth grade, which makes it a rearview mirror rather than a real-time gauge.
+
+59
+00:07:45.208 --> 00:07:48.010
+Finally, what happens after high school?
+
+60
+00:07:48.010 --> 00:07:55.083
+California has one of the largest public higher education systems in the world, built on three parts.
+
+61
+00:07:55.083 --> 00:08:11.963
+The University of California focuses on research, and its systemwide eligibility guarantee draws from roughly the top nine percent of California public high school graduates statewide, with additional local guarantees at individual campuses.
+
+62
+00:08:11.963 --> 00:08:23.379
+The California State University system is one of the largest public university systems in the entire country, and it focuses on teaching and workforce preparation.
+
+63
+00:08:23.379 --> 00:08:33.955
+And the California Community Colleges, spread across more than a hundred campuses, are open to anyone and enroll well over a million students combined.
+
+64
+00:08:33.955 --> 00:08:50.134
+Many students start at a community college and transfer into a UC or CSU later, and a growing share of high schoolers now get a head start through dual enrollment, taking community college classes while still finishing high school.
+
+65
+00:08:50.134 --> 00:08:55.737
+Paying for it can be daunting, but California offers more help than most states.
+
+66
+00:08:55.737 --> 00:09:05.893
+The Cal Grant program covers tuition at UC and CSU for many eligible low-income students, and community college tuition is often waived outright.
+
+67
+00:09:05.893 --> 00:09:15.208
+The single most important step is filling out the FAFSA, or, for students who are undocumented, the California Dream Act Application.
+
+68
+00:09:15.208 --> 00:09:26.694
+Student loans can be a reasonable investment, but they add up fast: the average student loan debt nationally is now over twenty-eight thousand dollars per borrower.
+
+69
+00:09:26.694 --> 00:09:32.017
+Borrowing for a degree that never gets finished is the worst outcome of all.
+
+70
+00:09:32.017 --> 00:09:34.189
+The goal, always, is to finish.
+
+71
+00:09:34.189 --> 00:09:38.531
+For more, see Chapter 9 of the free Ed100 course at ed100.org.

@@ -1,0 +1,22 @@
+{
+  "stable_guid": "450c4113-431f-5955-b045-f5839f4be831",
+  "show": "how-california-schools-work",
+  "episode": 5,
+  "title": "Places for Learning",
+  "release_version": "2026.2",
+  "release_tag": "how-california-schools-work-v2026.2",
+  "enclosure": {
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep05_Places_for_Learning.mp3",
+    "bytes": 4305315,
+    "sha256": "a30095daf93fe45271601d002e58a0d04645287851471541b7e274b22b68ce96"
+  },
+  "pages": {
+    "canonical": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep05_Places_for_Learning.html",
+    "artwork": "https://jstart.github.io/podcast-hosting/how-california-schools-work/artwork/ep05.jpg",
+    "transcript": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep05_Places_for_Learning.vtt",
+    "chapters": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep05_Places_for_Learning.chapters.json",
+    "notes": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep05_Places_for_Learning.md",
+    "accessibility": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep05_Places_for_Learning.accessibility.json",
+    "provenance": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep05_Places_for_Learning.provenance.json"
+  }
+}

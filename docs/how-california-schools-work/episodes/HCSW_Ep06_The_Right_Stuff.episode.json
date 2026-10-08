@@ -1,0 +1,24 @@
+{
+  "guid": "d8e2b113-826c-5d63-8c12-03e9cb77c3b8",
+  "publication_date": "2026-10-08T03:42:00Z",
+  "season": 1,
+  "episode": 6,
+  "explicit": false,
+  "duration_seconds": 405.591,
+  "enclosure_bytes": 4660252,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep06_The_Right_Stuff.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep06_The_Right_Stuff.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep06_The_Right_Stuff.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/artwork/ep06.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep06_The_Right_Stuff.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "341087d4d6d0736bac3d050d697813c2c67d9971a1bbdf93ed05160e2240ec7a",
+    "audio_sha256": "d8b94a8da1777edddbb73fac98a4fd9da39f18e46d98a15447263605e74a0166"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep06_The_Right_Stuff.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep06_The_Right_Stuff.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep06_The_Right_Stuff.provenance.json",
+  "release_tag": "how-california-schools-work-v2026.2",
+  "release_version": "2026.2"
+}

@@ -1,0 +1,24 @@
+{
+  "guid": "c540d15c-f55f-54c6-acb8-8ec03283adff",
+  "publication_date": "2026-10-08T03:42:00Z",
+  "season": 1,
+  "episode": 4,
+  "explicit": false,
+  "duration_seconds": 353.153,
+  "enclosure_bytes": 4047111,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep04_Time_to_Learn.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep04_Time_to_Learn.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep04_Time_to_Learn.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/artwork/ep04.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep04_Time_to_Learn.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "ff052831250fef18d32fb040b6de7b1760bcfadabea94c6900f4aaf5402a3305",
+    "audio_sha256": "08683ba5671e205c68c2ac5bae1152c3f0319741291d23f69a1ab6d839c82533"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep04_Time_to_Learn.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep04_Time_to_Learn.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep04_Time_to_Learn.provenance.json",
+  "release_tag": "how-california-schools-work-v2026.2",
+  "release_version": "2026.2"
+}

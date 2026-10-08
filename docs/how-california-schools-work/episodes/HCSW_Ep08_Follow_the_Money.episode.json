@@ -1,0 +1,24 @@
+{
+  "guid": "63772d88-d2eb-5ff5-b311-d19b5547d79d",
+  "publication_date": "2026-10-08T03:42:00Z",
+  "season": 1,
+  "episode": 8,
+  "explicit": false,
+  "duration_seconds": 429.775,
+  "enclosure_bytes": 4917364,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/how-california-schools-work-v2026.2/HCSW_Ep08_Follow_the_Money.mp3",
+  "transcript_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep08_Follow_the_Money.vtt",
+  "chapters_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep08_Follow_the_Money.chapters.json",
+  "artwork_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/artwork/ep08.jpg",
+  "canonical_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep08_Follow_the_Money.html",
+  "support_url": null,
+  "checksums": {
+    "transcript_sha256": "049d87b4a4d67bd7948e895ba489c34fae3b4ebdbdc9155be4bd5c684cb3a979",
+    "audio_sha256": "99afbd9cccc307fd340c332907271601c40f37913497fe16bec69321e5a59893"
+  },
+  "accessibility_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep08_Follow_the_Money.accessibility.json",
+  "notes_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep08_Follow_the_Money.md",
+  "provenance_url": "https://jstart.github.io/podcast-hosting/how-california-schools-work/episodes/HCSW_Ep08_Follow_the_Money.provenance.json",
+  "release_tag": "how-california-schools-work-v2026.2",
+  "release_version": "2026.2"
+}
