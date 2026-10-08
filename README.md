@@ -1,12 +1,11 @@
 # Civic Audio Library
 
-Public hosting for 12 independently produced podcast courses. GitHub Pages serves the website, RSS feeds, artwork, transcripts, chapters, notes, accessibility records, provenance, and manifests. Immutable GitHub Releases serve MP3 enclosures.
+Public hosting for 11 independently produced podcast courses. GitHub Pages serves the website, RSS feeds, artwork, transcripts, chapters, notes, accessibility records, provenance, and manifests. Immutable GitHub Releases serve MP3 enclosures.
 
 Published site: <https://jstart.github.io/podcast-hosting/>
 
 ## Feeds
 
-- How California Schools Work: <https://jstart.github.io/podcast-hosting/how-california-schools-work/feed.xml>
 - Local Government and School Districts 101: <https://jstart.github.io/podcast-hosting/local-government-101/feed.xml>
 - The Local Official's Handbook: <https://jstart.github.io/podcast-hosting/local-officials-handbook/feed.xml>
 - Advanced Civic Planning: <https://jstart.github.io/podcast-hosting/advanced-civic-planning/feed.xml>

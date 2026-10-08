@@ -16,10 +16,6 @@ REPO = "podcast-hosting"
 BASE = f"https://{OWNER}.github.io/{REPO}"
 DOWNLOAD = f"https://github.com/{OWNER}/{REPO}/releases/download"
 SHOWS = {
-    "how-california-schools-work": {
-        "source_dir": ".",
-        "description": "A 10-episode companion course on California students, educators, governance, finance, standards, accountability, and school improvement."
-    },
     "local-government-101": {
         "source_dir": "local-government-101-podcast",
         "description": "A 10-episode introduction to California cities, counties, special districts, school districts, public finance, voting, and civic participation."

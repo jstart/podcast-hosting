@@ -15,7 +15,6 @@ python3 scripts/build_site.py --source "$SOURCE_ROOT"
 python3 scripts/validate.py docs
 
 for show in \
-  how-california-schools-work \
   local-government-101 \
   local-officials-handbook \
   advanced-civic-planning \
@@ -28,7 +27,6 @@ for show in \
   design-equity \
   environmental-justice-land-use-planning; do
   case "$show" in
-    how-california-schools-work) source_dir="$SOURCE_ROOT" ;;
     local-government-101) source_dir="$SOURCE_ROOT/local-government-101-podcast" ;;
     local-officials-handbook) source_dir="$SOURCE_ROOT/local-officials-handbook-audio" ;;
     *) source_dir="$SOURCE_ROOT/$show" ;;

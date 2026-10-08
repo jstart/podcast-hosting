@@ -10,7 +10,6 @@ import xml.etree.ElementTree as ET
 
 BASE = "https://jstart.github.io/podcast-hosting"
 EXPECTED = {
-    "how-california-schools-work": 10,
     "local-government-101": 10,
     "local-officials-handbook": 14,
     "advanced-civic-planning": 36,
