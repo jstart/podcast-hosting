@@ -47,6 +47,12 @@ def main():
         feed_url = manifest["stable_feed_url"]
         if feed_url not in home or quote(feed_url, safe="") not in home:
             fail(f"{show}: catalog discovery controls are incomplete")
+        ios_url = f"pktc://subscribe/{feed_url.split('://', 1)[1]}"
+        if ios_url not in home:
+            fail(f"{show}: catalog iOS Pocket Casts link is missing")
+        show_page = (docs / show / "index.html").read_text()
+        if quote(feed_url, safe="") not in show_page or ios_url not in show_page:
+            fail(f"{show}: show Pocket Casts links are incomplete")
         guids = [item.findtext("guid") for item in items]
         if len(guids) != len(set(guids)):
             fail(f"{show}: duplicate GUID")
@@ -106,6 +112,9 @@ def main():
             artwork = docs / show / "artwork" / f"ep{episode['episode']:02d}.jpg"
             if not artwork.is_file() or not artwork.read_bytes().startswith(b"\xff\xd8"):
                 fail(f"{show}: episode {episode['episode']} artwork is invalid")
+    site_js = (docs / "assets" / "site.js").read_text()
+    if "[data-pocket-casts-ios]" not in site_js or "document.visibilityState" not in site_js:
+        fail("Pocket Casts iOS fallback behavior is missing")
     print(f"Validated {len(EXPECTED)} feeds and {sum(EXPECTED.values())} episodes")
 
 

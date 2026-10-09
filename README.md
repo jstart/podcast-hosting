@@ -40,13 +40,19 @@ Never delete the old release. Existing downloads and provenance must remain reso
 
 ## Pocket Casts
 
-The site uses Pocket Casts' documented web Follow URL:
+The site keeps Pocket Casts' documented web Follow URL as each link's ordinary destination:
 
 ```text
 https://pocketcasts.com/follow/<percent-encoded-feed-url>
 ```
 
-It opens the podcast in Pocket Casts Web but does not follow automatically. The listener chooses **Follow** on the resulting page. Each show also has a prominent copy-feed control because pasting the RSS URL into Pocket Casts Discover or Search is the supported fallback.
+On iOS, a progressively enhanced click first tries Pocket Casts' documented app URL:
+
+```text
+pktc://subscribe/<feed-url-without-http-or-https>
+```
+
+If the app is unavailable, the browser returns to the web Follow URL. Other platforms use the web URL directly, and modified clicks keep normal browser behavior. Neither route follows automatically. The listener chooses **Follow** on the resulting page. Each show also has a prominent copy-feed control because pasting the RSS URL into Pocket Casts Discover or Search is the supported fallback.
 
 ## Safety
 

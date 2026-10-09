@@ -312,9 +312,16 @@ def layout(title, body, depth=""):
 """
 
 
+def pocket_casts_links(feed):
+    web = f"https://pocketcasts.com/follow/{quote(feed, safe='')}"
+    feed_without_scheme = re.sub(r"^https?://", "", feed)
+    ios = f"pktc://subscribe/{feed_without_scheme}"
+    return web, ios
+
+
 def show_card(show):
     feed = f"{BASE}/{show['id']}/feed.xml"
-    pocket = f"https://pocketcasts.com/follow/{quote(feed, safe='')}"
+    pocket, pocket_ios = pocket_casts_links(feed)
     return f"""
 <article class="show-card">
   <img src="{show['id']}/cover.jpg" alt="" width="560" height="560">
@@ -325,7 +332,7 @@ def show_card(show):
     <div class="actions">
       <a class="button" href="{show['id']}/feed.xml">RSS feed</a>
       <button data-copy="{feed}">Copy feed</button>
-      <a class="button secondary" href="{pocket}">Open in Pocket Casts</a>
+      <a class="button secondary" href="{pocket}" data-pocket-casts-ios="{pocket_ios}">Open in Pocket Casts</a>
     </div>
   </div>
 </article>"""
@@ -333,7 +340,7 @@ def show_card(show):
 
 def show_page(show):
     feed = show["stable_feed_url"]
-    pocket = f"https://pocketcasts.com/follow/{quote(feed, safe='')}"
+    pocket, pocket_ios = pocket_casts_links(feed)
     episode_rows = "".join(
         f'<li><span>{item["episode"]:02d}</span><a href="episodes/{quote(item["pages"]["canonical"].rsplit("/", 1)[-1])}">{html.escape(item["title"])}</a></li>'
         for item in show["episodes"]
@@ -346,9 +353,9 @@ def show_page(show):
   <div class="actions">
     <a class="button" href="feed.xml">RSS feed</a>
     <button data-copy="{feed}">Copy feed</button>
-    <a class="button secondary" href="{pocket}">Open in Pocket Casts</a>
+    <a class="button secondary" href="{pocket}" data-pocket-casts-ios="{pocket_ios}">Open in Pocket Casts</a>
   </div>
-  <p class="hint">Pocket Casts opens the feed in its web player. Choose Follow there. If lookup is delayed, copy the RSS URL and paste it into Discover or Search.</p>
+  <p class="hint">On iOS, Pocket Casts opens the feed in the app when installed. Otherwise, the web player opens. Choose Follow there. If lookup is delayed, copy the RSS URL and paste it into Discover or Search.</p>
 </section>
 <section><h2>Episodes</h2><ol class="episode-list">{episode_rows}</ol></section>"""
     return layout(show["title"], body, "../")
@@ -388,7 +395,7 @@ def write_static(docs, shows):
 <section aria-labelledby="shows"><h2 id="shows">The collection</h2>{cards}</section>
 <aside class="pocket-note">
   <h2>Pocket Casts</h2>
-  <p>Each Pocket Casts action uses its documented web Follow URL. It opens the feed page but does not follow automatically. Choose Follow, or copy the RSS URL and paste it into Discover or Search.</p>
+  <p>On iOS, each Pocket Casts action opens the feed in the app when installed. Other devices and iOS devices without the app use Pocket Casts Web. Neither route follows automatically. Choose Follow, or copy the RSS URL and paste it into Discover or Search.</p>
 </aside>"""
     (docs / "index.html").write_text(layout("Civic Audio Library", body))
     assets = docs / "assets"
@@ -418,6 +425,29 @@ document.querySelectorAll("[data-copy]").forEach((button) => {
     setTimeout(() => { button.textContent = old; }, 1600);
   });
 });
+
+const isIOS = /^(iPhone|iPad|iPod)$/.test(navigator.platform)
+  || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+
+if (isIOS) {
+  document.querySelectorAll("[data-pocket-casts-ios]").forEach((link) => {
+    link.addEventListener("click", (event) => {
+      if (event.defaultPrevented || event.button !== 0
+          || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) {
+        return;
+      }
+      event.preventDefault();
+      const fallback = link.href;
+      const timer = setTimeout(() => {
+        if (document.visibilityState === "visible") {
+          window.location.assign(fallback);
+        }
+      }, 1200);
+      window.addEventListener("pagehide", () => clearTimeout(timer), { once: true });
+      window.location.assign(link.dataset.pocketCastsIos);
+    });
+  });
+}
 """
 
 
