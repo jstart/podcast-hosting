@@ -3,12 +3,12 @@
   "show": "public-policy-prep",
   "episode": 2,
   "title": "Public Opinion, Elections, and Governing Institutions",
-  "release_version": "2026.2",
-  "release_tag": "public-policy-prep-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "public-policy-prep-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.mp3",
-    "bytes": 7350127,
-    "sha256": "f78e32a527a9760bbd7dfdc22a4a0173ba792a047ac8b243178c29eee3857dd1"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.mp3",
+    "bytes": 7246427,
+    "sha256": "caa2f45701b7546f49b1f508d2de5f0e3757b9012e5edae6f3c6f41190cabe99"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.html",

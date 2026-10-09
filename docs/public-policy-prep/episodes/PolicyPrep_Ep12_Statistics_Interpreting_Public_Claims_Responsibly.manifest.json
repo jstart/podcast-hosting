@@ -3,12 +3,12 @@
   "show": "public-policy-prep",
   "episode": 12,
   "title": "Statistics: Interpreting Public Claims Responsibly",
-  "release_version": "2026.2",
-  "release_tag": "public-policy-prep-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "public-policy-prep-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.mp3",
-    "bytes": 6938209,
-    "sha256": "1ea7a882f71f8341fce4fc44b54a2f0544913959807babed96e9c93c0a3ceec0"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.mp3",
+    "bytes": 6813800,
+    "sha256": "e59ad860040ea094c2e59fd0fc80e1fed1a6fffda2d4b827c4803fdf7cda63f0"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.html",

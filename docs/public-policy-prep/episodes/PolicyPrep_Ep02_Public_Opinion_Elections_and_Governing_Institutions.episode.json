@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 2,
   "explicit": false,
-  "duration_seconds": 642.7,
-  "enclosure_bytes": 7350127,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.mp3",
+  "duration_seconds": 630.007,
+  "enclosure_bytes": 7246427,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep02.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "ea4141b6e39246cbc5ac566ca6043f6e588dd313a5f0229265725fc01e53bc09",
-    "audio_sha256": "f78e32a527a9760bbd7dfdc22a4a0173ba792a047ac8b243178c29eee3857dd1"
+    "transcript_sha256": "232cf5d37a541e88da73898c257220dfe5dad4874208245624d2e6427551b830",
+    "audio_sha256": "caa2f45701b7546f49b1f508d2de5f0e3757b9012e5edae6f3c6f41190cabe99"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.provenance.json",
-  "release_tag": "public-policy-prep-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "public-policy-prep-v2026.3",
+  "release_version": "2026.3"
 }

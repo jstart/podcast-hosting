@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 4,
   "explicit": false,
-  "duration_seconds": 652.48,
-  "enclosure_bytes": 7495871,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.mp3",
+  "duration_seconds": 628.985,
+  "enclosure_bytes": 7286273,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep04.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "8685b5a3b3bd069878e719472df2d99cf671f659afdfe786eac63d30131f9c1b",
-    "audio_sha256": "0ae483140abf303ee374b838b9296609779e1d0279e51ed7adc528b8b11729d9"
+    "transcript_sha256": "21b7bf99b681339d0559b62436f57530f3c22b2ab0a68516aed6a2752fea26c8",
+    "audio_sha256": "0baf2d744c78064ab01dc4cde2b64a72bc8da7322bb714b66e5137b58f2c056f"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.provenance.json",
-  "release_tag": "public-policy-prep-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "public-policy-prep-v2026.3",
+  "release_version": "2026.3"
 }

@@ -3,12 +3,12 @@
   "show": "public-policy-prep",
   "episode": 11,
   "title": "Algebra: Functions, Change, and Review",
-  "release_version": "2026.2",
-  "release_tag": "public-policy-prep-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "public-policy-prep-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.mp3",
-    "bytes": 6867724,
-    "sha256": "88cbf99b2474ad789208629d5a40c377d25343f94eb8de8e6316b15115647d50"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.mp3",
+    "bytes": 6557422,
+    "sha256": "bc5628b36695748f2096ba802a0bbb7368fcf844c71394c8fbe541116b84a48c"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.html",

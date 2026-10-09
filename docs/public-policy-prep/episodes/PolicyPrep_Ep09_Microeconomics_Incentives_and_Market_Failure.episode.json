@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 9,
   "explicit": false,
-  "duration_seconds": 591.701,
-  "enclosure_bytes": 6802151,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.mp3",
+  "duration_seconds": 572.96,
+  "enclosure_bytes": 6626357,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep09.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "8059de95c6e20ff68bd218017faa5d908396b9edfcddbe7f59ef8f60eb47ca44",
-    "audio_sha256": "8e106640fc143194eee7edf05e35b7f3d2348c02c5e2ca23d249c752d117be9c"
+    "transcript_sha256": "a9958174edff92573a541c359a09eadeec221f783e9e9cac9c3fa50466b33185",
+    "audio_sha256": "dbff340166958b3faddea7cf7ecb76c0bedf29ff22f83dc55d50ee4273257a41"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.provenance.json",
-  "release_tag": "public-policy-prep-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "public-policy-prep-v2026.3",
+  "release_version": "2026.3"
 }

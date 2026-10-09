@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 6,
   "explicit": false,
-  "duration_seconds": 584.28,
-  "enclosure_bytes": 6757949,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.mp3",
+  "duration_seconds": 569.411,
+  "enclosure_bytes": 6594916,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep06.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "4af969070c3e650e2508bf3c2acacabd21e0dbfc3f610b40740aad0fde2b44cc",
-    "audio_sha256": "e8722f35b3abf1f9dd0f39e0f7497f30b9ae765935d0a67ab67404098042cfe3"
+    "transcript_sha256": "287a63ce998201fa4d05d903bd211be3f93c86ecfc85813f25a95382bc77672e",
+    "audio_sha256": "1f2aee49ae84c4d8c30f5a57d333c7af98d36561c206371a805e24f8a978972b"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.provenance.json",
-  "release_tag": "public-policy-prep-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "public-policy-prep-v2026.3",
+  "release_version": "2026.3"
 }

@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 8,
   "explicit": false,
-  "duration_seconds": 619.82,
-  "enclosure_bytes": 7104025,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.mp3",
+  "duration_seconds": 594.898,
+  "enclosure_bytes": 6852805,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep08.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "67cf7f38b6ca01962fd414aa3b9fb75151822c2833ae0dd057829361e88474b7",
-    "audio_sha256": "9653288e54dd9206b57e2bc71a6fb558264d3cb9318e5632e822cb53465c58b4"
+    "transcript_sha256": "d338c91798ca20fef0edbd6378a0f15a18851b70b6c85c2324ccf9ea25068027",
+    "audio_sha256": "2a8eeedcb0ab09397420582d0a59984e9478581bfc64d403d6d321e81bfcb36d"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.provenance.json",
-  "release_tag": "public-policy-prep-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "public-policy-prep-v2026.3",
+  "release_version": "2026.3"
 }

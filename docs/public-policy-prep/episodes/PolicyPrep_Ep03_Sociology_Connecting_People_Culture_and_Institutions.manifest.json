@@ -3,12 +3,12 @@
   "show": "public-policy-prep",
   "episode": 3,
   "title": "Sociology: Connecting People, Culture, and Institutions",
-  "release_version": "2026.2",
-  "release_tag": "public-policy-prep-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "public-policy-prep-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.mp3",
-    "bytes": 7513178,
-    "sha256": "2a241efdd9a3c735189379342c18f567f92f0fccb3a23346db71e992b384500a"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.mp3",
+    "bytes": 7288307,
+    "sha256": "568439b16493f2004478787c2ea47dc52e2b9f5f8096f1bd4f6888cb20356250"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.html",

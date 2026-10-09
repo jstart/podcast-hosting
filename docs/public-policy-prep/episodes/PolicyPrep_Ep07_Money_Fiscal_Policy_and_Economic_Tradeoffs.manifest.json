@@ -3,12 +3,12 @@
   "show": "public-policy-prep",
   "episode": 7,
   "title": "Money, Fiscal Policy, and Economic Tradeoffs",
-  "release_version": "2026.2",
-  "release_tag": "public-policy-prep-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "public-policy-prep-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.mp3",
-    "bytes": 6991031,
-    "sha256": "db81b1c5f3e9d0a036dd90965e14c335ec8e747c35187d551655160a6130222a"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.mp3",
+    "bytes": 6867425,
+    "sha256": "c71a48094dac3ae0a92bc0e0683e136b1c547896dfa6ccdf3212225a246d1c83"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.html",

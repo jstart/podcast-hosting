@@ -1,545 +1,561 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:03.418
+00:00:01.400 --> 00:00:04.991
 A California county reports a backlog of one hundred applications.
 
 2
-00:00:03.418 --> 00:00:10.410
+00:00:04.991 --> 00:00:12.337
 Will the backlog rise by ten applications each week, rise by ten percent each week, or rise and then fall after temporary staff arrive?
 
 3
-00:00:10.410 --> 00:00:12.533
+00:00:12.337 --> 00:00:14.568
 Those are different mathematical stories.
 
 4
-00:00:12.533 --> 00:00:15.589
+00:00:14.568 --> 00:00:17.779
 What evidence would let a policy analyst choose among them?
 
 5
-00:00:15.589 --> 00:00:17.280
+00:00:17.779 --> 00:00:19.713
 This is study preparation only.
 
 6
-00:00:17.280 --> 00:00:20.227
+00:00:19.713 --> 00:00:23.083
 It awards no score, course credit, or transfer credit.
 
 7
-00:00:20.227 --> 00:00:27.047
+00:00:23.083 --> 00:00:30.882
 Use the audio to guide written practice, then check institutional rules before treating any outside course or exam as credit.
 
 8
-00:00:27.047 --> 00:00:28.963
+00:00:30.882 --> 00:00:32.916
 A function is not just a formula.
 
 9
-00:00:28.963 --> 00:00:32.330
+00:00:32.916 --> 00:00:36.492
 It is a rule that gives one output for each allowed input.
 
 10
-00:00:32.330 --> 00:00:36.103
+00:00:36.492 --> 00:00:40.499
 You can describe it with words, a table, a graph, or an equation.
 
 11
-00:00:36.103 --> 00:00:38.425
+00:00:40.499 --> 00:00:42.965
 Good algebra moves among all four forms.
 
 12
-00:00:38.425 --> 00:00:39.529
+00:00:42.965 --> 00:00:44.136
 Start with a table.
 
 13
-00:00:39.529 --> 00:00:42.199
+00:00:44.136 --> 00:00:46.972
 In week zero, a permit backlog is one hundred.
 
 14
-00:00:42.199 --> 00:00:44.231
+00:00:46.972 --> 00:00:49.130
 In week one, it is one hundred ten.
 
 15
-00:00:44.231 --> 00:00:46.437
+00:00:49.130 --> 00:00:51.473
 In week two, it is one hundred twenty.
 
 16
-00:00:46.437 --> 00:00:48.759
+00:00:51.473 --> 00:00:53.939
 In week three, it is one hundred thirty.
 
 17
-00:00:48.759 --> 00:00:51.313
+00:00:53.939 --> 00:00:56.651
 The first differences are ten, ten, and ten.
 
 18
-00:00:51.313 --> 00:00:54.390
+00:00:56.651 --> 00:00:59.919
 A constant first difference signals a linear pattern.
 
 19
-00:00:54.390 --> 00:00:57.990
+00:00:59.919 --> 00:01:03.741
 The spoken rule is: start at one hundred and add ten per week.
 
 20
-00:00:57.990 --> 00:01:00.776
+00:01:03.741 --> 00:01:06.700
 The rate of change is ten applications per week.
 
 21
-00:01:00.776 --> 00:01:01.995
+00:01:06.700 --> 00:01:07.994
 Now change the table.
 
 22
-00:01:01.995 --> 00:01:03.447
+00:01:07.994 --> 00:01:09.536
 Week zero is one hundred.
 
 23
-00:01:03.447 --> 00:01:05.072
+00:01:09.536 --> 00:01:11.262
 Week one is one hundred ten.
 
 24
-00:01:05.072 --> 00:01:07.104
+00:01:11.262 --> 00:01:13.420
 Week two is one hundred twenty-one.
 
 25
-00:01:07.104 --> 00:01:09.716
+00:01:13.420 --> 00:01:16.194
 Week three is about one hundred thirty-three.
 
 26
-00:01:09.716 --> 00:01:15.173
+00:01:16.194 --> 00:01:21.989
 Here the ratios are constant because each value is one and one tenth times the previous value.
 
 27
-00:01:15.173 --> 00:01:18.134
+00:01:21.989 --> 00:01:25.133
 This is exponential growth at ten percent per week.
 
 28
-00:01:18.134 --> 00:01:20.166
+00:01:25.133 --> 00:01:27.291
 Linear growth adds the same amount.
 
 29
-00:01:20.166 --> 00:01:23.011
+00:01:27.291 --> 00:01:30.311
 Exponential growth multiplies by the same factor.
 
 30
-00:01:23.011 --> 00:01:26.494
+00:01:30.311 --> 00:01:34.010
 The two models agree after one week and separate after that.
 
 31
-00:01:26.494 --> 00:01:30.441
+00:01:34.010 --> 00:01:38.202
 A convenient first data point is not enough to identify the pattern.
 
 32
-00:01:30.441 --> 00:01:38.163
+00:01:38.202 --> 00:01:46.402
 Look across several periods, examine differences and ratios, and ask whether a staffing change or capacity limit altered the process.
 
 33
-00:01:38.163 --> 00:01:40.717
+00:01:46.402 --> 00:01:49.114
 Function notation helps organize evaluation.
 
 34
-00:01:40.717 --> 00:01:45.942
+00:01:49.114 --> 00:01:54.663
 If f of x equals x squared minus four x, then f of three means replace every x with three.
 
 35
-00:01:45.942 --> 00:01:47.219
+00:01:54.663 --> 00:01:56.019
 Three squared is nine.
 
 36
-00:01:47.219 --> 00:01:48.786
+00:01:56.019 --> 00:01:57.683
 Four times three is twelve.
 
 37
-00:01:48.786 --> 00:01:50.876
+00:01:57.683 --> 00:01:59.903
 Nine minus twelve is negative three.
 
 38
-00:01:50.876 --> 00:01:53.953
+00:01:59.903 --> 00:02:03.170
 Parentheses matter when substituting negative values.
 
 39
-00:01:53.953 --> 00:02:00.862
+00:02:03.170 --> 00:02:10.506
 For f of negative two, negative two squared is four, while negative four times negative two contributes positive eight.
 
 40
-00:02:00.862 --> 00:02:02.081
+00:02:10.506 --> 00:02:11.801
 The output is twelve.
 
 41
-00:02:02.081 --> 00:02:05.274
+00:02:11.801 --> 00:02:15.192
 Domain restrictions come from both algebra and context.
 
 42
-00:02:05.274 --> 00:02:09.337
+00:02:15.192 --> 00:02:19.507
 A denominator cannot equal zero because division by zero is undefined.
 
 43
-00:02:09.337 --> 00:02:13.749
+00:02:19.507 --> 00:02:24.192
 A square root, when working with real numbers, cannot take a negative input.
 
 44
-00:02:13.749 --> 00:02:17.465
+00:02:24.192 --> 00:02:28.138
 In a county workload model, time may be nonnegative whole weeks.
 
 45
-00:02:17.465 --> 00:02:20.890
+00:02:28.138 --> 00:02:31.775
 A formula can accept a value that the public system cannot.
 
 46
-00:02:20.890 --> 00:02:25.565
+00:02:31.775 --> 00:02:36.565
 Polynomial functions combine powers of a variable with numerical coefficients.
 
 47
-00:02:25.565 --> 00:02:29.221
+00:02:36.565 --> 00:02:40.311
 A quadratic has degree two, meaning its highest power is two.
 
 48
-00:02:29.221 --> 00:02:30.660
+00:02:40.311 --> 00:02:41.785
 Its graph is a parabola.
 
 49
-00:02:30.660 --> 00:02:34.915
+00:02:41.785 --> 00:02:46.145
 It can decrease, turn, and increase, so a constant-rate story may fail.
 
 50
-00:02:34.915 --> 00:02:38.032
+00:02:46.145 --> 00:02:49.339
 Factoring can reveal where a polynomial equals zero.
 
 51
-00:02:38.032 --> 00:02:41.029
+00:02:49.339 --> 00:02:52.409
 Solve x squared minus five x plus six equals zero.
 
 52
-00:02:41.029 --> 00:02:45.345
+00:02:52.409 --> 00:02:56.831
 Find two numbers that multiply to positive six and add to negative five.
 
 53
-00:02:45.345 --> 00:02:47.802
+00:02:56.831 --> 00:02:59.349
 They are negative two and negative three.
 
 54
-00:02:47.802 --> 00:02:51.278
+00:02:59.349 --> 00:03:02.911
 The expression factors as x minus two times x minus three.
 
 55
-00:02:51.278 --> 00:02:54.335
+00:03:02.911 --> 00:03:06.043
 A product is zero when at least one factor is zero.
 
 56
-00:02:54.335 --> 00:02:56.793
+00:03:06.043 --> 00:03:08.560
 Therefore x equals two or x equals three.
 
 57
-00:02:56.793 --> 00:02:59.130
+00:03:08.560 --> 00:03:10.955
 Check: four minus ten plus six is zero.
 
 58
-00:02:59.130 --> 00:03:01.588
+00:03:10.955 --> 00:03:13.473
 Nine minus fifteen plus six is also zero.
 
 59
-00:03:01.588 --> 00:03:05.304
+00:03:13.473 --> 00:03:17.281
 The quadratic formula handles cases that do not factor easily.
 
 60
-00:03:05.304 --> 00:03:11.298
+00:03:17.281 --> 00:03:23.422
 For today, recognize its purpose: it finds solutions to a quadratic equation using the coefficients.
 
 61
-00:03:11.298 --> 00:03:17.291
+00:03:23.422 --> 00:03:29.563
 Also recognize that a negative value under its square root means there are no real-number solutions.
 
 62
-00:03:17.291 --> 00:03:20.948
+00:03:29.563 --> 00:03:33.309
 Do not force a real answer when the algebra says none exists.
 
 63
-00:03:20.948 --> 00:03:23.705
+00:03:33.309 --> 00:03:36.134
 A rational function is a ratio of polynomials.
 
 64
-00:03:23.705 --> 00:03:29.878
+00:03:36.134 --> 00:03:42.460
 Consider one hundred divided by x, where x is the number of crews sharing one hundred inspection hours.
 
 65
-00:03:29.878 --> 00:03:33.055
+00:03:42.460 --> 00:03:45.714
 With two crews, the model gives fifty hours per crew.
 
 66
-00:03:33.055 --> 00:03:34.673
+00:03:45.714 --> 00:03:47.372
 With five, it gives twenty.
 
 67
-00:03:34.673 --> 00:03:36.052
+00:03:47.372 --> 00:03:48.785
 With ten, it gives ten.
 
 68
-00:03:36.052 --> 00:03:37.311
+00:03:48.785 --> 00:03:50.075
 But x cannot be zero.
 
 69
-00:03:37.311 --> 00:03:43.364
+00:03:50.075 --> 00:03:56.277
 Near zero, the model behaves dramatically, which warns us that a rational relationship is not linear.
 
 70
-00:03:43.364 --> 00:03:46.721
+00:03:56.277 --> 00:03:59.716
 Rational equations require checking for excluded values.
 
 71
-00:03:46.721 --> 00:03:49.059
+00:03:59.716 --> 00:04:02.111
 Solve twelve divided by x equals three.
 
 72
-00:03:49.059 --> 00:03:51.995
+00:04:02.111 --> 00:04:05.120
 Multiply both sides by x, provided x is not zero.
 
 73
-00:03:51.995 --> 00:03:53.314
+00:04:05.120 --> 00:04:06.471
 Twelve equals three x.
 
 74
-00:03:53.314 --> 00:03:55.352
+00:04:06.471 --> 00:04:08.559
 Divide by three, so x equals four.
 
 75
-00:03:55.352 --> 00:03:59.488
+00:04:08.559 --> 00:04:12.797
 Check four in the original equation: twelve divided by four is three.
 
 76
-00:03:59.488 --> 00:04:02.724
+00:04:12.797 --> 00:04:16.113
 The check confirms both the arithmetic and the domain.
 
 77
-00:04:02.724 --> 00:04:07.639
+00:04:16.113 --> 00:04:21.149
 An inverse function reverses an input-output process when that reversal is unique.
 
 78
-00:04:07.639 --> 00:04:12.075
+00:04:21.149 --> 00:04:25.693
 Suppose cost equals fifty plus twenty times the number of service batches.
 
 79
-00:04:12.075 --> 00:04:16.630
+00:04:25.693 --> 00:04:30.360
 To recover batches from a known cost, subtract fifty, then divide by twenty.
 
 80
-00:04:16.630 --> 00:04:22.504
+00:04:30.360 --> 00:04:36.379
 A cost of one hundred fifty gives one hundred after subtraction, then five batches after division.
 
 81
-00:04:22.504 --> 00:04:25.800
+00:04:36.379 --> 00:04:39.756
 Not every function has an inverse over its full domain.
 
 82
-00:04:25.800 --> 00:04:32.154
+00:04:39.756 --> 00:04:46.266
 Squaring sends both three and negative three to nine, so seeing nine does not reveal which input was used.
 
 83
-00:04:32.154 --> 00:04:36.409
+00:04:46.266 --> 00:04:50.626
 Restricting the domain to nonnegative inputs makes the reversal unique.
 
 84
-00:04:36.409 --> 00:04:41.624
+00:04:50.626 --> 00:04:55.969
 In public data, the same caution applies: one outcome may have several possible inputs.
 
 85
-00:04:41.624 --> 00:04:44.691
+00:04:55.969 --> 00:04:59.165
 Exponential functions model constant percentage change.
 
 86
-00:04:44.691 --> 00:04:49.096
+00:04:59.165 --> 00:05:03.757
 Begin with two hundred online requests and increase by five percent each month.
 
 87
-00:04:49.096 --> 00:04:50.880
+00:05:03.757 --> 00:05:05.616
 Multiply by one point zero five.
 
 88
-00:04:50.880 --> 00:04:53.278
+00:05:05.616 --> 00:05:08.115
 After one month, there are two hundred ten.
 
 89
-00:04:53.278 --> 00:04:59.077
+00:05:08.115 --> 00:05:14.159
 After two months, multiply two hundred ten by one point zero five, giving two hundred twenty point five.
 
 90
-00:04:59.077 --> 00:05:05.546
+00:05:14.159 --> 00:05:20.901
 A count would need sensible rounding, but keep the decimal during calculation to avoid compounding a rounding error.
 
 91
-00:05:05.546 --> 00:05:08.501
+00:05:20.901 --> 00:05:23.981
 Exponential decay uses a factor between zero and one.
 
 92
-00:05:08.501 --> 00:05:13.296
+00:05:23.981 --> 00:05:28.979
 A ten percent monthly reduction leaves ninety percent, so multiply by zero point nine.
 
 93
-00:05:13.296 --> 00:05:19.430
+00:05:28.979 --> 00:05:35.372
 A backlog of five hundred becomes four hundred fifty after one month, then four hundred five after two months.
 
 94
-00:05:19.430 --> 00:05:24.114
+00:05:35.372 --> 00:05:40.254
 Subtracting fifty each month would be linear decay and would tell a different story.
 
 95
-00:05:24.114 --> 00:05:26.400
+00:05:40.254 --> 00:05:42.636
 A logarithm answers an exponent question.
 
 96
-00:05:26.400 --> 00:05:31.586
+00:05:42.636 --> 00:05:48.041
 If two raised to the third power equals eight, then the base-two logarithm of eight is three.
 
 97
-00:05:31.586 --> 00:05:37.441
+00:05:48.041 --> 00:05:54.143
 In policy forecasting, a logarithm can answer how many compounding periods it takes to cross a threshold.
 
 98
-00:05:37.441 --> 00:05:40.341
+00:05:54.143 --> 00:05:57.166
 The base and the growth factor must match the model.
 
 99
-00:05:40.341 --> 00:05:44.411
+00:05:57.166 --> 00:06:01.408
 Exponential equations can sometimes be solved by recognizing equal bases.
 
 100
-00:05:44.411 --> 00:05:46.642
+00:06:01.408 --> 00:06:03.733
 Solve two raised to x equals thirty-two.
 
 101
-00:05:46.642 --> 00:05:50.099
+00:06:03.733 --> 00:06:07.336
 Thirty-two is two raised to the fifth power, so x equals five.
 
 102
-00:05:50.099 --> 00:05:53.779
+00:06:07.336 --> 00:06:11.172
 When equal bases are not obvious, logarithms isolate the exponent.
 
 103
-00:05:53.779 --> 00:06:01.195
+00:06:11.172 --> 00:06:18.901
 A calculator gives an approximation, but the interpretation remains "the number of growth periods." Sequences describe ordered terms.
 
 104
-00:06:01.195 --> 00:06:03.370
+00:06:18.901 --> 00:06:21.168
 An arithmetic sequence adds a constant.
 
 105
-00:06:03.370 --> 00:06:08.333
+00:06:21.168 --> 00:06:26.340
 Starting at fifty and adding eight gives fifty, fifty-eight, sixty-six, and seventy-four.
 
 106
-00:06:08.333 --> 00:06:10.898
+00:06:26.340 --> 00:06:29.013
 A geometric sequence multiplies by a constant.
 
 107
-00:06:10.898 --> 00:06:16.307
+00:06:29.013 --> 00:06:34.651
 Starting at fifty and multiplying by two gives fifty, one hundred, two hundred, and four hundred.
 
 108
-00:06:16.307 --> 00:06:18.426
+00:06:34.651 --> 00:06:36.859
 A series is the sum of sequence terms.
 
 109
-00:06:18.426 --> 00:06:20.043
+00:06:36.859 --> 00:06:38.544
 Now apply the models locally.
 
 110
-00:06:20.043 --> 00:06:26.121
+00:06:38.544 --> 00:06:44.879
 A California city sees one hundred code-enforcement cases, then one hundred ten, then one hundred twenty-one.
 
 111
-00:06:26.121 --> 00:06:28.742
+00:06:44.879 --> 00:06:47.611
 The constant ratio suggests ten percent growth.
 
 112
-00:06:28.742 --> 00:06:37.273
+00:06:47.611 --> 00:06:56.502
 Before projecting, ask whether reporting outreach caused a temporary jump, whether duplicate cases exist, and whether staff capacity caps recorded cases.
 
 113
-00:06:37.273 --> 00:06:40.228
+00:06:56.502 --> 00:06:59.583
 Mathematics identifies a pattern in observed numbers.
 
 114
-00:06:40.228 --> 00:06:42.124
+00:06:59.583 --> 00:07:01.558
 It does not certify the mechanism.
 
 115
-00:06:42.124 --> 00:06:44.578
+00:07:01.558 --> 00:07:04.116
 Compare three forecasts for the next period.
 
 116
-00:06:44.578 --> 00:06:48.258
+00:07:04.116 --> 00:07:07.951
 A linear rule based on adding ten predicts one hundred thirty-one.
 
 117
-00:06:48.258 --> 00:06:55.005
+00:07:07.951 --> 00:07:14.983
 An exponential rule based on multiplying one hundred twenty-one by one point one predicts about one hundred thirty-three.
 
 118
-00:06:55.005 --> 00:06:58.685
+00:07:14.983 --> 00:07:18.819
 A capacity rule might cap opened cases at one hundred twenty-five.
 
 119
-00:06:58.685 --> 00:07:02.979
+00:07:18.819 --> 00:07:23.294
 Each answer can be calculated correctly while answering a different question.
 
 120
-00:07:02.979 --> 00:07:03.892
+00:07:23.294 --> 00:07:24.281
 Three questions.
 
 121
-00:07:03.892 --> 00:07:07.656
+00:07:24.281 --> 00:07:28.353
 First, how can a table distinguish linear from exponential change?
 
 122
-00:07:07.656 --> 00:07:12.334
+00:07:28.353 --> 00:07:33.413
 Second, why must a rational-function solution be checked in the original equation?
 
 123
-00:07:12.334 --> 00:07:15.528
+00:07:33.413 --> 00:07:36.868
 Third, what does a logarithm tell you in a growth model?
 
 124
-00:07:15.528 --> 00:07:22.448
+00:07:36.868 --> 00:07:43.717
 First answer: constant differences suggest linear change, while constant nonzero ratios suggest exponential change.
 
 125
-00:07:22.448 --> 00:07:29.248
+00:07:43.717 --> 00:07:50.447
 Second answer: algebraic steps may introduce an excluded value, especially a value that makes a denominator zero.
 
 126
-00:07:29.248 --> 00:07:32.738
+00:07:50.447 --> 00:07:53.901
 Substitution confirms the candidate is permitted and true.
 
 127
-00:07:32.738 --> 00:07:40.802
+00:07:53.901 --> 00:08:01.882
 Third answer: a logarithm gives the exponent, which often represents the number of compounding periods needed to reach a stated value.
 
 128
-00:07:40.802 --> 00:07:58.493
+00:08:01.882 --> 00:08:20.216
 Artifact: complete a mixed review of at least twenty problems on function evaluation and domains, linear versus exponential tables, factoring and quadratics, rational expressions, inverses, exponentials, logarithms, sequences, and basic counting or probability.
 
 129
-00:07:58.493 --> 00:08:06.085
+00:08:20.216 --> 00:08:28.084
 Earn at least eighty percent, correct every miss in writing, and label the model and units in each word problem.
 
 130
-00:08:06.085 --> 00:08:12.795
+00:08:28.084 --> 00:08:35.038
 Source note: Original study audio based on public learning materials, without quoting source prose.
 
 131
-00:08:12.795 --> 00:08:28.928
-See OpenStax, College Algebra 2e, Chapter 3, Functions; Chapter 4, Linear Functions; Chapter 5, Polynomial and Rational Functions; Chapter 6, Exponential and Logarithm Functions; and Chapter 9, Sequences, Probability, and Counting Theory.
+00:08:35.038 --> 00:08:38.901
+See OpenStax, College Algebra 2e, Chapter 3, Functions;
 
 132
-00:08:28.928 --> 00:08:31.097
-Access for free at openstax.org.
+00:08:38.901 --> 00:08:40.868
+Chapter 4, Linear Functions;
 
 133
-00:08:31.097 --> 00:08:40.247
-OpenStax identifies College Algebra 2e as licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0, or CC BY-NC-SA 4.0.
+00:08:40.868 --> 00:08:44.029
+Chapter 5, Polynomial and Rational Functions;
 
 134
-00:08:40.247 --> 00:09:02.548
-Also consult the public Modern States College Algebra overview, especially algebraic operations, functions and their properties, equations and inequalities, and number systems and operations, plus Khan Academy public lessons on polynomials, rational expressions, exponential and logarithmic functions, sequences, and probability.
+00:08:44.029 --> 00:08:47.331
+Chapter 6, Exponential and Logarithm Functions;
 
 135
-00:09:02.548 --> 00:09:03.700
-Preparation only.
+00:08:47.331 --> 00:08:51.475
+and Chapter 9, Sequences, Probability, and Counting Theory.
 
 136
-00:09:03.700 --> 00:09:07.496
+00:08:51.475 --> 00:08:53.723
+Access for free at openstax.org.
+
+137
+00:08:53.723 --> 00:09:03.206
+OpenStax identifies College Algebra 2e as licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0, or CC BY-NC-SA 4.0.
+
+138
+00:09:03.206 --> 00:09:26.317
+Also consult the public Modern States College Algebra overview, especially algebraic operations, functions and their properties, equations and inequalities, and number systems and operations, plus Khan Academy public lessons on polynomials, rational expressions, exponential and logarithmic functions, sequences, and probability.
+
+139
+00:09:26.317 --> 00:09:27.511
+Preparation only.
+
+140
+00:09:27.511 --> 00:09:31.445
 No credit or transfer credit is awarded by this episode.

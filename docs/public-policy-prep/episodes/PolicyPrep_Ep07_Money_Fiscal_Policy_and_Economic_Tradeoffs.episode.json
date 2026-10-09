@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 7,
   "explicit": false,
-  "duration_seconds": 605.72,
-  "enclosure_bytes": 6991031,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.mp3",
+  "duration_seconds": 593.595,
+  "enclosure_bytes": 6867425,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep07.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "9c535a2291c0d189ee23f6957a481e03a8b0bb41bf0dba27c085201d579a50e4",
-    "audio_sha256": "db81b1c5f3e9d0a036dd90965e14c335ec8e747c35187d551655160a6130222a"
+    "transcript_sha256": "d329cb27ee672bf2f154c23e83056edfa0d8e2e4849408091efa2b41f6943667",
+    "audio_sha256": "c71a48094dac3ae0a92bc0e0683e136b1c547896dfa6ccdf3212225a246d1c83"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.provenance.json",
-  "release_tag": "public-policy-prep-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "public-policy-prep-v2026.3",
+  "release_version": "2026.3"
 }

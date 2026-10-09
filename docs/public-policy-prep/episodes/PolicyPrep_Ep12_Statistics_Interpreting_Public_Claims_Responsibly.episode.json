@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 12,
   "explicit": false,
-  "duration_seconds": 608.72,
-  "enclosure_bytes": 6938209,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.mp3",
+  "duration_seconds": 589.163,
+  "enclosure_bytes": 6813800,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep12.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "7b8d2114a4d90541d1c84a96242d10b87d64c7dc9403cd14f7c1521177125945",
-    "audio_sha256": "1ea7a882f71f8341fce4fc44b54a2f0544913959807babed96e9c93c0a3ceec0"
+    "transcript_sha256": "4d85b4c07a6efef7f7fdbbdd8b517bcbf8295bed5938489e34c6ecfd1579fae9",
+    "audio_sha256": "e59ad860040ea094c2e59fd0fc80e1fed1a6fffda2d4b827c4803fdf7cda63f0"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.provenance.json",
-  "release_tag": "public-policy-prep-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "public-policy-prep-v2026.3",
+  "release_version": "2026.3"
 }

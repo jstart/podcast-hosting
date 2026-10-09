@@ -3,12 +3,12 @@
   "show": "public-policy-prep",
   "episode": 4,
   "title": "Inequality, Institutions, and Urban Change",
-  "release_version": "2026.2",
-  "release_tag": "public-policy-prep-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "public-policy-prep-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.mp3",
-    "bytes": 7495871,
-    "sha256": "0ae483140abf303ee374b838b9296609779e1d0279e51ed7adc528b8b11729d9"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.mp3",
+    "bytes": 7286273,
+    "sha256": "0baf2d744c78064ab01dc4cde2b64a72bc8da7322bb714b66e5137b58f2c056f"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.html",

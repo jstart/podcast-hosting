@@ -3,22 +3,22 @@
   "title": "Public Policy Prep",
   "album": "Public Policy Prep: A Twelve-Episode Study Course",
   "description": "A 12-episode interdisciplinary study course spanning government, sociology, psychology, economics, writing, and algebra.",
-  "version": "2026.2",
-  "release_tag": "public-policy-prep-v2026.2",
+  "version": "2026.3",
+  "release_tag": "public-policy-prep-v2026.3",
   "stable_feed_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/feed.xml",
-  "release_url": "https://github.com/jstart/podcast-hosting/releases/tag/public-policy-prep-v2026.2",
+  "release_url": "https://github.com/jstart/podcast-hosting/releases/tag/public-policy-prep-v2026.3",
   "episodes": [
     {
       "stable_guid": "b7b7993e-11ef-5bea-84ba-a23ddbf0b53e",
       "show": "public-policy-prep",
       "episode": 1,
       "title": "The Constitution and Federalism: Who Decides?",
-      "release_version": "2026.2",
-      "release_tag": "public-policy-prep-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "public-policy-prep-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.mp3",
-        "bytes": 6530361,
-        "sha256": "1a6f653345f4c2bdeb50e0962e326b1088b4d1c503fe7973884d9ee9095ab97f"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.mp3",
+        "bytes": 6748976,
+        "sha256": "b8618750c8aa59754de3d2217da14014475a3a871f034b78f80fa8471da890ab"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep01_The_Constitution_and_Federalism_Who_Decides.html",
@@ -31,19 +31,19 @@
       },
       "summary": "Maps constitutional authority, federalism, and the place of local government through a civic technology example.",
       "publication_date": "2026-10-08T03:19:00Z",
-      "duration_seconds": 554.11
+      "duration_seconds": 582.65
     },
     {
       "stable_guid": "b1a7a003-e35e-5be9-a14d-e3061ca7e37f",
       "show": "public-policy-prep",
       "episode": 2,
       "title": "Public Opinion, Elections, and Governing Institutions",
-      "release_version": "2026.2",
-      "release_tag": "public-policy-prep-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "public-policy-prep-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.mp3",
-        "bytes": 7350127,
-        "sha256": "f78e32a527a9760bbd7dfdc22a4a0173ba792a047ac8b243178c29eee3857dd1"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.mp3",
+        "bytes": 7246427,
+        "sha256": "caa2f45701b7546f49b1f508d2de5f0e3757b9012e5edae6f3c6f41190cabe99"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep02_Public_Opinion_Elections_and_Governing_Institutions.html",
@@ -56,19 +56,19 @@
       },
       "summary": "Connects public opinion, elections, parties, institutions, and policy accountability.",
       "publication_date": "2026-10-08T03:19:00Z",
-      "duration_seconds": 642.7
+      "duration_seconds": 630.007
     },
     {
       "stable_guid": "ac2b05c9-9f95-54b3-9bb0-1ca8bc192835",
       "show": "public-policy-prep",
       "episode": 3,
       "title": "Sociology: Connecting People, Culture, and Institutions",
-      "release_version": "2026.2",
-      "release_tag": "public-policy-prep-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "public-policy-prep-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.mp3",
-        "bytes": 7513178,
-        "sha256": "2a241efdd9a3c735189379342c18f567f92f0fccb3a23346db71e992b384500a"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.mp3",
+        "bytes": 7288307,
+        "sha256": "568439b16493f2004478787c2ea47dc52e2b9f5f8096f1bd4f6888cb20356250"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.html",
@@ -81,19 +81,19 @@
       },
       "summary": "Uses sociological perspectives to connect individual experience with culture, organizations, and institutions.",
       "publication_date": "2026-10-08T03:19:00Z",
-      "duration_seconds": 661.58
+      "duration_seconds": 634.516
     },
     {
       "stable_guid": "80212596-ed6b-5491-9d9d-251fedc09463",
       "show": "public-policy-prep",
       "episode": 4,
       "title": "Inequality, Institutions, and Urban Change",
-      "release_version": "2026.2",
-      "release_tag": "public-policy-prep-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "public-policy-prep-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.mp3",
-        "bytes": 7495871,
-        "sha256": "0ae483140abf303ee374b838b9296609779e1d0279e51ed7adc528b8b11729d9"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.mp3",
+        "bytes": 7286273,
+        "sha256": "0baf2d744c78064ab01dc4cde2b64a72bc8da7322bb714b66e5137b58f2c056f"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep04_Inequality_Institutions_and_Urban_Change.html",
@@ -106,19 +106,19 @@
       },
       "summary": "Examines stratification, institutional barriers, urbanization, and social change in public services.",
       "publication_date": "2026-10-08T03:19:00Z",
-      "duration_seconds": 652.48
+      "duration_seconds": 628.985
     },
     {
       "stable_guid": "8320209d-ec2a-5f1a-9d5c-c30f0eb217dc",
       "show": "public-policy-prep",
       "episode": 5,
       "title": "Psychology, Evidence, and Public Communication",
-      "release_version": "2026.2",
-      "release_tag": "public-policy-prep-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "public-policy-prep-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.mp3",
-        "bytes": 7560141,
-        "sha256": "f441bd57a65547bbaddd26e1789a417be80be579ca2166d0fb323f645482966f"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.mp3",
+        "bytes": 7393879,
+        "sha256": "5576132b98607892d8352f46344ca8f0ab83b80f1d1f09d5fa337f28a95d4410"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.html",
@@ -131,19 +131,19 @@
       },
       "summary": "Applies research design, cognition, learning, and social influence to responsible public communication.",
       "publication_date": "2026-10-08T03:19:00Z",
-      "duration_seconds": 664.52
+      "duration_seconds": 643.722
     },
     {
       "stable_guid": "968c6274-965e-55d1-bca2-e2f9f73512a2",
       "show": "public-policy-prep",
       "episode": 6,
       "title": "Macroeconomics: Reading the Wider Economy",
-      "release_version": "2026.2",
-      "release_tag": "public-policy-prep-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "public-policy-prep-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.mp3",
-        "bytes": 6757949,
-        "sha256": "e8722f35b3abf1f9dd0f39e0f7497f30b9ae765935d0a67ab67404098042cfe3"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.mp3",
+        "bytes": 6594916,
+        "sha256": "1f2aee49ae84c4d8c30f5a57d333c7af98d36561c206371a805e24f8a978972b"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep06_Macroeconomics_Reading_the_Wider_Economy.html",
@@ -156,19 +156,19 @@
       },
       "summary": "Explains national output, inflation, unemployment, and aggregate change for local policy readers.",
       "publication_date": "2026-10-08T03:19:00Z",
-      "duration_seconds": 584.28
+      "duration_seconds": 569.411
     },
     {
       "stable_guid": "b16362fc-363f-57a5-abad-26ed2710d4f3",
       "show": "public-policy-prep",
       "episode": 7,
       "title": "Money, Fiscal Policy, and Economic Tradeoffs",
-      "release_version": "2026.2",
-      "release_tag": "public-policy-prep-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "public-policy-prep-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.mp3",
-        "bytes": 6991031,
-        "sha256": "db81b1c5f3e9d0a036dd90965e14c335ec8e747c35187d551655160a6130222a"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.mp3",
+        "bytes": 6867425,
+        "sha256": "c71a48094dac3ae0a92bc0e0683e136b1c547896dfa6ccdf3212225a246d1c83"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep07_Money_Fiscal_Policy_and_Economic_Tradeoffs.html",
@@ -181,19 +181,19 @@
       },
       "summary": "Compares monetary and fiscal policy, stabilization choices, growth, trade, and local consequences.",
       "publication_date": "2026-10-08T03:19:00Z",
-      "duration_seconds": 605.72
+      "duration_seconds": 593.595
     },
     {
       "stable_guid": "59cb1fa6-c350-596b-a1db-477d092c3533",
       "show": "public-policy-prep",
       "episode": 8,
       "title": "Composition: Writing a Usable Policy Argument",
-      "release_version": "2026.2",
-      "release_tag": "public-policy-prep-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "public-policy-prep-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.mp3",
-        "bytes": 7104025,
-        "sha256": "9653288e54dd9206b57e2bc71a6fb558264d3cb9318e5632e822cb53465c58b4"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.mp3",
+        "bytes": 6852805,
+        "sha256": "2a8eeedcb0ab09397420582d0a59984e9478581bfc64d403d6d321e81bfcb36d"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep08_Composition_Writing_a_Usable_Policy_Argument.html",
@@ -206,19 +206,19 @@
       },
       "summary": "Builds an evidence-based policy argument through source evaluation, structure, revision, and qualification.",
       "publication_date": "2026-10-08T03:19:00Z",
-      "duration_seconds": 619.82
+      "duration_seconds": 594.898
     },
     {
       "stable_guid": "979f5113-6909-58cf-b374-831be4025e44",
       "show": "public-policy-prep",
       "episode": 9,
       "title": "Microeconomics: Incentives and Market Failure",
-      "release_version": "2026.2",
-      "release_tag": "public-policy-prep-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "public-policy-prep-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.mp3",
-        "bytes": 6802151,
-        "sha256": "8e106640fc143194eee7edf05e35b7f3d2348c02c5e2ca23d249c752d117be9c"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.mp3",
+        "bytes": 6626357,
+        "sha256": "dbff340166958b3faddea7cf7ecb76c0bedf29ff22f83dc55d50ee4273257a41"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep09_Microeconomics_Incentives_and_Market_Failure.html",
@@ -231,19 +231,19 @@
       },
       "summary": "Uses marginal analysis, supply and demand, externalities, and public goods to evaluate policy.",
       "publication_date": "2026-10-08T03:19:00Z",
-      "duration_seconds": 591.701
+      "duration_seconds": 572.96
     },
     {
       "stable_guid": "d407d811-b8a7-5952-a7fa-0ed8645e867b",
       "show": "public-policy-prep",
       "episode": 10,
       "title": "Algebra: Rebuilding Foundations Without Rushing",
-      "release_version": "2026.2",
-      "release_tag": "public-policy-prep-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "public-policy-prep-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.mp3",
-        "bytes": 6863097,
-        "sha256": "fc74224f4c21a2d8ff837b347532411e4d45321a49d994324e8e5c50d9463526"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.mp3",
+        "bytes": 6578024,
+        "sha256": "6bff03ec93917caa8573cbb1ae3026b0fbd7b0795f247ec11f812d103449a601"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep10_Algebra_Rebuilding_Foundations_Without_Rushing.html",
@@ -256,19 +256,19 @@
       },
       "summary": "Rebuilds arithmetic and algebra foundations through equations, inequalities, and careful practice.",
       "publication_date": "2026-10-08T03:19:00Z",
-      "duration_seconds": 601.82
+      "duration_seconds": 574.315
     },
     {
       "stable_guid": "cc8a831d-ce41-599a-9b9c-0666ed3bc708",
       "show": "public-policy-prep",
       "episode": 11,
       "title": "Algebra: Functions, Change, and Review",
-      "release_version": "2026.2",
-      "release_tag": "public-policy-prep-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "public-policy-prep-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.mp3",
-        "bytes": 6867724,
-        "sha256": "88cbf99b2474ad789208629d5a40c377d25343f94eb8de8e6316b15115647d50"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.mp3",
+        "bytes": 6557422,
+        "sha256": "bc5628b36695748f2096ba802a0bbb7368fcf844c71394c8fbe541116b84a48c"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep11_Algebra_Functions_Change_and_Review.html",
@@ -281,19 +281,19 @@
       },
       "summary": "Interprets functions, graphs, rates of change, and common function families in public data.",
       "publication_date": "2026-10-08T03:19:00Z",
-      "duration_seconds": 605.22
+      "duration_seconds": 572.845
     },
     {
       "stable_guid": "09ccffbb-f493-5887-8836-6bb3ce8656a5",
       "show": "public-policy-prep",
       "episode": 12,
       "title": "Statistics: Interpreting Public Claims Responsibly",
-      "release_version": "2026.2",
-      "release_tag": "public-policy-prep-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "public-policy-prep-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.mp3",
-        "bytes": 6938209,
-        "sha256": "1ea7a882f71f8341fce4fc44b54a2f0544913959807babed96e9c93c0a3ceec0"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.mp3",
+        "bytes": 6813800,
+        "sha256": "e59ad860040ea094c2e59fd0fc80e1fed1a6fffda2d4b827c4803fdf7cda63f0"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep12_Statistics_Interpreting_Public_Claims_Responsibly.html",
@@ -306,7 +306,7 @@
       },
       "summary": "Tests public claims using samples, center, spread, bias, uncertainty, and limits on causal inference.",
       "publication_date": "2026-10-08T03:19:00Z",
-      "duration_seconds": 608.72
+      "duration_seconds": 589.163
     }
   ]
 }

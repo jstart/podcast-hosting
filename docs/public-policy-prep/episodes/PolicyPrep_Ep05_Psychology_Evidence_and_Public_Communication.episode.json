@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 5,
   "explicit": false,
-  "duration_seconds": 664.52,
-  "enclosure_bytes": 7560141,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.mp3",
+  "duration_seconds": 643.722,
+  "enclosure_bytes": 7393879,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep05.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "9d8807a0cdd22fb1ff7e18d3159817aa0014e2854adcaebbdec9312f4820db3a",
-    "audio_sha256": "f441bd57a65547bbaddd26e1789a417be80be579ca2166d0fb323f645482966f"
+    "transcript_sha256": "ba9e1b74840b8a735bda024c2e414705bf7da22d260b4cf304e5b490936f173b",
+    "audio_sha256": "5576132b98607892d8352f46344ca8f0ab83b80f1d1f09d5fa337f28a95d4410"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep05_Psychology_Evidence_and_Public_Communication.provenance.json",
-  "release_tag": "public-policy-prep-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "public-policy-prep-v2026.3",
+  "release_version": "2026.3"
 }

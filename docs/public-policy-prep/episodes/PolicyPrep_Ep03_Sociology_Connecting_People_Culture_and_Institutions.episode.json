@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 3,
   "explicit": false,
-  "duration_seconds": 661.58,
-  "enclosure_bytes": 7513178,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.2/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.mp3",
+  "duration_seconds": 634.516,
+  "enclosure_bytes": 7288307,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/public-policy-prep-v2026.3/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/artwork/ep03.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "c5e7b90f09517ef7cf9e2b4445a5c1ca6dffb230f3553c6ce72757e5d9712e64",
-    "audio_sha256": "2a241efdd9a3c735189379342c18f567f92f0fccb3a23346db71e992b384500a"
+    "transcript_sha256": "f208e06f9cc78ac835a0b9365840d9070cbcc881329cbb4db968476ab815775a",
+    "audio_sha256": "568439b16493f2004478787c2ea47dc52e2b9f5f8096f1bd4f6888cb20356250"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/public-policy-prep/episodes/PolicyPrep_Ep03_Sociology_Connecting_People_Culture_and_Institutions.provenance.json",
-  "release_tag": "public-policy-prep-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "public-policy-prep-v2026.3",
+  "release_version": "2026.3"
 }
