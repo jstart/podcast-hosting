@@ -49,10 +49,10 @@ https://pocketcasts.com/follow/<percent-encoded-feed-url>
 On iOS, a progressively enhanced click first tries Pocket Casts' documented app URL:
 
 ```text
-pktc://subscribe/<feed-url-without-http-or-https>
+pktc://subscribe/https://<feed-host-and-path>
 ```
 
-If the app is unavailable, the browser returns to the web Follow URL. Other platforms use the web URL directly, and modified clicks keep normal browser behavior. Neither route follows automatically. The listener chooses **Follow** on the resulting page. Each show also has a prominent copy-feed control because pasting the RSS URL into Pocket Casts Discover or Search is the supported fallback.
+The custom scheme receives the complete raw HTTPS RSS URL, not the Pocket Casts web Follow URL or its percent-encoded identifier. If the app is unavailable, the browser returns to the web Follow URL. Other platforms use the web URL directly, and modified clicks keep normal browser behavior. Neither route follows automatically. The listener chooses **Follow** on the resulting page. Each show also has a prominent copy-feed control because pasting the RSS URL into Pocket Casts Discover or Search is the supported fallback.
 
 ## Safety
 

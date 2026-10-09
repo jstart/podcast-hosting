@@ -314,8 +314,7 @@ def layout(title, body, depth=""):
 
 def pocket_casts_links(feed):
     web = f"https://pocketcasts.com/follow/{quote(feed, safe='')}"
-    feed_without_scheme = re.sub(r"^https?://", "", feed)
-    ios = f"pktc://subscribe/{feed_without_scheme}"
+    ios = f"pktc://subscribe/{feed}"
     return web, ios
 
 

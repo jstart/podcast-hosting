@@ -47,7 +47,7 @@ def main():
         feed_url = manifest["stable_feed_url"]
         if feed_url not in home or quote(feed_url, safe="") not in home:
             fail(f"{show}: catalog discovery controls are incomplete")
-        ios_url = f"pktc://subscribe/{feed_url.split('://', 1)[1]}"
+        ios_url = f"pktc://subscribe/{feed_url}"
         if ios_url not in home:
             fail(f"{show}: catalog iOS Pocket Casts link is missing")
         show_page = (docs / show / "index.html").read_text()
