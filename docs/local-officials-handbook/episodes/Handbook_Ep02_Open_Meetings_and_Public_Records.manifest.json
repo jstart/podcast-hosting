@@ -3,12 +3,12 @@
   "show": "local-officials-handbook",
   "episode": 2,
   "title": "Open Meetings and Public Records",
-  "release_version": "2026.2",
-  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.4",
+  "release_tag": "local-officials-handbook-v2026.4",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep02_Open_Meetings_and_Public_Records.mp3",
-    "bytes": 2418879,
-    "sha256": "3f59e8b4461050de53f57166c0fe57a1b9587fb57439615878dd993144c0b332"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep02_Open_Meetings_and_Public_Records.mp3",
+    "bytes": 2351060,
+    "sha256": "0e2c22d959d36dce00abad15a17f08b1a047f773cdc97de9b054da3e4c66545d"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.html",

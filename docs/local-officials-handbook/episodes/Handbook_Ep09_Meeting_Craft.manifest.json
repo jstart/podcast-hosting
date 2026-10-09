@@ -3,12 +3,12 @@
   "show": "local-officials-handbook",
   "episode": 9,
   "title": "Meeting Craft",
-  "release_version": "2026.2",
-  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.4",
+  "release_tag": "local-officials-handbook-v2026.4",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep09_Meeting_Craft.mp3",
-    "bytes": 2241178,
-    "sha256": "3b094370165470aee48c2448f9c7c782c78f8fc8a5fc0e20b7827dd66db42cdc"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep09_Meeting_Craft.mp3",
+    "bytes": 2222548,
+    "sha256": "499d020e1e93c44da1fc054eeeaf09c5acad58c2a6514fd04e838c5e829cdad4"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep09_Meeting_Craft.html",

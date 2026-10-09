@@ -3,12 +3,12 @@
   "show": "local-officials-handbook",
   "episode": 4,
   "title": "The Planning Commission",
-  "release_version": "2026.2",
-  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.4",
+  "release_tag": "local-officials-handbook-v2026.4",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep04_The_Planning_Commission.mp3",
-    "bytes": 2450292,
-    "sha256": "d20fc71a38253b2ac67cc08943f33d905205f8734fcf8731098cc42abeeecfce"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep04_The_Planning_Commission.mp3",
+    "bytes": 2402842,
+    "sha256": "64fe531c3d18d91908462cfb5c8d2e7c7ce5d3f08f4397ea95fd14f8ceffbade"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep04_The_Planning_Commission.html",

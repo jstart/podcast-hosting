@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 10,
   "explicit": false,
-  "duration_seconds": 211.84,
-  "enclosure_bytes": 2555932,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep10_Knowing_Torrance_s_Plans.mp3",
+  "duration_seconds": 213.255,
+  "enclosure_bytes": 2508673,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep10_Knowing_Torrance_s_Plans.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep10.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "e1382a3ebc932686059bf7321b740a537a410bf5c8b12fdae74b428b2b8ba6b9",
-    "audio_sha256": "b3e706c83eabe3303afe40ad00418d96f34de5f7817020416438e3420f3aebd7"
+    "transcript_sha256": "f77d465ba83e38906c02541c3d455b5026e122bf8368ff9e4e99cf2adf6900d6",
+    "audio_sha256": "e8e15ac541ac4986a1234d8f47550b0ad3aaba4b270b100100d6ca500ece0289"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.provenance.json",
-  "release_tag": "local-officials-handbook-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "local-officials-handbook-v2026.4",
+  "release_version": "2026.4"
 }

@@ -3,12 +3,12 @@
   "show": "local-officials-handbook",
   "episode": 14,
   "title": "Building Your Record",
-  "release_version": "2026.2",
-  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.4",
+  "release_tag": "local-officials-handbook-v2026.4",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep14_Building_Your_Record.mp3",
-    "bytes": 1979764,
-    "sha256": "0ca4e1af1a7377b7b1bdf1d99ed071554b5778276d33c080bbde075ea2084d7c"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep14_Building_Your_Record.mp3",
+    "bytes": 1895973,
+    "sha256": "d8a1072bfecd03b6d6aa2df367e3fb5f22f646104b7163653b6481b5d1d68f91"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.html",

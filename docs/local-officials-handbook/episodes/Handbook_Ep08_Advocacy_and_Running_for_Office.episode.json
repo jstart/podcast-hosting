@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 8,
   "explicit": false,
-  "duration_seconds": 185.767,
-  "enclosure_bytes": 2201759,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep08_Advocacy_and_Running_for_Office.mp3",
+  "duration_seconds": 185.817,
+  "enclosure_bytes": 2218643,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep08_Advocacy_and_Running_for_Office.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep08_Advocacy_and_Running_for_Office.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep08_Advocacy_and_Running_for_Office.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep08.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep08_Advocacy_and_Running_for_Office.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "e2748e690be9c924f058a97f8fdb0bfa89b27df9fe701499e53d6d550a46887f",
-    "audio_sha256": "a4e13710a25526f0ab4ba86c6743337261f1c76c430083059af64fa503257f85"
+    "transcript_sha256": "95d58d3b79948ba30af84c473b615fb8521862052ba830a650e789a6e628e049",
+    "audio_sha256": "50dfc00fa043e924a9e9d67884906ca524a8c376bc6662333acd08657ff0c87b"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep08_Advocacy_and_Running_for_Office.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep08_Advocacy_and_Running_for_Office.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep08_Advocacy_and_Running_for_Office.provenance.json",
-  "release_tag": "local-officials-handbook-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "local-officials-handbook-v2026.4",
+  "release_version": "2026.4"
 }

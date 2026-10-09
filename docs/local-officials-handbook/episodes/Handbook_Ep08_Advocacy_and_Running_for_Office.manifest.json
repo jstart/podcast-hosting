@@ -3,12 +3,12 @@
   "show": "local-officials-handbook",
   "episode": 8,
   "title": "Advocacy and Running for Office",
-  "release_version": "2026.2",
-  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.4",
+  "release_tag": "local-officials-handbook-v2026.4",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep08_Advocacy_and_Running_for_Office.mp3",
-    "bytes": 2201759,
-    "sha256": "a4e13710a25526f0ab4ba86c6743337261f1c76c430083059af64fa503257f85"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep08_Advocacy_and_Running_for_Office.mp3",
+    "bytes": 2218643,
+    "sha256": "50dfc00fa043e924a9e9d67884906ca524a8c376bc6662333acd08657ff0c87b"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep08_Advocacy_and_Running_for_Office.html",

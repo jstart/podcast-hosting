@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 11,
   "explicit": false,
-  "duration_seconds": 217.08,
-  "enclosure_bytes": 2614068,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep11_How_Projects_Pencil.mp3",
+  "duration_seconds": 215.571,
+  "enclosure_bytes": 2537110,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep11_How_Projects_Pencil.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep11_How_Projects_Pencil.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep11_How_Projects_Pencil.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep11.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep11_How_Projects_Pencil.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "5fa91fe86c605d57175d26505e8e3a2b2809dd40004a0f0b5dc6ac70ffdfa622",
-    "audio_sha256": "d3a3d4969bcea0894e43c68d3e1a2930e4703a2a9935fa8e132ebddd9d3923c5"
+    "transcript_sha256": "0b6a0a8bd9a64e1b489854e8b79021749995fe54f85ea40bfd023593b8161ec0",
+    "audio_sha256": "3ff450b98579b1ba81725431797b7185b1bdce1668fb0794ddce6773e0adb139"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep11_How_Projects_Pencil.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep11_How_Projects_Pencil.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep11_How_Projects_Pencil.provenance.json",
-  "release_tag": "local-officials-handbook-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "local-officials-handbook-v2026.4",
+  "release_version": "2026.4"
 }

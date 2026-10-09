@@ -3,12 +3,12 @@
   "show": "local-officials-handbook",
   "episode": 3,
   "title": "Conflicts and Fair Hearings",
-  "release_version": "2026.2",
-  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.4",
+  "release_tag": "local-officials-handbook-v2026.4",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep03_Conflicts_and_Fair_Hearings.mp3",
-    "bytes": 2641572,
-    "sha256": "99f8f3c7249bdf0984519f6ef00f87a704d369ae7311355920e0c08f981ada62"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep03_Conflicts_and_Fair_Hearings.mp3",
+    "bytes": 2610773,
+    "sha256": "d6d4b271bdb1062adb3846e2dbeabd7957ed61ec633bf9674f0327698ea26bc9"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep03_Conflicts_and_Fair_Hearings.html",

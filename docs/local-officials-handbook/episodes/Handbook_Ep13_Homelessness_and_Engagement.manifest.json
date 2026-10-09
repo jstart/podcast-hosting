@@ -3,12 +3,12 @@
   "show": "local-officials-handbook",
   "episode": 13,
   "title": "Homelessness and Engagement",
-  "release_version": "2026.2",
-  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.4",
+  "release_tag": "local-officials-handbook-v2026.4",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep13_Homelessness_and_Engagement.mp3",
-    "bytes": 2381085,
-    "sha256": "ba592372bce0cf84b321922957f24733770861440a981efeea5b3fa786a5a4c6"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep13_Homelessness_and_Engagement.mp3",
+    "bytes": 2371740,
+    "sha256": "329441f1190cd2e3ca14f1bfdba712b2b315e35a951361bf2a4b4a9875f4405a"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.html",

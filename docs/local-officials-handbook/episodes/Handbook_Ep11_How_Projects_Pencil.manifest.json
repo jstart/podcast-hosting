@@ -3,12 +3,12 @@
   "show": "local-officials-handbook",
   "episode": 11,
   "title": "How Projects Pencil",
-  "release_version": "2026.2",
-  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.4",
+  "release_tag": "local-officials-handbook-v2026.4",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep11_How_Projects_Pencil.mp3",
-    "bytes": 2614068,
-    "sha256": "d3a3d4969bcea0894e43c68d3e1a2930e4703a2a9935fa8e132ebddd9d3923c5"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep11_How_Projects_Pencil.mp3",
+    "bytes": 2537110,
+    "sha256": "3ff450b98579b1ba81725431797b7185b1bdce1668fb0794ddce6773e0adb139"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep11_How_Projects_Pencil.html",

@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 6,
   "explicit": false,
-  "duration_seconds": 203.72,
-  "enclosure_bytes": 2454684,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep06_Four_Votes_on_the_Council.mp3",
+  "duration_seconds": 197.939,
+  "enclosure_bytes": 2337007,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep06_Four_Votes_on_the_Council.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep06.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "25bf6ec81d3f9e91aae62010a032abd6bde35f90106c94ce21f79da5b6906e53",
-    "audio_sha256": "8faf1e2e82e26ddc83d77ccb7f9a07c0034388f5c14dbbb2ca1ef08c6e4ac2cc"
+    "transcript_sha256": "0bf7abd76922f291246fc1d042b64adc9c07416f18d6dd7c2481383b95ef899a",
+    "audio_sha256": "feba849727f379264a193daee1839ef13220d22f5fea1d657287d89eb366e6fd"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.provenance.json",
-  "release_tag": "local-officials-handbook-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "local-officials-handbook-v2026.4",
+  "release_version": "2026.4"
 }

@@ -3,22 +3,22 @@
   "title": "The Local Official's Handbook",
   "album": "The Local Official's Handbook: Torrance and California",
   "description": "A 14-episode practical guide to local public service, open government, planning, housing, regional institutions, and public decision-making.",
-  "version": "2026.2",
-  "release_tag": "local-officials-handbook-v2026.2",
+  "version": "2026.4",
+  "release_tag": "local-officials-handbook-v2026.4",
   "stable_feed_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/feed.xml",
-  "release_url": "https://github.com/jstart/podcast-hosting/releases/tag/local-officials-handbook-v2026.2",
+  "release_url": "https://github.com/jstart/podcast-hosting/releases/tag/local-officials-handbook-v2026.4",
   "episodes": [
     {
       "stable_guid": "71d65e0a-1d31-5f0d-b5b3-7b0f91fc4332",
       "show": "local-officials-handbook",
       "episode": 1,
       "title": "Two Hats",
-      "release_version": "2026.2",
-      "release_tag": "local-officials-handbook-v2026.2",
+      "release_version": "2026.4",
+      "release_tag": "local-officials-handbook-v2026.4",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep01_Two_Hats.mp3",
-        "bytes": 1955777,
-        "sha256": "77ba15f50cf4c91fd857feeeb08d2da19f4f0b097aa269229c79fd5ba5376c99"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep01_Two_Hats.mp3",
+        "bytes": 1936091,
+        "sha256": "1aa920dfff2dd636baa909c4405e974360effd178fbefb566df2fa59260c7bba"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep01_Two_Hats.html",
@@ -31,19 +31,19 @@
       },
       "summary": "Distinguishes legislative policymaking from quasi-judicial application of existing rules.",
       "publication_date": "2026-10-08T03:42:00Z",
-      "duration_seconds": 163.66
+      "duration_seconds": 164.379
     },
     {
       "stable_guid": "c00ae451-b9e6-5d03-a48d-8808e3a07186",
       "show": "local-officials-handbook",
       "episode": 2,
       "title": "Open Meetings and Public Records",
-      "release_version": "2026.2",
-      "release_tag": "local-officials-handbook-v2026.2",
+      "release_version": "2026.4",
+      "release_tag": "local-officials-handbook-v2026.4",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep02_Open_Meetings_and_Public_Records.mp3",
-        "bytes": 2418879,
-        "sha256": "3f59e8b4461050de53f57166c0fe57a1b9587fb57439615878dd993144c0b332"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep02_Open_Meetings_and_Public_Records.mp3",
+        "bytes": 2351060,
+        "sha256": "0e2c22d959d36dce00abad15a17f08b1a047f773cdc97de9b054da3e4c66545d"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.html",
@@ -56,19 +56,19 @@
       },
       "summary": "Explains the state open-meeting and public-records laws that shape local government transparency.",
       "publication_date": "2026-10-08T03:42:00Z",
-      "duration_seconds": 200.36
+      "duration_seconds": 197.134
     },
     {
       "stable_guid": "61a9212f-f7fa-5d7d-9cf1-6f90c4aab0e5",
       "show": "local-officials-handbook",
       "episode": 3,
       "title": "Conflicts and Fair Hearings",
-      "release_version": "2026.2",
-      "release_tag": "local-officials-handbook-v2026.2",
+      "release_version": "2026.4",
+      "release_tag": "local-officials-handbook-v2026.4",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep03_Conflicts_and_Fair_Hearings.mp3",
-        "bytes": 2641572,
-        "sha256": "99f8f3c7249bdf0984519f6ef00f87a704d369ae7311355920e0c08f981ada62"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep03_Conflicts_and_Fair_Hearings.mp3",
+        "bytes": 2610773,
+        "sha256": "d6d4b271bdb1062adb3846e2dbeabd7957ed61ec633bf9674f0327698ea26bc9"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep03_Conflicts_and_Fair_Hearings.html",
@@ -81,19 +81,19 @@
       },
       "summary": "Explains financial conflicts, contract restrictions, campaign contributions, recusal, and fair-hearing duties.",
       "publication_date": "2026-10-08T03:42:00Z",
-      "duration_seconds": 221.08
+      "duration_seconds": 221.907
     },
     {
       "stable_guid": "13b5e61b-01eb-5c2f-ac80-7f81b4c7bb78",
       "show": "local-officials-handbook",
       "episode": 4,
       "title": "The Planning Commission",
-      "release_version": "2026.2",
-      "release_tag": "local-officials-handbook-v2026.2",
+      "release_version": "2026.4",
+      "release_tag": "local-officials-handbook-v2026.4",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep04_The_Planning_Commission.mp3",
-        "bytes": 2450292,
-        "sha256": "d20fc71a38253b2ac67cc08943f33d905205f8734fcf8731098cc42abeeecfce"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep04_The_Planning_Commission.mp3",
+        "bytes": 2402842,
+        "sha256": "64fe531c3d18d91908462cfb5c8d2e7c7ce5d3f08f4397ea95fd14f8ceffbade"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep04_The_Planning_Commission.html",
@@ -106,19 +106,19 @@
       },
       "summary": "Examines the planning commission's changing role, authority, record, and relationship to adopted policy.",
       "publication_date": "2026-10-08T03:42:00Z",
-      "duration_seconds": 202.44
+      "duration_seconds": 202.133
     },
     {
       "stable_guid": "38f77483-62d2-5c92-8c07-4dad9cbbdf77",
       "show": "local-officials-handbook",
       "episode": 5,
       "title": "CEQA and the Housing Laws",
-      "release_version": "2026.2",
-      "release_tag": "local-officials-handbook-v2026.2",
+      "release_version": "2026.4",
+      "release_tag": "local-officials-handbook-v2026.4",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep05_CEQA_and_the_Housing_Laws.mp3",
-        "bytes": 2609856,
-        "sha256": "1e3ecd91e537ed2ff74371a34c756b1c7611f714fe0f9cef5e5da15865c63c8c"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep05_CEQA_and_the_Housing_Laws.mp3",
+        "bytes": 2509180,
+        "sha256": "49325047adaa58a6e60b2c28aacdbffc2b3ce7b065b72c331d75600e6d902ff8"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.html",
@@ -131,19 +131,19 @@
       },
       "summary": "Explains how environmental review and recent housing laws constrain planning decisions.",
       "publication_date": "2026-10-08T03:42:00Z",
-      "duration_seconds": 213.98
+      "duration_seconds": 211.732
     },
     {
       "stable_guid": "d8baa06f-3644-5606-a8d4-fcccbfe4499f",
       "show": "local-officials-handbook",
       "episode": 6,
       "title": "Four Votes on the Council",
-      "release_version": "2026.2",
-      "release_tag": "local-officials-handbook-v2026.2",
+      "release_version": "2026.4",
+      "release_tag": "local-officials-handbook-v2026.4",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep06_Four_Votes_on_the_Council.mp3",
-        "bytes": 2454684,
-        "sha256": "8faf1e2e82e26ddc83d77ccb7f9a07c0034388f5c14dbbb2ca1ef08c6e4ac2cc"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep06_Four_Votes_on_the_Council.mp3",
+        "bytes": 2337007,
+        "sha256": "feba849727f379264a193daee1839ef13220d22f5fea1d657287d89eb366e6fd"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.html",
@@ -156,19 +156,19 @@
       },
       "summary": "Explains collective City Council authority, motions, budgets, appointments, and the importance of four votes in Torrance.",
       "publication_date": "2026-10-08T03:42:00Z",
-      "duration_seconds": 203.72
+      "duration_seconds": 197.939
     },
     {
       "stable_guid": "bdc2f50c-f7c3-5ad9-b9be-35e4f2ba6b63",
       "show": "local-officials-handbook",
       "episode": 7,
       "title": "The School Board",
-      "release_version": "2026.2",
-      "release_tag": "local-officials-handbook-v2026.2",
+      "release_version": "2026.4",
+      "release_tag": "local-officials-handbook-v2026.4",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep07_The_School_Board.mp3",
-        "bytes": 2505586,
-        "sha256": "11989c07b940eb7f7560be0ad93248923bc21c0d63fc1e76405bb6cc4fd812f5"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep07_The_School_Board.mp3",
+        "bytes": 2477382,
+        "sha256": "e09e433445f61240fce5867b8334bab36de47d5609e8801e84db68a5fe604740"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep07_The_School_Board.html",
@@ -181,19 +181,19 @@
       },
       "summary": "Explains collective school board authority, superintendent accountability, budgets, policy, and student governance.",
       "publication_date": "2026-10-08T03:42:00Z",
-      "duration_seconds": 209.12
+      "duration_seconds": 210.369
     },
     {
       "stable_guid": "86003e4a-a445-554c-a82b-94a46bfe1884",
       "show": "local-officials-handbook",
       "episode": 8,
       "title": "Advocacy and Running for Office",
-      "release_version": "2026.2",
-      "release_tag": "local-officials-handbook-v2026.2",
+      "release_version": "2026.4",
+      "release_tag": "local-officials-handbook-v2026.4",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep08_Advocacy_and_Running_for_Office.mp3",
-        "bytes": 2201759,
-        "sha256": "a4e13710a25526f0ab4ba86c6743337261f1c76c430083059af64fa503257f85"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep08_Advocacy_and_Running_for_Office.mp3",
+        "bytes": 2218643,
+        "sha256": "50dfc00fa043e924a9e9d67884906ca524a8c376bc6662333acd08657ff0c87b"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep08_Advocacy_and_Running_for_Office.html",
@@ -206,19 +206,19 @@
       },
       "summary": "Explains how advocacy, campaigns, coalitions, and timing influence local decisions.",
       "publication_date": "2026-10-08T03:42:00Z",
-      "duration_seconds": 185.767
+      "duration_seconds": 185.817
     },
     {
       "stable_guid": "9bf19d74-1ce0-5df7-95e7-a9a36a9edff4",
       "show": "local-officials-handbook",
       "episode": 9,
       "title": "Meeting Craft",
-      "release_version": "2026.2",
-      "release_tag": "local-officials-handbook-v2026.2",
+      "release_version": "2026.4",
+      "release_tag": "local-officials-handbook-v2026.4",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep09_Meeting_Craft.mp3",
-        "bytes": 2241178,
-        "sha256": "3b094370165470aee48c2448f9c7c782c78f8fc8a5fc0e20b7827dd66db42cdc"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep09_Meeting_Craft.mp3",
+        "bytes": 2222548,
+        "sha256": "499d020e1e93c44da1fc054eeeaf09c5acad58c2a6514fd04e838c5e829cdad4"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep09_Meeting_Craft.html",
@@ -231,19 +231,19 @@
       },
       "summary": "Covers agenda preparation, questions, motions, findings, conditions, and handling difficult public meetings.",
       "publication_date": "2026-10-08T03:42:00Z",
-      "duration_seconds": 187.9
+      "duration_seconds": 190.159
     },
     {
       "stable_guid": "3503f9f9-51ce-523f-8a5c-c77a75847cd2",
       "show": "local-officials-handbook",
       "episode": 10,
       "title": "Knowing Torrance's Plans",
-      "release_version": "2026.2",
-      "release_tag": "local-officials-handbook-v2026.2",
+      "release_version": "2026.4",
+      "release_tag": "local-officials-handbook-v2026.4",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep10_Knowing_Torrance_s_Plans.mp3",
-        "bytes": 2555932,
-        "sha256": "b3e706c83eabe3303afe40ad00418d96f34de5f7817020416438e3420f3aebd7"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep10_Knowing_Torrance_s_Plans.mp3",
+        "bytes": 2508673,
+        "sha256": "e8e15ac541ac4986a1234d8f47550b0ad3aaba4b270b100100d6ca500ece0289"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep10_Knowing_Torrance_s_Plans.html",
@@ -256,19 +256,19 @@
       },
       "summary": "Maps Torrance planning documents and the places where new housing and development policy are changing.",
       "publication_date": "2026-10-08T03:42:00Z",
-      "duration_seconds": 211.84
+      "duration_seconds": 213.255
     },
     {
       "stable_guid": "05681a02-abf4-5be8-96d5-8079c81415c2",
       "show": "local-officials-handbook",
       "episode": 11,
       "title": "How Projects Pencil",
-      "release_version": "2026.2",
-      "release_tag": "local-officials-handbook-v2026.2",
+      "release_version": "2026.4",
+      "release_tag": "local-officials-handbook-v2026.4",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep11_How_Projects_Pencil.mp3",
-        "bytes": 2614068,
-        "sha256": "d3a3d4969bcea0894e43c68d3e1a2930e4703a2a9935fa8e132ebddd9d3923c5"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep11_How_Projects_Pencil.mp3",
+        "bytes": 2537110,
+        "sha256": "3ff450b98579b1ba81725431797b7185b1bdce1668fb0794ddce6773e0adb139"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep11_How_Projects_Pencil.html",
@@ -281,19 +281,19 @@
       },
       "summary": "Explains development feasibility, yield, financing, construction costs, rents, and municipal fiscal effects.",
       "publication_date": "2026-10-08T03:42:00Z",
-      "duration_seconds": 217.08
+      "duration_seconds": 215.571
     },
     {
       "stable_guid": "177c2246-76b4-5aa7-85d9-3faeb0ab69b0",
       "show": "local-officials-handbook",
       "episode": 12,
       "title": "The Regional Map",
-      "release_version": "2026.2",
-      "release_tag": "local-officials-handbook-v2026.2",
+      "release_version": "2026.4",
+      "release_tag": "local-officials-handbook-v2026.4",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep12_The_Regional_Map.mp3",
-        "bytes": 2282999,
-        "sha256": "c89d874a81592bafa544266c9ae39c5b32dde1a74125b76a397a43044ee507e8"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep12_The_Regional_Map.mp3",
+        "bytes": 2219567,
+        "sha256": "b086e810da78b7c96ed21a9ed8ec28da779f5bba6b343ebc1feeb45f761cebaa"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.html",
@@ -306,19 +306,19 @@
       },
       "summary": "Maps the regional agencies and decisions that constrain or shape Torrance policy.",
       "publication_date": "2026-10-08T03:42:00Z",
-      "duration_seconds": 188.8
+      "duration_seconds": 186.319
     },
     {
       "stable_guid": "3c91a918-e800-555c-a286-064d37ff5d2d",
       "show": "local-officials-handbook",
       "episode": 13,
       "title": "Homelessness and Engagement",
-      "release_version": "2026.2",
-      "release_tag": "local-officials-handbook-v2026.2",
+      "release_version": "2026.4",
+      "release_tag": "local-officials-handbook-v2026.4",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep13_Homelessness_and_Engagement.mp3",
-        "bytes": 2381085,
-        "sha256": "ba592372bce0cf84b321922957f24733770861440a981efeea5b3fa786a5a4c6"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep13_Homelessness_and_Engagement.mp3",
+        "bytes": 2371740,
+        "sha256": "329441f1190cd2e3ca14f1bfdba712b2b315e35a951361bf2a4b4a9875f4405a"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.html",
@@ -331,19 +331,19 @@
       },
       "summary": "Examines homelessness policy, funding constraints, enforcement, services, and meaningful engagement.",
       "publication_date": "2026-10-08T03:42:00Z",
-      "duration_seconds": 197.66
+      "duration_seconds": 198.053
     },
     {
       "stable_guid": "9afd6920-2c8c-50a9-a896-2e7d8b80c4c9",
       "show": "local-officials-handbook",
       "episode": 14,
       "title": "Building Your Record",
-      "release_version": "2026.2",
-      "release_tag": "local-officials-handbook-v2026.2",
+      "release_version": "2026.4",
+      "release_tag": "local-officials-handbook-v2026.4",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep14_Building_Your_Record.mp3",
-        "bytes": 1979764,
-        "sha256": "0ca4e1af1a7377b7b1bdf1d99ed071554b5778276d33c080bbde075ea2084d7c"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep14_Building_Your_Record.mp3",
+        "bytes": 1895973,
+        "sha256": "d8a1072bfecd03b6d6aa2df367e3fb5f22f646104b7163653b6481b5d1d68f91"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.html",
@@ -356,7 +356,7 @@
       },
       "summary": "Explains how votes, minutes, findings, training, and documented reasoning build a public official's record.",
       "publication_date": "2026-10-08T03:42:00Z",
-      "duration_seconds": 163.76
+      "duration_seconds": 160.144
     }
   ]
 }

@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 13,
   "explicit": false,
-  "duration_seconds": 197.66,
-  "enclosure_bytes": 2381085,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep13_Homelessness_and_Engagement.mp3",
+  "duration_seconds": 198.053,
+  "enclosure_bytes": 2371740,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep13_Homelessness_and_Engagement.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep13.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "0a70f8e29ba20645ef0bfd2fd89a35d6207f6ff18f813ed3e128463f69d6baf9",
-    "audio_sha256": "ba592372bce0cf84b321922957f24733770861440a981efeea5b3fa786a5a4c6"
+    "transcript_sha256": "67484557ccc67f63d677ab4323af4a0cf941994fa37a25daf6332ee51281b0c8",
+    "audio_sha256": "329441f1190cd2e3ca14f1bfdba712b2b315e35a951361bf2a4b4a9875f4405a"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep13_Homelessness_and_Engagement.provenance.json",
-  "release_tag": "local-officials-handbook-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "local-officials-handbook-v2026.4",
+  "release_version": "2026.4"
 }

@@ -3,12 +3,12 @@
   "show": "local-officials-handbook",
   "episode": 1,
   "title": "Two Hats",
-  "release_version": "2026.2",
-  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.4",
+  "release_tag": "local-officials-handbook-v2026.4",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep01_Two_Hats.mp3",
-    "bytes": 1955777,
-    "sha256": "77ba15f50cf4c91fd857feeeb08d2da19f4f0b097aa269229c79fd5ba5376c99"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep01_Two_Hats.mp3",
+    "bytes": 1936091,
+    "sha256": "1aa920dfff2dd636baa909c4405e974360effd178fbefb566df2fa59260c7bba"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep01_Two_Hats.html",

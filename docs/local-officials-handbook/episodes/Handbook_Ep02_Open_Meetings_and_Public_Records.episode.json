@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 2,
   "explicit": false,
-  "duration_seconds": 200.36,
-  "enclosure_bytes": 2418879,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep02_Open_Meetings_and_Public_Records.mp3",
+  "duration_seconds": 197.134,
+  "enclosure_bytes": 2351060,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep02_Open_Meetings_and_Public_Records.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep02.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "e9087c02a28252e007b47aa8ccdb255342c83fd00d8dceda57152ca982925109",
-    "audio_sha256": "3f59e8b4461050de53f57166c0fe57a1b9587fb57439615878dd993144c0b332"
+    "transcript_sha256": "6b840c307e0d2c712f121d023e00a0d4c2ca004e340ed6b8beefc03fb0454cc4",
+    "audio_sha256": "0e2c22d959d36dce00abad15a17f08b1a047f773cdc97de9b054da3e4c66545d"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep02_Open_Meetings_and_Public_Records.provenance.json",
-  "release_tag": "local-officials-handbook-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "local-officials-handbook-v2026.4",
+  "release_version": "2026.4"
 }

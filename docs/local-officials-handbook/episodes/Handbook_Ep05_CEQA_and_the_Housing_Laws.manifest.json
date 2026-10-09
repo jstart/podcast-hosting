@@ -3,12 +3,12 @@
   "show": "local-officials-handbook",
   "episode": 5,
   "title": "CEQA and the Housing Laws",
-  "release_version": "2026.2",
-  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.4",
+  "release_tag": "local-officials-handbook-v2026.4",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep05_CEQA_and_the_Housing_Laws.mp3",
-    "bytes": 2609856,
-    "sha256": "1e3ecd91e537ed2ff74371a34c756b1c7611f714fe0f9cef5e5da15865c63c8c"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep05_CEQA_and_the_Housing_Laws.mp3",
+    "bytes": 2509180,
+    "sha256": "49325047adaa58a6e60b2c28aacdbffc2b3ce7b065b72c331d75600e6d902ff8"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.html",

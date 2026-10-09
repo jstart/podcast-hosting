@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 14,
   "explicit": false,
-  "duration_seconds": 163.76,
-  "enclosure_bytes": 1979764,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep14_Building_Your_Record.mp3",
+  "duration_seconds": 160.144,
+  "enclosure_bytes": 1895973,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep14_Building_Your_Record.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep14.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "243784fdec23495c3e181eb659f8b6ea3af2e26513f2071b0da540f9f2f61cf4",
-    "audio_sha256": "0ca4e1af1a7377b7b1bdf1d99ed071554b5778276d33c080bbde075ea2084d7c"
+    "transcript_sha256": "f13193b5f31ba660a5e30d36d00655683a3aa7ad839ed70e5bfac975388666d6",
+    "audio_sha256": "d8a1072bfecd03b6d6aa2df367e3fb5f22f646104b7163653b6481b5d1d68f91"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep14_Building_Your_Record.provenance.json",
-  "release_tag": "local-officials-handbook-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "local-officials-handbook-v2026.4",
+  "release_version": "2026.4"
 }

@@ -3,12 +3,12 @@
   "show": "local-officials-handbook",
   "episode": 7,
   "title": "The School Board",
-  "release_version": "2026.2",
-  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.4",
+  "release_tag": "local-officials-handbook-v2026.4",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep07_The_School_Board.mp3",
-    "bytes": 2505586,
-    "sha256": "11989c07b940eb7f7560be0ad93248923bc21c0d63fc1e76405bb6cc4fd812f5"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep07_The_School_Board.mp3",
+    "bytes": 2477382,
+    "sha256": "e09e433445f61240fce5867b8334bab36de47d5609e8801e84db68a5fe604740"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep07_The_School_Board.html",

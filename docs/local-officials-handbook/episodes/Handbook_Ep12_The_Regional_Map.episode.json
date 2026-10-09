@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 12,
   "explicit": false,
-  "duration_seconds": 188.8,
-  "enclosure_bytes": 2282999,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep12_The_Regional_Map.mp3",
+  "duration_seconds": 186.319,
+  "enclosure_bytes": 2219567,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep12_The_Regional_Map.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep12.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "e3cdc1658f1b6240b9f0716690ccfe3c5e22bf6973b263b6e5cc4070d1aebc4b",
-    "audio_sha256": "c89d874a81592bafa544266c9ae39c5b32dde1a74125b76a397a43044ee507e8"
+    "transcript_sha256": "4ea74234309cab4a61d5fa7ff26078445f97b84126701220775f1b25e364846f",
+    "audio_sha256": "b086e810da78b7c96ed21a9ed8ec28da779f5bba6b343ebc1feeb45f761cebaa"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep12_The_Regional_Map.provenance.json",
-  "release_tag": "local-officials-handbook-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "local-officials-handbook-v2026.4",
+  "release_version": "2026.4"
 }

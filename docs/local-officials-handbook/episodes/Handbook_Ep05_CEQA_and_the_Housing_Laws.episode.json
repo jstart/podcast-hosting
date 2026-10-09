@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 5,
   "explicit": false,
-  "duration_seconds": 213.98,
-  "enclosure_bytes": 2609856,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep05_CEQA_and_the_Housing_Laws.mp3",
+  "duration_seconds": 211.732,
+  "enclosure_bytes": 2509180,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep05_CEQA_and_the_Housing_Laws.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/artwork/ep05.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "59bf880b2512d2eeab30234a78267e410c744268e0aad3f1830bd14d4cf86b4b",
-    "audio_sha256": "1e3ecd91e537ed2ff74371a34c756b1c7611f714fe0f9cef5e5da15865c63c8c"
+    "transcript_sha256": "af59818fe383b1b47de2aded50f5af60e41c80048c82a8e9e8ba45c2c92359ec",
+    "audio_sha256": "49325047adaa58a6e60b2c28aacdbffc2b3ce7b065b72c331d75600e6d902ff8"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep05_CEQA_and_the_Housing_Laws.provenance.json",
-  "release_tag": "local-officials-handbook-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "local-officials-handbook-v2026.4",
+  "release_version": "2026.4"
 }

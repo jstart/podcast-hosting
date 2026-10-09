@@ -3,12 +3,12 @@
   "show": "local-officials-handbook",
   "episode": 6,
   "title": "Four Votes on the Council",
-  "release_version": "2026.2",
-  "release_tag": "local-officials-handbook-v2026.2",
+  "release_version": "2026.4",
+  "release_tag": "local-officials-handbook-v2026.4",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.2/Handbook_Ep06_Four_Votes_on_the_Council.mp3",
-    "bytes": 2454684,
-    "sha256": "8faf1e2e82e26ddc83d77ccb7f9a07c0034388f5c14dbbb2ca1ef08c6e4ac2cc"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-officials-handbook-v2026.4/Handbook_Ep06_Four_Votes_on_the_Council.mp3",
+    "bytes": 2337007,
+    "sha256": "feba849727f379264a193daee1839ef13220d22f5fea1d657287d89eb366e6fd"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-officials-handbook/episodes/Handbook_Ep06_Four_Votes_on_the_Council.html",
