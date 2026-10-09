@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 4,
   "explicit": false,
-  "duration_seconds": 207.701,
-  "enclosure_bytes": 2479088,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep04_From_Ratios_to_Judgment.mp3",
+  "duration_seconds": 204.421,
+  "enclosure_bytes": 2443975,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.3/FSPM_Ep04_From_Ratios_to_Judgment.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep04.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "680326890cac3bad85a29267600a450b0db23a812efe2360b1d230c713593588",
-    "audio_sha256": "258bccde1bf12aca7656a7600774df6482269e183b8f12cdd9706bcaf4c6e650"
+    "transcript_sha256": "1cd794ec236cc501e746b96f2f138b8ba7344f01203a75841dcad81d55b93db8",
+    "audio_sha256": "7b7748335def53bdd1b40ff1de556d52957b1a609e116f5105ea5ba3b1bd9078"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.provenance.json",
-  "release_tag": "financial-strategy-public-managers-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "financial-strategy-public-managers-v2026.3",
+  "release_version": "2026.3"
 }

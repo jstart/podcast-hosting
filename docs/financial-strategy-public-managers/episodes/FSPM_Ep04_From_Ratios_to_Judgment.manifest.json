@@ -3,12 +3,12 @@
   "show": "financial-strategy-public-managers",
   "episode": 4,
   "title": "From Ratios to Judgment",
-  "release_version": "2026.2",
-  "release_tag": "financial-strategy-public-managers-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "financial-strategy-public-managers-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep04_From_Ratios_to_Judgment.mp3",
-    "bytes": 2479088,
-    "sha256": "258bccde1bf12aca7656a7600774df6482269e183b8f12cdd9706bcaf4c6e650"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.3/FSPM_Ep04_From_Ratios_to_Judgment.mp3",
+    "bytes": 2443975,
+    "sha256": "7b7748335def53bdd1b40ff1de556d52957b1a609e116f5105ea5ba3b1bd9078"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.html",

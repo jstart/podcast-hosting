@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 8,
   "explicit": false,
-  "duration_seconds": 200.413,
-  "enclosure_bytes": 2366518,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep08_The_Budget_as_Policy.mp3",
+  "duration_seconds": 195.503,
+  "enclosure_bytes": 2306314,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.3/FSPM_Ep08_The_Budget_as_Policy.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep08.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "87b94d3201fffa75164a525e2a6299ebf91beadcfc3ce8da9f5e1e268ad2020b",
-    "audio_sha256": "438abba6ca2150e0ec0d9e455d4808e0de9dba423d00a79e23704bacdefbf572"
+    "transcript_sha256": "f20111fbc595d021bfd1462e60018ad667cee32f5b7934b62ddb7e9b087f8a1e",
+    "audio_sha256": "ab1a490c6d8fd5678bce3cd6d5594ba15bca0a314d3aae3af360d5833ad0a3df"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.provenance.json",
-  "release_tag": "financial-strategy-public-managers-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "financial-strategy-public-managers-v2026.3",
+  "release_version": "2026.3"
 }

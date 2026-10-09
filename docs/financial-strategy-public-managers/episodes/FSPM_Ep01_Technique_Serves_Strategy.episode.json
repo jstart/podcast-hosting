@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 1,
   "explicit": false,
-  "duration_seconds": 209.379,
-  "enclosure_bytes": 2488913,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep01_Technique_Serves_Strategy.mp3",
+  "duration_seconds": 209.099,
+  "enclosure_bytes": 2490383,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.3/FSPM_Ep01_Technique_Serves_Strategy.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/artwork/ep01.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "8fddeb079cf162a23fe89d7450e3249fbe4a1a46d03e8b1b7584dd9adab5681d",
-    "audio_sha256": "93f55f091aa3a94b63114df4d98da8bf0298c82633476b3630f982e9027ef899"
+    "transcript_sha256": "018667a018b5b13422d8eeeb11fc132e389b65ead02f308f4b72b81d37cd1c74",
+    "audio_sha256": "87328338e7b86e1e6450456cd6a702b0cf6be6f46202d848a0ec1305f0748a37"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.provenance.json",
-  "release_tag": "financial-strategy-public-managers-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "financial-strategy-public-managers-v2026.3",
+  "release_version": "2026.3"
 }

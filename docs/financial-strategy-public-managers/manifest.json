@@ -3,22 +3,22 @@
   "title": "Public Money, Public Strategy",
   "album": "Public Money, Public Strategy: Financial Strategy for Public Managers",
   "description": "A nine-episode course connecting public-sector financial tools to mission, accountability, costs, budgets, and repeatable strategy.",
-  "version": "2026.2",
-  "release_tag": "financial-strategy-public-managers-v2026.2",
+  "version": "2026.3",
+  "release_tag": "financial-strategy-public-managers-v2026.3",
   "stable_feed_url": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/feed.xml",
-  "release_url": "https://github.com/jstart/podcast-hosting/releases/tag/financial-strategy-public-managers-v2026.2",
+  "release_url": "https://github.com/jstart/podcast-hosting/releases/tag/financial-strategy-public-managers-v2026.3",
   "episodes": [
     {
       "stable_guid": "9920c6fb-79df-5eb4-bbfd-7d8314e98929",
       "show": "financial-strategy-public-managers",
       "episode": 1,
       "title": "Technique Serves Strategy",
-      "release_version": "2026.2",
-      "release_tag": "financial-strategy-public-managers-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "financial-strategy-public-managers-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep01_Technique_Serves_Strategy.mp3",
-        "bytes": 2488913,
-        "sha256": "93f55f091aa3a94b63114df4d98da8bf0298c82633476b3630f982e9027ef899"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.3/FSPM_Ep01_Technique_Serves_Strategy.mp3",
+        "bytes": 2490383,
+        "sha256": "87328338e7b86e1e6450456cd6a702b0cf6be6f46202d848a0ec1305f0748a37"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.html",
@@ -31,19 +31,19 @@
       },
       "summary": "Connects financial tools to mission choices, public value, and accountable management.",
       "publication_date": "2026-10-08T04:00:00Z",
-      "duration_seconds": 209.379
+      "duration_seconds": 209.099
     },
     {
       "stable_guid": "24063539-2eb1-528a-8abc-60910045255c",
       "show": "financial-strategy-public-managers",
       "episode": 2,
       "title": "How the Public Sector Pays",
-      "release_version": "2026.2",
-      "release_tag": "financial-strategy-public-managers-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "financial-strategy-public-managers-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep02_How_the_Public_Sector_Pays.mp3",
-        "bytes": 2613020,
-        "sha256": "064bac7577e537e629122321bdfb6bb9a57113f0a0c591f64fe28f1e8a220ce5"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.3/FSPM_Ep02_How_the_Public_Sector_Pays.mp3",
+        "bytes": 2536254,
+        "sha256": "6024799c29d4908bc05667a32c6621e874d94daa0fead0b9620305eaaf870960"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep02_How_the_Public_Sector_Pays.html",
@@ -56,19 +56,19 @@
       },
       "summary": "Maps taxes, fees, grants, transfers, and borrowing to the services they finance.",
       "publication_date": "2026-10-08T04:00:00Z",
-      "duration_seconds": 223.741
+      "duration_seconds": 215.371
     },
     {
       "stable_guid": "6633a78a-da18-577b-a871-485b520f295e",
       "show": "financial-strategy-public-managers",
       "episode": 3,
       "title": "Reading the Three Statements",
-      "release_version": "2026.2",
-      "release_tag": "financial-strategy-public-managers-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "financial-strategy-public-managers-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep03_Reading_the_Three_Statements.mp3",
-        "bytes": 2510399,
-        "sha256": "56c7b2f6771b78d05c871bea1e835f0f8af50d57297ffacfe82dafe2d083c153"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.3/FSPM_Ep03_Reading_the_Three_Statements.mp3",
+        "bytes": 2510481,
+        "sha256": "610d0d20f203102d003f310399568a1be534d44d04972e792e251cc77d6b3aae"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep03_Reading_the_Three_Statements.html",
@@ -81,19 +81,19 @@
       },
       "summary": "Explains balance sheets, operating statements, and cash-flow statements as one financial story.",
       "publication_date": "2026-10-08T04:00:00Z",
-      "duration_seconds": 211.542
+      "duration_seconds": 210.917
     },
     {
       "stable_guid": "10556d0e-fd58-5a44-bdc9-01aad45a20c2",
       "show": "financial-strategy-public-managers",
       "episode": 4,
       "title": "From Ratios to Judgment",
-      "release_version": "2026.2",
-      "release_tag": "financial-strategy-public-managers-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "financial-strategy-public-managers-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep04_From_Ratios_to_Judgment.mp3",
-        "bytes": 2479088,
-        "sha256": "258bccde1bf12aca7656a7600774df6482269e183b8f12cdd9706bcaf4c6e650"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.3/FSPM_Ep04_From_Ratios_to_Judgment.mp3",
+        "bytes": 2443975,
+        "sha256": "7b7748335def53bdd1b40ff1de556d52957b1a609e116f5105ea5ba3b1bd9078"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep04_From_Ratios_to_Judgment.html",
@@ -106,19 +106,19 @@
       },
       "summary": "Uses liquidity, operating, and solvency measures without confusing ratios for conclusions.",
       "publication_date": "2026-10-08T04:00:00Z",
-      "duration_seconds": 207.701
+      "duration_seconds": 204.421
     },
     {
       "stable_guid": "16856f65-6b4d-52ae-8895-6e1b292bf7e1",
       "show": "financial-strategy-public-managers",
       "episode": 5,
       "title": "Transactions Tell the Story",
-      "release_version": "2026.2",
-      "release_tag": "financial-strategy-public-managers-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "financial-strategy-public-managers-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep05_Transactions_Tell_the_Story.mp3",
-        "bytes": 2359681,
-        "sha256": "eaa190a78e1be78e671b234f2b3026f14c590956339c913e231da513436c8cb9"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.3/FSPM_Ep05_Transactions_Tell_the_Story.mp3",
+        "bytes": 2354113,
+        "sha256": "2c2603947d04ed6e38ecfa98d59f37ccf74d83d2dfc3d837fd42ecfa37aa00c8"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep05_Transactions_Tell_the_Story.html",
@@ -131,19 +131,19 @@
       },
       "summary": "Shows how accruals, recognition, depreciation, and encumbrances shape reported results.",
       "publication_date": "2026-10-08T04:00:00Z",
-      "duration_seconds": 199.789
+      "duration_seconds": 199.384
     },
     {
       "stable_guid": "4fc9cc19-0b8a-5a39-8308-dde55bdd7080",
       "show": "financial-strategy-public-managers",
       "episode": 6,
       "title": "The Full Cost of Service",
-      "release_version": "2026.2",
-      "release_tag": "financial-strategy-public-managers-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "financial-strategy-public-managers-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep06_The_Full_Cost_of_Service.mp3",
-        "bytes": 2385159,
-        "sha256": "1049408979091875a402422861a7f7a5bb6f4b3d9d5c85c37d60a375b52c57e3"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.3/FSPM_Ep06_The_Full_Cost_of_Service.mp3",
+        "bytes": 2368495,
+        "sha256": "480d310ae9bbb95e957f4099162fb483c3c47616b48beac9d9efe36cd86e4136"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep06_The_Full_Cost_of_Service.html",
@@ -156,19 +156,19 @@
       },
       "summary": "Builds full service costs from direct work, shared support, capital, and overhead.",
       "publication_date": "2026-10-08T04:00:00Z",
-      "duration_seconds": 201.662
+      "duration_seconds": 200.482
     },
     {
       "stable_guid": "a9484b03-5967-5916-a14e-b5fce46f2520",
       "show": "financial-strategy-public-managers",
       "episode": 7,
       "title": "What Changes at the Margin",
-      "release_version": "2026.2",
-      "release_tag": "financial-strategy-public-managers-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "financial-strategy-public-managers-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep07_What_Changes_at_the_Margin.mp3",
-        "bytes": 2366802,
-        "sha256": "4b930856ac918ad8278615687b378b4dd4b8b6be0841b987c2eacc2f28c749c2"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.3/FSPM_Ep07_What_Changes_at_the_Margin.mp3",
+        "bytes": 2385629,
+        "sha256": "a2d2126666390843416d01010c37dc521daea28cc60daef82fc32cf21e441601"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep07_What_Changes_at_the_Margin.html",
@@ -181,19 +181,19 @@
       },
       "summary": "Separates fixed, variable, step, avoidable, and sunk costs for service decisions.",
       "publication_date": "2026-10-08T04:00:00Z",
-      "duration_seconds": 199.448
+      "duration_seconds": 201.393
     },
     {
       "stable_guid": "3b8f3801-256f-57e3-ac76-e16300a8bbc0",
       "show": "financial-strategy-public-managers",
       "episode": 8,
       "title": "The Budget as Policy",
-      "release_version": "2026.2",
-      "release_tag": "financial-strategy-public-managers-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "financial-strategy-public-managers-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep08_The_Budget_as_Policy.mp3",
-        "bytes": 2366518,
-        "sha256": "438abba6ca2150e0ec0d9e455d4808e0de9dba423d00a79e23704bacdefbf572"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.3/FSPM_Ep08_The_Budget_as_Policy.mp3",
+        "bytes": 2306314,
+        "sha256": "ab1a490c6d8fd5678bce3cd6d5594ba15bca0a314d3aae3af360d5833ad0a3df"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep08_The_Budget_as_Policy.html",
@@ -206,19 +206,19 @@
       },
       "summary": "Treats the budget as a prospective policy document linking priorities, resources, and authority.",
       "publication_date": "2026-10-08T04:00:00Z",
-      "duration_seconds": 200.413
+      "duration_seconds": 195.503
     },
     {
       "stable_guid": "27c30b3f-de8a-542e-9c39-a01e51a37c1b",
       "show": "financial-strategy-public-managers",
       "episode": 9,
       "title": "A Repeatable Financial Strategy",
-      "release_version": "2026.2",
-      "release_tag": "financial-strategy-public-managers-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "financial-strategy-public-managers-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep09_A_Repeatable_Financial_Strategy.mp3",
-        "bytes": 2589881,
-        "sha256": "7026d62153d66d4ea75440b6159aa77a473c58321a73c264f1ede0bfa8028d07"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.3/FSPM_Ep09_A_Repeatable_Financial_Strategy.mp3",
+        "bytes": 2552781,
+        "sha256": "38bf3d6f0d4c5bb3d8d7a48bf5c81b68fb50e8a3460306f2ac5c5ece16ae4944"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep09_A_Repeatable_Financial_Strategy.html",
@@ -231,7 +231,7 @@
       },
       "summary": "Combines revenue, statements, costs, scenarios, and budgets into a repeatable decision process.",
       "publication_date": "2026-10-08T04:00:00Z",
-      "duration_seconds": 218.124
+      "duration_seconds": 215.788
     }
   ]
 }

@@ -3,12 +3,12 @@
   "show": "financial-strategy-public-managers",
   "episode": 5,
   "title": "Transactions Tell the Story",
-  "release_version": "2026.2",
-  "release_tag": "financial-strategy-public-managers-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "financial-strategy-public-managers-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep05_Transactions_Tell_the_Story.mp3",
-    "bytes": 2359681,
-    "sha256": "eaa190a78e1be78e671b234f2b3026f14c590956339c913e231da513436c8cb9"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.3/FSPM_Ep05_Transactions_Tell_the_Story.mp3",
+    "bytes": 2354113,
+    "sha256": "2c2603947d04ed6e38ecfa98d59f37ccf74d83d2dfc3d837fd42ecfa37aa00c8"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep05_Transactions_Tell_the_Story.html",

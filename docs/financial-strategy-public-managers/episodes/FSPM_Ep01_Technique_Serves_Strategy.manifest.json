@@ -3,12 +3,12 @@
   "show": "financial-strategy-public-managers",
   "episode": 1,
   "title": "Technique Serves Strategy",
-  "release_version": "2026.2",
-  "release_tag": "financial-strategy-public-managers-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "financial-strategy-public-managers-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep01_Technique_Serves_Strategy.mp3",
-    "bytes": 2488913,
-    "sha256": "93f55f091aa3a94b63114df4d98da8bf0298c82633476b3630f982e9027ef899"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.3/FSPM_Ep01_Technique_Serves_Strategy.mp3",
+    "bytes": 2490383,
+    "sha256": "87328338e7b86e1e6450456cd6a702b0cf6be6f46202d848a0ec1305f0748a37"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep01_Technique_Serves_Strategy.html",

@@ -3,12 +3,12 @@
   "show": "financial-strategy-public-managers",
   "episode": 3,
   "title": "Reading the Three Statements",
-  "release_version": "2026.2",
-  "release_tag": "financial-strategy-public-managers-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "financial-strategy-public-managers-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.2/FSPM_Ep03_Reading_the_Three_Statements.mp3",
-    "bytes": 2510399,
-    "sha256": "56c7b2f6771b78d05c871bea1e835f0f8af50d57297ffacfe82dafe2d083c153"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/financial-strategy-public-managers-v2026.3/FSPM_Ep03_Reading_the_Three_Statements.mp3",
+    "bytes": 2510481,
+    "sha256": "610d0d20f203102d003f310399568a1be534d44d04972e792e251cc77d6b3aae"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/financial-strategy-public-managers/episodes/FSPM_Ep03_Reading_the_Three_Statements.html",
