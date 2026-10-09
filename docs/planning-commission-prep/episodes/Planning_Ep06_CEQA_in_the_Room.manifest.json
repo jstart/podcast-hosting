@@ -3,12 +3,12 @@
   "show": "planning-commission-prep",
   "episode": 6,
   "title": "CEQA in the Room",
-  "release_version": "2026.2",
-  "release_tag": "planning-commission-prep-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "planning-commission-prep-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep06_CEQA_in_the_Room.mp3",
-    "bytes": 2664716,
-    "sha256": "9a1f34f6613197f0a631d27a289a9d86e97a1b743244345519713f3156a079dc"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.3/Planning_Ep06_CEQA_in_the_Room.mp3",
+    "bytes": 2743150,
+    "sha256": "072239e9aab67b811b880586c6c08bf5307c7a124242938640d429b5d379befe"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep06_CEQA_in_the_Room.html",

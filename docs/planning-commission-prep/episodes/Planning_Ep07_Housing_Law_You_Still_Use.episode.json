@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 7,
   "explicit": false,
-  "duration_seconds": 270.429,
-  "enclosure_bytes": 3279480,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep07_Housing_Law_You_Still_Use.mp3",
+  "duration_seconds": 280.539,
+  "enclosure_bytes": 3286314,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.3/Planning_Ep07_Housing_Law_You_Still_Use.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep07.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "a96828596b76e25575dac0828c122c0ccdc20c79101a0cd0db887bcb755ca681",
-    "audio_sha256": "787298296531875486f3cb5e20c2e8187bda6b4986be26bbeeb5a48dc0b7b2c8"
+    "transcript_sha256": "67b21f097a651854604fe39e9fa4c8c7cd9b49568fbf01f08255ae657687732d",
+    "audio_sha256": "e6e5e9a788c2d8bc84dd5cb1481bdca87b2e15d5b22e04c80e712cefe608346c"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep07_Housing_Law_You_Still_Use.provenance.json",
-  "release_tag": "planning-commission-prep-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "planning-commission-prep-v2026.3",
+  "release_version": "2026.3"
 }

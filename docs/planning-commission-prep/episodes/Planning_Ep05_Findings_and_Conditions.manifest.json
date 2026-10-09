@@ -3,12 +3,12 @@
   "show": "planning-commission-prep",
   "episode": 5,
   "title": "Findings and Conditions",
-  "release_version": "2026.2",
-  "release_tag": "planning-commission-prep-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "planning-commission-prep-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep05_Findings_and_Conditions.mp3",
-    "bytes": 2412596,
-    "sha256": "144d1e463633fb343be1d56e781c7c3a606e454f38962915bf7e2ea2ab8b0f67"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.3/Planning_Ep05_Findings_and_Conditions.mp3",
+    "bytes": 2549950,
+    "sha256": "2fc5a50d22fa4bdb81fe078755b33289572f59d3859a38a2c2d77ed29d8608ce"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.html",

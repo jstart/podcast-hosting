@@ -3,12 +3,12 @@
   "show": "planning-commission-prep",
   "episode": 2,
   "title": "The Stack of Plans",
-  "release_version": "2026.2",
-  "release_tag": "planning-commission-prep-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "planning-commission-prep-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep02_The_Stack_of_Plans.mp3",
-    "bytes": 2404327,
-    "sha256": "c8751306caef2286eda2234057931d1ffdbb8b2749a350eba7fc76a23e0f1e6b"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.3/Planning_Ep02_The_Stack_of_Plans.mp3",
+    "bytes": 2431937,
+    "sha256": "cc7dc71f1bce31f624f354ba9bca699b8e76339139447b788da71a9a523f7cf0"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep02_The_Stack_of_Plans.html",

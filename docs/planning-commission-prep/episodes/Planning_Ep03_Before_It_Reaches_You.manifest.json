@@ -3,12 +3,12 @@
   "show": "planning-commission-prep",
   "episode": 3,
   "title": "Before It Reaches You",
-  "release_version": "2026.2",
-  "release_tag": "planning-commission-prep-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "planning-commission-prep-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep03_Before_It_Reaches_You.mp3",
-    "bytes": 2243922,
-    "sha256": "adc99a7c4a13830796db940075e3fcaafae99cfce45fb2fdef15179d243b4eec"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.3/Planning_Ep03_Before_It_Reaches_You.mp3",
+    "bytes": 2317406,
+    "sha256": "1b9f3bc6186462d4bbccb562ffe60c7d495ed5cefb433d25293c56c986fdceb1"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep03_Before_It_Reaches_You.html",

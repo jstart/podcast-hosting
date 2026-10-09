@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 5,
   "explicit": false,
-  "duration_seconds": 197.176,
-  "enclosure_bytes": 2412596,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep05_Findings_and_Conditions.mp3",
+  "duration_seconds": 215.571,
+  "enclosure_bytes": 2549950,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.3/Planning_Ep05_Findings_and_Conditions.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep05.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "e454500ebc1eaeddbd8b6e96d6f9d74fd3034de380b83e4a9200f54ceeaee890",
-    "audio_sha256": "144d1e463633fb343be1d56e781c7c3a606e454f38962915bf7e2ea2ab8b0f67"
+    "transcript_sha256": "ffbfbad33cfb86f503df5a5b01c8fccd762a1ef2e5c3f5c8743561af2a3df74e",
+    "audio_sha256": "2fc5a50d22fa4bdb81fe078755b33289572f59d3859a38a2c2d77ed29d8608ce"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep05_Findings_and_Conditions.provenance.json",
-  "release_tag": "planning-commission-prep-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "planning-commission-prep-v2026.3",
+  "release_version": "2026.3"
 }

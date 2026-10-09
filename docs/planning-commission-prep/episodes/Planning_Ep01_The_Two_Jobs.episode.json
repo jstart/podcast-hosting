@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 1,
   "explicit": false,
-  "duration_seconds": 163.211,
-  "enclosure_bytes": 1977203,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep01_The_Two_Jobs.mp3",
+  "duration_seconds": 175.161,
+  "enclosure_bytes": 2071096,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.3/Planning_Ep01_The_Two_Jobs.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep01.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "b9939adbab604bef4e02f904ab63c34747dedb6b1dff1765f009772927c55bf5",
-    "audio_sha256": "03cde703aa192feb5295c6d98913f96f3191cb1360e2e9b7dafca185dd160c5b"
+    "transcript_sha256": "985a1fccc78ebf98025f4d62b835d141e37d84657a72f20e193e295ab74a0ece",
+    "audio_sha256": "ef8c15444c4aac2462b56283ca03056366ce19a643a76e64d49d1a705e6e2e41"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep01_The_Two_Jobs.provenance.json",
-  "release_tag": "planning-commission-prep-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "planning-commission-prep-v2026.3",
+  "release_version": "2026.3"
 }

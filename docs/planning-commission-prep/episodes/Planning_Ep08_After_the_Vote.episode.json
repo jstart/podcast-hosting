@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 8,
   "explicit": false,
-  "duration_seconds": 199.734,
-  "enclosure_bytes": 2401714,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.2/Planning_Ep08_After_the_Vote.mp3",
+  "duration_seconds": 208.574,
+  "enclosure_bytes": 2431621,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/planning-commission-prep-v2026.3/Planning_Ep08_After_the_Vote.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep08_After_the_Vote.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep08_After_the_Vote.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/artwork/ep08.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep08_After_the_Vote.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "ae1a25213612f0585923b46963f85f069e504ec7b6567b45d94428026c0689f7",
-    "audio_sha256": "d955f81f61fb3556ce366b888c79fdb3259d79589d5542836add2f3ec8786488"
+    "transcript_sha256": "71afbcfb65db31c230eeaedfc04ee90dca518af245c5661407a8026dc0554b1c",
+    "audio_sha256": "4ae9cc9870479cc491d8fb4a70c92206d99ca59648c333d5bd55997a09de596c"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep08_After_the_Vote.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep08_After_the_Vote.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/planning-commission-prep/episodes/Planning_Ep08_After_the_Vote.provenance.json",
-  "release_tag": "planning-commission-prep-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "planning-commission-prep-v2026.3",
+  "release_version": "2026.3"
 }
