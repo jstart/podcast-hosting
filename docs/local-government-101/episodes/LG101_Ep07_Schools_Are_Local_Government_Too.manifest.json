@@ -3,12 +3,12 @@
   "show": "local-government-101",
   "episode": 7,
   "title": "Schools Are Local Government Too",
-  "release_version": "2026.2",
-  "release_tag": "local-government-101-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "local-government-101-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep07_Schools_Are_Local_Government_Too.mp3",
-    "bytes": 2328284,
-    "sha256": "09ac1b88cab03e120d83b1cc3068b73b7352acf6463e831a03e000fbb5c301df"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep07_Schools_Are_Local_Government_Too.mp3",
+    "bytes": 2312532,
+    "sha256": "daff93c637292895fd567e8630657fa8f2c69036110c9d7705a0b7dc59fb1df3"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.html",

@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 2,
   "explicit": false,
-  "duration_seconds": 206.3,
-  "enclosure_bytes": 2495500,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep02_City_Hall_101.mp3",
+  "duration_seconds": 204.913,
+  "enclosure_bytes": 2432138,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep02_City_Hall_101.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep02.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "4b0d02d65ca3d43e0c1cc210be600cadee9db6c4aa8653dacf56b6b20722cb0a",
-    "audio_sha256": "d50c14a9b730a14e415fd4b047c5acf6083b3ede87475833dd51e0a0975c3f45"
+    "transcript_sha256": "9837bac0339e34d849d0cfdba0581e77a8e31f392d54ab4373a45d119e60ecea",
+    "audio_sha256": "a6bf4e6d722e7492bc4ca4c5dac833b725100e9a254c058f2a1322a3f4c47684"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.provenance.json",
-  "release_tag": "local-government-101-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "local-government-101-v2026.3",
+  "release_version": "2026.3"
 }

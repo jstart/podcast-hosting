@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 3,
   "explicit": false,
-  "duration_seconds": 203.38,
-  "enclosure_bytes": 2454760,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep03_The_County_Above_You.mp3",
+  "duration_seconds": 200.482,
+  "enclosure_bytes": 2356463,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep03_The_County_Above_You.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep03.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "cea81cdf8cf9c7f388e6f6b03671808dab064390e6bc4d32abeea17d375a8cca",
-    "audio_sha256": "f844bf6128acee6dabac649c13fb50009d312296834e771afc727ba527b5486a"
+    "transcript_sha256": "6504e347ee0746b88fecd07ffa1179cdb99ca04085cc39450a865c6fd0c3fa27",
+    "audio_sha256": "99750d92814c36c44ab43e1df325a540b00f3cd538a672e8ebd2df892afbf944"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.provenance.json",
-  "release_tag": "local-government-101-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "local-government-101-v2026.3",
+  "release_version": "2026.3"
 }

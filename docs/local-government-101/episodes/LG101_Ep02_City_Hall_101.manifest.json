@@ -3,12 +3,12 @@
   "show": "local-government-101",
   "episode": 2,
   "title": "City Hall 101",
-  "release_version": "2026.2",
-  "release_tag": "local-government-101-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "local-government-101-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep02_City_Hall_101.mp3",
-    "bytes": 2495500,
-    "sha256": "d50c14a9b730a14e415fd4b047c5acf6083b3ede87475833dd51e0a0975c3f45"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep02_City_Hall_101.mp3",
+    "bytes": 2432138,
+    "sha256": "a6bf4e6d722e7492bc4ca4c5dac833b725100e9a254c058f2a1322a3f4c47684"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.html",

@@ -3,12 +3,12 @@
   "show": "local-government-101",
   "episode": 8,
   "title": "Your Vote Counts More Here",
-  "release_version": "2026.2",
-  "release_tag": "local-government-101-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "local-government-101-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep08_Your_Vote_Counts_More_Here.mp3",
-    "bytes": 2573396,
-    "sha256": "f3743fc1b66402ce19e5f3cb6566e2a7d445039826e21f3494cc8a97a164de27"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep08_Your_Vote_Counts_More_Here.mp3",
+    "bytes": 2418883,
+    "sha256": "e22eb27f24c93b3a7261f0a6029ba383304a93196897a1e245c165caf2e317d2"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.html",

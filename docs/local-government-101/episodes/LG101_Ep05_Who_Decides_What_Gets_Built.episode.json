@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 5,
   "explicit": false,
-  "duration_seconds": 208.32,
-  "enclosure_bytes": 2559453,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep05_Who_Decides_What_Gets_Built.mp3",
+  "duration_seconds": 217.151,
+  "enclosure_bytes": 2564891,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep05_Who_Decides_What_Gets_Built.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep05.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "5e0c7be9c5ce43379c946bfbda88956f55a4ec37dae9179eda8d86d81a0a7fee",
-    "audio_sha256": "a4ae66393bc9a31b6a59628b833ff78e752782f3173e8f098fcbb463cc6b43dc"
+    "transcript_sha256": "4853e32145b814ba68bde98d3f309ee615243693aabb3652cc269ff1116b0c80",
+    "audio_sha256": "0e9ffe4f35207d67e8c487e67dd435f7db0fe0e6ef11d84455e6beb3414945d6"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.provenance.json",
-  "release_tag": "local-government-101-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "local-government-101-v2026.3",
+  "release_version": "2026.3"
 }

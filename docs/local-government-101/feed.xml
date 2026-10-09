@@ -25,10 +25,10 @@
       <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.html</link>
       <guid isPermaLink="false">f19ed06e-68ac-5d74-b219-1861b068990d</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep10_Putting_It_All_Together.mp3" length="2475426" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep10_Putting_It_All_Together.mp3" length="2520664" type="audio/mpeg" />
       <itunes:episode>10</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>209</itunes:duration>
+      <itunes:duration>213</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep10.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.vtt" type="text/vtt" language="en" />
@@ -39,8 +39,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep10_Putting_It_All_Together.provenance.json</podhost:provenance>
-      <podhost:sha256>24bf4a190b36d1fb283066258e6a06236cfb5d9ae84ebf69de55de7839ba62da</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>0481e241493e1f0d00730d044e380df425a2ca4fe7e208035f4663e634fec494</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>How to Get Involved</title>
@@ -48,10 +48,10 @@
       <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.html</link>
       <guid isPermaLink="false">aa59db72-37cd-5b06-ba33-12cc13e4f2e1</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep09_How_to_Get_Involved.mp3" length="2452200" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep09_How_to_Get_Involved.mp3" length="2386267" type="audio/mpeg" />
       <itunes:episode>9</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>201</itunes:duration>
+      <itunes:duration>202</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep09.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.vtt" type="text/vtt" language="en" />
@@ -62,8 +62,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep09_How_to_Get_Involved.provenance.json</podhost:provenance>
-      <podhost:sha256>ff8fa69ce5ed29889c1f0971e8a6462742ce50782c9b223ac9e582ad6e113d3d</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>1c006b4d9e154d20d870fc799cd118ba74014071d162d8e53df5f9a15f4d62c5</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>Your Vote Counts More Here</title>
@@ -71,10 +71,10 @@
       <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.html</link>
       <guid isPermaLink="false">86b8cdee-0ec7-528a-8161-134da76d5e05</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep08_Your_Vote_Counts_More_Here.mp3" length="2573396" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep08_Your_Vote_Counts_More_Here.mp3" length="2418883" type="audio/mpeg" />
       <itunes:episode>8</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>211</itunes:duration>
+      <itunes:duration>204</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep08.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.vtt" type="text/vtt" language="en" />
@@ -85,8 +85,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep08_Your_Vote_Counts_More_Here.provenance.json</podhost:provenance>
-      <podhost:sha256>f3743fc1b66402ce19e5f3cb6566e2a7d445039826e21f3494cc8a97a164de27</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>e22eb27f24c93b3a7261f0a6029ba383304a93196897a1e245c165caf2e317d2</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>Schools Are Local Government Too</title>
@@ -94,10 +94,10 @@
       <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.html</link>
       <guid isPermaLink="false">5e718acc-1193-568a-a430-f148d94c5a9b</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep07_Schools_Are_Local_Government_Too.mp3" length="2328284" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep07_Schools_Are_Local_Government_Too.mp3" length="2312532" type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>188</itunes:duration>
+      <itunes:duration>193</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep07.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.vtt" type="text/vtt" language="en" />
@@ -108,8 +108,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep07_Schools_Are_Local_Government_Too.provenance.json</podhost:provenance>
-      <podhost:sha256>09ac1b88cab03e120d83b1cc3068b73b7352acf6463e831a03e000fbb5c301df</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>daff93c637292895fd567e8630657fa8f2c69036110c9d7705a0b7dc59fb1df3</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>The City's Wallet</title>
@@ -117,10 +117,10 @@
       <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.html</link>
       <guid isPermaLink="false">3ae14d5d-33ff-5a51-bce0-e73f99d20196</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep06_The_City_s_Wallet.mp3" length="2647857" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep06_The_City_s_Wallet.mp3" length="2582061" type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>217</itunes:duration>
+      <itunes:duration>218</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep06.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.vtt" type="text/vtt" language="en" />
@@ -131,8 +131,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.provenance.json</podhost:provenance>
-      <podhost:sha256>0fcdf741cdfd4943bd42e8e84cb585730ab3b934447c6dcc770f6fa60d758f62</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>6edd4d8189d7e66f0dc69a4c70364acb0605e5033cf72d8d48ea94c464a4fb5b</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>Who Decides What Gets Built</title>
@@ -140,10 +140,10 @@
       <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.html</link>
       <guid isPermaLink="false">c85eabb6-650f-5bb0-b694-cba71de1669b</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep05_Who_Decides_What_Gets_Built.mp3" length="2559453" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep05_Who_Decides_What_Gets_Built.mp3" length="2564891" type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>208</itunes:duration>
+      <itunes:duration>217</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep05.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.vtt" type="text/vtt" language="en" />
@@ -154,8 +154,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep05_Who_Decides_What_Gets_Built.provenance.json</podhost:provenance>
-      <podhost:sha256>a4ae66393bc9a31b6a59628b833ff78e752782f3173e8f098fcbb463cc6b43dc</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>0e9ffe4f35207d67e8c487e67dd435f7db0fe0e6ef11d84455e6beb3414945d6</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>The Invisible Governments</title>
@@ -163,10 +163,10 @@
       <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.html</link>
       <guid isPermaLink="false">086a10fc-ca00-5ce3-bc9f-240a98dd6f2c</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep04_The_Invisible_Governments.mp3" length="2449812" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep04_The_Invisible_Governments.mp3" length="2439197" type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>201</itunes:duration>
+      <itunes:duration>206</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep04.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.vtt" type="text/vtt" language="en" />
@@ -177,8 +177,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.provenance.json</podhost:provenance>
-      <podhost:sha256>7812ec6a16b5c7d482a83c9d8ac7743f86b2b00ee255d80ab834c23afc8d7a72</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>591ef2e119f5e7b48e2480af69a43ebeab4b9162def6ee5b078a89d6e6fc2a68</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>The County Above You</title>
@@ -186,10 +186,10 @@
       <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.html</link>
       <guid isPermaLink="false">7c05183d-63f9-5054-9636-ef00dc1fb00d</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep03_The_County_Above_You.mp3" length="2454760" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep03_The_County_Above_You.mp3" length="2356463" type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>203</itunes:duration>
+      <itunes:duration>200</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep03.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.vtt" type="text/vtt" language="en" />
@@ -200,8 +200,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.provenance.json</podhost:provenance>
-      <podhost:sha256>f844bf6128acee6dabac649c13fb50009d312296834e771afc727ba527b5486a</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>99750d92814c36c44ab43e1df325a540b00f3cd538a672e8ebd2df892afbf944</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>City Hall 101</title>
@@ -209,10 +209,10 @@
       <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.html</link>
       <guid isPermaLink="false">f72f2419-3638-53ba-ab84-65940e8de9be</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep02_City_Hall_101.mp3" length="2495500" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep02_City_Hall_101.mp3" length="2432138" type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>206</itunes:duration>
+      <itunes:duration>205</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep02.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.vtt" type="text/vtt" language="en" />
@@ -223,8 +223,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep02_City_Hall_101.provenance.json</podhost:provenance>
-      <podhost:sha256>d50c14a9b730a14e415fd4b047c5acf6083b3ede87475833dd51e0a0975c3f45</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>a6bf4e6d722e7492bc4ca4c5dac833b725100e9a254c058f2a1322a3f4c47684</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>Why Local Government Matters</title>
@@ -232,10 +232,10 @@
       <link>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.html</link>
       <guid isPermaLink="false">fb375701-2512-523d-b74d-849c430df963</guid>
       <pubDate>Thu, 08 Oct 2026 03:42:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep01_Why_Local_Government_Matters.mp3" length="2425558" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep01_Why_Local_Government_Matters.mp3" length="2380902" type="audio/mpeg" />
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>200</itunes:duration>
+      <itunes:duration>199</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep01.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.vtt" type="text/vtt" language="en" />
@@ -246,8 +246,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.provenance.json</podhost:provenance>
-      <podhost:sha256>660fea0780c8c9c5d5b7079f2630407ce3f9bec412ca71ef73f768f63d10d524</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>108e96a92dcf49175571c5b15bb082e6102baa0218bb042e191148833a5ffbed</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
   </channel>
 </rss>

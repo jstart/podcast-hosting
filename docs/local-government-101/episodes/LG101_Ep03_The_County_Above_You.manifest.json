@@ -3,12 +3,12 @@
   "show": "local-government-101",
   "episode": 3,
   "title": "The County Above You",
-  "release_version": "2026.2",
-  "release_tag": "local-government-101-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "local-government-101-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep03_The_County_Above_You.mp3",
-    "bytes": 2454760,
-    "sha256": "f844bf6128acee6dabac649c13fb50009d312296834e771afc727ba527b5486a"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep03_The_County_Above_You.mp3",
+    "bytes": 2356463,
+    "sha256": "99750d92814c36c44ab43e1df325a540b00f3cd538a672e8ebd2df892afbf944"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep03_The_County_Above_You.html",

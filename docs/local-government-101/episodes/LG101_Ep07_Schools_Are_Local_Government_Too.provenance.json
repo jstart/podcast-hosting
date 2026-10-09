@@ -16,6 +16,33 @@
       "transcript_sha256": "031b31a2416788cd4674272acc168a14ccbeedc47d352db25239b2a22b090f26",
       "audio_sha256": "09ac1b88cab03e120d83b1cc3068b73b7352acf6463e831a03e000fbb5c301df",
       "supersedes": null
+    },
+    {
+      "production_version": "2026.3",
+      "tts_model": {
+        "repo": "ResembleAI/chatterbox-turbo",
+        "revision": "749d1c1a46eb10492095d68fbcf55691ccf137cd"
+      },
+      "asr_model": {
+        "repo": "Systran/faster-whisper-small.en",
+        "revision": "d1d751a5f8271d482d14ca55d9e2deeebbae577f"
+      },
+      "audio_source": "Fresh canonical-script render with the shared voice and join-quality pipeline",
+      "source_retrieval_date": "2026-10-08",
+      "transcript_sha256": "031b31a2416788cd4674272acc168a14ccbeedc47d352db25239b2a22b090f26",
+      "audio_sha256": "daff93c637292895fd567e8630657fa8f2c69036110c9d7705a0b7dc59fb1df3",
+      "supersedes": "2026.2",
+      "voice_reference": {
+        "version": "antonio-st-4",
+        "filename": "antonio-st-4.wav",
+        "sha256": "d8c275fda19db8df30337ba3ce7c897d61a831595d65e02df711ba43c82a5576"
+      },
+      "render": {
+        "tts_device": "cpu",
+        "tts_cache_key": "chatterbox-turbo-749d1c1a46eb10492095d68fbcf55691ccf137cd-device-cpu-voice-d8c275fda19db8df",
+        "asr_enabled": true,
+        "max_asr_attempts": 3
+      }
     }
   ]
 }

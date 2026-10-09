@@ -3,12 +3,12 @@
   "show": "local-government-101",
   "episode": 1,
   "title": "Why Local Government Matters",
-  "release_version": "2026.2",
-  "release_tag": "local-government-101-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "local-government-101-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep01_Why_Local_Government_Matters.mp3",
-    "bytes": 2425558,
-    "sha256": "660fea0780c8c9c5d5b7079f2630407ce3f9bec412ca71ef73f768f63d10d524"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep01_Why_Local_Government_Matters.mp3",
+    "bytes": 2380902,
+    "sha256": "108e96a92dcf49175571c5b15bb082e6102baa0218bb042e191148833a5ffbed"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep01_Why_Local_Government_Matters.html",

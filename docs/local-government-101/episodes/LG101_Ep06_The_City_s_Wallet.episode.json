@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 6,
   "explicit": false,
-  "duration_seconds": 217.46,
-  "enclosure_bytes": 2647857,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep06_The_City_s_Wallet.mp3",
+  "duration_seconds": 218.253,
+  "enclosure_bytes": 2582061,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep06_The_City_s_Wallet.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep06.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "f57939385bf627b3baa98927b7e1741cbab641c3c822bd1ef7fb391ca90f6cba",
-    "audio_sha256": "0fcdf741cdfd4943bd42e8e84cb585730ab3b934447c6dcc770f6fa60d758f62"
+    "transcript_sha256": "101ece98002f42cbabe1aeb81d533d57bc6018c7821cfa0be8695035594c2f9c",
+    "audio_sha256": "6edd4d8189d7e66f0dc69a4c70364acb0605e5033cf72d8d48ea94c464a4fb5b"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep06_The_City_s_Wallet.provenance.json",
-  "release_tag": "local-government-101-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "local-government-101-v2026.3",
+  "release_version": "2026.3"
 }

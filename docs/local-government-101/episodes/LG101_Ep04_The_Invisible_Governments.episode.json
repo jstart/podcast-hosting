@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 4,
   "explicit": false,
-  "duration_seconds": 201.08,
-  "enclosure_bytes": 2449812,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep04_The_Invisible_Governments.mp3",
+  "duration_seconds": 206.024,
+  "enclosure_bytes": 2439197,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep04_The_Invisible_Governments.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/local-government-101/artwork/ep04.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "54a35caeb7b63352887c390eae45ac9bea21619d0a6487ce1fa96f340e499957",
-    "audio_sha256": "7812ec6a16b5c7d482a83c9d8ac7743f86b2b00ee255d80ab834c23afc8d7a72"
+    "transcript_sha256": "5bbdb5a5857cdfbec5e0cc36d81d1f750c891b4730b0d6af8d544e8acf753501",
+    "audio_sha256": "591ef2e119f5e7b48e2480af69a43ebeab4b9162def6ee5b078a89d6e6fc2a68"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.provenance.json",
-  "release_tag": "local-government-101-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "local-government-101-v2026.3",
+  "release_version": "2026.3"
 }

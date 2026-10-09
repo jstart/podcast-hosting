@@ -3,12 +3,12 @@
   "show": "local-government-101",
   "episode": 4,
   "title": "The Invisible Governments",
-  "release_version": "2026.2",
-  "release_tag": "local-government-101-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "local-government-101-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.2/LG101_Ep04_The_Invisible_Governments.mp3",
-    "bytes": 2449812,
-    "sha256": "7812ec6a16b5c7d482a83c9d8ac7743f86b2b00ee255d80ab834c23afc8d7a72"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/local-government-101-v2026.3/LG101_Ep04_The_Invisible_Governments.mp3",
+    "bytes": 2439197,
+    "sha256": "591ef2e119f5e7b48e2480af69a43ebeab4b9162def6ee5b078a89d6e6fc2a68"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/local-government-101/episodes/LG101_Ep04_The_Invisible_Governments.html",
