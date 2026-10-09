@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 27,
   "title": "Reading Maps, Census Data, and Greenprint",
-  "release_version": "2026.2",
-  "release_tag": "advanced-civic-planning-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "advanced-civic-planning-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.mp3",
-    "bytes": 6620667,
-    "sha256": "957057d045e923cc4abd9e642c01fe535bed49d22c00dcc29a968deb0da44f4b"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.mp3",
+    "bytes": 6397611,
+    "sha256": "521bda964be55cfa379a074906d84d88b06b3d67f5b78b5d1f73dc792f172a85"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.html",

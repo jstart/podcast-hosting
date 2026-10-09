@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 18,
   "explicit": false,
-  "duration_seconds": 672.0,
-  "enclosure_bytes": 7753126,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.mp3",
+  "duration_seconds": 670.027,
+  "enclosure_bytes": 7693753,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep18.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "5d6aeeede694c8c9e9132d24d3d7c54eb8050c0f779871490fdfb957165db685",
-    "audio_sha256": "732c3f48f01042b2b458d7dabafe5c5e1a66c544ddd32caac18a8df0a6c05c05"
+    "transcript_sha256": "1df4715027081f121a6e9f648f6c633c9a8fd7076449ad777214df47f976e811",
+    "audio_sha256": "f32acf9927fb48b14e2579ce1b8df3c2dc704690ab56cfd5b8b20ece1c248e96"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep18_Infill_Transit_and_Resilient_Growth.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

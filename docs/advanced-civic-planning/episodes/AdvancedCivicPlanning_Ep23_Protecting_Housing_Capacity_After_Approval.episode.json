@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 23,
   "explicit": false,
-  "duration_seconds": 538.04,
-  "enclosure_bytes": 6227752,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.mp3",
+  "duration_seconds": 525.014,
+  "enclosure_bytes": 6092145,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep23.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "7c89dbf8a07a6806f4eab59fe7cc1c1e966c489179f0bb6c5ca0565db35f2231",
-    "audio_sha256": "feb3203e42869d1361b308ef648a7947d73f5bcbd7ea249f4caba99270a546f2"
+    "transcript_sha256": "a547c24b73315d852335f78589d7f8488363200bd61b8502f47d43938b60553a",
+    "audio_sha256": "d7e02ff7db068f5421e4a7e3dca5476ec1950ceb81c915a796b8a95626d080fb"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

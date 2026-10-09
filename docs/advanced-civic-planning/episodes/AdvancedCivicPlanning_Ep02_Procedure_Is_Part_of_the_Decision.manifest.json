@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 2,
   "title": "Procedure Is Part of the Decision",
-  "release_version": "2026.2",
-  "release_tag": "advanced-civic-planning-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "advanced-civic-planning-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.mp3",
-    "bytes": 5968876,
-    "sha256": "8ef6f8f56604ac2ed7c24974ad5e33896c39ae62ffad7f6df45f1472d3217d83"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.mp3",
+    "bytes": 5882953,
+    "sha256": "84c494dc67ffa14f562da5e291afcf7647dbc1af74e071f73fc8d897258f6c98"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.html",

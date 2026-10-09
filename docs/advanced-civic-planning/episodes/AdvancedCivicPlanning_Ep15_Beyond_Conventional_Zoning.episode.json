@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 15,
   "explicit": false,
-  "duration_seconds": 624.24,
-  "enclosure_bytes": 7156131,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.mp3",
+  "duration_seconds": 619.556,
+  "enclosure_bytes": 7123508,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep15.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "20142ad858960c4f9e0e5927f7597f303e997aa20e1925a6a738e2e111f680e8",
-    "audio_sha256": "5222faa58bfa1b5d0260e091250af89d8efc3e6aa62831588aa6fcde76a08be4"
+    "transcript_sha256": "933659c94230d130c2d1fb301749c84b460bea667f7fd65b59c81a64dd5f6897",
+    "audio_sha256": "fd9bc81880e18fb238731a2a4c5871cd45c7681d1c5c8bda8f8e8f2f9b51031b"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

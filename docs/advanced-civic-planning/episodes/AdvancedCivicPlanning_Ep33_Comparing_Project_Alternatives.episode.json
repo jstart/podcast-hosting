@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 33,
   "explicit": false,
-  "duration_seconds": 606.72,
-  "enclosure_bytes": 6920820,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.mp3",
+  "duration_seconds": 577.871,
+  "enclosure_bytes": 6641237,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep33.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "f7bada04bf8f375b1d01a1b63106e722e9c49e821e0719e817f24d374f2546d4",
-    "audio_sha256": "62d99e0f3d2f0a2efcde3d0fb68b1b02d92e11eee1bc084730a000188a443e75"
+    "transcript_sha256": "f574951de745e939ce149813e7a2a8552a9b42b0391200bc39b80dec17ab4bb9",
+    "audio_sha256": "ad4cf74ca813f17caf21450cb6bf45d1dd22f0ef4babc0a98d88b61984ef4f0b"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep33_Comparing_Project_Alternatives.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

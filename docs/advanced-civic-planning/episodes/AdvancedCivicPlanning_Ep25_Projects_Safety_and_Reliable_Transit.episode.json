@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 25,
   "explicit": false,
-  "duration_seconds": 566.96,
-  "enclosure_bytes": 6521908,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.mp3",
+  "duration_seconds": 533.356,
+  "enclosure_bytes": 6156992,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep25.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "aaa230348f30a3390bce7087998e5103ecd79a5c86fa6a142a88797778a7ba55",
-    "audio_sha256": "4fdd982abff5a1c6d2109d1f97dffbb8784fe6410d0f78f896560306ebab7e1f"
+    "transcript_sha256": "a8f9a43873ecc970ba611776331840ad512e4525010c896bf1c0107814246ff0",
+    "audio_sha256": "0a87ac4b28ea802b9551fd76f95657bf0afe4e485139136f4f2ae65a15f37cb7"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep25_Projects_Safety_and_Reliable_Transit.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

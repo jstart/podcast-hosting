@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 30,
   "explicit": false,
-  "duration_seconds": 575.8,
-  "enclosure_bytes": 6655094,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.mp3",
+  "duration_seconds": 553.019,
+  "enclosure_bytes": 6391011,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep30.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "067aa5494bd44df9cbb6473118e4cfd88c87df190ea2e1fdfe3ce1b236b136e2",
-    "audio_sha256": "dd34f6c67f8f59a0272ed1f002d2424376356c30d7819dc817484139e706504c"
+    "transcript_sha256": "c563bbf09faa6ec422486cf57449a470c9ce007e5c023f130d6ea244f1cd367c",
+    "audio_sha256": "365ceae6d9aa08dc0394e1d7fe6267f0c6374aecd20a0854d9171e726ae9c70d"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep30_Property_Tax_and_Development_Fiscal_Impact.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

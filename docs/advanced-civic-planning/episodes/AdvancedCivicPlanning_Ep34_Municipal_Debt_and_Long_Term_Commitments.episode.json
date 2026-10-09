@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 34,
   "explicit": false,
-  "duration_seconds": 590.24,
-  "enclosure_bytes": 6851965,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.mp3",
+  "duration_seconds": 576.428,
+  "enclosure_bytes": 6687394,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep34.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "7bc704479373faa8ef6657d217fca5eb22cd58a8dcc4145813535d2596b863f0",
-    "audio_sha256": "84f4a84255b6350a4f5b18fa4ae9b509fa83062e7c1dd79f332e6bf83dbae7c7"
+    "transcript_sha256": "929e79e554768e1dd1cc4df1c4b170d4343700ac58a03ef8caa933ce316c158c",
+    "audio_sha256": "522cc97f2082028e800b5624674a64cb0a04e6c65e04d02c1d5d76349a2f0843"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep34_Municipal_Debt_and_Long_Term_Commitments.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

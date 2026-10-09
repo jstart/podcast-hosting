@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 10,
   "title": "The General Plan After Adoption",
-  "release_version": "2026.2",
-  "release_tag": "advanced-civic-planning-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "advanced-civic-planning-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.mp3",
-    "bytes": 6950493,
-    "sha256": "8abcb28c78f6e47d34aef953c154e1a7b16f87a7a06dc379feaa8b2db8cadd5a"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.mp3",
+    "bytes": 6886381,
+    "sha256": "abf8ccb2332c844716665a74c1bf33718b5d065103059dbac41b9519e5baeddc"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.html",

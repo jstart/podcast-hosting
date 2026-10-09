@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 14,
   "explicit": false,
-  "duration_seconds": 611.8,
-  "enclosure_bytes": 7035509,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.mp3",
+  "duration_seconds": 594.693,
+  "enclosure_bytes": 6873935,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep14.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "f5a87fd1a5f4b88ede75072f7da3c5ba742e4f7bf95f1c18b4982dd30a090ffe",
-    "audio_sha256": "2fcbcfc3c2955bc52ed95d27a339b2b1222362cdef33eaf582bd44508180071d"
+    "transcript_sha256": "518a4a4be635c00eb9a35f735bf1cec5f78b6c526e5cf66164db761b65c55ec6",
+    "audio_sha256": "797fe0bb772c0cb9f33aefa9d024520439d62e0f9bf21aa31e05a283cd4fb808"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep14_Zoning_History_Exclusion_and_Legitimacy.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

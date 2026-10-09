@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 15,
   "title": "Beyond Conventional Zoning",
-  "release_version": "2026.2",
-  "release_tag": "advanced-civic-planning-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "advanced-civic-planning-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.mp3",
-    "bytes": 7156131,
-    "sha256": "5222faa58bfa1b5d0260e091250af89d8efc3e6aa62831588aa6fcde76a08be4"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.mp3",
+    "bytes": 7123508,
+    "sha256": "fd9bc81880e18fb238731a2a4c5871cd45c7681d1c5c8bda8f8e8f2f9b51031b"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep15_Beyond_Conventional_Zoning.html",

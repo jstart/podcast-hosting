@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 16,
   "title": "The Five Urban Design Policy Tools",
-  "release_version": "2026.2",
-  "release_tag": "advanced-civic-planning-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "advanced-civic-planning-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep16_The_Five_Urban_Design_Policy_Tools.mp3",
-    "bytes": 7463669,
-    "sha256": "7839e01f65bac911d1da71d2407a3224da4bdf5415b6fdf1962a07d2c1285731"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep16_The_Five_Urban_Design_Policy_Tools.mp3",
+    "bytes": 7326560,
+    "sha256": "912fb5fad704791c14f9cb06093da4b3504235f85d279ccebbb3a94e0ec0b5ce"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep16_The_Five_Urban_Design_Policy_Tools.html",

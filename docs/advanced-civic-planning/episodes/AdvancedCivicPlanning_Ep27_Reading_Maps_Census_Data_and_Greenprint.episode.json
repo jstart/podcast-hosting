@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 27,
   "explicit": false,
-  "duration_seconds": 575.12,
-  "enclosure_bytes": 6620667,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.mp3",
+  "duration_seconds": 553.992,
+  "enclosure_bytes": 6397611,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep27.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "08010d9a72db1ea2c67129f6788d461dbbf6a28b258428b553059fee9b79d64d",
-    "audio_sha256": "957057d045e923cc4abd9e642c01fe535bed49d22c00dcc29a968deb0da44f4b"
+    "transcript_sha256": "921a45ccb0b31ae41a860af60b946bc577242178a137b1bf92cc1f0a5547a4f4",
+    "audio_sha256": "521bda964be55cfa379a074906d84d88b06b3d67f5b78b5d1f73dc792f172a85"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep27_Reading_Maps_Census_Data_and_Greenprint.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

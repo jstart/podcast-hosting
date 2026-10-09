@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 12,
   "explicit": false,
-  "duration_seconds": 633.52,
-  "enclosure_bytes": 7262605,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.mp3",
+  "duration_seconds": 611.495,
+  "enclosure_bytes": 7102822,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep12.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "da7e72951513ef52bd3917305b0ab88547668a925af6bcd546cba179092a9387",
-    "audio_sha256": "5e53888604a02978e7216d3b0efa8bd00f2f8844f32daf0d4132d4443df030c5"
+    "transcript_sha256": "920841963120dba638f0468dfc27e0375af5678616fcf1288a25494b8e81cc1e",
+    "audio_sha256": "226a381821bcc64b103cf32901b0c36b12bbada75ee833aece427be39283663b"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep12_Making_and_Evaluating_a_Community_Plan.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

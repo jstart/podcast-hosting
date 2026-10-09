@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 9,
   "explicit": false,
-  "duration_seconds": 621.76,
-  "enclosure_bytes": 7125422,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.mp3",
+  "duration_seconds": 596.541,
+  "enclosure_bytes": 6919482,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep09.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "a870d67e13bb72f68d3aabe6d7bb6bffc6cd4650f1638e0f9f179ce964b10ece",
-    "audio_sha256": "f32cc04b7d1a51c5ef2fcf04c8e4358b33a11881b2c68cd97e13bce8e1d26a30"
+    "transcript_sha256": "1ffd7e98da0c88f5b4185934cf031bd015bd527f0a728748610cdbf0a7477a32",
+    "audio_sha256": "e45ce468ae99ffea67ef302c0ac3bf472dcdb727af6cda63d896f7377e29e6e2"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep09_Capstone_Run_a_Defensible_Public_Hearing.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

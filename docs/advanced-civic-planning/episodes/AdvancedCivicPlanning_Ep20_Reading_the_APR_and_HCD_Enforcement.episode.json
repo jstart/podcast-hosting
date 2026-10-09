@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 20,
   "explicit": false,
-  "duration_seconds": 570.16,
-  "enclosure_bytes": 6557889,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.mp3",
+  "duration_seconds": 559.671,
+  "enclosure_bytes": 6502834,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep20.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "682087b0174f07f1b8d17627d940b69a592b9700ee3356d81f328927aa17e720",
-    "audio_sha256": "755e19277c7e6e326bd121ebaf494d46554d1c6830b625813771416fc1324343"
+    "transcript_sha256": "0db862fa0d7c9a53cd971950dead5c9bdddfa9daebd3e8cc9206e6707c1ec449",
+    "audio_sha256": "a0190f437d872948aea647927f5000b97bbb107959837e89c48640574bf5d75f"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep20_Reading_the_APR_and_HCD_Enforcement.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

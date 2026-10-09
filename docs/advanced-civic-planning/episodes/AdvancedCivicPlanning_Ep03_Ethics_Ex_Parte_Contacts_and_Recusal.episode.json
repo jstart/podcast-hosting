@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 3,
   "explicit": false,
-  "duration_seconds": 546.84,
-  "enclosure_bytes": 6339119,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.mp3",
+  "duration_seconds": 540.284,
+  "enclosure_bytes": 6243540,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep03.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "c439bad4b54c1b084a63152ec1ca3d8db460affe72e13161412a078d32a1d4c3",
-    "audio_sha256": "18ad13ff95ff4584e5f9f4105f0df6cd633efe0096a741134832692d7b946e42"
+    "transcript_sha256": "d5454776be72540e8ff3ccffeef0edb4d3a13dded679e1f8a9688db9bd8ccab4",
+    "audio_sha256": "03e74ff73dd63f56dcfd1026257b94df278642bcd13129009160abd1511e3860"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep03_Ethics_Ex_Parte_Contacts_and_Recusal.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

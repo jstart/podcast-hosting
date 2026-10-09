@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 21,
   "explicit": false,
-  "duration_seconds": 568.76,
-  "enclosure_bytes": 6592571,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.mp3",
+  "duration_seconds": 548.792,
+  "enclosure_bytes": 6384608,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep21.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "ea6cefc91a8567e3e61bce87682a5cfc63774059ba7fdaefabf6011cff34265e",
-    "audio_sha256": "3a04a73643dbf5fcbb8992d550dac88cf516893ed5e1d9cbbe74317eb668f5df"
+    "transcript_sha256": "42bc7bd1d4e61b222273f5e6f6990396e452acd6d01113aca01a68ebba56c4e2",
+    "audio_sha256": "3e71406e20fedf4188b176f68c4b9aea699af7666a15b0d181ad5e5d97be293e"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

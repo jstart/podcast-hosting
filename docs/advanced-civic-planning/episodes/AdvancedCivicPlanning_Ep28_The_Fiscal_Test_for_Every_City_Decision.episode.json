@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 28,
   "explicit": false,
-  "duration_seconds": 570.96,
-  "enclosure_bytes": 6536539,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.mp3",
+  "duration_seconds": 550.624,
+  "enclosure_bytes": 6341993,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep28.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "dbcbca24a00e963c64d8642fea4af5a2cc6d00494d9f0bf4fa173b3ddf86780d",
-    "audio_sha256": "e10842d1e6abb1a5e69e0a14cef479b5ea5f797647b64a367d5801d0327524a1"
+    "transcript_sha256": "fb9dc654575673b8ab95071fa48491f6897e61d66e1f0e46473a9e03511bac31",
+    "audio_sha256": "3648dc41855bfa06679b2d6642ffd24b2c5c45e5db0c853cc7e73a466c172e38"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep28_The_Fiscal_Test_for_Every_City_Decision.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

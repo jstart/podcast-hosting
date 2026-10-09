@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 13,
   "explicit": false,
-  "duration_seconds": 618.56,
-  "enclosure_bytes": 7148052,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.mp3",
+  "duration_seconds": 607.249,
+  "enclosure_bytes": 7037481,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep13.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "8945259cf8acf6b6e2228eb1007729fdbabcb9c342e7d39075c1c846ddd34de5",
-    "audio_sha256": "4fd35ae4b38d37750142c1d4d44d01873111e32846eff039e5e918e2b7d30a21"
+    "transcript_sha256": "4fdc0e026853f4f4fa5de6316b9c1dba8a34ad638cf98706198b2e8be2d17eac",
+    "audio_sha256": "fe2148f2f9684b6c4adea84014e6a3e771808b7ddc21eabb60e24c482f203866"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep13_Growth_Management_Across_Municipal_Borders.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

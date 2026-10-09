@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 32,
   "explicit": false,
-  "duration_seconds": 599.96,
-  "enclosure_bytes": 6880438,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.mp3",
+  "duration_seconds": 571.965,
+  "enclosure_bytes": 6599691,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep32.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "e1f6efefb904e72d51c8bd8acaec3662e525fa6696cfc2aa907965de2768e5bd",
-    "audio_sha256": "c14be6e969c114a4adfd61fbb8a977fbc279800be62b89f42bd8b8af4bf9124d"
+    "transcript_sha256": "86eff19949abc9fc85544a31223a000e5bc367938b2592858450a899351df7b9",
+    "audio_sha256": "c06e2d2d9a833bd8bdfb5765811ccc6e06e8e055620b2cf827dc3aa1368cd838"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep32_Operating_Costs_After_the_Ribbon_Cutting.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

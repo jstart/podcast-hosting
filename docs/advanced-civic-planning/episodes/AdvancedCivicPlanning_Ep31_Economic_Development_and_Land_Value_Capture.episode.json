@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 31,
   "explicit": false,
-  "duration_seconds": 590.28,
-  "enclosure_bytes": 6787382,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.mp3",
+  "duration_seconds": 574.007,
+  "enclosure_bytes": 6617708,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep31.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "7a1c1e1155b2280ca579755e203daf324848d965422732f4f22d176632b8c2c3",
-    "audio_sha256": "0d451c8a2177e1c834e1ecb07623e70ff5baa3ff00c1cf475a9913af30600e90"
+    "transcript_sha256": "4ddf8410d9970e06e5e722a1f2c077810f1fc3da85df336e2db2d4f8fe3e7abc",
+    "audio_sha256": "2406557ec4466c3daa84cae833859a7c0eb9e2a09f83dd2dcb41fc174aae1c91"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep31_Economic_Development_and_Land_Value_Capture.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

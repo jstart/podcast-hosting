@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 24,
   "explicit": false,
-  "duration_seconds": 587.32,
-  "enclosure_bytes": 6762738,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.mp3",
+  "duration_seconds": 591.155,
+  "enclosure_bytes": 6848244,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep24.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "a68f5cfa02885eabd180999cc8b2cf759783dd37a2ed4ff50245c2aa0266fd35",
-    "audio_sha256": "5d78b50580e98f4821e90aed715a85b8bfced7b014df54e3ee4337c084a93efa"
+    "transcript_sha256": "ddbb629d625f67b90e1baf518b2dcf6e6599be37bab95a48a07584990ee507c2",
+    "audio_sha256": "c08157fa4643e0369f37f07206a5d505b8d8c6856dea033d566030a2a23badfa"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

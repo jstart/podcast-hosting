@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 2,
   "explicit": false,
-  "duration_seconds": 519.6,
-  "enclosure_bytes": 5968876,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.mp3",
+  "duration_seconds": 509.441,
+  "enclosure_bytes": 5882953,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep02.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "bece1f1df0c4203e2baeb32012157e7a9d7346cf499c639ab7c58eb2156a6aff",
-    "audio_sha256": "8ef6f8f56604ac2ed7c24974ad5e33896c39ae62ffad7f6df45f1472d3217d83"
+    "transcript_sha256": "ed4a5bad631cc3a5e5ae2cd87dac7bea6132bb5f86e9494fe55a8c2563b38c37",
+    "audio_sha256": "84c494dc67ffa14f562da5e291afcf7647dbc1af74e071f73fc8d897258f6c98"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep02_Procedure_Is_Part_of_the_Decision.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

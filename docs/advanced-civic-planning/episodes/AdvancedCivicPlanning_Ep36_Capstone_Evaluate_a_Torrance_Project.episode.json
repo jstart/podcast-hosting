@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 36,
   "explicit": false,
-  "duration_seconds": 656.22,
-  "enclosure_bytes": 7524862,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.mp3",
+  "duration_seconds": 617.764,
+  "enclosure_bytes": 7108626,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep36.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "97a8fa6daaff32a6f3d20522feec309344acea3c45d7e14ec6a63870be4338ac",
-    "audio_sha256": "cca232c274e5dc66612fd767036e009256841b3e456dbb5dbd4666cc6fc0f3e4"
+    "transcript_sha256": "3a170eff539f21413ecded93a04343b653979770c48345340187b7cf4ed18e8b",
+    "audio_sha256": "25c587c1525a304a1241c3ffee57fd224a515ef08f102b5d63ef6497f160f91b"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep36_Capstone_Evaluate_a_Torrance_Project.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

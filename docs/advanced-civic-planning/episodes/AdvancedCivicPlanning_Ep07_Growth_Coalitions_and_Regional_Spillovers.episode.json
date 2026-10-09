@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 7,
   "explicit": false,
-  "duration_seconds": 599.62,
-  "enclosure_bytes": 6928054,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.mp3",
+  "duration_seconds": 577.519,
+  "enclosure_bytes": 6683921,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep07.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "1fe06138305450912bb3ec24549b392a34081f489c8734d8fb21ee084cf65277",
-    "audio_sha256": "c43bc94ec78199d298b16478415531a60c3556eb8937117a52969940b13b7987"
+    "transcript_sha256": "c7b5783b694983d4b492f5b184d435fdd8c72adc3c24dad487d58812d8e85e45",
+    "audio_sha256": "e837a1dc349101ef39e44bb77bc9e62e0a5dd909d40a2ccc0d839ca99b6db851"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep07_Growth_Coalitions_and_Regional_Spillovers.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

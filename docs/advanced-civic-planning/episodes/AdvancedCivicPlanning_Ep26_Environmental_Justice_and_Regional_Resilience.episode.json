@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 26,
   "explicit": false,
-  "duration_seconds": 588.68,
-  "enclosure_bytes": 6802436,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.mp3",
+  "duration_seconds": 582.59,
+  "enclosure_bytes": 6748539,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep26.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "f759fabd2f4584b3e39ebc603d235931fa1a8deec92c0fff2c974c83b81fabbf",
-    "audio_sha256": "59df149ce4031ffdad928b2e449545b662e81c7d460840306d4dd8141278f1ce"
+    "transcript_sha256": "e0e4a20fb16637b8a45bfa1fdcdaa1ac7d65b5fef8e8bd2aeeec1756f29cf2ad",
+    "audio_sha256": "3474db47ce8754e3e83943999294e3ce4ca56c692d177bc4fa2754d1c5051ebe"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep26_Environmental_Justice_and_Regional_Resilience.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

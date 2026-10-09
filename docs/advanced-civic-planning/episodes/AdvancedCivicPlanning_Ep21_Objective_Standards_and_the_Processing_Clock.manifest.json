@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 21,
   "title": "Objective Standards and the Processing Clock",
-  "release_version": "2026.2",
-  "release_tag": "advanced-civic-planning-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "advanced-civic-planning-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.mp3",
-    "bytes": 6592571,
-    "sha256": "3a04a73643dbf5fcbb8992d550dac88cf516893ed5e1d9cbbe74317eb668f5df"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.mp3",
+    "bytes": 6384608,
+    "sha256": "3e71406e20fedf4188b176f68c4b9aea699af7666a15b0d181ad5e5d97be293e"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep21_Objective_Standards_and_the_Processing_Clock.html",

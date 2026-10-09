@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 23,
   "title": "Protecting Housing Capacity After Approval",
-  "release_version": "2026.2",
-  "release_tag": "advanced-civic-planning-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "advanced-civic-planning-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.mp3",
-    "bytes": 6227752,
-    "sha256": "feb3203e42869d1361b308ef648a7947d73f5bcbd7ea249f4caba99270a546f2"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.mp3",
+    "bytes": 6092145,
+    "sha256": "d7e02ff7db068f5421e4a7e3dca5476ec1950ceb81c915a796b8a95626d080fb"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep23_Protecting_Housing_Capacity_After_Approval.html",

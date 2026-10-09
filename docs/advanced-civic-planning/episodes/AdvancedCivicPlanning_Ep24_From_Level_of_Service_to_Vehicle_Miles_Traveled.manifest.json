@@ -3,12 +3,12 @@
   "show": "advanced-civic-planning",
   "episode": 24,
   "title": "From Level of Service to Vehicle Miles Traveled",
-  "release_version": "2026.2",
-  "release_tag": "advanced-civic-planning-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "advanced-civic-planning-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.mp3",
-    "bytes": 6762738,
-    "sha256": "5d78b50580e98f4821e90aed715a85b8bfced7b014df54e3ee4337c084a93efa"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.mp3",
+    "bytes": 6848244,
+    "sha256": "c08157fa4643e0369f37f07206a5d505b8d8c6856dea033d566030a2a23badfa"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep24_From_Level_of_Service_to_Vehicle_Miles_Traveled.html",

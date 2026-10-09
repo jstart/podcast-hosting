@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 22,
   "explicit": false,
-  "duration_seconds": 602.4,
-  "enclosure_bytes": 6956189,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.mp3",
+  "duration_seconds": 579.244,
+  "enclosure_bytes": 6697823,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep22.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "1f16567594e87ab25bafd9ad88059eb3390de4f40418f7a4b3ddd275e898ff0a",
-    "audio_sha256": "2c08c655c16668087cf09711a5dc42e2749e46f04a968d4a79f0f5c92877134c"
+    "transcript_sha256": "42e6217e83f0f9a2338bfa3f5e2ac1a48af1b78bf1bfb450fd2e7635c60e61cf",
+    "audio_sha256": "da0b6701c851af331be8fbbd4fd405ff05e8745561199e41de267c6cb4afbf59"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep22_The_Ministerial_Pathways_Decision_Tree.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

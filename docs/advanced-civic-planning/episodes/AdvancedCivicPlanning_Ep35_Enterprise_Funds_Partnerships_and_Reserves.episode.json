@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 35,
   "explicit": false,
-  "duration_seconds": 610.36,
-  "enclosure_bytes": 7025579,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.mp3",
+  "duration_seconds": 588.103,
+  "enclosure_bytes": 6801450,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep35.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "854444a7460a659531801d8ad2b887cf3ed80f5aa788636686f838256a624f6d",
-    "audio_sha256": "2caf6a917e6fb095d9dbc56f5417dce46504c79736fbade633414cde4c13a644"
+    "transcript_sha256": "79b29f9fba58d5571382aeb39f36d667f57afa942ec8721d0cafaf30f43aaf89",
+    "audio_sha256": "cba1dc0d4220e4a2b92a51a48a573d7484a13fd2ada901d35fe67d350427abb2"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep35_Enterprise_Funds_Partnerships_and_Reserves.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

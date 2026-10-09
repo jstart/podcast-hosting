@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 10,
   "explicit": false,
-  "duration_seconds": 606.08,
-  "enclosure_bytes": 6950493,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.mp3",
+  "duration_seconds": 597.008,
+  "enclosure_bytes": 6886381,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep10.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "719e4e7f970fb2efe4c4a061984e706b8f5a993cc1e00b8848852ac17e924690",
-    "audio_sha256": "8abcb28c78f6e47d34aef953c154e1a7b16f87a7a06dc379feaa8b2db8cadd5a"
+    "transcript_sha256": "57030abaedcc849477d21638961ee7fa900fa92758ada46d21621af3fbe2efa0",
+    "audio_sha256": "abf8ccb2332c844716665a74c1bf33718b5d065103059dbac41b9519e5baeddc"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep10_The_General_Plan_After_Adoption.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

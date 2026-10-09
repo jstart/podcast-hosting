@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 5,
   "explicit": false,
-  "duration_seconds": 586.24,
-  "enclosure_bytes": 6751569,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.mp3",
+  "duration_seconds": 562.038,
+  "enclosure_bytes": 6512382,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep05.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "b3caaeb56fdf1640f7bb5213788c54b376ddff8bdefaa5de3b8b893f5edefca7",
-    "audio_sha256": "a474ead96087b97098ada872023bbdcfce65ce7d10e7ed5dd0a50530dbc4c858"
+    "transcript_sha256": "d6dd1462d79ec474341c9e78441a9a6b7216594dd65d4199e822944b4337f692",
+    "audio_sha256": "5fccb603abebf61e714ad7a05dff1894871d6f05f3c49123f2a1040ab6f15c27"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep05_The_City_as_a_Legal_Creature.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 8,
   "explicit": false,
-  "duration_seconds": 566.9,
-  "enclosure_bytes": 6509364,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.mp3",
+  "duration_seconds": 556.241,
+  "enclosure_bytes": 6446087,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep08.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "b8417a228582d3839941888bf8ec0b27a4efd624d6b4206c91400e5035293ee6",
-    "audio_sha256": "76719aba2a76cb5a1b4a942b642bea2b22dfa69cc743279e7b4f1ca728a731b2"
+    "transcript_sha256": "ae5e88e9b7b374d852b58389d509689518fd13ff4a0c3022a5994b269696a02d",
+    "audio_sha256": "e7f803929d821a7cab8f75f8ddbefdfeee98fcd3470ff00490552152e78d49a1"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep08_Evidence_Findings_and_the_Administrative_Record.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }

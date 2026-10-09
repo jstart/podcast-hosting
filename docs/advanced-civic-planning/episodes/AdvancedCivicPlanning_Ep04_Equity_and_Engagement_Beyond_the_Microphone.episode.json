@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 4,
   "explicit": false,
-  "duration_seconds": 557.28,
-  "enclosure_bytes": 6427301,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.2/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.mp3",
+  "duration_seconds": 540.261,
+  "enclosure_bytes": 6276224,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/advanced-civic-planning-v2026.3/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/artwork/ep04.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "271f206deff6676c94ef2b129dd5e1fa313942c34a20e7ce7342dfcb0065c345",
-    "audio_sha256": "d01d788892d577770fc5fb959562568f14bc66275837464158630b0b0a8a2f4e"
+    "transcript_sha256": "ecf62e02e9de8b9fef5bc1c7ada0c584e42c65ed1f8afc166321a8cc29ddfedf",
+    "audio_sha256": "ddc19384f0ffcfef5d712385746b3117f4f8938166bf685dd6ed0ee10bd269fa"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/advanced-civic-planning/episodes/AdvancedCivicPlanning_Ep04_Equity_and_Engagement_Beyond_the_Microphone.provenance.json",
-  "release_tag": "advanced-civic-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "advanced-civic-planning-v2026.3",
+  "release_version": "2026.3"
 }
