@@ -3,12 +3,12 @@
   "show": "transportation-policies-programs-history",
   "episode": 7,
   "title": "Transit and Transit-Oriented Development",
-  "release_version": "2026.2",
-  "release_tag": "transportation-policies-programs-history-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "transportation-policies-programs-history-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.mp3",
-    "bytes": 2122269,
-    "sha256": "ab401480184dcdb7c4e61c642952fdeb6f88fedbc627c5f02805e036481a3e0e"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.3/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.mp3",
+    "bytes": 2151599,
+    "sha256": "bba80d91a33bc3e7211aca19357286e79685e5d6b58f0b9545a0973b43fc8709"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep07_Transit_and_Transit_Oriented_Development.html",

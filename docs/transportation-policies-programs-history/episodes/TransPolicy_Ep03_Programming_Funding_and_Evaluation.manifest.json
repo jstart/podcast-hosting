@@ -3,12 +3,12 @@
   "show": "transportation-policies-programs-history",
   "episode": 3,
   "title": "Programming, Funding, and Evaluation",
-  "release_version": "2026.2",
-  "release_tag": "transportation-policies-programs-history-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "transportation-policies-programs-history-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep03_Programming_Funding_and_Evaluation.mp3",
-    "bytes": 2193034,
-    "sha256": "c5f90a5e590502a51d112d6277152dee5ddd8efd5a1d98057f4854ae16480791"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.3/TransPolicy_Ep03_Programming_Funding_and_Evaluation.mp3",
+    "bytes": 2264901,
+    "sha256": "23046df8753975fbc5f766cafb418c913a6b7422a393edac3f03a37fd4cd449f"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep03_Programming_Funding_and_Evaluation.html",

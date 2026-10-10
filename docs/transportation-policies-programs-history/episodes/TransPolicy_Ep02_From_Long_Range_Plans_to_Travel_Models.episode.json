@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 2,
   "explicit": false,
-  "duration_seconds": 195.048,
-  "enclosure_bytes": 2338635,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.mp3",
+  "duration_seconds": 195.168,
+  "enclosure_bytes": 2343314,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.3/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep02.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "473aa01aca0ff274ddf36628af15fbc3e25a723337e07f00e0b6010c2d4e1057",
-    "audio_sha256": "5ff3b3aaf1db078d77a18940a4e0f8ff1e568ae6d44532a50321ce0cbddea4b3"
+    "transcript_sha256": "e00c858882ad9fc3a2893be2f69d5524326e40d4be86f7f6a5ff3e40d758f26e",
+    "audio_sha256": "e5fc5c02d6d0e47e38f0bc4a60f9b3bae87b1cd300e8fa2bd4b4cb6bf1421ada"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep02_From_Long_Range_Plans_to_Travel_Models.provenance.json",
-  "release_tag": "transportation-policies-programs-history-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "transportation-policies-programs-history-v2026.3",
+  "release_version": "2026.3"
 }

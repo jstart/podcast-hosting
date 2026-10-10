@@ -3,12 +3,12 @@
   "show": "transportation-policies-programs-history",
   "episode": 1,
   "title": "Policy, Congestion, Mobility, and Access",
-  "release_version": "2026.2",
-  "release_tag": "transportation-policies-programs-history-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "transportation-policies-programs-history-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.mp3",
-    "bytes": 2315267,
-    "sha256": "38178149eb16daa1ad4202635e94791d8df67300f015a0a97734a499cbd4c376"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.3/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.mp3",
+    "bytes": 2283249,
+    "sha256": "b2abe0227280a86241c796d2dbe51bbf594bf23125313978c9e334fd392a5480"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.html",

@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 10,
   "explicit": false,
-  "duration_seconds": 179.724,
-  "enclosure_bytes": 2184078,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep10_Lessons_from_the_Global_South.mp3",
+  "duration_seconds": 180.033,
+  "enclosure_bytes": 2183543,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.3/TransPolicy_Ep10_Lessons_from_the_Global_South.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep10.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "387cca06ad326dad1b65323ab0c57b6e4e3d46573e876f87205b5127834bda34",
-    "audio_sha256": "2f17304dd868a81066ed35f8ecbac711e09c4dd6689ff62546199e03b6b0ca07"
+    "transcript_sha256": "758ccefe38054c8b8c41e3763ecd26662e2caaf43f3d701f662e1fbc16a47ad2",
+    "audio_sha256": "2f68faf6731f9e3f4fc2c7438a162408e33f6f375c2c9ce40d299e6eca42192f"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.provenance.json",
-  "release_tag": "transportation-policies-programs-history-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "transportation-policies-programs-history-v2026.3",
+  "release_version": "2026.3"
 }

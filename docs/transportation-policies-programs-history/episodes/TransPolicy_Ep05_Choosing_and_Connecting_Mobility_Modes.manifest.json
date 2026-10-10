@@ -3,12 +3,12 @@
   "show": "transportation-policies-programs-history",
   "episode": 5,
   "title": "Choosing and Connecting Mobility Modes",
-  "release_version": "2026.2",
-  "release_tag": "transportation-policies-programs-history-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "transportation-policies-programs-history-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.mp3",
-    "bytes": 2090030,
-    "sha256": "fc17ea6c5548b38d5d7d6f4f4d3af61d07ed3a9e38d4aba12845236bf0cc42f8"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.3/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.mp3",
+    "bytes": 2149838,
+    "sha256": "0abfce0a8da33315b57342ce6f564e8f4f815272e0e3f04f85b2d4bfcb3ba6f4"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.html",

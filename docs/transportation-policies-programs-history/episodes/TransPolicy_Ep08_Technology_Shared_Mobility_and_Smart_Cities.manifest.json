@@ -3,12 +3,12 @@
   "show": "transportation-policies-programs-history",
   "episode": 8,
   "title": "Technology, Shared Mobility, and Smart Cities",
-  "release_version": "2026.2",
-  "release_tag": "transportation-policies-programs-history-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "transportation-policies-programs-history-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.mp3",
-    "bytes": 2180412,
-    "sha256": "e267e04546683093dfb50ac89565954f2de16191796d1073a19236018efa038d"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.3/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.mp3",
+    "bytes": 2130566,
+    "sha256": "e3d0b476e0c98a90f5446949eb0af19833d3c262a69440fdbe535636fe65493f"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.html",

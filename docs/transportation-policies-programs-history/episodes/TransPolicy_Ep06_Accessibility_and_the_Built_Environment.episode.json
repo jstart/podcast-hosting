@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 6,
   "explicit": false,
-  "duration_seconds": 178.661,
-  "enclosure_bytes": 2172861,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.mp3",
+  "duration_seconds": 178.016,
+  "enclosure_bytes": 2164636,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.3/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep06.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "d4fa3a019cb7804134754ba33ced4eefedbad0482d4782bafd052b11c87189dd",
-    "audio_sha256": "50df33e5702348d9bda74a9d6099bb97d3786d9dee797e3cce5a6f3e2830fd3f"
+    "transcript_sha256": "ec3e87bb3ee80e191d0a372e5542c90e5c2af6b17f8297cbcc0485cf7b848f3d",
+    "audio_sha256": "1927ac20a84e196d59561a971ed544d6e896415a8905bf568a07af1de9625fc6"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.provenance.json",
-  "release_tag": "transportation-policies-programs-history-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "transportation-policies-programs-history-v2026.3",
+  "release_version": "2026.3"
 }

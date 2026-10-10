@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 5,
   "explicit": false,
-  "duration_seconds": 173.066,
-  "enclosure_bytes": 2090030,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.mp3",
+  "duration_seconds": 179.261,
+  "enclosure_bytes": 2149838,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.3/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep05.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "814df915f63e7d0dca0b08d8b14ab2a6bc3a9ab767db40e5f2e09ffa7b777c2c",
-    "audio_sha256": "fc17ea6c5548b38d5d7d6f4f4d3af61d07ed3a9e38d4aba12845236bf0cc42f8"
+    "transcript_sha256": "4f536361b279faa34402236fbba385bea0ca7444461a2cf68c0e2266dc192ef8",
+    "audio_sha256": "0abfce0a8da33315b57342ce6f564e8f4f815272e0e3f04f85b2d4bfcb3ba6f4"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep05_Choosing_and_Connecting_Mobility_Modes.provenance.json",
-  "release_tag": "transportation-policies-programs-history-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "transportation-policies-programs-history-v2026.3",
+  "release_version": "2026.3"
 }

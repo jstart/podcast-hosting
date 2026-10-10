@@ -3,12 +3,12 @@
   "show": "transportation-policies-programs-history",
   "episode": 10,
   "title": "Lessons from the Global South",
-  "release_version": "2026.2",
-  "release_tag": "transportation-policies-programs-history-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "transportation-policies-programs-history-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep10_Lessons_from_the_Global_South.mp3",
-    "bytes": 2184078,
-    "sha256": "2f17304dd868a81066ed35f8ecbac711e09c4dd6689ff62546199e03b6b0ca07"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.3/TransPolicy_Ep10_Lessons_from_the_Global_South.mp3",
+    "bytes": 2183543,
+    "sha256": "2f68faf6731f9e3f4fc2c7438a162408e33f6f375c2c9ce40d299e6eca42192f"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep10_Lessons_from_the_Global_South.html",

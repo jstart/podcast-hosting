@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 1,
   "explicit": false,
-  "duration_seconds": 191.585,
-  "enclosure_bytes": 2315267,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.mp3",
+  "duration_seconds": 189.65,
+  "enclosure_bytes": 2283249,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.3/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep01.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "f39e853a19bdb6714075050ca93b59f8c9422660ad7d9ac49c4e801e10f7ca2b",
-    "audio_sha256": "38178149eb16daa1ad4202635e94791d8df67300f015a0a97734a499cbd4c376"
+    "transcript_sha256": "52086710b5ac90eea1b53a41e8a7ccbc4f9278a69c36be4d199b45b09392a658",
+    "audio_sha256": "b2abe0227280a86241c796d2dbe51bbf594bf23125313978c9e334fd392a5480"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep01_Policy_Congestion_Mobility_and_Access.provenance.json",
-  "release_tag": "transportation-policies-programs-history-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "transportation-policies-programs-history-v2026.3",
+  "release_version": "2026.3"
 }

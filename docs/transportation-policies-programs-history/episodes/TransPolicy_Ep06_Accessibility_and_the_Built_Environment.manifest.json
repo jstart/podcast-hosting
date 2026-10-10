@@ -3,12 +3,12 @@
   "show": "transportation-policies-programs-history",
   "episode": 6,
   "title": "Accessibility and the Built Environment",
-  "release_version": "2026.2",
-  "release_tag": "transportation-policies-programs-history-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "transportation-policies-programs-history-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.mp3",
-    "bytes": 2172861,
-    "sha256": "50df33e5702348d9bda74a9d6099bb97d3786d9dee797e3cce5a6f3e2830fd3f"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.3/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.mp3",
+    "bytes": 2164636,
+    "sha256": "1927ac20a84e196d59561a971ed544d6e896415a8905bf568a07af1de9625fc6"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep06_Accessibility_and_the_Built_Environment.html",

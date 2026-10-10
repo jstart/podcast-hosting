@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 8,
   "explicit": false,
-  "duration_seconds": 180.56,
-  "enclosure_bytes": 2180412,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.mp3",
+  "duration_seconds": 174.85,
+  "enclosure_bytes": 2130566,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.3/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep08.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "78a4fe864098c7f5562fbca57b231c4dfed52d07ea0bc11c87793ddee57f53bc",
-    "audio_sha256": "e267e04546683093dfb50ac89565954f2de16191796d1073a19236018efa038d"
+    "transcript_sha256": "c1e77d333e814285052e7459ff04b1f2a8c035f5902a5c8dc99fb296438e4196",
+    "audio_sha256": "e3d0b476e0c98a90f5446949eb0af19833d3c262a69440fdbe535636fe65493f"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep08_Technology_Shared_Mobility_and_Smart_Cities.provenance.json",
-  "release_tag": "transportation-policies-programs-history-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "transportation-policies-programs-history-v2026.3",
+  "release_version": "2026.3"
 }

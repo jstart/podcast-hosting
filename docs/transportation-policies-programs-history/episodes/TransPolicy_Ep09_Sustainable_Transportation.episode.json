@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 9,
   "explicit": false,
-  "duration_seconds": 186.238,
-  "enclosure_bytes": 2229431,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.2/TransPolicy_Ep09_Sustainable_Transportation.mp3",
+  "duration_seconds": 187.718,
+  "enclosure_bytes": 2249479,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-policies-programs-history-v2026.3/TransPolicy_Ep09_Sustainable_Transportation.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/artwork/ep09.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "53622940fe36b906918039a1c3a1461bc0941f22d617b307d15a2647ebe3ad0b",
-    "audio_sha256": "a71cf7e3abbc7ff7ab921d0fe399b2c0ee1c817c3ac9ca9bae9ea35251ea660e"
+    "transcript_sha256": "445665d230400db1bd2eba690289f2275921834a62b195440e63b44fc4bca4cf",
+    "audio_sha256": "f70ae73adcf5282debd66bbcd2dbb611714dfe0f31c38282b4b86354e1d360b6"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-policies-programs-history/episodes/TransPolicy_Ep09_Sustainable_Transportation.provenance.json",
-  "release_tag": "transportation-policies-programs-history-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "transportation-policies-programs-history-v2026.3",
+  "release_version": "2026.3"
 }
