@@ -3,12 +3,12 @@
   "show": "census-academy",
   "episode": 8,
   "title": "Housing Questions",
-  "release_version": "2026.2",
-  "release_tag": "census-academy-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "census-academy-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep08_Housing_Questions.mp3",
-    "bytes": 1428972,
-    "sha256": "c340d10c98e9db46f658970ba6f009294674f6a7f32e4fdcfc1a364aae9d50fc"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.3/Census_Ep08_Housing_Questions.mp3",
+    "bytes": 1426547,
+    "sha256": "3207743227273446d1ce1f0795d5770dbb8dcec7f96ed8bc6fb94da299dce3f9"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep08_Housing_Questions.html",

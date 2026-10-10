@@ -3,12 +3,12 @@
   "show": "census-academy",
   "episode": 1,
   "title": "What Census Data Can Answer",
-  "release_version": "2026.2",
-  "release_tag": "census-academy-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "census-academy-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep01_What_Census_Data_Can_Answer.mp3",
-    "bytes": 1477613,
-    "sha256": "2e026f94c8673fef6ebbc0c78f9cff375ee68ec7030b75e44eb60ab1dcfc0fe3"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.3/Census_Ep01_What_Census_Data_Can_Answer.mp3",
+    "bytes": 1545485,
+    "sha256": "24487f5f0b16e4dddc9f9f4a825b853570a7464099ed2acd0e10d1adb0b4b0b2"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep01_What_Census_Data_Can_Answer.html",

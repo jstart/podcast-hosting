@@ -3,12 +3,12 @@
   "show": "census-academy",
   "episode": 13,
   "title": "Compare Change Carefully",
-  "release_version": "2026.2",
-  "release_tag": "census-academy-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "census-academy-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep13_Compare_Change_Carefully.mp3",
-    "bytes": 1373743,
-    "sha256": "a9e5f7f60ad4842720c46ea2e90e0cb3bde420d2a5a06a14eaa92e955cd66281"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.3/Census_Ep13_Compare_Change_Carefully.mp3",
+    "bytes": 1396157,
+    "sha256": "be49fa8d94de2a4d07cc1a618483d8b61836fd5f280687681888834882d34076"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep13_Compare_Change_Carefully.html",

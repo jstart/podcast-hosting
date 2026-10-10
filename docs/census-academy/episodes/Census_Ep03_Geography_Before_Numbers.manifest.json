@@ -3,12 +3,12 @@
   "show": "census-academy",
   "episode": 3,
   "title": "Geography Before Numbers",
-  "release_version": "2026.2",
-  "release_tag": "census-academy-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "census-academy-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep03_Geography_Before_Numbers.mp3",
-    "bytes": 1439217,
-    "sha256": "471d6c4f14c0bce295f329e05295b82333ddd57baacd38d8444af7b61e9800b6"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.3/Census_Ep03_Geography_Before_Numbers.mp3",
+    "bytes": 1473426,
+    "sha256": "4bf88bd929ba01931e4230e83c75c5855c079acaeec4dcec9a68779762fca244"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep03_Geography_Before_Numbers.html",

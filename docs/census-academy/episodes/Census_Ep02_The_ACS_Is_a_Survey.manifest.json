@@ -3,12 +3,12 @@
   "show": "census-academy",
   "episode": 2,
   "title": "The ACS Is a Survey",
-  "release_version": "2026.2",
-  "release_tag": "census-academy-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "census-academy-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep02_The_ACS_Is_a_Survey.mp3",
-    "bytes": 1437114,
-    "sha256": "ce846f9a2b02770abb1f41206cf6c4db5e6a263bbb601ede50ff39dc93c40458"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.3/Census_Ep02_The_ACS_Is_a_Survey.mp3",
+    "bytes": 1460828,
+    "sha256": "5626e5d206b2836cb5b435c4aa46ed7e9a4b9a8ac37df66cad274a89f17765a3"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.html",

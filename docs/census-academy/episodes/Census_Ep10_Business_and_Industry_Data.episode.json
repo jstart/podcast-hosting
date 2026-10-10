@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 10,
   "explicit": false,
-  "duration_seconds": 118.631,
-  "enclosure_bytes": 1471985,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep10_Business_and_Industry_Data.mp3",
+  "duration_seconds": 119.551,
+  "enclosure_bytes": 1485650,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.3/Census_Ep10_Business_and_Industry_Data.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep10.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "c524f6bf96f0f0938d2e3207ce5b69c971263b587c2670897b957959f9777bc6",
-    "audio_sha256": "32faddc0c8f4ce82fe976ff9c57ba893c68c1fe25cb638baa1bd368e8fc0e83c"
+    "transcript_sha256": "3bb54b7ab781a1a6e818bc660a30a246cf8e48f2dce9f8bcfdb535f352b2c374",
+    "audio_sha256": "7f3dd0cc4786062861576e1cae7b9cc6e9091d78292b19dd3a9210d7194d4cfc"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.provenance.json",
-  "release_tag": "census-academy-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "census-academy-v2026.3",
+  "release_version": "2026.3"
 }

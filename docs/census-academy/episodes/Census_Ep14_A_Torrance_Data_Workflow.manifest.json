@@ -3,12 +3,12 @@
   "show": "census-academy",
   "episode": 14,
   "title": "A Torrance Data Workflow",
-  "release_version": "2026.2",
-  "release_tag": "census-academy-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "census-academy-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep14_A_Torrance_Data_Workflow.mp3",
-    "bytes": 1496786,
-    "sha256": "8667ea9b2b0c128e9e13f050c8533f0ab81364e010e41b3b36195a724a3b579b"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.3/Census_Ep14_A_Torrance_Data_Workflow.mp3",
+    "bytes": 1485854,
+    "sha256": "c664d809542b60df97e8dc5011d6a28941bf8f60cef6694f9ca4ad25b50dcc51"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep14_A_Torrance_Data_Workflow.html",

@@ -3,12 +3,12 @@
   "show": "census-academy",
   "episode": 5,
   "title": "Margins of Error Matter",
-  "release_version": "2026.2",
-  "release_tag": "census-academy-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "census-academy-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep05_Margins_of_Error_Matter.mp3",
-    "bytes": 1445219,
-    "sha256": "59817875a01e289ef6921b85fe1709c730d6b632fab64c14f3a6a1a2e33ba73b"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.3/Census_Ep05_Margins_of_Error_Matter.mp3",
+    "bytes": 1447216,
+    "sha256": "a2afb64ae126aca4938c77957260f33c87b8685d0ef72a94f4025c20415d98bb"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep05_Margins_of_Error_Matter.html",

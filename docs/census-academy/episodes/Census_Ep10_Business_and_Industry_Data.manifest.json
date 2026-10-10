@@ -3,12 +3,12 @@
   "show": "census-academy",
   "episode": 10,
   "title": "Business and Industry Data",
-  "release_version": "2026.2",
-  "release_tag": "census-academy-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "census-academy-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep10_Business_and_Industry_Data.mp3",
-    "bytes": 1471985,
-    "sha256": "32faddc0c8f4ce82fe976ff9c57ba893c68c1fe25cb638baa1bd368e8fc0e83c"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.3/Census_Ep10_Business_and_Industry_Data.mp3",
+    "bytes": 1485650,
+    "sha256": "7f3dd0cc4786062861576e1cae7b9cc6e9091d78292b19dd3a9210d7194d4cfc"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep10_Business_and_Industry_Data.html",

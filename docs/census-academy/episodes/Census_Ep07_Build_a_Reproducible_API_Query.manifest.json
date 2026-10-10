@@ -3,12 +3,12 @@
   "show": "census-academy",
   "episode": 7,
   "title": "Build a Reproducible API Query",
-  "release_version": "2026.2",
-  "release_tag": "census-academy-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "census-academy-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep07_Build_a_Reproducible_API_Query.mp3",
-    "bytes": 1427614,
-    "sha256": "4dd3449f64b31eb6e9fd4636a6c9ea3c1804a2047a8f720e42dec1e75858729d"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.3/Census_Ep07_Build_a_Reproducible_API_Query.mp3",
+    "bytes": 1447609,
+    "sha256": "e73b10324709d3d4cdfe9b466124ad0e9e33c1abd4f5ffc847100873b25eb483"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.html",

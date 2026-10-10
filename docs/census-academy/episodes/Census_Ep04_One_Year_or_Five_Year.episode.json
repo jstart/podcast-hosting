@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 4,
   "explicit": false,
-  "duration_seconds": 117.922,
-  "enclosure_bytes": 1446758,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep04_One_Year_or_Five_Year.mp3",
+  "duration_seconds": 118.177,
+  "enclosure_bytes": 1452674,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.3/Census_Ep04_One_Year_or_Five_Year.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep04.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "0d19afc6ef77297a446dc4a46b1d7cdc6d4fb118fadb57497a667e487aa59642",
-    "audio_sha256": "c7d9c4b538e1e4ff9cfe60457906c792dd1390ae99c98a35f2915c7bc3f54775"
+    "transcript_sha256": "071a3822c978a7877ba2884a01cb7e5890dc51b4c87624f5febb32cd33e7ca84",
+    "audio_sha256": "2c448df0a74bec4dc253099ae524ec1e7fd4d11e4ea072ac716735e1dcbed10c"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep04_One_Year_or_Five_Year.provenance.json",
-  "release_tag": "census-academy-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "census-academy-v2026.3",
+  "release_version": "2026.3"
 }

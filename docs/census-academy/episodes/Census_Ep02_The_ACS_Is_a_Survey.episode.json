@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 2,
   "explicit": false,
-  "duration_seconds": 116.877,
-  "enclosure_bytes": 1437114,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep02_The_ACS_Is_a_Survey.mp3",
+  "duration_seconds": 119.317,
+  "enclosure_bytes": 1460828,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.3/Census_Ep02_The_ACS_Is_a_Survey.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep02.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "f8538e15f706b5837f22c84958930c024b3ea9b487477d207392050cbc0a09dd",
-    "audio_sha256": "ce846f9a2b02770abb1f41206cf6c4db5e6a263bbb601ede50ff39dc93c40458"
+    "transcript_sha256": "e807623f455c7642633f68898f6eeab6fec32e8adb5bcb516829f39730580f70",
+    "audio_sha256": "5626e5d206b2836cb5b435c4aa46ed7e9a4b9a8ac37df66cad274a89f17765a3"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep02_The_ACS_Is_a_Survey.provenance.json",
-  "release_tag": "census-academy-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "census-academy-v2026.3",
+  "release_version": "2026.3"
 }

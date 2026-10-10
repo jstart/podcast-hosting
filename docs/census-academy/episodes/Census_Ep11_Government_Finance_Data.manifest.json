@@ -3,12 +3,12 @@
   "show": "census-academy",
   "episode": 11,
   "title": "Government Finance Data",
-  "release_version": "2026.2",
-  "release_tag": "census-academy-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "census-academy-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep11_Government_Finance_Data.mp3",
-    "bytes": 1471931,
-    "sha256": "0a6c2cc6b1ba592b09a5d9fd36573ad7c151fea30238584b32d892cf0a2b48a0"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.3/Census_Ep11_Government_Finance_Data.mp3",
+    "bytes": 1466598,
+    "sha256": "f63855fccddc268fa87fbb350270acf4916ad6a0f1af4634395ba12efcd84d64"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep11_Government_Finance_Data.html",

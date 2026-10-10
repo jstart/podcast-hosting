@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 7,
   "explicit": false,
-  "duration_seconds": 116.431,
-  "enclosure_bytes": 1427614,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep07_Build_a_Reproducible_API_Query.mp3",
+  "duration_seconds": 118.051,
+  "enclosure_bytes": 1447609,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.3/Census_Ep07_Build_a_Reproducible_API_Query.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/census-academy/artwork/ep07.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "ca73cbf48746445c456dd0e4efe1da2e569e36806ee3fac687b66f24e4ec412a",
-    "audio_sha256": "4dd3449f64b31eb6e9fd4636a6c9ea3c1804a2047a8f720e42dec1e75858729d"
+    "transcript_sha256": "6594b9b1f8c1cfd151c7d8a6603deb05f1cf773d25bd891b6ec47aaa7d43542d",
+    "audio_sha256": "e73b10324709d3d4cdfe9b466124ad0e9e33c1abd4f5ffc847100873b25eb483"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep07_Build_a_Reproducible_API_Query.provenance.json",
-  "release_tag": "census-academy-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "census-academy-v2026.3",
+  "release_version": "2026.3"
 }

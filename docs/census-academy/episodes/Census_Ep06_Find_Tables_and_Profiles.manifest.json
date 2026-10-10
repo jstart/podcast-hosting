@@ -3,12 +3,12 @@
   "show": "census-academy",
   "episode": 6,
   "title": "Find Tables and Profiles",
-  "release_version": "2026.2",
-  "release_tag": "census-academy-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "census-academy-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.2/Census_Ep06_Find_Tables_and_Profiles.mp3",
-    "bytes": 1409023,
-    "sha256": "b2f42da81e7b5fe6bf77e333b5e20c1a2c3720b1e698a008ceb7ad541ae7e1a7"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/census-academy-v2026.3/Census_Ep06_Find_Tables_and_Profiles.mp3",
+    "bytes": 1425602,
+    "sha256": "b0c69d2c461b7d3362a4dab0312973ef194dd673d89d15ea8513860542ec99d2"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/census-academy/episodes/Census_Ep06_Find_Tables_and_Profiles.html",

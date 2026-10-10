@@ -1,85 +1,85 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:02.766
+00:00:01.400 --> 00:00:04.272
 This episode focuses on bulk and microdata access.
 
 2
-00:00:02.766 --> 00:00:10.012
+00:00:04.272 --> 00:00:11.797
 Census data becomes useful when the population, measure, geography, and time period are stated before anyone searches for a number.
 
 3
-00:00:10.012 --> 00:00:14.195
+00:00:11.797 --> 00:00:15.691
 Summary files support bulk access to published aggregate estimates.
 
 4
-00:00:14.195 --> 00:00:22.749
+00:00:15.691 --> 00:00:23.654
 They preserve table structure and geography but require careful use of lookup files, sequence layouts, annotations, and margins of error.
 
 5
-00:00:22.749 --> 00:00:29.878
+00:00:23.654 --> 00:00:30.787
 Public Use Microdata Sample files contain disclosure-protected person and housing-unit records for custom analysis.
 
 6
-00:00:29.878 --> 00:00:34.838
+00:00:30.787 --> 00:00:35.750
 They are samples, require weights, and identify only selected large geographies.
 
 7
-00:00:34.838 --> 00:00:39.177
+00:00:35.750 --> 00:00:40.092
 Public Use Microdata Areas are the most detailed geography identified.
 
 8
-00:00:39.177 --> 00:00:44.417
+00:00:40.092 --> 00:00:45.105
 Never infer that a PUMS record represents a named person or a specific neighborhood.
 
 9
-00:00:44.417 --> 00:00:49.970
+00:00:45.105 --> 00:00:50.417
 Follow API and privacy terms, use replicate weights where required, and document recodes.
 
 10
-00:00:49.970 --> 00:00:55.335
+00:00:50.417 --> 00:00:55.550
 A custom estimate needs the same uncertainty and universe checks as a published table.
 
 11
-00:00:55.335 --> 00:00:56.886
+00:00:55.550 --> 00:00:57.012
 Torrance application segment.
 
 12
-00:00:56.886 --> 00:01:00.682
+00:00:57.012 --> 00:01:00.593
 This local application is separate from the Census Academy instruction.
 
 13
-00:01:00.682 --> 00:01:12.766
+00:01:00.593 --> 00:01:11.990
 The cited City of Torrance primary source is General Plan, published at https://www.torranceca.gov/Government/Departments-Offices/Departments-Offices/Community-Development/Planning-Division/Comprehensive-Planning/General-Plan.
 
 14
-00:01:12.766 --> 00:01:19.611
+00:01:11.990 --> 00:01:18.445
 For a local analysis, use summary tables for Torrance-specific geography and do not label PUMA microdata as city-level evidence.
 
 15
-00:01:19.611 --> 00:01:27.150
+00:01:18.445 --> 00:01:25.555
 Do not present City policy or administrative records as Census Bureau findings, and do not present a federal estimate as adopted City policy.
 
 16
-00:01:27.150 --> 00:01:36.753
+00:01:25.555 --> 00:01:35.396
 Keep a reproducibility packet containing the question, source URLs, exact vintage, table or query, geography codes, raw result, calculations, and uncertainty note.
 
 17
-00:01:36.753 --> 00:01:39.875
+00:01:35.396 --> 00:01:38.596
 This narration is an original synthesis of cited U.S.
 
 18
-00:01:39.875 --> 00:01:44.471
+00:01:38.596 --> 00:01:43.306
 Census Bureau government works and separately cited City of Torrance material.
 
 19
-00:01:44.471 --> 00:01:48.595
+00:01:43.306 --> 00:01:47.532
 Third-party videos, software, graphics, and linked works are excluded.
 
 20
-00:01:48.595 --> 00:01:54.368
+00:01:47.532 --> 00:01:53.449
 This product uses Census Bureau information but is not endorsed or certified by the Census Bureau.
 
 21
-00:01:54.368 --> 00:01:58.551
+00:01:53.449 --> 00:01:57.736
 It is not an official City product and does not imply City endorsement.
