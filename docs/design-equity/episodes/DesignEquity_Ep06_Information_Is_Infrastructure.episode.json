@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 6,
   "explicit": false,
-  "duration_seconds": 173.442,
-  "enclosure_bytes": 2085232,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep06_Information_Is_Infrastructure.mp3",
+  "duration_seconds": 170.487,
+  "enclosure_bytes": 2045957,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.3/DesignEquity_Ep06_Information_Is_Infrastructure.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/design-equity/artwork/ep06.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "3a8297f28b2f32ff346c3879ef408608d1bcd8a50268247ee432cef29b53ab7f",
-    "audio_sha256": "d8cd76829a9b1f6f252737cc6715d6bb10b6e3bb889525e53e21c49007e87868"
+    "transcript_sha256": "097a7d26b57bf1ba5efd0b566a15a405cb098041635dfcb0919ab73381544318",
+    "audio_sha256": "aa13c050a940b1efee8c0cfd6f2189470aed5e7d90b6d5e97f5cd9b25041bbd0"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.provenance.json",
-  "release_tag": "design-equity-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "design-equity-v2026.3",
+  "release_version": "2026.3"
 }

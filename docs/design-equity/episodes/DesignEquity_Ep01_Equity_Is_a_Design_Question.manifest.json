@@ -3,12 +3,12 @@
   "show": "design-equity",
   "episode": 1,
   "title": "Equity Is a Design Question",
-  "release_version": "2026.2",
-  "release_tag": "design-equity-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "design-equity-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep01_Equity_Is_a_Design_Question.mp3",
-    "bytes": 2463094,
-    "sha256": "3657ba62c2cddadcbea6e5ac36fdee4aeb9aa7d5ace1e0c520140bed1ce6e79e"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.3/DesignEquity_Ep01_Equity_Is_a_Design_Question.mp3",
+    "bytes": 2438635,
+    "sha256": "02d2d2ca5d889504a87ed0a5a8a714050f66a40a9a453a44231e993f36dca414"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.html",

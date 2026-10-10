@@ -3,22 +3,22 @@
   "title": "Designing for Equity",
   "album": "Designing for Equity: An Independent Study",
   "description": "An eight-episode course on designing public places, services, information, and decision processes for equitable outcomes.",
-  "version": "2026.2",
-  "release_tag": "design-equity-v2026.2",
+  "version": "2026.3",
+  "release_tag": "design-equity-v2026.3",
   "stable_feed_url": "https://jstart.github.io/podcast-hosting/design-equity/feed.xml",
-  "release_url": "https://github.com/jstart/podcast-hosting/releases/tag/design-equity-v2026.2",
+  "release_url": "https://github.com/jstart/podcast-hosting/releases/tag/design-equity-v2026.3",
   "episodes": [
     {
       "stable_guid": "99d0e767-19e5-5b92-8e97-8ccda95890ae",
       "show": "design-equity",
       "episode": 1,
       "title": "Equity Is a Design Question",
-      "release_version": "2026.2",
-      "release_tag": "design-equity-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "design-equity-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep01_Equity_Is_a_Design_Question.mp3",
-        "bytes": 2463094,
-        "sha256": "3657ba62c2cddadcbea6e5ac36fdee4aeb9aa7d5ace1e0c520140bed1ce6e79e"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.3/DesignEquity_Ep01_Equity_Is_a_Design_Question.mp3",
+        "bytes": 2438635,
+        "sha256": "02d2d2ca5d889504a87ed0a5a8a714050f66a40a9a453a44231e993f36dca414"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep01_Equity_Is_a_Design_Question.html",
@@ -31,19 +31,19 @@
       },
       "summary": "Introduces design equity as a way to examine how places and processes distribute opportunity, benefit, burden, and voice.",
       "publication_date": "2026-10-08T05:00:00Z",
-      "duration_seconds": 207.6
+      "duration_seconds": 205.935
     },
     {
       "stable_guid": "9d4ee4cb-d5e5-50d7-a77d-e2c937943b77",
       "show": "design-equity",
       "episode": 2,
       "title": "Talking about Racism in Design",
-      "release_version": "2026.2",
-      "release_tag": "design-equity-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "design-equity-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep02_Talking_about_Racism_in_Design.mp3",
-        "bytes": 2412258,
-        "sha256": "141c27bef53c0c31bfa6ae8a81dfc6d1c9b7e3c2c273afa00098a0e73fd9ca4c"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.3/DesignEquity_Ep02_Talking_about_Racism_in_Design.mp3",
+        "bytes": 2372028,
+        "sha256": "eed2320df4f37f4516c1505a07eec5f58cfb2392158ae79fbe8d622f92aead44"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep02_Talking_about_Racism_in_Design.html",
@@ -56,19 +56,19 @@
       },
       "summary": "Builds a precise, evidence-centered practice for discussing race, racism, and design without substituting intention for impact.",
       "publication_date": "2026-10-08T05:00:00Z",
-      "duration_seconds": 203.587
+      "duration_seconds": 199.742
     },
     {
       "stable_guid": "c7f6a7e1-157b-559f-adbe-89278e3e829c",
       "show": "design-equity",
       "episode": 3,
       "title": "History Is in the Present",
-      "release_version": "2026.2",
-      "release_tag": "design-equity-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "design-equity-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep03_History_Is_in_the_Present.mp3",
-        "bytes": 2339368,
-        "sha256": "b2885f8b909d108937f89c0bc355977581ee52086978a3d677d3f39cd26e235d"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.3/DesignEquity_Ep03_History_Is_in_the_Present.mp3",
+        "bytes": 2294638,
+        "sha256": "452e3fdf2b46089f9a8164c60a840c6b7b2964dc92c6914993d009ecb96c685e"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep03_History_Is_in_the_Present.html",
@@ -81,19 +81,19 @@
       },
       "summary": "Shows why present access and design choices must be read alongside the accumulated effects of earlier policies and investments.",
       "publication_date": "2026-10-08T05:00:00Z",
-      "duration_seconds": 196.867
+      "duration_seconds": 192.557
     },
     {
       "stable_guid": "cabf56f4-fc4e-543b-9f2b-612f08e82819",
       "show": "design-equity",
       "episode": 4,
       "title": "Health Is Built into Place",
-      "release_version": "2026.2",
-      "release_tag": "design-equity-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "design-equity-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep04_Health_Is_Built_into_Place.mp3",
-        "bytes": 2215040,
-        "sha256": "854c5b4cd5252a393429117225dc5440fb0f485077272c7fb525912d4d94d38a"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.3/DesignEquity_Ep04_Health_Is_Built_into_Place.mp3",
+        "bytes": 2248007,
+        "sha256": "41d56521a1c7cbcb95edba1e560256d555539057e0e7cf8f3c1686e66a56db81"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep04_Health_Is_Built_into_Place.html",
@@ -106,19 +106,19 @@
       },
       "summary": "Connects housing, streets, public space, environmental conditions, displacement risk, and everyday health.",
       "publication_date": "2026-10-08T05:00:00Z",
-      "duration_seconds": 187.657
+      "duration_seconds": 189.952
     },
     {
       "stable_guid": "05de91c4-2a20-549a-a5b2-08cd0d879bd7",
       "show": "design-equity",
       "episode": 5,
       "title": "Who Can Get Where",
-      "release_version": "2026.2",
-      "release_tag": "design-equity-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "design-equity-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep05_Who_Can_Get_Where.mp3",
-        "bytes": 2192526,
-        "sha256": "905b0eea5d8e4bb67fec0ee6ce96a1fb3eb9a18b52ae026aecfada482105a226"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.3/DesignEquity_Ep05_Who_Can_Get_Where.mp3",
+        "bytes": 2191544,
+        "sha256": "d77060d0f63e88f063ad127f706227fabbcf69008377912c49f156048853da6b"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep05_Who_Can_Get_Where.html",
@@ -131,19 +131,19 @@
       },
       "summary": "Evaluates transportation by access, safety, affordability, reliability, exposure, and the distribution of benefits and burdens.",
       "publication_date": "2026-10-08T05:00:00Z",
-      "duration_seconds": 185.611
+      "duration_seconds": 184.851
     },
     {
       "stable_guid": "8879f49e-b2c9-521e-a90f-c3077cb252a3",
       "show": "design-equity",
       "episode": 6,
       "title": "Information Is Infrastructure",
-      "release_version": "2026.2",
-      "release_tag": "design-equity-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "design-equity-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep06_Information_Is_Infrastructure.mp3",
-        "bytes": 2085232,
-        "sha256": "d8cd76829a9b1f6f252737cc6715d6bb10b6e3bb889525e53e21c49007e87868"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.3/DesignEquity_Ep06_Information_Is_Infrastructure.mp3",
+        "bytes": 2045957,
+        "sha256": "aa13c050a940b1efee8c0cfd6f2189470aed5e7d90b6d5e97f5cd9b25041bbd0"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.html",
@@ -156,19 +156,19 @@
       },
       "summary": "Treats accessible information and community knowledge as essential infrastructure for equitable public decisions.",
       "publication_date": "2026-10-08T05:00:00Z",
-      "duration_seconds": 173.442
+      "duration_seconds": 170.487
     },
     {
       "stable_guid": "51f69943-fe61-520c-ab7a-bb089d8b3577",
       "show": "design-equity",
       "episode": 7,
       "title": "Redesigning Design Thinking",
-      "release_version": "2026.2",
-      "release_tag": "design-equity-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "design-equity-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep07_Redesigning_Design_Thinking.mp3",
-        "bytes": 2004203,
-        "sha256": "08ca0852628c2f669641e261105f5e6d9774b0366ce25c3a9617b8bd0423d4d2"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.3/DesignEquity_Ep07_Redesigning_Design_Thinking.mp3",
+        "bytes": 2064929,
+        "sha256": "10932629c6d38f6453f2e344f830c88c1e2a4b4e8eb44efc14f968c7114383e2"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep07_Redesigning_Design_Thinking.html",
@@ -181,19 +181,19 @@
       },
       "summary": "Adds reflection, historical context, shared power, and accountability to familiar problem-solving cycles.",
       "publication_date": "2026-10-08T05:00:00Z",
-      "duration_seconds": 166.059
+      "duration_seconds": 171.549
     },
     {
       "stable_guid": "39b6caec-ed2e-562a-8ad3-9d9d148d1bd6",
       "show": "design-equity",
       "episode": 8,
       "title": "Equity through the Whole Project",
-      "release_version": "2026.2",
-      "release_tag": "design-equity-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "design-equity-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep08_Equity_through_the_Whole_Project.mp3",
-        "bytes": 2159704,
-        "sha256": "a1bf59761ea1d7b886e73ae4f14d8ce0bd8ef5345914cb4324455e3619aa3e05"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.3/DesignEquity_Ep08_Equity_through_the_Whole_Project.mp3",
+        "bytes": 2179513,
+        "sha256": "5465148e6125ba35e80f026f870c83037d84e594525be9de5fcc16453c8c5096"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep08_Equity_through_the_Whole_Project.html",
@@ -206,7 +206,7 @@
       },
       "summary": "Carries equity from problem definition and procurement through engagement, implementation, maintenance, and evaluation.",
       "publication_date": "2026-10-08T05:00:00Z",
-      "duration_seconds": 180.512
+      "duration_seconds": 182.507
     }
   ]
 }

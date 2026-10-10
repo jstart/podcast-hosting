@@ -3,12 +3,12 @@
   "show": "design-equity",
   "episode": 6,
   "title": "Information Is Infrastructure",
-  "release_version": "2026.2",
-  "release_tag": "design-equity-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "design-equity-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep06_Information_Is_Infrastructure.mp3",
-    "bytes": 2085232,
-    "sha256": "d8cd76829a9b1f6f252737cc6715d6bb10b6e3bb889525e53e21c49007e87868"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.3/DesignEquity_Ep06_Information_Is_Infrastructure.mp3",
+    "bytes": 2045957,
+    "sha256": "aa13c050a940b1efee8c0cfd6f2189470aed5e7d90b6d5e97f5cd9b25041bbd0"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep06_Information_Is_Infrastructure.html",

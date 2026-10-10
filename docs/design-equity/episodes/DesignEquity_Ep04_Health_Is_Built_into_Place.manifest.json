@@ -3,12 +3,12 @@
   "show": "design-equity",
   "episode": 4,
   "title": "Health Is Built into Place",
-  "release_version": "2026.2",
-  "release_tag": "design-equity-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "design-equity-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep04_Health_Is_Built_into_Place.mp3",
-    "bytes": 2215040,
-    "sha256": "854c5b4cd5252a393429117225dc5440fb0f485077272c7fb525912d4d94d38a"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.3/DesignEquity_Ep04_Health_Is_Built_into_Place.mp3",
+    "bytes": 2248007,
+    "sha256": "41d56521a1c7cbcb95edba1e560256d555539057e0e7cf8f3c1686e66a56db81"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep04_Health_Is_Built_into_Place.html",

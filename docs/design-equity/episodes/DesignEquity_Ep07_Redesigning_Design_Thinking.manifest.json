@@ -3,12 +3,12 @@
   "show": "design-equity",
   "episode": 7,
   "title": "Redesigning Design Thinking",
-  "release_version": "2026.2",
-  "release_tag": "design-equity-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "design-equity-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep07_Redesigning_Design_Thinking.mp3",
-    "bytes": 2004203,
-    "sha256": "08ca0852628c2f669641e261105f5e6d9774b0366ce25c3a9617b8bd0423d4d2"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.3/DesignEquity_Ep07_Redesigning_Design_Thinking.mp3",
+    "bytes": 2064929,
+    "sha256": "10932629c6d38f6453f2e344f830c88c1e2a4b4e8eb44efc14f968c7114383e2"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep07_Redesigning_Design_Thinking.html",

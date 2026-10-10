@@ -3,12 +3,12 @@
   "show": "design-equity",
   "episode": 3,
   "title": "History Is in the Present",
-  "release_version": "2026.2",
-  "release_tag": "design-equity-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "design-equity-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.2/DesignEquity_Ep03_History_Is_in_the_Present.mp3",
-    "bytes": 2339368,
-    "sha256": "b2885f8b909d108937f89c0bc355977581ee52086978a3d677d3f39cd26e235d"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/design-equity-v2026.3/DesignEquity_Ep03_History_Is_in_the_Present.mp3",
+    "bytes": 2294638,
+    "sha256": "452e3fdf2b46089f9a8164c60a840c6b7b2964dc92c6914993d009ecb96c685e"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/design-equity/episodes/DesignEquity_Ep03_History_Is_in_the_Present.html",
