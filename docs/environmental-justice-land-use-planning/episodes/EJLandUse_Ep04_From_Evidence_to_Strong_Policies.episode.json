@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 4,
   "explicit": false,
-  "duration_seconds": 162.297,
-  "enclosure_bytes": 1944598,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep04_From_Evidence_to_Strong_Policies.mp3",
+  "duration_seconds": 157.132,
+  "enclosure_bytes": 1878733,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.3/EJLandUse_Ep04_From_Evidence_to_Strong_Policies.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep04_From_Evidence_to_Strong_Policies.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep04_From_Evidence_to_Strong_Policies.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/artwork/ep04.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep04_From_Evidence_to_Strong_Policies.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "6c56e7833d0c4d73bbba63ea9c18f184e3214f1428b31d244e21f1a1642e221b",
-    "audio_sha256": "0089387d47d229b07f2b000ee4e3059839a392fe6fbd60ea65a4ecc348ce87d2"
+    "transcript_sha256": "112a41e34e6f43c61d41e231d7b7563b960231f6ef9576743cc2e78dd03c2b07",
+    "audio_sha256": "ba7544106d651889e293ccb2a99073ffdbba333f0c182acad513fe4ee51f26bb"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep04_From_Evidence_to_Strong_Policies.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep04_From_Evidence_to_Strong_Policies.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep04_From_Evidence_to_Strong_Policies.provenance.json",
-  "release_tag": "environmental-justice-land-use-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "environmental-justice-land-use-planning-v2026.3",
+  "release_version": "2026.3"
 }

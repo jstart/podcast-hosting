@@ -3,22 +3,22 @@
   "title": "Planning for Environmental Justice",
   "album": "Planning for Environmental Justice: California Land Use Independent Study",
   "description": "An eight-episode course on environmental justice evidence, land-use policy, implementation, accountability, and planning review.",
-  "version": "2026.2",
-  "release_tag": "environmental-justice-land-use-planning-v2026.2",
+  "version": "2026.3",
+  "release_tag": "environmental-justice-land-use-planning-v2026.3",
   "stable_feed_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/feed.xml",
-  "release_url": "https://github.com/jstart/podcast-hosting/releases/tag/environmental-justice-land-use-planning-v2026.2",
+  "release_url": "https://github.com/jstart/podcast-hosting/releases/tag/environmental-justice-land-use-planning-v2026.3",
   "episodes": [
     {
       "stable_guid": "e245b12c-e3d0-5b98-865f-6039031a5027",
       "show": "environmental-justice-land-use-planning",
       "episode": 1,
       "title": "Why Land Use Is an Environmental Justice Issue",
-      "release_version": "2026.2",
-      "release_tag": "environmental-justice-land-use-planning-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "environmental-justice-land-use-planning-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep01_Why_Land_Use_Is_an_Environmental_Justice_Issue.mp3",
-        "bytes": 2150236,
-        "sha256": "4df8f42d525c4ae1d20460a9df1f8ac7db107b05ecd553e5208c1170fbaa01c8"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.3/EJLandUse_Ep01_Why_Land_Use_Is_an_Environmental_Justice_Issue.mp3",
+        "bytes": 2187909,
+        "sha256": "3c0ea7b766232006ba791e3e3f09673511aa82803060fcb31d0bc3261ab7d36a"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep01_Why_Land_Use_Is_an_Environmental_Justice_Issue.html",
@@ -31,19 +31,19 @@
       },
       "summary": "Explains how land-use patterns distribute environmental burdens, health-supporting resources, and decision-making power.",
       "publication_date": "2026-10-08T05:00:00Z",
-      "duration_seconds": 180.241
+      "duration_seconds": 182.966
     },
     {
       "stable_guid": "386ffe6a-9f21-567b-bc08-ba6203b5e5c1",
       "show": "environmental-justice-land-use-planning",
       "episode": 2,
       "title": "Finding Communities without Hiding People",
-      "release_version": "2026.2",
-      "release_tag": "environmental-justice-land-use-planning-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "environmental-justice-land-use-planning-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep02_Finding_Communities_without_Hiding_People.mp3",
-        "bytes": 1882736,
-        "sha256": "5a3911eabeba18f28a510f05565112f4cf53f609cdb8abbc18990a990443997b"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.3/EJLandUse_Ep02_Finding_Communities_without_Hiding_People.mp3",
+        "bytes": 1905822,
+        "sha256": "db0b1accbd443752d2002c62373fb5811098cb8503c8d9abf3e7f106b6764750"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep02_Finding_Communities_without_Hiding_People.html",
@@ -56,19 +56,19 @@
       },
       "summary": "Uses screening data, local evidence, and multiple statutory pathways without treating a threshold as a complete account of community conditions.",
       "publication_date": "2026-10-08T05:00:00Z",
-      "duration_seconds": 157.144
+      "duration_seconds": 159.519
     },
     {
       "stable_guid": "8a2e67e7-7cab-5fe6-8d55-d688d1f060ca",
       "show": "environmental-justice-land-use-planning",
       "episode": 3,
       "title": "Engagement That Can Change the Plan",
-      "release_version": "2026.2",
-      "release_tag": "environmental-justice-land-use-planning-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "environmental-justice-land-use-planning-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep03_Engagement_That_Can_Change_the_Plan.mp3",
-        "bytes": 1940938,
-        "sha256": "cb56ab23cfeb4147daa16946408dc998c49dd8425a3ed009b0f5e9879a6a28cb"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.3/EJLandUse_Ep03_Engagement_That_Can_Change_the_Plan.mp3",
+        "bytes": 1923615,
+        "sha256": "5f2ce996edbc79fa1474ea723e4a72677fe1e20d122264fad01ca39317d2302e"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep03_Engagement_That_Can_Change_the_Plan.html",
@@ -81,19 +81,19 @@
       },
       "summary": "Designs early, accessible, compensated, transparent engagement that can materially influence analysis and policy.",
       "publication_date": "2026-10-08T05:00:00Z",
-      "duration_seconds": 160.749
+      "duration_seconds": 157.704
     },
     {
       "stable_guid": "784b3b4e-bb1f-5907-a890-4fe962357b8a",
       "show": "environmental-justice-land-use-planning",
       "episode": 4,
       "title": "From Evidence to Strong Policies",
-      "release_version": "2026.2",
-      "release_tag": "environmental-justice-land-use-planning-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "environmental-justice-land-use-planning-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep04_From_Evidence_to_Strong_Policies.mp3",
-        "bytes": 1944598,
-        "sha256": "0089387d47d229b07f2b000ee4e3059839a392fe6fbd60ea65a4ecc348ce87d2"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.3/EJLandUse_Ep04_From_Evidence_to_Strong_Policies.mp3",
+        "bytes": 1878733,
+        "sha256": "ba7544106d651889e293ccb2a99073ffdbba333f0c182acad513fe4ee51f26bb"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep04_From_Evidence_to_Strong_Policies.html",
@@ -106,19 +106,19 @@
       },
       "summary": "Connects identified burdens to specific objectives, accountable actions, measurable outcomes, funding, and timelines.",
       "publication_date": "2026-10-08T05:00:00Z",
-      "duration_seconds": 162.297
+      "duration_seconds": 157.132
     },
     {
       "stable_guid": "892764c7-b440-5da3-9f1e-a768d092e40f",
       "show": "environmental-justice-land-use-planning",
       "episode": 5,
       "title": "Pollution, Homes, and Daily Life",
-      "release_version": "2026.2",
-      "release_tag": "environmental-justice-land-use-planning-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "environmental-justice-land-use-planning-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.mp3",
-        "bytes": 2043272,
-        "sha256": "ca529b2d628c4cef186b1927bc76ddba23780d0ecfcd6253a5bcc1a0c6bb6097"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.3/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.mp3",
+        "bytes": 2031624,
+        "sha256": "92b5b4660da2efdb67000d4e9f1f7aa81032b311e237b334cb9a68a18f1fbef7"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.html",
@@ -131,19 +131,19 @@
       },
       "summary": "Reviews pollution exposure, compounded health risk, food access, and safe and sanitary housing as connected planning subjects.",
       "publication_date": "2026-10-08T05:00:00Z",
-      "duration_seconds": 169.548
+      "duration_seconds": 168.343
     },
     {
       "stable_guid": "655cc678-a701-5976-b32b-a2f1de833896",
       "show": "environmental-justice-land-use-planning",
       "episode": 6,
       "title": "Access, Activity, and Public Facilities",
-      "release_version": "2026.2",
-      "release_tag": "environmental-justice-land-use-planning-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "environmental-justice-land-use-planning-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep06_Access_Activity_and_Public_Facilities.mp3",
-        "bytes": 1868975,
-        "sha256": "fc10615d6cc2cf284681ffa442535a37e83c8e341b9f523a868e5c7abe986a51"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.3/EJLandUse_Ep06_Access_Activity_and_Public_Facilities.mp3",
+        "bytes": 1887771,
+        "sha256": "008047fb76a26ec8ed5c3b070670949822e936a913a274ec446d109afde1a9b0"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep06_Access_Activity_and_Public_Facilities.html",
@@ -156,19 +156,19 @@
       },
       "summary": "Examines equitable access to public facilities, physical activity, mobility, healthy food, and other health-supporting resources.",
       "publication_date": "2026-10-08T05:00:00Z",
-      "duration_seconds": 154.607
+      "duration_seconds": 156.467
     },
     {
       "stable_guid": "f3630e15-03f0-5884-95c5-498ea22b658e",
       "show": "environmental-justice-land-use-planning",
       "episode": 7,
       "title": "Priorities, Budgets, and Accountability",
-      "release_version": "2026.2",
-      "release_tag": "environmental-justice-land-use-planning-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "environmental-justice-land-use-planning-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep07_Priorities_Budgets_and_Accountability.mp3",
-        "bytes": 1863640,
-        "sha256": "165678bdeb49bb617c68d486aa9b1d7325da99e2f0b8119ae38c7e3a9fdc4867"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.3/EJLandUse_Ep07_Priorities_Budgets_and_Accountability.mp3",
+        "bytes": 1875203,
+        "sha256": "c30fc8ef5865ef8013f104e6c252ef3001fd48f49ea36f6feb64ab175f3a74a4"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep07_Priorities_Budgets_and_Accountability.html",
@@ -181,19 +181,19 @@
       },
       "summary": "Turns environmental-justice commitments into prioritized improvements, implementation responsibility, budgets, monitoring, and public reporting.",
       "publication_date": "2026-10-08T05:00:00Z",
-      "duration_seconds": 153.899
+      "duration_seconds": 155.409
     },
     {
       "stable_guid": "a4f3d851-83a5-5c6b-9526-c1418ba70cfd",
       "show": "environmental-justice-land-use-planning",
       "episode": 8,
       "title": "A Torrance Planning Review",
-      "release_version": "2026.2",
-      "release_tag": "environmental-justice-land-use-planning-v2026.2",
+      "release_version": "2026.3",
+      "release_tag": "environmental-justice-land-use-planning-v2026.3",
       "enclosure": {
-        "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep08_A_Torrance_Planning_Review.mp3",
-        "bytes": 2617403,
-        "sha256": "f1c735987262cd02c3b2cd3291d1c9bbc2fb3cb687e36a09c7570d1a70e506ef"
+        "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.3/EJLandUse_Ep08_A_Torrance_Planning_Review.mp3",
+        "bytes": 2605120,
+        "sha256": "69c3937d1737438701f16369b23c0848603efc6a592981fcd187b9137de544fc"
       },
       "pages": {
         "canonical": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep08_A_Torrance_Planning_Review.html",
@@ -206,7 +206,7 @@
       },
       "summary": "Applies the complete study framework to Torrance's ongoing planning work without making a legal compliance determination.",
       "publication_date": "2026-10-08T05:00:00Z",
-      "duration_seconds": 223.158
+      "duration_seconds": 219.243
     }
   ]
 }

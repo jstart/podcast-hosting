@@ -3,12 +3,12 @@
   "show": "environmental-justice-land-use-planning",
   "episode": 4,
   "title": "From Evidence to Strong Policies",
-  "release_version": "2026.2",
-  "release_tag": "environmental-justice-land-use-planning-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "environmental-justice-land-use-planning-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep04_From_Evidence_to_Strong_Policies.mp3",
-    "bytes": 1944598,
-    "sha256": "0089387d47d229b07f2b000ee4e3059839a392fe6fbd60ea65a4ecc348ce87d2"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.3/EJLandUse_Ep04_From_Evidence_to_Strong_Policies.mp3",
+    "bytes": 1878733,
+    "sha256": "ba7544106d651889e293ccb2a99073ffdbba333f0c182acad513fe4ee51f26bb"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep04_From_Evidence_to_Strong_Policies.html",

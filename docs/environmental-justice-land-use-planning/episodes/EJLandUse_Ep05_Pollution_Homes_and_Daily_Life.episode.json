@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 5,
   "explicit": false,
-  "duration_seconds": 169.548,
-  "enclosure_bytes": 2043272,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.mp3",
+  "duration_seconds": 168.343,
+  "enclosure_bytes": 2031624,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.3/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/artwork/ep05.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "c34b2056d65b4bdcbcc32c819f44118fb13d7ae00e4503275cb41f07c41c9fe5",
-    "audio_sha256": "ca529b2d628c4cef186b1927bc76ddba23780d0ecfcd6253a5bcc1a0c6bb6097"
+    "transcript_sha256": "cd9ca9199e4eb220d7f813601bd715bbee6b8d5389f8e0ce9aa0ed2f0964f487",
+    "audio_sha256": "92b5b4660da2efdb67000d4e9f1f7aa81032b311e237b334cb9a68a18f1fbef7"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep05_Pollution_Homes_and_Daily_Life.provenance.json",
-  "release_tag": "environmental-justice-land-use-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "environmental-justice-land-use-planning-v2026.3",
+  "release_version": "2026.3"
 }

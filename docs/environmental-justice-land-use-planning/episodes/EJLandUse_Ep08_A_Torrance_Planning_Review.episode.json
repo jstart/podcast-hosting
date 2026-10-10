@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 8,
   "explicit": false,
-  "duration_seconds": 223.158,
-  "enclosure_bytes": 2617403,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep08_A_Torrance_Planning_Review.mp3",
+  "duration_seconds": 219.243,
+  "enclosure_bytes": 2605120,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.3/EJLandUse_Ep08_A_Torrance_Planning_Review.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep08_A_Torrance_Planning_Review.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep08_A_Torrance_Planning_Review.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/artwork/ep08.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep08_A_Torrance_Planning_Review.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "5ecd9e663789ce74a1d8ab31ec42f5d557e3ecf6c070412a0b99c6b6879d6f25",
-    "audio_sha256": "f1c735987262cd02c3b2cd3291d1c9bbc2fb3cb687e36a09c7570d1a70e506ef"
+    "transcript_sha256": "d0926dc79536e856c1c6b262778303d33fd0dedb9eeb8d9b8b7e895c03b186f5",
+    "audio_sha256": "69c3937d1737438701f16369b23c0848603efc6a592981fcd187b9137de544fc"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep08_A_Torrance_Planning_Review.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep08_A_Torrance_Planning_Review.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep08_A_Torrance_Planning_Review.provenance.json",
-  "release_tag": "environmental-justice-land-use-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "environmental-justice-land-use-planning-v2026.3",
+  "release_version": "2026.3"
 }

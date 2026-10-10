@@ -3,12 +3,12 @@
   "show": "environmental-justice-land-use-planning",
   "episode": 2,
   "title": "Finding Communities without Hiding People",
-  "release_version": "2026.2",
-  "release_tag": "environmental-justice-land-use-planning-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "environmental-justice-land-use-planning-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep02_Finding_Communities_without_Hiding_People.mp3",
-    "bytes": 1882736,
-    "sha256": "5a3911eabeba18f28a510f05565112f4cf53f609cdb8abbc18990a990443997b"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.3/EJLandUse_Ep02_Finding_Communities_without_Hiding_People.mp3",
+    "bytes": 1905822,
+    "sha256": "db0b1accbd443752d2002c62373fb5811098cb8503c8d9abf3e7f106b6764750"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep02_Finding_Communities_without_Hiding_People.html",

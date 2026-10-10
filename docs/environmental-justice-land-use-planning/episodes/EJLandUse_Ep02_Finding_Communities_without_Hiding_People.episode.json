@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 2,
   "explicit": false,
-  "duration_seconds": 157.144,
-  "enclosure_bytes": 1882736,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.2/EJLandUse_Ep02_Finding_Communities_without_Hiding_People.mp3",
+  "duration_seconds": 159.519,
+  "enclosure_bytes": 1905822,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/environmental-justice-land-use-planning-v2026.3/EJLandUse_Ep02_Finding_Communities_without_Hiding_People.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep02_Finding_Communities_without_Hiding_People.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep02_Finding_Communities_without_Hiding_People.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/artwork/ep02.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep02_Finding_Communities_without_Hiding_People.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "cd742a9bf3820cad6b38ac2e6236f7cee95e1932130bdaa639b7b51ea2315b63",
-    "audio_sha256": "5a3911eabeba18f28a510f05565112f4cf53f609cdb8abbc18990a990443997b"
+    "transcript_sha256": "d55e16d3337b0242944831c3e4660e881173d4db3be6e5f165d4f34f915170bc",
+    "audio_sha256": "db0b1accbd443752d2002c62373fb5811098cb8503c8d9abf3e7f106b6764750"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep02_Finding_Communities_without_Hiding_People.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep02_Finding_Communities_without_Hiding_People.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/environmental-justice-land-use-planning/episodes/EJLandUse_Ep02_Finding_Communities_without_Hiding_People.provenance.json",
-  "release_tag": "environmental-justice-land-use-planning-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "environmental-justice-land-use-planning-v2026.3",
+  "release_version": "2026.3"
 }
