@@ -1,8 +1,10 @@
 # Civic Audio Library
 
-Public hosting for 11 independently produced podcast courses. GitHub Pages serves the website, RSS feeds, artwork, transcripts, chapters, notes, accessibility records, provenance, and manifests. Immutable GitHub Releases serve MP3 enclosures.
+Free civic-education courses as podcasts. Eleven independently produced shows on local government, planning, transportation, public money, census data, and environmental justice, built for residents, new commissioners, and anyone who wants to understand how their city works.
 
 Published site: <https://jstart.github.io/podcast-hosting/>
+
+Companion fact sheets are available in five languages (English, Spanish, Korean, Japanese, Chinese).
 
 ## Feeds
 
