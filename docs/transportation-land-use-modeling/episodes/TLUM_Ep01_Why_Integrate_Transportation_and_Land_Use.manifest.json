@@ -3,12 +3,12 @@
   "show": "transportation-land-use-modeling",
   "episode": 1,
   "title": "Why Integrate Transportation and Land Use",
-  "release_version": "2026.2",
-  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "transportation-land-use-modeling-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.mp3",
-    "bytes": 2082023,
-    "sha256": "e9d124fe19bcf645b4a864f75bc068dd5ca59895b1eaec5d3469687d6e1cff77"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.mp3",
+    "bytes": 2105442,
+    "sha256": "5e545efd8c946fddcdc73dc4fd180b35bd48a36c1b49694c96caab5874714d11"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.html",

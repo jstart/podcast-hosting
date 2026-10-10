@@ -3,12 +3,12 @@
   "show": "transportation-land-use-modeling",
   "episode": 13,
   "title": "Trip Assignment and Feedback",
-  "release_version": "2026.2",
-  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "transportation-land-use-modeling-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep13_Trip_Assignment_and_Feedback.mp3",
-    "bytes": 2583783,
-    "sha256": "8a77f335fdaeb92b357580cc29f3b76674e598a06068740a528970b9291e1bd6"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep13_Trip_Assignment_and_Feedback.mp3",
+    "bytes": 2568173,
+    "sha256": "7ad23fa31e698814f0af7235dc33509cd474b1ed69066bc897cbdb5b6fa6a4cb"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep13_Trip_Assignment_and_Feedback.html",

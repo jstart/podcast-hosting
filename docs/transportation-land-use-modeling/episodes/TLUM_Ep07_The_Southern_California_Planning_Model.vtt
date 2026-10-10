@@ -1,109 +1,109 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:05.441
+00:00:01.400 --> 00:00:07.093
 The Southern California Planning Model is an integrated framework developed for regional analysis.
 
 2
-00:00:05.441 --> 00:00:13.937
+00:00:07.093 --> 00:00:15.981
 The source chapter presents it as a way to connect economic and demographic change, land development, location, and transportation across space and time.
 
 3
-00:00:13.937 --> 00:00:22.043
+00:00:15.981 --> 00:00:24.463
 A regional model is valuable because housing markets, employment, commuting, infrastructure, and environmental effects cross municipal boundaries.
 
 4
-00:00:22.043 --> 00:00:27.818
+00:00:24.463 --> 00:00:30.504
 Integrated regional models often begin with forecasts or scenarios for population and economic activity.
 
 5
-00:00:27.818 --> 00:00:38.367
+00:00:30.504 --> 00:00:41.542
 They represent land supply and constraints, allocate households and employment, calculate access through the transportation network, and update development or location over multiple periods.
 
 6
-00:00:38.367 --> 00:00:43.031
+00:00:41.542 --> 00:00:46.422
 Some versions can test hazards, disruptions, or recovery as well as ordinary growth.
 
 7
-00:00:43.031 --> 00:00:44.586
+00:00:46.422 --> 00:00:48.048
 The scale creates tradeoffs.
 
 8
-00:00:44.586 --> 00:00:49.694
+00:00:48.048 --> 00:00:53.393
 A zone system can cover a large region but smooth over parcel conditions and local barriers.
 
 9
-00:00:49.694 --> 00:00:54.414
+00:00:53.393 --> 00:00:58.331
 Detailed categories improve interpretation but increase data and calibration demands.
 
 10
-00:00:54.414 --> 00:00:57.468
+00:00:58.331 --> 00:01:01.526
 Regional consistency does not guarantee local accuracy.
 
 11
-00:00:57.468 --> 00:01:03.242
+00:01:01.526 --> 00:01:07.567
 Policy analysis should focus on scenario differences, not false precision in a single long-range number.
 
 12
-00:01:03.242 --> 00:01:13.292
+00:01:07.567 --> 00:01:18.082
 Documentation should state what is endogenous, what is imposed, how markets and constraints are represented, and how the transportation and land-use components exchange information.
 
 13
-00:01:13.292 --> 00:01:14.520
+00:01:18.082 --> 00:01:19.318
 Torrance application.
 
 14
-00:01:14.520 --> 00:01:19.141
+00:01:19.318 --> 00:01:23.970
 This section is a separate teaching example based on the Torrance General Plan.
 
 15
-00:01:19.141 --> 00:01:23.820
+00:01:23.970 --> 00:01:28.680
 It does not use or reproduce an official Southern California Planning Model run.
 
 16
-00:01:23.820 --> 00:01:33.296
+00:01:28.680 --> 00:01:38.217
 Torrance belongs to a regional housing, labor, freight, and transportation system, so a local scenario would need regional inputs even when the decision is local.
 
 17
-00:01:33.296 --> 00:01:43.531
+00:01:38.217 --> 00:01:48.521
 An analyst might use regional forecasts as boundary conditions, then examine how alternative Torrance land-use assumptions affect access, travel, and development distribution.
 
 18
-00:01:43.531 --> 00:01:51.545
+00:01:48.521 --> 00:01:56.587
 Local refinement would need adopted policy, parcel capacity, industrial and freight conditions, transit service, and observed local data.
 
 19
-00:01:51.545 --> 00:01:57.160
+00:01:56.587 --> 00:02:02.239
 The analyst should compare regional model zones with City geography and explain any downscaling.
 
 20
-00:01:57.160 --> 00:02:01.663
+00:02:02.239 --> 00:02:06.772
 Scenario outputs might inform questions, but they would not determine policy.
 
 21
-00:02:01.663 --> 00:02:09.559
+00:02:06.772 --> 00:02:14.720
 A local decision could depend on site constraints, community priorities, or environmental effects that a regional model cannot resolve.
 
 22
-00:02:09.559 --> 00:02:14.531
+00:02:14.720 --> 00:02:19.725
 This episode offers no official forecast and no finding about future Torrance growth.
 
 23
-00:02:14.531 --> 00:02:19.620
+00:02:19.725 --> 00:02:24.847
 It illustrates a responsible relationship between regional modeling and local planning.
 
 24
-00:02:19.620 --> 00:02:28.510
+00:02:24.847 --> 00:02:33.796
 This episode adapts chapter seven of Transportation Land Use Modeling and Policy by Pan and Sharifi, published by Mavs Open Press under CC BY-NC-SA 4.0.
 
 25
-00:02:28.510 --> 00:02:31.786
+00:02:33.796 --> 00:02:37.093
 Source figures and other third-party items are excluded.
 
 26
-00:02:31.786 --> 00:02:34.476
+00:02:37.093 --> 00:02:39.801
 Torrance material is independently summarized.
 
 27
-00:02:34.476 --> 00:02:35.997
+00:02:39.801 --> 00:02:41.332
 No endorsement is implied.

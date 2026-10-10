@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 12,
   "explicit": false,
-  "duration_seconds": 211.92,
-  "enclosure_bytes": 2519493,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep12_Mode_Choice.mp3",
+  "duration_seconds": 212.105,
+  "enclosure_bytes": 2528513,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep12_Mode_Choice.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep12.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "22d2f47f954f823edd261130980a99e85c0b121ae3217c3469f4ee099e0f014e",
-    "audio_sha256": "9a6b4fe32d9e8ab06d446f56c189aed3697b2709b4540828cb9877beddb12d8f"
+    "transcript_sha256": "8e736279c363075bcf3f9e5f5ed45d3762bd95b2933c15c9f54d7954bcbf6f50",
+    "audio_sha256": "444c419f6a539e1eb9aedd640132b0b0788ec5016b2bde2af4c4ef11df1eca46"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.provenance.json",
-  "release_tag": "transportation-land-use-modeling-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "transportation-land-use-modeling-v2026.3",
+  "release_version": "2026.3"
 }

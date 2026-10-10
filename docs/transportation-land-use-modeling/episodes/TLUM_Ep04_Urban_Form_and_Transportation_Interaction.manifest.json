@@ -3,12 +3,12 @@
   "show": "transportation-land-use-modeling",
   "episode": 4,
   "title": "Urban Form and Transportation Interaction",
-  "release_version": "2026.2",
-  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "transportation-land-use-modeling-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.mp3",
-    "bytes": 2064721,
-    "sha256": "04042914a5cefd24b5a674ca3eb209811418b80ce958a6ce535987f266edc316"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.mp3",
+    "bytes": 2043580,
+    "sha256": "7f830eb4047d61103829c60761cb69b15bfb0a572c4f41531fed976805c03b9c"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.html",

@@ -1,137 +1,137 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:05.889
+00:00:01.400 --> 00:00:07.228
 Land suitability analysis compares locations against criteria for a stated use or policy objective.
 
 2
-00:00:05.889 --> 00:00:11.778
+00:00:07.228 --> 00:00:13.056
 The source chapter presents geographic information systems as tools for combining spatial evidence.
 
 3
-00:00:11.778 --> 00:00:14.454
+00:00:13.056 --> 00:00:15.705
 A suitability map is not a neutral discovery.
 
 4
-00:00:14.454 --> 00:00:20.522
+00:00:15.705 --> 00:00:21.710
 It is the visible result of selected criteria, data, exclusions, scales, transformations, and weights.
 
 5
-00:00:20.522 --> 00:00:23.912
+00:00:21.710 --> 00:00:25.065
 A transparent workflow begins with the decision question.
 
 6
-00:00:23.912 --> 00:00:33.013
+00:00:25.065 --> 00:00:34.072
 Analysts identify constraints, such as hazards or protected land, and factors, such as access, parcel capacity, infrastructure, or proximity to services.
 
 7
-00:00:33.013 --> 00:00:38.485
+00:00:34.072 --> 00:00:39.488
 Each dataset is cleaned, aligned to a common geography, and converted to a comparable score.
 
 8
-00:00:38.485 --> 00:00:40.805
+00:00:39.488 --> 00:00:41.784
 Weighted overlay then combines factors.
 
 9
-00:00:40.805 --> 00:00:42.709
+00:00:41.784 --> 00:00:43.667
 Weights express policy judgment.
 
 10
-00:00:42.709 --> 00:00:46.337
+00:00:43.667 --> 00:00:47.258
 Doubling a weight can change which locations appear suitable.
 
 11
-00:00:46.337 --> 00:00:51.512
+00:00:47.258 --> 00:00:52.380
 Analysts should document who selected weights, test alternatives, and show sensitivity.
 
 12
-00:00:51.512 --> 00:00:55.022
+00:00:52.380 --> 00:00:55.853
 They should also avoid double counting correlated criteria.
 
 13
-00:00:55.022 --> 00:00:59.959
+00:00:55.853 --> 00:01:00.739
 Road proximity and automobile travel time may represent much of the same advantage.
 
 14
-00:00:59.959 --> 00:01:01.208
+00:01:00.739 --> 00:01:01.975
 Data quality matters.
 
 15
-00:01:01.208 --> 00:01:07.810
+00:01:01.975 --> 00:01:08.510
 Parcel records, environmental layers, network measures, and market information have different dates and errors.
 
 16
-00:01:07.810 --> 00:01:11.260
+00:01:08.510 --> 00:01:11.924
 A model can produce a crisp ranking from uncertain inputs.
 
 17
-00:01:11.260 --> 00:01:14.532
+00:01:11.924 --> 00:01:15.162
 Field review and public knowledge are essential checks.
 
 18
-00:01:14.532 --> 00:01:15.777
+00:01:15.162 --> 00:01:16.417
 Torrance application.
 
 19
-00:01:15.777 --> 00:01:21.412
+00:01:16.417 --> 00:01:22.093
 This local exercise is separate from the source adaptation and cites the Torrance General Plan.
 
 20
-00:01:21.412 --> 00:01:26.868
+00:01:22.093 --> 00:01:27.590
 Suppose the question is where a hypothetical community-serving use could be studied further.
 
 21
-00:01:26.868 --> 00:01:31.969
+00:01:27.590 --> 00:01:32.729
 The first screen would apply adopted land-use policy and genuine physical constraints.
 
 22
-00:01:31.969 --> 00:01:41.339
+00:01:32.729 --> 00:01:42.170
 Factors might include access by several modes, proximity to intended users, parcel characteristics, infrastructure, environmental exposure, and compatibility.
 
 23
-00:01:41.339 --> 00:01:45.431
+00:01:42.170 --> 00:01:46.293
 The analysis should publish the criteria and several weighting cases.
 
 24
-00:01:45.431 --> 00:01:48.990
+00:01:46.293 --> 00:01:49.878
 An access-focused case might differ from a lowest-cost case.
 
 25
-00:01:48.990 --> 00:01:57.708
+00:01:49.878 --> 00:01:58.661
 Equity review could test whether the method systematically directs burdens toward the same neighborhoods or excludes residents who rely on transit.
 
 26
-00:01:57.708 --> 00:02:02.809
+00:01:58.661 --> 00:02:03.800
 The resulting map would identify places for further investigation, not approval sites.
 
 27
-00:02:02.809 --> 00:02:11.408
+00:02:03.800 --> 00:02:12.464
 It would not replace ownership research, environmental review, engineering, community engagement, or a decision under the City's adopted process.
 
 28
-00:02:11.408 --> 00:02:15.501
+00:02:12.464 --> 00:02:16.587
 No parcel is evaluated here, and no Torrance location is recommended.
 
 29
-00:02:15.501 --> 00:02:21.550
+00:02:16.587 --> 00:02:22.682
 This conceptual application shows how to keep a suitability model auditable and appropriately limited.
 
 30
-00:02:21.550 --> 00:02:30.506
+00:02:22.682 --> 00:02:31.704
 This episode adapts chapter five of Transportation Land Use Modeling and Policy by Pan and Sharifi, published by Mavs Open Press under CC BY-NC-SA 4.0.
 
 31
-00:02:30.506 --> 00:02:33.115
+00:02:31.704 --> 00:02:34.333
 The source's derivative notes are preserved.
 
 32
-00:02:33.115 --> 00:02:37.089
+00:02:34.333 --> 00:02:38.337
 All source figures, maps, and other third-party items are excluded.
 
 33
-00:02:37.089 --> 00:02:39.817
+00:02:38.337 --> 00:02:41.085
 Torrance material is independently summarized.
 
 34
-00:02:39.817 --> 00:02:41.359
+00:02:41.085 --> 00:02:42.639
 No endorsement is implied.

@@ -3,12 +3,12 @@
   "show": "transportation-land-use-modeling",
   "episode": 10,
   "title": "Trip Generation",
-  "release_version": "2026.2",
-  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "transportation-land-use-modeling-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep10_Trip_Generation.mp3",
-    "bytes": 2380408,
-    "sha256": "1e532cb209fd60f829e9fb659d62fe55938fb9230467622a0c5eac160495cec3"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep10_Trip_Generation.mp3",
+    "bytes": 2458283,
+    "sha256": "c2906d443b7de3ee6409d7ffdbea0c249c4188fdcae93c96a8931472dc2d06df"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.html",

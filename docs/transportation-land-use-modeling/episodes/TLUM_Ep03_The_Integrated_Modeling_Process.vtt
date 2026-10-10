@@ -1,149 +1,149 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:05.564
+00:00:01.400 --> 00:00:06.935
 An integrated land-use transportation model represents a cycle rather than a one-way forecast.
 
 2
-00:00:05.564 --> 00:00:07.577
+00:00:06.935 --> 00:00:08.937
 Land-use patterns influence trips.
 
 3
-00:00:07.577 --> 00:00:10.418
+00:00:08.937 --> 00:00:11.764
 Transportation networks influence accessibility.
 
 4
-00:00:10.418 --> 00:00:13.673
+00:00:11.764 --> 00:00:15.003
 Accessibility affects location choices and development.
 
 5
-00:00:13.673 --> 00:00:15.804
+00:00:15.003 --> 00:00:17.123
 Those changes feed back into travel.
 
 6
-00:00:15.804 --> 00:00:19.415
+00:00:17.123 --> 00:00:20.715
 The source chapter describes model components and evaluation.
 
 7
-00:00:19.415 --> 00:00:25.216
+00:00:20.715 --> 00:00:26.485
 A land-use component may allocate households, employment, and development across zones or parcels.
 
 8
-00:00:25.216 --> 00:00:29.596
+00:00:26.485 --> 00:00:30.843
 A transportation component estimates travel demand and network conditions.
 
 9
-00:00:29.596 --> 00:00:33.562
+00:00:30.843 --> 00:00:34.788
 Economic and demographic inputs set regional totals or constraints.
 
 10
-00:00:33.562 --> 00:00:39.126
+00:00:34.788 --> 00:00:40.324
 Policy scenarios change infrastructure, service, prices, regulations, or development capacity.
 
 11
-00:00:39.126 --> 00:00:42.559
+00:00:40.324 --> 00:00:43.739
 Integration requires consistent geography, time, and data.
 
 12
-00:00:42.559 --> 00:00:48.004
+00:00:43.739 --> 00:00:49.157
 A short-term traffic response can occur much faster than a building or household relocation.
 
 13
-00:00:48.004 --> 00:00:51.674
+00:00:49.157 --> 00:00:52.807
 Models therefore advance through periods and exchange outputs.
 
 14
-00:00:51.674 --> 00:00:53.628
+00:00:52.807 --> 00:00:54.751
 Convergence does not prove truth.
 
 15
-00:00:53.628 --> 00:00:58.244
+00:00:54.751 --> 00:00:59.344
 It only means the numerical process has stabilized under the chosen structure.
 
 16
-00:00:58.244 --> 00:01:00.435
+00:00:59.344 --> 00:01:01.523
 Evaluation should match the decision.
 
 17
-00:01:00.435 --> 00:01:08.366
+00:01:01.523 --> 00:01:09.413
 Measures can include access, travel time, vehicle miles, emissions, land consumption, fiscal cost, equity, and environmental exposure.
 
 18
-00:01:08.366 --> 00:01:11.563
+00:01:09.413 --> 00:01:12.593
 Calibration adjusts parameters to observed conditions.
 
 19
-00:01:11.563 --> 00:01:15.647
+00:01:12.593 --> 00:01:16.656
 Validation tests performance on information not used for calibration.
 
 20
-00:01:15.647 --> 00:01:19.435
+00:01:16.656 --> 00:01:20.425
 Sensitivity analysis shows which assumptions control the result.
 
 21
-00:01:19.435 --> 00:01:20.690
+00:01:20.425 --> 00:01:21.694
 Torrance application.
 
 22
-00:01:20.690 --> 00:01:28.162
+00:01:21.694 --> 00:01:29.249
 This separate local example cites the Torrance General Plan and Transportation Analysis Requirements for Private Development.
 
 23
-00:01:28.162 --> 00:01:32.346
+00:01:29.249 --> 00:01:33.479
 Imagine evaluating a land-use scenario near a transportation corridor.
 
 24
-00:01:32.346 --> 00:01:41.670
+00:01:33.479 --> 00:01:42.908
 The workflow would begin with a documented base year: parcels or zones, households, jobs, development capacity, transit service, roads, and observed travel.
 
 25
-00:01:41.670 --> 00:01:44.599
+00:01:42.908 --> 00:01:45.869
 The scenario would then state each policy change.
 
 26
-00:01:44.599 --> 00:01:54.999
+00:01:45.869 --> 00:01:56.385
 A model could estimate new accessibility, allocate development or activity under explicit constraints, recalculate trips, and feed network conditions back into later periods.
 
 27
-00:01:54.999 --> 00:02:02.112
+00:01:56.385 --> 00:02:03.577
 The City review context also requires keeping vehicle-miles-traveled analysis distinct from local circulation analysis.
 
 28
-00:02:02.112 --> 00:02:09.165
+00:02:03.577 --> 00:02:10.709
 Quality control should compare modeled counts, travel times, mode shares, and development patterns with observed data.
 
 29
-00:02:09.165 --> 00:02:13.767
+00:02:10.709 --> 00:02:15.363
 Results should be shown as ranges or scenarios where uncertainty is material.
 
 30
-00:02:13.767 --> 00:02:17.533
+00:02:15.363 --> 00:02:19.170
 A map with precise colors is not evidence of precise knowledge.
 
 31
-00:02:17.533 --> 00:02:20.761
+00:02:19.170 --> 00:02:22.434
 This episode does not run or endorse a Torrance model.
 
 32
-00:02:20.761 --> 00:02:22.613
+00:02:22.434 --> 00:02:24.307
 The example is a workflow only.
 
 33
-00:02:22.613 --> 00:02:29.666
+00:02:24.307 --> 00:02:31.439
 Current City guidance, local data, professional judgment, and public review would be required before any official use.
 
 34
-00:02:29.666 --> 00:02:38.752
+00:02:31.439 --> 00:02:40.626
 This episode adapts chapter three of Transportation Land Use Modeling and Policy by Pan and Sharifi, published by Mavs Open Press under CC BY-NC-SA 4.0.
 
 35
-00:02:38.752 --> 00:02:43.533
+00:02:40.626 --> 00:02:45.461
 The source's derivative notes are preserved, and third-party items are excluded.
 
 36
-00:02:43.533 --> 00:02:46.283
+00:02:45.461 --> 00:02:48.241
 Torrance sources are independently summarized.
 
 37
-00:02:46.283 --> 00:02:47.837
+00:02:48.241 --> 00:02:49.812
 No endorsement is implied.

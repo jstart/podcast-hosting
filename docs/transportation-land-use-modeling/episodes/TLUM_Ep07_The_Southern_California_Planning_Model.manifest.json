@@ -3,12 +3,12 @@
   "show": "transportation-land-use-modeling",
   "episode": 7,
   "title": "The Southern California Planning Model",
-  "release_version": "2026.2",
-  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "transportation-land-use-modeling-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep07_The_Southern_California_Planning_Model.mp3",
-    "bytes": 1957939,
-    "sha256": "e599c683ca4b439b71ef7ca79f5e2a592662a53fb00f1fe8cd44fecd77df4852"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep07_The_Southern_California_Planning_Model.mp3",
+    "bytes": 2009297,
+    "sha256": "98181f708cb3ea37515f1d8e0eaef968080921d3fd20d6d897fd0ab4fa8536b7"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.html",

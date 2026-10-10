@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 2,
   "explicit": false,
-  "duration_seconds": 172.342,
-  "enclosure_bytes": 2092414,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.mp3",
+  "duration_seconds": 175.367,
+  "enclosure_bytes": 2145358,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep02.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "fc45c70fa94c9e5c25eb5dd599922c558949b115674a22f86be6605063881a9e",
-    "audio_sha256": "9b46f200a0ea1215356b0aec789294bbee10597b994192207968f9e313a833b4"
+    "transcript_sha256": "78d221ad3dac7aff40b6f0cd973becbdcc0eeb3e45ea933db6d34f012e2a17f5",
+    "audio_sha256": "9c4e62794d1239e56c38db423cb9a600fed2ae493a7b6f3aec3d7f65585799c2"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.provenance.json",
-  "release_tag": "transportation-land-use-modeling-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "transportation-land-use-modeling-v2026.3",
+  "release_version": "2026.3"
 }

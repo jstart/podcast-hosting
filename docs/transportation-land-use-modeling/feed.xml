@@ -25,10 +25,10 @@
       <link>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep13_Trip_Assignment_and_Feedback.html</link>
       <guid isPermaLink="false">f4f63e0d-0824-56b8-97fe-efc7e54435cd</guid>
       <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep13_Trip_Assignment_and_Feedback.mp3" length="2583783" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep13_Trip_Assignment_and_Feedback.mp3" length="2568173" type="audio/mpeg" />
       <itunes:episode>13</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>214</itunes:duration>
+      <itunes:duration>215</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep13.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep13_Trip_Assignment_and_Feedback.vtt" type="text/vtt" language="en" />
@@ -39,8 +39,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep13_Trip_Assignment_and_Feedback.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep13_Trip_Assignment_and_Feedback.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep13_Trip_Assignment_and_Feedback.provenance.json</podhost:provenance>
-      <podhost:sha256>8a77f335fdaeb92b357580cc29f3b76674e598a06068740a528970b9291e1bd6</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>7ad23fa31e698814f0af7235dc33509cd474b1ed69066bc897cbdb5b6fa6a4cb</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>Mode Choice</title>
@@ -48,7 +48,7 @@
       <link>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.html</link>
       <guid isPermaLink="false">e383c2f9-41a1-5697-9981-fca5e3a32715</guid>
       <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep12_Mode_Choice.mp3" length="2519493" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep12_Mode_Choice.mp3" length="2528513" type="audio/mpeg" />
       <itunes:episode>12</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:duration>212</itunes:duration>
@@ -62,8 +62,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep12_Mode_Choice.provenance.json</podhost:provenance>
-      <podhost:sha256>9a6b4fe32d9e8ab06d446f56c189aed3697b2709b4540828cb9877beddb12d8f</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>444c419f6a539e1eb9aedd640132b0b0788ec5016b2bde2af4c4ef11df1eca46</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>Trip Distribution</title>
@@ -71,10 +71,10 @@
       <link>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.html</link>
       <guid isPermaLink="false">eeffe2f0-f74e-5510-a7aa-d925dc74a994</guid>
       <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep11_Trip_Distribution.mp3" length="2491012" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep11_Trip_Distribution.mp3" length="2521515" type="audio/mpeg" />
       <itunes:episode>11</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>209</itunes:duration>
+      <itunes:duration>211</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep11.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.vtt" type="text/vtt" language="en" />
@@ -85,8 +85,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.provenance.json</podhost:provenance>
-      <podhost:sha256>53d41eb20dcdf69a9225bed0a86cc1cfaf3d756929c562d8bfe46c9dc22f15f5</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>bb0619a0d6f5af4335f72dc5d26e6277f6d24142e578a61a5852eab982f9689a</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>Trip Generation</title>
@@ -94,10 +94,10 @@
       <link>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.html</link>
       <guid isPermaLink="false">89dec883-e613-5998-ada0-93f37c999a53</guid>
       <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep10_Trip_Generation.mp3" length="2380408" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep10_Trip_Generation.mp3" length="2458283" type="audio/mpeg" />
       <itunes:episode>10</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>199</itunes:duration>
+      <itunes:duration>206</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep10.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.vtt" type="text/vtt" language="en" />
@@ -108,8 +108,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep10_Trip_Generation.provenance.json</podhost:provenance>
-      <podhost:sha256>1e532cb209fd60f829e9fb659d62fe55938fb9230467622a0c5eac160495cec3</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>c2906d443b7de3ee6409d7ffdbea0c249c4188fdcae93c96a8931472dc2d06df</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>Travel Demand Modeling and Data</title>
@@ -117,10 +117,10 @@
       <link>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep09_Travel_Demand_Modeling_and_Data.html</link>
       <guid isPermaLink="false">cdb15b2a-6323-54f7-af90-06ffa830d1a0</guid>
       <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep09_Travel_Demand_Modeling_and_Data.mp3" length="1927463" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep09_Travel_Demand_Modeling_and_Data.mp3" length="1917763" type="audio/mpeg" />
       <itunes:episode>9</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>156</itunes:duration>
+      <itunes:duration>155</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep09.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep09_Travel_Demand_Modeling_and_Data.vtt" type="text/vtt" language="en" />
@@ -131,8 +131,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep09_Travel_Demand_Modeling_and_Data.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep09_Travel_Demand_Modeling_and_Data.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep09_Travel_Demand_Modeling_and_Data.provenance.json</podhost:provenance>
-      <podhost:sha256>33ef422acb346e4f0c3ae8a7f1b60c2b601f92ee360f88a87ff80ef6d5b1ba60</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>3fb4ed65ed523863b72fc340fec4884c14bf782686d9239d627f2bdf9835b361</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>MEPLAN, TRANUS, TELUM, and PECAS</title>
@@ -140,10 +140,10 @@
       <link>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.html</link>
       <guid isPermaLink="false">4065717a-b054-5fed-a295-5b770c151d54</guid>
       <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.mp3" length="2016063" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.mp3" length="1981051" type="audio/mpeg" />
       <itunes:episode>8</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>166</itunes:duration>
+      <itunes:duration>161</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep08.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.vtt" type="text/vtt" language="en" />
@@ -154,8 +154,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep08_MEPLAN_TRANUS_TELUM_and_PECAS.provenance.json</podhost:provenance>
-      <podhost:sha256>ee0028a8ad2eb9806095414d51365aede7d676d2c194c1d5b00c6605d141b122</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>340292344457a1dff6895939a268e65f550a117c468b66e506be3481b32087d5</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>The Southern California Planning Model</title>
@@ -163,10 +163,10 @@
       <link>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.html</link>
       <guid isPermaLink="false">7b2d4962-5a0a-58ca-b9af-6d8009c99bf9</guid>
       <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep07_The_Southern_California_Planning_Model.mp3" length="1957939" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep07_The_Southern_California_Planning_Model.mp3" length="2009297" type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>159</itunes:duration>
+      <itunes:duration>163</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep07.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.vtt" type="text/vtt" language="en" />
@@ -177,8 +177,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep07_The_Southern_California_Planning_Model.provenance.json</podhost:provenance>
-      <podhost:sha256>e599c683ca4b439b71ef7ca79f5e2a592662a53fb00f1fe8cd44fecd77df4852</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>98181f708cb3ea37515f1d8e0eaef968080921d3fd20d6d897fd0ab4fa8536b7</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>The Lowry Model</title>
@@ -186,10 +186,10 @@
       <link>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.html</link>
       <guid isPermaLink="false">2720e030-8eb9-5ebe-9cea-0929575fde0c</guid>
       <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep06_The_Lowry_Model.mp3" length="1917597" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep06_The_Lowry_Model.mp3" length="1887533" type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>160</itunes:duration>
+      <itunes:duration>157</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep06.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.vtt" type="text/vtt" language="en" />
@@ -200,8 +200,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.provenance.json</podhost:provenance>
-      <podhost:sha256>e37f76cb63bd30e499515eec9758505f4acea6ae690e492e464047872e26db72</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>e3c6ecc4eae9bf843dcd49fc69e3825df65440113bddcbe3e775c683a248af1f</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>Land Suitability Analysis</title>
@@ -209,7 +209,7 @@
       <link>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.html</link>
       <guid isPermaLink="false">3aa0c569-8ed8-57f1-8801-5c668d5c55f5</guid>
       <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep05_Land_Suitability_Analysis.mp3" length="1992486" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep05_Land_Suitability_Analysis.mp3" length="1982395" type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:duration>164</itunes:duration>
@@ -223,8 +223,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.provenance.json</podhost:provenance>
-      <podhost:sha256>84ff9d28d95b93e23e3b1fa1b7970eb6ac94c87772fe17072eabae050847102d</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>bf870dd05a555dca025b845f9905837e5c7770b84795a591f1bb5c803b61f0cf</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>Urban Form and Transportation Interaction</title>
@@ -232,10 +232,10 @@
       <link>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.html</link>
       <guid isPermaLink="false">a63bf568-ecae-5d24-9275-54ef1aa226f2</guid>
       <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.mp3" length="2064721" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.mp3" length="2043580" type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>169</itunes:duration>
+      <itunes:duration>168</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep04.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.vtt" type="text/vtt" language="en" />
@@ -246,8 +246,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep04_Urban_Form_and_Transportation_Interaction.provenance.json</podhost:provenance>
-      <podhost:sha256>04042914a5cefd24b5a674ca3eb209811418b80ce958a6ce535987f266edc316</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>7f830eb4047d61103829c60761cb69b15bfb0a572c4f41531fed976805c03b9c</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>The Integrated Modeling Process</title>
@@ -255,7 +255,7 @@
       <link>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep03_The_Integrated_Modeling_Process.html</link>
       <guid isPermaLink="false">1a720dde-379d-5cce-864f-6de8601c3f34</guid>
       <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep03_The_Integrated_Modeling_Process.mp3" length="2076224" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep03_The_Integrated_Modeling_Process.mp3" length="2086362" type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:duration>171</itunes:duration>
@@ -269,8 +269,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep03_The_Integrated_Modeling_Process.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep03_The_Integrated_Modeling_Process.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep03_The_Integrated_Modeling_Process.provenance.json</podhost:provenance>
-      <podhost:sha256>d9076649fa42abec832b1efe9a311f668dd9b2d4300a71e83d670447b2070655</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>4097a06352680f8d0688005a6137650412b83e0bf5d947bb26d991a66eff15bf</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>How Urban Transportation Planning Evolved</title>
@@ -278,10 +278,10 @@
       <link>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.html</link>
       <guid isPermaLink="false">e5f00e71-44da-5ac4-a374-8f456a99b441</guid>
       <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.mp3" length="2092414" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.mp3" length="2145358" type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>172</itunes:duration>
+      <itunes:duration>175</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep02.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.vtt" type="text/vtt" language="en" />
@@ -292,8 +292,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.provenance.json</podhost:provenance>
-      <podhost:sha256>9b46f200a0ea1215356b0aec789294bbee10597b994192207968f9e313a833b4</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>9c4e62794d1239e56c38db423cb9a600fed2ae493a7b6f3aec3d7f65585799c2</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
     <item>
       <title>Why Integrate Transportation and Land Use</title>
@@ -301,10 +301,10 @@
       <link>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.html</link>
       <guid isPermaLink="false">60ce8706-079c-5665-aadd-89312a5e86b1</guid>
       <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
-      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.mp3" length="2082023" type="audio/mpeg" />
+      <enclosure url="https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.mp3" length="2105442" type="audio/mpeg" />
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:duration>169</itunes:duration>
+      <itunes:duration>170</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep01.jpg" />
       <podcast:transcript url="https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.vtt" type="text/vtt" language="en" />
@@ -315,8 +315,8 @@
       <podhost:notes>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.md</podhost:notes>
       <podhost:manifest>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.manifest.json</podhost:manifest>
       <podhost:provenance>https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep01_Why_Integrate_Transportation_and_Land_Use.provenance.json</podhost:provenance>
-      <podhost:sha256>e9d124fe19bcf645b4a864f75bc068dd5ca59895b1eaec5d3469687d6e1cff77</podhost:sha256>
-      <podhost:releaseVersion>2026.2</podhost:releaseVersion>
+      <podhost:sha256>5e545efd8c946fddcdc73dc4fd180b35bd48a36c1b49694c96caab5874714d11</podhost:sha256>
+      <podhost:releaseVersion>2026.3</podhost:releaseVersion>
     </item>
   </channel>
 </rss>

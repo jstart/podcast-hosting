@@ -3,12 +3,12 @@
   "show": "transportation-land-use-modeling",
   "episode": 2,
   "title": "How Urban Transportation Planning Evolved",
-  "release_version": "2026.2",
-  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "transportation-land-use-modeling-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.mp3",
-    "bytes": 2092414,
-    "sha256": "9b46f200a0ea1215356b0aec789294bbee10597b994192207968f9e313a833b4"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.mp3",
+    "bytes": 2145358,
+    "sha256": "9c4e62794d1239e56c38db423cb9a600fed2ae493a7b6f3aec3d7f65585799c2"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep02_How_Urban_Transportation_Planning_Evolved.html",

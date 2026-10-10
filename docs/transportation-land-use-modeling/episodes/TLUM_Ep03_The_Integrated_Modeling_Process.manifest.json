@@ -3,12 +3,12 @@
   "show": "transportation-land-use-modeling",
   "episode": 3,
   "title": "The Integrated Modeling Process",
-  "release_version": "2026.2",
-  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "transportation-land-use-modeling-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep03_The_Integrated_Modeling_Process.mp3",
-    "bytes": 2076224,
-    "sha256": "d9076649fa42abec832b1efe9a311f668dd9b2d4300a71e83d670447b2070655"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep03_The_Integrated_Modeling_Process.mp3",
+    "bytes": 2086362,
+    "sha256": "4097a06352680f8d0688005a6137650412b83e0bf5d947bb26d991a66eff15bf"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep03_The_Integrated_Modeling_Process.html",

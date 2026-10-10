@@ -1,121 +1,121 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:05.961
+00:00:01.400 --> 00:00:07.226
 Urban form describes the spatial arrangement of people, jobs, activities, buildings, and networks.
 
 2
-00:00:05.961 --> 00:00:13.322
+00:00:07.226 --> 00:00:14.419
 The source chapter examines how concentrated, corridor, polycentric, and dispersed patterns interact with transportation.
 
 3
-00:00:13.322 --> 00:00:15.755
+00:00:14.419 --> 00:00:16.797
 Density alone does not determine travel.
 
 4
-00:00:15.755 --> 00:00:22.994
+00:00:16.797 --> 00:00:23.872
 The location and mix of destinations, street connectivity, transit quality, parking, and regional structure all matter.
 
 5
-00:00:22.994 --> 00:00:28.530
+00:00:23.872 --> 00:00:29.282
 Agglomeration can increase productivity and access by bringing related activities together.
 
 6
-00:00:28.530 --> 00:00:31.328
+00:00:29.282 --> 00:00:32.016
 It can also increase land cost and congestion.
 
 7
-00:00:31.328 --> 00:00:39.784
+00:00:32.016 --> 00:00:40.280
 A polycentric region may shorten some trips by distributing employment, yet generate complex cross-travel if housing and jobs do not match.
 
 8
-00:00:39.784 --> 00:00:45.380
+00:00:40.280 --> 00:00:45.749
 Network design shapes which of those destinations are practical by walking, transit, or car.
 
 9
-00:00:45.380 --> 00:00:49.578
+00:00:45.749 --> 00:00:49.851
 Job accessibility is more informative than the number of jobs nearby.
 
 10
-00:00:49.578 --> 00:00:54.992
+00:00:49.851 --> 00:00:55.142
 It combines travel impedance, competition, mode availability, and worker characteristics.
 
 11
-00:00:54.992 --> 00:01:04.664
+00:00:55.142 --> 00:01:04.595
 A job may be geographically close but inaccessible because the shift begins before transit service, the route is unsafe, or the worker lacks the required mode.
 
 12
-00:01:04.664 --> 00:01:07.645
+00:01:04.595 --> 00:01:07.508
 Models should therefore represent several scales.
 
 13
-00:01:07.645 --> 00:01:11.112
+00:01:07.508 --> 00:01:10.896
 Neighborhood form affects local trips and station access.
 
 14
-00:01:11.112 --> 00:01:14.640
+00:01:10.896 --> 00:01:14.344
 Regional form affects employment and long-distance travel.
 
 15
-00:01:14.640 --> 00:01:21.210
+00:01:14.344 --> 00:01:20.765
 Equity analysis asks whether access differs by income, education, race, disability, or vehicle availability.
 
 16
-00:01:21.210 --> 00:01:22.517
+00:01:20.765 --> 00:01:22.082
 Torrance application.
 
 17
-00:01:22.517 --> 00:01:28.055
+00:01:22.082 --> 00:01:27.665
 This separate section cites the Torrance General Plan and Torrance Transit Tomorrow Plan.
 
 18
-00:01:28.055 --> 00:01:36.828
+00:01:27.665 --> 00:01:36.511
 Torrance has major employment, residential, commercial, and industrial areas, while its transit routes extend into neighboring jurisdictions.
 
 19
-00:01:36.828 --> 00:01:41.060
+00:01:36.511 --> 00:01:40.776
 A local accessibility analysis should not stop at the city boundary.
 
 20
-00:01:41.060 --> 00:01:48.091
+00:01:40.776 --> 00:01:47.865
 A conceptual study could map jobs reachable within selected travel times by car, transit, walking, and bicycling.
 
 21
-00:01:48.091 --> 00:01:56.927
+00:01:47.865 --> 00:01:56.773
 It should use service by time of day, account for transfers and first-and-last-mile conditions, and distinguish job categories where possible.
 
 22
-00:01:56.927 --> 00:02:03.772
+00:01:56.773 --> 00:02:03.673
 Housing cost and worker characteristics would help reveal whether proximity translates into a realistic match.
 
 23
-00:02:03.772 --> 00:02:09.870
+00:02:03.673 --> 00:02:09.821
 Scenario comparisons could test a land-use change, a frequency improvement, or a safer connection.
 
 24
-00:02:09.870 --> 00:02:17.897
+00:02:09.821 --> 00:02:17.913
 The result should report both regional access and local burdens such as truck conflict, displacement risk, or increased exposure.
 
 25
-00:02:17.897 --> 00:02:19.950
+00:02:17.913 --> 00:02:19.984
 No such model is calculated here.
 
 26
-00:02:19.950 --> 00:02:28.475
+00:02:19.984 --> 00:02:28.578
 The application shows why urban form, service, and the labor market must be interpreted together rather than reduced to a density target.
 
 27
-00:02:28.475 --> 00:02:36.751
+00:02:28.578 --> 00:02:36.921
 This episode adapts chapter four of Transportation Land Use Modeling and Policy by Pan and Sharifi, Mavs Open Press, CC BY-NC-SA 4.0.
 
 28
-00:02:36.751 --> 00:02:42.164
+00:02:36.921 --> 00:02:42.379
 Derivative attributions are recorded in SOURCES.md, and third-party items are excluded.
 
 29
-00:02:42.164 --> 00:02:44.902
+00:02:42.379 --> 00:02:45.139
 City materials are independently summarized.
 
 30
-00:02:44.902 --> 00:02:46.520
+00:02:45.139 --> 00:02:46.770
 No endorsement is implied.

@@ -1,133 +1,133 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:05.534
+00:00:01.400 --> 00:00:06.918
 Trip distribution connects the trip productions and attractions estimated in the first model step.
 
 2
-00:00:05.534 --> 00:00:12.592
+00:00:06.918 --> 00:00:13.956
 It produces an origin-destination pattern: how many trips travel between each pair of zones for each purpose and time period.
 
 3
-00:00:12.592 --> 00:00:17.844
+00:00:13.956 --> 00:00:19.193
 The source chapter presents growth-factor methods and gravity models as two major approaches.
 
 4
-00:00:17.844 --> 00:00:23.095
+00:00:19.193 --> 00:00:24.429
 Growth-factor methods begin with an observed trip table and expand it to match future totals.
 
 5
-00:00:23.095 --> 00:00:32.525
+00:00:24.429 --> 00:00:33.832
 They can be practical when the future resembles the base year, but they tend to preserve existing patterns and perform poorly for new zones or major structural change.
 
 6
-00:00:32.525 --> 00:00:39.019
+00:00:33.832 --> 00:00:40.307
 A method that reproduces the past neatly can still miss a future shift in land use, network access, or travel cost.
 
 7
-00:00:39.019 --> 00:00:46.134
+00:00:40.307 --> 00:00:47.402
 The gravity model relates interaction to the amount of activity at origins and destinations and to the impedance between them.
 
 8
-00:00:46.134 --> 00:00:53.814
+00:00:47.402 --> 00:00:55.059
 In plain language, larger opportunities tend to attract more trips, while greater time, cost, or difficulty tends to reduce interaction.
 
 9
-00:00:53.814 --> 00:00:56.242
+00:00:55.059 --> 00:00:57.480
 Friction factors represent that deterrence.
 
 10
-00:00:56.242 --> 00:01:00.421
+00:00:57.480 --> 00:01:01.647
 Different trip purposes can have different distance or time distributions.
 
 11
-00:01:00.421 --> 00:01:07.761
+00:01:01.647 --> 00:01:08.967
 Calibration adjusts friction factors and other parameters so modeled trip lengths and interchange patterns resemble observed data.
 
 12
-00:01:07.761 --> 00:01:11.037
+00:01:08.967 --> 00:01:12.232
 The analyst should compare more than one regional average.
 
 13
-00:01:11.037 --> 00:01:16.119
+00:01:12.232 --> 00:01:17.300
 A model can match mean trip length while missing important corridors or population groups.
 
 14
-00:01:16.119 --> 00:01:22.048
+00:01:17.300 --> 00:01:23.212
 Validation should examine screenlines, district flows, trip-length distributions, and results by purpose.
 
 15
-00:01:22.048 --> 00:01:30.631
+00:01:23.212 --> 00:01:31.770
 The output is conditional on zone boundaries, travel-time skims, land-use totals, and the treatment of trips that begin or end outside the modeled area.
 
 16
-00:01:30.631 --> 00:01:33.906
+00:01:31.770 --> 00:01:35.036
 Uncertainty in those inputs carries into every later step.
 
 17
-00:01:33.906 --> 00:01:35.148
+00:01:35.036 --> 00:01:36.301
 Torrance application.
 
 18
-00:01:35.148 --> 00:01:42.011
+00:01:36.301 --> 00:01:43.292
 This separate local segment cites the City of Torrance Transportation Analysis Requirements for Private Development.
 
 19
-00:01:42.011 --> 00:01:53.134
+00:01:43.292 --> 00:01:54.621
 For a hypothetical development study, trip distribution would connect the estimated project trips to destinations and gateways using current evidence and the method accepted for the study.
 
 20
-00:01:53.134 --> 00:02:03.606
+00:01:54.621 --> 00:02:05.287
 A reviewer should identify whether the distribution comes from observed turning movements, regional model patterns, nearby comparable uses, market information, or a combination.
 
 21
-00:02:03.606 --> 00:02:09.404
+00:02:05.287 --> 00:02:11.193
 The record should state the base year, study period, external gateways, and any manual adjustment.
 
 22
-00:02:09.404 --> 00:02:16.385
+00:02:11.193 --> 00:02:18.304
 It should also explain how construction, remote work, unusual count days, or a changed network affect transferability.
 
 23
-00:02:16.385 --> 00:02:27.981
+00:02:18.304 --> 00:02:30.115
 The model geography matters in Torrance because travel crosses municipal boundaries and because employment, commercial, industrial, residential, and freight activities generate different patterns.
 
 24
-00:02:27.981 --> 00:02:34.666
+00:02:30.115 --> 00:02:36.924
 A coarse regional zone may need local refinement, but local detail should remain consistent with regional totals.
 
 25
-00:02:34.666 --> 00:02:41.707
+00:02:36.924 --> 00:02:44.095
 Sensitivity testing could compare plausible destination patterns rather than hiding uncertainty in a single percentage.
 
 26
-00:02:41.707 --> 00:02:50.581
+00:02:44.095 --> 00:02:53.134
 The analyst should keep this circulation question distinct from the separate environmental vehicle-miles-traveled analysis described in City guidance.
 
 27
-00:02:50.581 --> 00:02:54.368
+00:02:53.134 --> 00:02:56.991
 No origin-destination result or project finding is offered here.
 
 28
-00:02:54.368 --> 00:02:59.811
+00:02:56.991 --> 00:03:02.535
 Current City requirements, observed data, and project-specific direction would be necessary.
 
 29
-00:02:59.811 --> 00:03:06.023
+00:03:02.535 --> 00:03:08.863
 The application demonstrates how to expose the evidence and assumptions behind a trip-distribution table.
 
 30
-00:03:06.023 --> 00:03:15.252
+00:03:08.863 --> 00:03:18.263
 This episode adapts chapter eleven of Transportation Land Use Modeling and Policy by Qisheng Pan and Soheil Sharifi, Mavs Open Press, under CC BY-NC-SA 4.0.
 
 31
-00:03:15.252 --> 00:03:20.754
+00:03:18.263 --> 00:03:23.868
 Source figures, educational-use material, datasets, and other third-party items are excluded.
 
 32
-00:03:20.754 --> 00:03:24.955
+00:03:23.868 --> 00:03:28.146
 Torrance material is independently summarized from the cited City page.
 
 33
-00:03:24.955 --> 00:03:26.493
+00:03:28.146 --> 00:03:29.713
 No endorsement is implied.

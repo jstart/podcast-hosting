@@ -1,145 +1,145 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:05.312
+00:00:01.400 --> 00:00:06.943
 Trip generation is the first analytical step in the traditional four-step travel-demand model.
 
 2
-00:00:05.312 --> 00:00:10.229
+00:00:06.943 --> 00:00:12.073
 It estimates how many trips begin or end in each analysis zone during a defined period.
 
 3
-00:00:10.229 --> 00:00:23.001
+00:00:12.073 --> 00:00:25.400
 The source chapter distinguishes productions, which are commonly associated with the household end of a trip, from attractions, which are commonly associated with destinations such as employment, shopping, school, or services.
 
 4
-00:00:23.001 --> 00:00:24.188
+00:00:25.400 --> 00:00:26.639
 Trip purpose matters.
 
 5
-00:00:24.188 --> 00:00:29.387
+00:00:26.639 --> 00:00:32.064
 Home-based work, home-based other, and non-home-based trips respond to different conditions.
 
 6
-00:00:29.387 --> 00:00:34.021
+00:00:32.064 --> 00:00:36.899
 Time period also matters because a daily total does not describe the morning peak.
 
 7
-00:00:34.021 --> 00:00:37.695
+00:00:36.899 --> 00:00:40.732
 Analysts may use trip rates, cross-classification, or regression.
 
 8
-00:00:37.695 --> 00:00:43.402
+00:00:40.732 --> 00:00:46.688
 A trip-rate method applies an observed average to units such as households, employees, or floor area.
 
 9
-00:00:43.402 --> 00:00:49.506
+00:00:46.688 --> 00:00:53.057
 Cross-classification separates households by characteristics such as size, income, and vehicle availability.
 
 10
-00:00:49.506 --> 00:00:55.327
+00:00:53.057 --> 00:00:59.131
 Regression estimates a statistical relationship between trip-making and selected explanatory variables.
 
 11
-00:00:55.327 --> 00:00:57.587
+00:00:59.131 --> 00:01:01.490
 Every method depends on transferability.
 
 12
-00:00:57.587 --> 00:01:08.268
+00:01:01.490 --> 00:01:12.635
 A rate observed in one place or period may not fit another place, especially when transit access, parking prices, mixed land use, telework, household composition, or travel behavior differ.
 
 13
-00:01:08.268 --> 00:01:12.959
+00:01:12.635 --> 00:01:17.529
 Analysts should identify the data source, year, sample, geography, and uncertainty.
 
 14
-00:01:12.959 --> 00:01:17.537
+00:01:17.529 --> 00:01:22.306
 They should avoid adding reductions or credits without explaining their evidence.
 
 15
-00:01:17.537 --> 00:01:21.775
+00:01:22.306 --> 00:01:26.728
 Productions and attractions must be balanced before the next modeling step.
 
 16
-00:01:21.775 --> 00:01:27.257
+00:01:26.728 --> 00:01:32.448
 Balancing preserves the regional total while reconciling estimates made from different variables.
 
 17
-00:01:27.257 --> 00:01:29.857
+00:01:32.448 --> 00:01:35.161
 It does not prove that either side is correct.
 
 18
-00:01:29.857 --> 00:01:35.508
+00:01:35.161 --> 00:01:41.058
 Validation compares modeled totals and patterns with observed survey, count, or other suitable data.
 
 19
-00:01:35.508 --> 00:01:36.715
+00:01:41.058 --> 00:01:42.307
 Torrance application.
 
 20
-00:01:36.715 --> 00:01:43.382
+00:01:42.307 --> 00:01:49.208
 This separate local segment cites the City of Torrance Transportation Analysis Requirements for Private Development.
 
 21
-00:01:43.382 --> 00:01:45.968
+00:01:49.208 --> 00:01:51.886
 Consider a hypothetical development proposal.
 
 22
-00:01:45.968 --> 00:01:55.968
+00:01:51.886 --> 00:02:02.237
 A trip-generation worksheet would begin with the current project description, land-use quantities, operating characteristics, study periods, and the applicable City guidance.
 
 23
-00:01:55.968 --> 00:02:00.048
+00:02:02.237 --> 00:02:06.461
 It would list each base rate and source before applying any adjustment.
 
 24
-00:02:00.048 --> 00:02:08.957
+00:02:06.461 --> 00:02:15.683
 Adjustments for mixed use, pass-by travel, transit, walking, bicycling, transportation demand management, or existing activity should be stated separately.
 
 25
-00:02:08.957 --> 00:02:17.692
+00:02:15.683 --> 00:02:24.725
 The analyst should explain whether evidence supports each adjustment in the local context and should test a reasonable range when behavior is uncertain.
 
 26
-00:02:17.692 --> 00:02:26.083
+00:02:24.725 --> 00:02:33.411
 Vehicle trip estimates should not be presented as a substitute for the separate vehicle-miles-traveled analysis required for environmental review.
 
 27
-00:02:26.083 --> 00:02:31.026
+00:02:33.411 --> 00:02:38.528
 The review should also ask whether a regional average hides a local operating pattern.
 
 28
-00:02:31.026 --> 00:02:36.945
+00:02:38.528 --> 00:02:44.655
 Shift changes, freight activity, school schedules, or event peaks may require a different time profile.
 
 29
-00:02:36.945 --> 00:02:42.003
+00:02:44.655 --> 00:02:49.891
 Counts and assumptions should carry dates so later reviewers can reproduce the analysis.
 
 30
-00:02:42.003 --> 00:02:45.623
+00:02:49.891 --> 00:02:53.639
 No trip total, exemption, or City threshold is calculated here.
 
 31
-00:02:45.623 --> 00:02:49.589
+00:02:53.639 --> 00:02:57.744
 Current Torrance requirements and project-specific direction control.
 
 32
-00:02:49.589 --> 00:02:56.543
+00:02:57.744 --> 00:03:04.942
 This teaching example shows how to make trip generation transparent, testable, and limited to the question it can answer.
 
 33
-00:02:56.543 --> 00:03:06.026
+00:03:04.942 --> 00:03:14.758
 This episode adapts chapter ten of Transportation Land Use Modeling and Policy by Qisheng Pan and Soheil Sharifi, published by Mavs Open Press under CC BY-NC-SA 4.0.
 
 34
-00:03:06.026 --> 00:03:10.336
+00:03:14.758 --> 00:03:19.220
 Source figures, curves, datasets, and other third-party items are excluded.
 
 35
-00:03:10.336 --> 00:03:14.417
+00:03:19.220 --> 00:03:23.444
 Torrance material is independently summarized from the cited City page.
 
 36
-00:03:14.417 --> 00:03:15.911
+00:03:23.444 --> 00:03:24.991
 No endorsement is implied.

@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 11,
   "explicit": false,
-  "duration_seconds": 209.293,
-  "enclosure_bytes": 2491012,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep11_Trip_Distribution.mp3",
+  "duration_seconds": 211.113,
+  "enclosure_bytes": 2521515,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep11_Trip_Distribution.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep11.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "83a607e6422ff4631e062ae0e70d53a98621afbc7727336c64e52c31d082b1a4",
-    "audio_sha256": "53d41eb20dcdf69a9225bed0a86cc1cfaf3d756929c562d8bfe46c9dc22f15f5"
+    "transcript_sha256": "19fea76200adb76ac7d2fdede16d237913bf0ff60697712d6c69451c57cab0c5",
+    "audio_sha256": "bb0619a0d6f5af4335f72dc5d26e6277f6d24142e578a61a5852eab982f9689a"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep11_Trip_Distribution.provenance.json",
-  "release_tag": "transportation-land-use-modeling-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "transportation-land-use-modeling-v2026.3",
+  "release_version": "2026.3"
 }

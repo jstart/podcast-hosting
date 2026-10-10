@@ -1,121 +1,121 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:05.563
+00:00:01.400 --> 00:00:06.892
 Travel demand modeling represents how activities produce movement through a transportation system.
 
 2
-00:00:05.563 --> 00:00:13.454
+00:00:06.892 --> 00:00:14.681
 The source chapter introduces the traditional four-step model, newer activity-based approaches, and the data needed to build and test them.
 
 3
-00:00:13.454 --> 00:00:15.896
+00:00:14.681 --> 00:00:17.090
 A model begins with geography and networks.
 
 4
-00:00:15.896 --> 00:00:20.210
+00:00:17.090 --> 00:00:21.349
 Traffic analysis zones summarize households, employment, and other activity.
 
 5
-00:00:20.210 --> 00:00:24.865
+00:00:21.349 --> 00:00:25.944
 Road and transit networks represent connections, travel times, costs, and service.
 
 6
-00:00:24.865 --> 00:00:32.813
+00:00:25.944 --> 00:00:33.789
 Surveys, counts, observed travel times, transit records, census data, land-use records, and passive data can inform behavior and validation.
 
 7
-00:00:32.813 --> 00:00:34.119
+00:00:33.789 --> 00:00:35.078
 Each source has limits.
 
 8
-00:00:34.119 --> 00:00:39.796
+00:00:35.078 --> 00:00:40.682
 A household survey can describe trip purpose but may miss rare travel and require expansion weights.
 
 9
-00:00:39.796 --> 00:00:46.211
+00:00:40.682 --> 00:00:47.014
 Device data can provide broad movement patterns while raising privacy, sampling, and representativeness concerns.
 
 10
-00:00:46.211 --> 00:00:49.787
+00:00:47.014 --> 00:00:50.544
 Counts observe a location, not the full origin and destination.
 
 11
-00:00:49.787 --> 00:00:52.796
+00:00:50.544 --> 00:00:53.514
 Combining sources does not automatically remove bias.
 
 12
-00:00:52.796 --> 00:00:57.848
+00:00:53.514 --> 00:00:58.501
 The four-step model estimates trip generation, distribution, mode choice, and assignment.
 
 13
-00:00:57.848 --> 00:01:02.560
+00:00:58.501 --> 00:01:03.152
 Activity-based models represent linked daily activities and household interactions.
 
 14
-00:01:02.560 --> 00:01:10.054
+00:01:03.152 --> 00:01:10.549
 Whichever framework is used, calibration adjusts parameters and validation compares outputs with observations not used to tune them.
 
 15
-00:01:10.054 --> 00:01:11.322
+00:01:10.549 --> 00:01:11.814
 Torrance application.
 
 16
-00:01:11.322 --> 00:01:17.359
+00:01:11.814 --> 00:01:17.837
 This separate example cites the City's Transportation Analysis Requirements for Private Development.
 
 17
-00:01:17.359 --> 00:01:24.664
+00:01:17.837 --> 00:01:25.124
 Torrance requires different analyses for environmental vehicle-miles-traveled questions and local circulation operations.
 
 18
-00:01:24.664 --> 00:01:27.562
+00:01:25.124 --> 00:01:28.015
 A data plan should follow the specific question.
 
 19
-00:01:27.562 --> 00:01:39.456
+00:01:28.015 --> 00:01:39.880
 For a hypothetical development study, the analyst would document land-use assumptions, study periods, counts, travel-time observations, transit service, trip adjustments, and regional model inputs.
 
 20
-00:01:39.456 --> 00:01:47.244
+00:01:39.880 --> 00:01:47.650
 The analyst should record dates because construction, seasonal conditions, remote work, or unusual events can distort a snapshot.
 
 21
-00:01:47.244 --> 00:01:52.315
+00:01:47.650 --> 00:01:52.709
 Privacy and representativeness matter if passively collected movement data are used.
 
 22
-00:01:52.315 --> 00:01:55.334
+00:01:52.709 --> 00:01:55.720
 Validation should examine more than total traffic.
 
 23
-00:01:55.334 --> 00:02:02.216
+00:01:55.720 --> 00:02:02.586
 It could compare screenlines, time periods, transit use, trip lengths, and observed speeds, while explaining gaps.
 
 24
-00:02:02.216 --> 00:02:07.348
+00:02:02.586 --> 00:02:07.706
 This episode does not state the current technical thresholds or complete study rules.
 
 25
-00:02:07.348 --> 00:02:10.306
+00:02:07.706 --> 00:02:10.657
 Those must be verified in the live City guidance.
 
 26
-00:02:10.306 --> 00:02:14.532
+00:02:10.657 --> 00:02:14.873
 It provides a model-data checklist, not an official Torrance analysis.
 
 27
-00:02:14.532 --> 00:02:23.649
+00:02:14.873 --> 00:02:23.968
 This episode adapts chapter nine of Transportation Land Use Modeling and Policy by Pan and Sharifi, published by Mavs Open Press under CC BY-NC-SA 4.0.
 
 28
-00:02:23.649 --> 00:02:27.694
+00:02:23.968 --> 00:02:28.003
 Source figures, datasets, and other third-party items are excluded.
 
 29
-00:02:27.694 --> 00:02:31.980
+00:02:28.003 --> 00:02:32.279
 Torrance material is independently summarized from the cited City page.
 
 30
-00:02:31.980 --> 00:02:33.550
+00:02:32.279 --> 00:02:33.845
 No endorsement is implied.

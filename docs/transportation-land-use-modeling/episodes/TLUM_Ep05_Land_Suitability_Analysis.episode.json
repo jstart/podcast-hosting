@@ -4,21 +4,21 @@
   "season": 1,
   "episode": 5,
   "explicit": false,
-  "duration_seconds": 164.159,
-  "enclosure_bytes": 1992486,
-  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep05_Land_Suitability_Analysis.mp3",
+  "duration_seconds": 164.039,
+  "enclosure_bytes": 1982395,
+  "enclosure_url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep05_Land_Suitability_Analysis.mp3",
   "transcript_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.vtt",
   "chapters_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.chapters.json",
   "artwork_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/artwork/ep05.jpg",
   "canonical_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.html",
   "support_url": null,
   "checksums": {
-    "transcript_sha256": "6b4cc48c39e79873499633ee79530fd6334b7aa875c6aa6719b55c4b8c1f449c",
-    "audio_sha256": "84ff9d28d95b93e23e3b1fa1b7970eb6ac94c87772fe17072eabae050847102d"
+    "transcript_sha256": "9559a4496924ba8d6e8b49e8e0e4d6b1d99e9df013ba226207ead9a410461113",
+    "audio_sha256": "bf870dd05a555dca025b845f9905837e5c7770b84795a591f1bb5c803b61f0cf"
   },
   "accessibility_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.accessibility.json",
   "notes_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.md",
   "provenance_url": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep05_Land_Suitability_Analysis.provenance.json",
-  "release_tag": "transportation-land-use-modeling-v2026.2",
-  "release_version": "2026.2"
+  "release_tag": "transportation-land-use-modeling-v2026.3",
+  "release_version": "2026.3"
 }

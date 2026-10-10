@@ -3,12 +3,12 @@
   "show": "transportation-land-use-modeling",
   "episode": 6,
   "title": "The Lowry Model",
-  "release_version": "2026.2",
-  "release_tag": "transportation-land-use-modeling-v2026.2",
+  "release_version": "2026.3",
+  "release_tag": "transportation-land-use-modeling-v2026.3",
   "enclosure": {
-    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.2/TLUM_Ep06_The_Lowry_Model.mp3",
-    "bytes": 1917597,
-    "sha256": "e37f76cb63bd30e499515eec9758505f4acea6ae690e492e464047872e26db72"
+    "url": "https://github.com/jstart/podcast-hosting/releases/download/transportation-land-use-modeling-v2026.3/TLUM_Ep06_The_Lowry_Model.mp3",
+    "bytes": 1887533,
+    "sha256": "e3c6ecc4eae9bf843dcd49fc69e3825df65440113bddcbe3e775c683a248af1f"
   },
   "pages": {
     "canonical": "https://jstart.github.io/podcast-hosting/transportation-land-use-modeling/episodes/TLUM_Ep06_The_Lowry_Model.html",
